@@ -1,0 +1,129 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+OPTIONS: author:nil date:nil
+
+#+title: Explore Catholicism
+#+export_file_name: index.html
+#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+startup: overview indent auto-fill-mode
+
+
+#+include: intro.org
+
+#+include: truth.org 
+
+#+include: solascriptura.org
+
+#+include: solafide.org
+
+#+include: mass_overview.org
+
+#+include: objections.org
+
+#+include: prolife.org
+
+#+include: resources.org
+
+* Code                                                             :noexport:
+
+#+begin_src bash
+  pwd
+  ls mass-overview.org
+#+end_src
+
+#+RESULTS:
+: /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+
+** Copy HTML and Images
+
+#+begin_src python :results output
+  import os, shutil
+  from pathlib import Path 
+
+  cwd = os.getcwd()
+
+  parent_dir = os.path.dirname( cwd )
+
+  print(os.getcwd())
+
+  print( parent_dir )
+
+  hostdir = Path(os.path.join( parent_dir, 'docs' ))
+  hostimg_dir = Path( os.path.join( hostdir, 'img' ) )
+
+  hostdir.mkdir( exist_ok=True, parents=True )
+  hostimg_dir.mkdir( exist_ok=True, parents=True )
+
+
+
+#+end_src
+
+#+RESULTS:
+: /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+: /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org
+
+#+begin_src zsh :results output
+  pwd
+  ls *.html
+  ls img*
+  ls ../docs/img
+
+  cp *.html ../docs/
+
+  cp img/* ../docs/img/
+#+end_src
+
+#+RESULTS:
+#+begin_example
+/Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+index.html
+mass_overview.html
+resources.html
+solafide.html
+solascriptura.html
+truth.html
+cathopic_1543206120766538-2.jpg
+holy-eucharist-992x480_jpg_1200x.webp.jpeg
+pill-choice.png
+red-pill.webp
+cathopic_1543206120766538-2.jpg
+holy-eucharist-992x480_jpg_1200x.webp.jpeg
+pill-choice.png
+red-pill.webp
+#+end_example
+
+** Copy images
+
+#+begin_src python :results output
+  import os
+
+  print(os.getcwd())
+
+  import os
+  import shutil
+
+  # Define the current img directory
+  current_img_dir = os.path.join(os.getcwd(), 'img')
+
+  # Define the destination img directory (in the parent directory)
+  parent_dir = os.path.dirname(os.getcwd())
+  destination_img_dir = os.path.join(parent_dir, 'img')
+
+  # Create destination directory if it doesn't exist
+  os.makedirs(destination_img_dir, exist_ok=True)
+
+  # List all files in the current img directory
+  for filename in os.listdir(current_img_dir):
+      # You can add more extensions if needed
+      if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.tiff', '.webp')):
+          src_path = os.path.join(current_img_dir, filename)
+          dst_path = os.path.join(destination_img_dir, filename)
+          shutil.copy2(src_path, dst_path)  # copy2 preserves metadata
+
+  print("Copying completed.")
+#+end_src
+
+#+RESULTS:
+: /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+: Copying completed.

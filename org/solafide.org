@@ -1,0 +1,692 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+
+* Saved by Faith Alone?
+
+** Introduction
+
+A dogma central to Luther's Protestant reformation is summarized by the phrase
+/sola fide/, which is translated "by faith alone." This encapsulates the idea
+that man is saved or /justified/ in God's sight by faith alone.
+
+Thus, it is important to ask the question: can man be saved by faith alone?
+
+If you wish, you may view a video I made on this very topic:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/GBypIA26vTs?si=BejzbpaN9AkIwvbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+My conditioning to believe in /sola fide/ was one of the major obstacles for me
+to embracing Catholicism, even though I was already persuaded that /sola
+scriptura/ was not defensible, and I favored the Orthodox teaching of the Real
+Presence of Christ in the Eucharist over the symbolist interpretation of some
+Protestant groups.
+
+** Evidence For /Sola Fide/
+Many proponents of /sola fide/ say that the Bible plainly states that man is
+saved by faith alone in Ephesians 2:8-10:
+#+begin_quote
+For by grace you have been saved through faith, and this is not your own doing;
+it is the gift of God— not the result of works, so that no one may boast
+([[https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-10&version=NRSVCE][Ephesians 2:8-10, NRSVCE]])
+#+end_quote
+This verse /excludes/ works as a means of salvation, leaving only grace and
+faith as causes of salvation. Thus, a /sola-fide/ adherent will reason, no works
+done by a human can earn their salvation, and only faith can save.
+
+Furthermore, additional verses support the exclusion of works as a means of
+salvation:
+1. [[https://www.biblegateway.com/passage/?search=Romans%203%3A20&version=NRSVCE][Romans 3:20 (NRSVCE)]]
+   #+begin_quote
+   For “no human being will be justified in his sight” by
+   deeds prescribed by the law, for through the law comes the knowledge of sin.
+   #+end_quote
+2. [[https://www.biblegateway.com/passage/?search=Romans%203%3A27&version=NRSVCE][Romans 3:27 (NRSVCE)]]
+   #+begin_quote
+   Then what becomes of boasting? It is excluded. By what law? By that of works?
+   No, but by the law of faith.
+   #+end_quote
+3. [[https://www.biblegateway.com/passage/?search=Galatians%202%3A16&version=NRSVCE][Galatians 2:16 (NRSVCE)]]
+   #+begin_quote
+   yet we know that a person is justified not by the works of the law but
+   through faith in Jesus Christ. And we have come to believe in Christ
+   Jesus, so that we might be justified by faith in Christ, and not by doing
+   the works of the law, because no one will be justified by the works of the
+   law.
+   #+end_quote
+4. [[https://www.biblegateway.com/passage/?search=Galatians%203%3A5&version=NRSVCE][Galatians 3:5 (NRSVCE)]]
+   #+begin_quote
+   Well then, does God supply you with the Spirit and work miracles among you by
+   your doing the works of the law, or by your believing what you heard?
+   #+end_quote
+5. [[https://www.biblegateway.com/passage/?search=Galatians%203%3A10%2D13&version=NRSVCE][Galatians 3:11-13 (NRSVCE)]]
+   #+begin_quote
+   For all who rely on the works of the law are under a curse; for it is
+   written, “Cursed is everyone who does not observe and obey all the things
+   written in the book of the law.” Now it is evident that no one is justified
+   before God by the law; for “The one who is righteous will live by faith.”[a]
+   12 But the law does not rest on faith; on the contrary, “Whoever does the
+   works of the law will live by them.” 
+   #+end_quote
+
+Because of verses such as these, proponents of /sola fide/ support the dogma
+that man is justified not by works, but rather by faith alone. Works are
+insufficient in this view to /justify/ humans--that is, to qualify us for
+salvation and an afterlife in the loving presence of God.
+
+#+begin_info
+*Eternal Security or the Perseverance of the Saints*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+/Sola Fide/ also leads to another dogma called *eternal security* or *the
+perseverance of the saints*. Eternal security follows from /sola fide/, for since
+one's works cannot contrubte to salvation, they cannot imperil one's
+salvation. However, even in the Protestant world, there is poor agreement about
+the perseverance of the saints: Calvinists and Baptitsts tend toward the
+perseverance of the saints, but numerous Evangelical denominations follow the
+Arminian tradition, which teaches that a Christian may lose his or her
+salvation. From this, we can deduce that there is no Scripture that 
+irrevocably establishes eternal security, or the debate would be laid to rest. 
+
+Furthermore, several passages of Scripture suggest that one can fall
+away from salvation. At the very least, these Scriptures should indicate that
+eternal security is not such a secure doctrine. Notable Scripture passages
+include: 
+1. [[https://www.biblegateway.com/passage/?search=Matthew%2013%3A1-23&version=NIV][Matthew 13:1-23 (RSVCE)]]: Here, Jesus gives the Parable of the Sower:
+   #+begin_quote
+   3 Then he told them many things in parables, saying: “A farmer went out to
+   sow his seed. 4 As he was scattering the seed, some fell along the path, and
+   the birds came and ate it up. 5 Some fell on rocky places, where it did not
+   have much soil. It sprang up quickly, because the soil was shallow. 6 But
+   when the sun came up, the plants were scorched, and they withered because
+   they had no root. 7 Other seed fell among thorns, which grew up and choked
+   the plants. 8 Still other seed fell on good soil, where it produced a crop—a
+   hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them
+   hear.”
+   #+end_quote
+   This left his audience, including his disciples puzzled. Later, He explained
+   it to His disciples:
+   #+begin_quote
+   18 “Listen then to what the parable of the sower means: 19 When anyone hears
+   the message about the kingdom and does not understand it, the evil one comes
+   and snatches away what was sown in their heart. This is the seed sown along
+   the path. 20 The seed falling on rocky ground refers to someone who hears the
+   word and at once receives it with joy. 21 But since they have no root, they
+   last only a short time. When trouble or persecution comes because of the
+   word, they quickly fall away. 22 The seed falling among the thorns refers to
+   someone who hears the word, but the worries of this life and the
+   deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed
+   falling on good soil refers to someone who hears the word and understands
+   it. This is the one who produces a crop, yielding a hundred, sixty or thirty
+   times what was sown.” 
+   #+end_quote
+
+   For clarity, we pair each class of seed with the type of human heart:
+   1. Seed along the path illustrates people who do not grasp the
+      message about the kingdom of God.
+      
+      /Parable text/:
+      #+begin_quote
+      4 As he was scattering the seed, some fell along the path, and
+      the birds came and ate it up.
+      #+end_quote
+      /Explanation/:
+      #+begin_quote
+      19 When anyone hears the message about the kingdom and does not understand
+      it, the evil one comes and snatches away what was sown in their
+      heart. This is the seed sown along the path.
+      #+end_quote
+   2. Seed in rocky places illustrates people who receive the message, but do
+      not persevere in it.
+      
+      /Parable text/:
+      #+begin_quote
+      5 Some fell on rocky places, where it did not have much soil. It sprang up
+      quickly, because the soil was shallow. 6 But when the sun came up, the
+      plants were scorched, and they withered because they had no root. 
+      #+end_quote
+      /Explanation/:
+      #+begin_quote
+      20 The seed falling on rocky ground refers to someone who hears the word
+      and at once receives it with joy. 21 But since they have no root, they
+      last only a short time. When trouble or persecution comes because of the
+      word, they quickly fall away. 
+      #+end_quote
+      This raises some interesting questions:
+      1. In the parable, "It sprang up quickly" is "someone who hears the word."
+         Did the person experience the life of Christ and then fall away? The
+         defender of eternal security would say they never were a believer in
+         the first place, but is that a sound interpretation? The defensor of
+         eternal security will say that it is sound, because it supports the
+         desired narrative and fits in with the interpretive lens of eternal
+         security. However, it appears that in contrast to the individual who
+         simply did not understand the message, this person actually did, and
+         this person bore evidence of the new life in Christ; and that this
+         person failed to persevere.
+      2. What does "fall away" mean? The eternal security ally would say that
+         such a person only looked like a genuine beleiver, but really wasn't in
+         the first place. But, how can one "fall away" if they were not first
+         connected to Christ in the first place?
+      The seed on rocky ground seems to represent individuals who fall away from
+      their salvation due to external pressures (trouble or persecution). For
+      simplicity, we may call this the /weak Christian/, since he cannot endure
+      the trouble or persecution.
+   3. Seed falling among thorns is paired with individuals who fail to persevere
+      due to a temporal, worldly perspective obscuring their perspective on
+      things eternal.
+      
+      /Parable text/:
+      #+begin_quote
+      7 Other seed fell among thorns, which grew up and choked the plants.
+      #+end_quote
+      /Explanation/:
+      #+begin_quote
+      22 The seed falling among the thorns refers to someone who hears the word,
+      but the worries of this life and the deceitfulness of wealth choke the
+      word, making it unfruitful.
+      #+end_quote
+      Like the weak Christian, this, worldly Christian exhibits the new life,
+      but fails to persevere. This new life is choked out (it could not be
+      choked out if it was not alive in the first place) because this new
+      believer is distracted from things eternal by things of the world.
+   4. Seed falling on good soil represents fruitful Christians.
+      
+      /Parable text/:
+      #+begin_quote
+      8 Still other seed fell on good soil, where it produced a crop—a hundred,
+      sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
+      #+end_quote
+      /Explanation/:
+      #+begin_quote
+      23 But the seed falling on good soil refers to someone who hears the word
+      and understands it. This is the one who produces a crop, yielding a
+      hundred, sixty or thirty times what was sown.”
+      #+end_quote
+      The defender of eternal security may suggest that since the fruitful
+      Christian is described as one who hears and understands the message, the
+      weak Christian (group 2) and the worldly Christian (group 3) did not
+      understand the message and were not truly Christian in the first
+      place. However, since Christ spoke of this seed germinating and groups 2
+      and 3 also hearing, they have more in common with the fruitful Christian
+      (group 4) than group 1 (those who did not understand). It is more likely
+      that groups 2 and 3 really were Christians, and they understood the
+      message, but not to the same extent that the Christians of group 4
+      did. The fruitful Christians understood that Christ is their very life,
+      and they held on to the end; but groups 2 and 3 did not fully grasp this,
+      and they were persuaed by difficult external circumstances or a misguided
+      heart that to abandon Christ would be better than to endure.
+
+   The defender of eternal security may interpret this to be a warning
+   against fruitlessness rather than an indication about the loss of one's
+   salvation. Nonetheless, this indicates an individual can fall away from
+   Christ.
+
+   The next passage raises the stakes and gives a firm warning against
+   fruitlessness, indicating dire consequences for fruitlessness because of a
+   failure to abide in Christ.
+
+2. [[https://www.biblegateway.com/passage/?search=John%2015%3A1-8&version=RSVCE][John 15:1-8 (RSVCE)]]:
+   #+begin_quote
+   15 “I am the true vine, and my Father is the vinedresser. 2 Every branch of
+   mine that bears no fruit, he takes away, and every branch that does bear
+   fruit he prunes, that it may bear more fruit. 3 You are already made clean by
+   the word which I have spoken to you. 4 *Abide in me, and I in you.* As the
+   branch cannot bear fruit by itself, unless it abides in the vine, neither can
+   you, unless you abide in me. 5 I am the vine, you are the branches. He who
+   abides in me, and I in him, he it is that bears much fruit, for apart from me
+   you can do nothing. 6 *If a man does not abide in me, he is cast forth as a
+   branch and withers; and the branches are gathered, thrown into the fire and
+   burned.* 7 If you abide in me, and my words abide in you, ask whatever you
+   will, and it shall be done for you. 8 By this my Father is glorified, that
+   you bear much fruit, and so prove to be my disciples.
+   #+end_quote
+   This passage is taken from St. John's narrative of the Last Supper, and
+   Jesus' disciples were present. These were His inner circle, the Twelve
+   Apostles. Jesus conditions the bearing of fruit with abiding in Him, and He
+   commands the Twelve to abide in Him. Several interesting questions arise
+   here:
+   1. Why would Jesus command the Twelve to abide in Him if it were impossible
+      for them to stop abiding in Him?
+   2. Why does Christ warn about /not abiding/ in Him if it were impossible to
+      stop abiding in Him?
+   3. Furthermore, why would Jesus warn about the consequences of not abiding in
+      Him if it were impossible to stop abiding in Him?
+   4. What are the consequences of failing to abide in Jesus?
+      1. What does it mean to wither away?
+      2. How can a branch wither if it is not first a healthy part of the vine?
+      3. What does it mean for a withered branch to be burned in fire?
+   
+3. [[https://www.biblegateway.com/passage/?search=Matthew%2024%3A3-13&version=RSVCE][Matthew 24:3-13 (RSVCE)]]
+   #+begin_quote
+   3 As he sat on the Mount of Olives, the disciples came to him privately,
+   saying, “Tell us, when will this be, and what will be the sign of your coming
+   and of the close of the age?” 4 And Jesus answered them, “*Take heed that no
+   one leads you astray*. 5 For  many will come in my name, saying, ‘I am the
+   Christ,’ and they will lead many astray. 6 And you will hear of wars and
+   rumors of wars; see that you are not  alarmed; for this must take place, but
+   the end is not yet. 7 For nation will rise against nation, and kingdom
+   against kingdom, and there will be famines and earthquakes in various places:
+   8 all this is but the beginning of the sufferings.
+   
+   9 “Then they will deliver you up to tribulation, and put you to death; and
+   you will be hated by all nations for my name’s sake. 10 And then *many will
+   fall away*, and betray one another, and hate one another. 11 And many false
+   prophets will arise and lead many astray. 12 And because wickedness is
+   multiplied, most men’s love will grow cold. 13 But *he who endures to the end 
+   will be saved*. 
+   #+end_quote
+
+   Some key questions arise here:
+   1. Why would Jesus have warned His disciples of being led astray if that were
+      not possible?
+   2. Why would Christ have been warning about _falling away_ if that were not
+      possible?
+   3. What does /falling away/ mean? How can one /fall away/ if they were never
+      joined to Christ in the first place?
+   4. Does verse 13 inicate that it is possible to fail to endure to the end?
+      This _does not_ say /he who is saved endures to the end/ (i.e., that
+      salvation determines endurace as in the Calvinist or Baptist
+      undrstanding), but rather that /endurace merits salvation/.
+
+4. [[https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&version=RSVCE][Hebrews 6:4-7 (RSVCE)]]. The writer describes individuals who have truly tasted
+  the heavenly gift and partaken of the Holy Spirit, and then fall away.
+  #+begin_quote
+  4 For it is impossible to restore again to repentance those _who have once
+  been enlightened_, who _have tasted the heavenly gift_, and *have become
+  partakers of the Holy Spirit*, 5 and have _tasted the goodness of the word of
+  God and the powers of the age to come_, 6 if they then commit apostasy, since
+  they crucify the Son of God on their own account and hold him up to
+  contempt. 7 For land which has drunk the rain that often falls upon it, and
+  brings forth vegetation useful to those for whose sake it is cultivated,
+  receives a blessing from God. 
+  #+end_quote
+  This is a very interesting and powerful verse, for it speaks of those cannot
+  be _restored_ *after* having become _partakers of the Holy Spirit_, having
+  _tasted of the goodness of God_ and having come to _know the powers of the
+  age to come_.
+
+  Proponents of eternal security would attempt to argue that these individuals
+  only /appeared/ to be saved, but it was the case that they were never saved
+  in the first place. Some have even suggested to me in dialog that these
+  people were not enlightened by the Holy Spirit, despite the fact that the
+  text says they were enlightened and partakers of the Holy Spirit before
+  needing an (impossible) restoration. It would be pointless to talk of
+  /restoration/ if the person had not initially been in a state of grace.
+
+  Some have responded to this verse by saying that it's complex, unclear, and can be
+  interpreted in many ways. This response is not adequate, because it does not
+  suggest an interpretation that supports eternal security, but only attempts
+  to obscure a verse that reads in a simple way to cast *significant doubt*
+  upon eternal security.
+   
+5. [[https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&version=RSVCE][1 Peter 1:10-11 (RSVCE)]]. Peter suggests that it is possible to fall away.
+   
+6. [[https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=NIV][Galatians 5:4 (RSVCE)]]. St. Paul says individuals may fall away from grace. It
+   is impossible to fall from grace if one were not first /in grace/.
+7. Philippians 3:7-14 (RSVCE). St. Paul speaks of _not already having attained_
+   his goal, and not already having become perfected. He wanrs us to keep
+   striving, like he does, to attain the _resurrection from the dead_:
+   #+begin_quote
+   7 But whatever gain I had, I counted as loss for the sake of Christ. 8 Indeed
+   I count everything as loss because of the surpassing worth of knowing Christ
+   Jesus my Lord. For his sake I have suffered the loss of all things, and count
+   them as refuse, in order that I may gain Christ 9 and be found in him, not
+   having a righteousness of my own, based on law, but that which is through
+   faith in Christ, the righteousness from God that depends on faith; 10 that I
+   may know him and the power of his resurrection, and may share his sufferings,
+   becoming like him in his death, 11 that if possible I may attain the
+   resurrection from the dead. 
+
+   12 Not that I have already obtained this or am already perfect; but I press on
+   to make it my own, because Christ Jesus has made me his own. 13 Brethren, I
+   do not consider that I have made it my own; but one thing I do, forgetting what
+   lies behind and straining forward to what lies ahead, 14 I press on toward the
+   goal for the prize of the upward call of God in Christ Jesus. 15 Let those of us
+   who are mature be thus minded; and if in anything you are otherwise minded, God
+   will reveal that also to you. 
+   #+end_quote
+8. [[https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&version=RSVCE][1 John 5:16-17 (RSVCE)]]. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
+   his brother committing what is not a mortal sin, he will ask, and God will
+   give him life for those whose sin is not mortal. There is sin which is
+   mortal; I do not say that one is to pray for that. 17 All wrongdoing is sin,
+   but there is sin which is not mortal." Protestant Bible translations tend to
+   render "mortal" as "sin leading to death". The important question is, what
+   does /mortal/ mean? It is helpful to notice that the context of this verse is
+   in a discussion where St. John equates eternal life with a relationship with
+   the Son of God (see [[https://www.biblegateway.com/passage/?search=1%20John%205%3A11-13&version=RSVCE][11-13]]): to possess the Son of God is to have eternal life
+   (see also [[https://www.biblegateway.com/passage/?search=John%2017%3A1-3&version=RSVCE][John 17:1-3]], where eternal life is equated with *knowing Jesus and
+   the Father Who sent Him*). What, then, is death? It the opposite of being in
+   relationship with and posessing the Son of God and having eternal life: it is
+   separation from the Son of God, and being bereft of eternal life. Thus,
+   commiting mortal sin is the tearing away of oneself from union with God, and
+   thus the loss of eternal life.
+
+   Thus, it is _not_ that life is given to us in an eternal (timeless) and
+   irrevocable manner; rather, eternity is a quality of the life that is given
+   to us, and this life is none other than Jesus. We still have the opportunity
+   to fail to abide in that life, and by our mortal sin to reject this life,
+   which is eternal. In other words, /eternal/ does not describe the way in
+   which the life is given; rather, it describes the life itself, which is
+   Jesus, Who is eternal. Nowhere in the Scriptures nor the tradition which gave
+   us the Scripture does it say that our relationship with Christ is unbreakable
+   by our own high-handed disobedience. Rather, we are left with a significant
+   corpus of Scripture and tradition that indicates that our relationship with
+   Christ can be lost through mortal sin or apostasy.
+
+Catholic Answers has an excellent article: [[https://www.catholic.com/tract/mortal-sin#][What the Early Church Believed:
+Mortal Sin]]. This provides important context, because in the case of the Didache,
+these authors wrote the Scriptures (in the case of the Didache), or played
+important roles in the establishing of the Canon of Scripture identified in the
+late 4th Century.
+
+Additional Scriptures that proponents of eternal security use as "proof texts"
+for this dogma include:
+1. [[https://www.biblegateway.com/passage/?search=John%2010%3A27-30&version=RSVCE][John 10:27-30 (RSVCE)]]. "27 My sheep hear my voice, and I know them, and they
+   follow me; 28 and I give them eternal life, and they shall never perish, and
+   no one shall snatch them out of my hand. 29 My Father, who has given them to
+   me, is greater than all, and no one is able to snatch them out of the
+   Father’s hand." Proponents of eternal security may argue that if one could
+   lose his salvation, then that life is not eternal. Or, they may point to the
+   statement that no one may be snatched from the saving hand of Christ or God
+   the Father.
+   
+   While this passage clearly teaches that a person's salvation cannot be
+   disrupted by a third party, it _does not_ clearly refute the idea that a
+   person could walk away from their own salvation, that is to willingly crawl
+   out of the saving hand of God. This possibility is left open.
+
+   Another interpretation is that the eternal life given is in fact not eternal
+   if it can be lost. We have already dealt with this point above, where we
+   discuss John's own understanding of eternal ife as relationship with Jesus,
+   for Jesus Himself is our life. /Eternal life/ does not necessarily mean that
+   life is given eternally, but that the life (Jesus) which is given to us is
+   eternal. Other Scriptures (discussed above) leave open the possibiltiy of
+   severing our relationship with Christ through mortal sin or failing to bear
+   fruit.
+
+2. [[https://www.biblegateway.com/passage/?search=Hebrews%2010%3A14&version=RSVCE][Hebrews 10:14 (RSVCE)]]. "14 For by a single offering he has perfected for all
+   time those who are sanctified."
+
+   Proponents of eternal security suggest that this past-tense language of
+   having perfected believing Christians once and for all, so that salvation is
+   a "one and done" deal. Yet, when read in context, this passage is not about
+   eternal security. Hebrews 10 compares the sacrifice of Christ to the animal
+   sacrifices of the old covenant. The animal sacrifices had to be repeated on a
+   yearly basis, and it could not actually absolve sins; Christ's sacrifice
+   occured only once, and it is done and efficacious for saving Christians.
+
+   Furthermore, St. Paul speaks of /not being perfected yet/ in Philippians 3:
+   #+begin_quote
+   8 Indeed I count everything as loss because of the surpassing worth of
+   knowing Christ Jesus my Lord. For his sake I have suffered the loss of all
+   things, and count them as refuse, in order that I may gain Christ 9 and be
+   found in him, not having a righteousness of my own, based on law, but that
+   which is through faith in Christ, the righteousness from God that depends on
+   faith; 10 that I may know him and the power of his resurrection, and may
+   share his sufferings, becoming like him in his death, 11 that /if possible I
+   may attain the resurrection from the dead/.
+
+   12 _Not that I have already obtained this or am already perfect_; but I press
+   on to make it my own, because Christ Jesus has made me his own. 13
+   Brethren, I do not consider that I have made it my own; but one thing I do,
+   forgetting what lies behind and straining forward to what lies ahead, 14 I
+   press on toward the goal for the prize of the upward call of God in Christ Jesus. 
+   #+end_quote
+   
+In summary, the challenges to eternal security are great. While some passages
+even suggest that salvation can be lost, no passage decisively says that a
+Christian cannot reject his salvation. Based on the lack of evidence for eternal
+security, it seems very difficult to defend the concept.
+
+At this point, as so many doctrinal discussions do, it comes down to
+interpretations. The Baptist/Calvinist interpretation is for eternal security;
+the Arminian interpretation is against eternal security. Under the dogma of
+/sola scriptura/, there is no resolution here, or it would have been resolved
+hundreds of years ago. Fortunately, Christ did not leave us with /sola
+scriptura/ and only the Scriptures to detetermine our doctrine infallibly; He
+gave us a Church, and instructed us to hand down the faith through Her teaching
+([[https://www.biblegateway.com/passage/?search=Matthew%2028%3A16-20&version=RSVCE][Matthew 28:16-20]]). This was the very Church that raised up disciples and martyrs, endured
+persecution, and after hundreds of years, identified the Scriptures as those
+writings which could be read in the liturgy. The Church has the testimony of the
+authors of scripture, as well as the testimony of those Christians to whom the
+Scriptures were written. Eternal security was not part of Christian teaching
+historically and only emerged within the context of the Protestant Reformation
+with the likes of John Calvin.
+
+#+html: </details>
+#+end_info
+
+
+#+begin_info
+*The Origin of the Protestant Doctrine of Eternal Security*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+The dogma of *eternal security*—the belief that a person who is truly saved
+cannot lose their salvation—did not exist as a formalized doctrine in the
+earliest centuries of Christianity. It developed over time, with its clearest
+articulation emerging during the *Protestant Reformation*, particularly in
+*Calvinist theology* in the 16th century.
+
+_Historical Development_:
+
+/Early Christianity (1st–5th centuries)/:
+- Early Church Fathers (e.g., Ignatius of Antioch, Origen, Tertullian,
+  Augustine) generally believed that salvation could be lost through serious sin
+  or apostasy.
+- The Christian life was seen as a process requiring perseverance; passages like
+  Hebrews 6:4–6 and Matthew 24:13 were interpreted to mean believers must remain
+  faithful to the end.
+/Medieval Period (5th–15th centuries)/:
+- The Western Church (later Roman Catholic) maintained that *grace can be
+  lost* through mortal sin, but restored through repentance and the sacraments
+  (especially confession).
+- No concept resembling "once saved, always saved" was part of official doctrine.
+
+/Protestant Reformation (16th century)/:
+- *Martin Luther* taught justification by faith alone, but did not emphasize
+  eternal security in the Calvinist sense.
+- *John Calvin* developed the doctrine of the *perseverance of the saints*—-a core
+  part of his theology (TULIP). He taught that those whom God elects will
+  inevitably persevere in faith and cannot fall away.
+  - This is the clearest root of the modern doctrine of *eternal security*.
+- *Other Reformers* (like the Anabaptists and later Arminians) rejected this and
+  emphasized the possibility of falling from grace. 
+
+/Post-Reformation and Evangelical Movements/:
+- *Arminianism* (developed by Jacobus Arminius, early 17th century) opposed
+  Calvinism and taught that believers could lose their salvation.
+- In the 18th–19th centuries, some evangelical groups (especially Baptists and
+  later dispensationalists) promoted *eternal security* as a central tenet. 
+- The *"once saved, always saved"* slogan is especially common in modern
+  evangelical and fundamentalist circles, particularly among Southern Baptists.
+
+/Summary/:
+- The *formal doctrine* of eternal security *arose during the Reformation* (16th
+  century) and is especially associated with *John Calvin*.
+- It was not held by the early Church or the medieval Church.
+- It remains a *point of disagreement* between different Christian traditions
+  (e.g., Calvinism vs. Arminianism, Protestantism vs. Catholicism/Orthodoxy). 
+#+html: </details>
+#+end_info
+
+Proponents of /sola fide/ also may make a distinction between justification and
+sanctification. Justification is a process by which a human is declared
+righteous and qualified for salvation, despite personal flaws and moral
+imperfection. Justification is believed by /sola-fide/-ists to be independent of
+works, but sanctification--the process of becoming holy and Christ-like--is not
+necessary for salvation.
+
+In view of the fact that salvation (justification) is by faith alone through
+grace alone, another belief is common among proponents of /sola fide/: that the
+Gospel (Good News of salvation) depends on faith, not works; and, anyone who
+trust in anything else for salvation apart from faith is condemned. This is
+directly supported by a verse from Paul the Apostle in the /Epistle to the
+Galatians/:
+#+begin_quote
+You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus
+Christ was publicly exhibited as crucified! 2 The only thing I want to learn
+from you is this: Did you receive the Spirit by doing the works of the law or by
+believing what you heard? 3 Are you so foolish? Having started with the Spirit,
+are you now ending with the flesh? 4 Did you experience so much for nothing?—if
+it really was for nothing. 5 Well then, does God supply you with the Spirit
+and work miracles among you by your doing the works of the law, or by your
+believing what you heard? 
+
+Just as Abraham “believed God, and it was reckoned to him as righteousness,” 
+so, you see, those who believe are the descendants of Abraham. And the
+scripture, foreseeing that God would justify the Gentiles by faith, declared the
+gospel beforehand to Abraham, saying, “All the Gentiles shall be blessed in
+you.” For this reason, those who believe are blessed with Abraham who
+believed. 
+
+For all who rely on the works of the law are under a curse; for it is
+written, “Cursed is everyone who does not observe and obey all the things
+written in the book of the law.” Now it is evident that no one is justified
+before God by the law; for “The one who is righteous will live by faith.”[b] 12
+But the law does not rest on faith; oMn the contrary, “Whoever does the works of
+the law will live by them.” Christ redeemed us from the curse of the law
+by becoming a curse for us—for it is written, “Cursed is everyone who hangs on a
+tree”— in order that in Christ Jesus the blessing of Abraham might come to
+the Gentiles, so that we might receive the promise of the Spirit through faith.
+
+[[https://www.biblegateway.com/passage/?search=Galatians%203%3A1-14&version=NRSVCE][Galatians 3:1-14 (NRSVCE)]]
+#+end_quote
+
+
+** Evidence Against /Sola Fide/
+The first and most importnat an important piece of evidence against /sola fide/
+is found in the body of Scripture itself:
+#+begin_quote
+You see that a person is *justified by works* and *not by faith alone*. [[https://www.biblegateway.com/passage/?search=James%202%3A24&version=NRSVCE][James 2:24
+(NRSVCE)]]
+#+end_quote
+Interestingly, this is the *only place* in /all of the Christian Scriptures/ where
+the "faith alone" is used, and it clearly states that salvation is *not* by
+faith alone, but rather, *works play a role in justification*.
+
+At its very best, /sola fide/ is not scriptural, but rather *antiscriptural*,
+that is, contrary to the Scriptures.
+
+The Gospel is *not* that man is saved by grace alone through faith alone.
+
+How can we balance James with the Scriptures mentioned above that indicate works
+do not save a person? The Catholic response is that the preponderance of the
+above works do not speak about _works in general_ as being ineffectual, but
+rather the *works of the law* are ineffectual. What are the works of the law?
+These are *circumcision, animal sacrifices, etc*. It is these works of the law
+that are inneffectual for salvation, but good works done in /charity/ are in fact
+meritorious for salvation.
+
+In fact, let us review the above passges and highlight the concept of the *works
+of the law* in them:
+1. [[https://www.biblegateway.com/passage/?search=Romans%203%3A20&version=NRSVCE][Romans 3:20 (NRSVCE)]]
+   #+begin_quote
+   For “no human being will be justified in his sight” by deeds prescribed by
+   the law, for through the law comes the knowledge of sin.
+   #+end_quote
+2. [[https://www.biblegateway.com/passage/?search=Romans%203%3A27&version=NRSVCE][Romans 3:27 (NRSVCE)]]
+   #+begin_quote
+   Then what becomes of boasting? It is excluded. By what law? By that of works?
+   No, but by the law of faith.
+   #+end_quote
+3. [[https://www.biblegateway.com/passage/?search=Galatians%202%3A16&version=NRSVCE][Galatians 2:16 (NRSVCE)]]
+   #+begin_quote
+   yet we know that a person is justified not by the _works of the law_ but
+   through faith in Jesus Christ. And we have come to believe in Christ
+   Jesus, so that we might be justified by faith in Christ, and not by doing
+   the works of the law, because no one will be justified by the _works of the
+   law_.
+   #+end_quote
+4. [[https://www.biblegateway.com/passage/?search=Galatians%203%3A5&version=NRSVCE][Galatians 3:5 (NRSVCE)]]
+   #+begin_quote
+   Well then, does God supply you with the Spirit and work miracles among you by
+   your doing the _works of the law_, or by your believing what you heard?
+   #+end_quote
+5. [[https://www.biblegateway.com/passage/?search=Galatians%203%3A10%2D13&version=NRSVCE][Galatians 3:11-13 (NRSVCE)]]
+   #+begin_quote
+   For all who rely on the _works of the law_ are under a curse; for it is
+   written, “Cursed is everyone who does not observe and obey all the things
+   written in the book of the _law_.” Now it is evident that no one is justified
+   before God by the _law_; for “The one who is righteous will live by faith.”[a]
+   12 But the _law_ does not rest on faith; on the contrary, “Whoever does the
+   _works of the law_ will live by them.” 
+   #+end_quote
+   
+Now, we can see the importance of works for salvation. We start with the words
+of Jesus, where he speaks of the judgement of the righteous unto eternal life,
+and the unrighteous to damnation, where righteousness is tied to a person's
+/works/: 
+#+begin_quote
+31 “When the Son of Man comes in his glory, and all the angels with him, he will
+sit on his glorious throne. 32 All the nations will be gathered before him, and
+he will separate the people one from another as a shepherd separates the sheep
+from the goats. 33 He will put the sheep on his right and the goats on his left. 
+
+34 “Then the King will say to those on his right, ‘Come, you who are blessed by
+my Father; take your inheritance, the kingdom prepared for you since the
+creation of the world. 35 For I was hungry and you gave me something to eat, I
+was thirsty and you gave me something to drink, I was a stranger and you invited
+me in, 36 I needed clothes and you clothed me, I was sick and you looked after
+me, I was in prison and you came to visit me.’ 
+
+37 “Then the righteous will answer him, ‘Lord, when did we see you hungry and
+feed you, or thirsty and give you something to drink? 38 When did we see you a
+stranger and invite you in, or needing clothes and clothe you? 39 When did we
+see you sick or in prison and go to visit you?’ 
+
+40 “The King will reply, ‘Truly I tell you, whatever you did for one of the
+least of these brothers and sisters of mine, you did for me.’ 
+
+41 “Then he will say to those on his left, ‘Depart from me, you who are cursed,
+into the eternal fire prepared for the devil and his angels. 42 For I was hungry
+and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,
+43 I was a stranger and you did not invite me in, I needed clothes and you did
+not clothe me, I was sick and in prison and you did not look after me.’ 
+
+44 “They also will answer, ‘Lord, when did we see you hungry or thirsty or a
+stranger or needing clothes or sick or in prison, and did not help you?’
+
+45 “He will reply, ‘Truly I tell you, whatever you did not do for one of the
+least of these, you did not do for me.’
+
+46 “Then they will go away to eternal punishment, but the righteous to eternal
+life."
+
+(Matthew 15:31-46 NIV)
+#+end_quote
+
+St. Paul also indicates that a person must work toward salvation:
+#+begin_quote
+"12 Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much
+more in my absence, work out your own salvation with fear and trembling; 13 for
+it is God who works in you both to will and to do for His good pleasure." 
+(Philippians 2:12-13 NIV).
+#+end_quote
+
+Additionally, John speaks of the judgment of all the dead:
+#+begin_quote
+11 Then I saw a great white throne and him who was seated on it. The earth and
+the heavens fled from his presence, and there was no place for them. 12 And I
+saw the dead, great and small, standing before the throne, and books were
+opened. Another book was opened, which is the book of life. The dead were judged
+according to what they had done as recorded in the books. 13 The sea gave up the
+dead that were in it, and death and Hades gave up the dead that were in them,
+and each person was judged according to what they had done. 14 Then death and
+Hades were thrown into the lake of fire. The lake of fire is the second
+death. 15 Anyone whose name was not found written in the book of life was thrown
+into the lake of fire. (Revelation 20:11-15, NIV)
+#+end_quote
+
+#+begin_info
+*Video: Trent Horn and Protestant Responses to James 2*
+
+#+html: <details>
+#+html: <summary>See the video ...</summary>
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/0LwEgFig00A?si=AtlvJnbWmn6-omVJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_info

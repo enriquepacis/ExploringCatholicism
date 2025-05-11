@@ -1,0 +1,419 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+* Code                                                             :noexport:
+#+begin_src bash
+  pwd
+  # ls mass_overview.org
+#+end_src
+
+#+RESULTS:
+: /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+
+
+* The Mass: an Overview
+
+** Introduction
+
+I cannot give a comprehensive overview of the Mass here, since many works have
+been written over two millenia about this. Instead, I will attempt to give my
+understanding of the Mass to provide an overview for beginners.
+
+** An Interpretive Lens: the Eucharist
+
+Understanding the Eucharist--that is, the elements of Communion--is perhaps the
+most important key to understanding the Catholic Mass and the Catholic
+worldview. Common among the apostolic Christians is that Jesus Christ is truly
+present in the elements of Communion, called the Eucharist in the Catholic
+Church. By /apostolic Christians/, we mean the Christian churches established
+throughout the centuries /prior/ to the Protestant Reformation, such as the
+Armenians, the Copts, the Greek Orthodox, the Russian Orthodox, etc.
+
+#+caption: Catholics and generally all ancient apostolic Christians sects founded prior to the Protestant Reformation accept the teaching that the Eucharist (the elements of Communion) truly are the flesh and blood of Christ. This teaching is derived from the teachings of Jesus ([[https://www.biblegateway.com/passage/?search=John%206%3A22-71&version=RSVCE][John 6:22-71 RSVCE]], the writings of St. Paul, the earliest believers--such as St. Ignatius of Antioch, a student of John the Evangelist ([[https://www.newadvent.org/fathers/0109.htm][Epistle to the Smyrnaeans]], ch. 6-7), and numerous [[https://www.churchfathers.org/the-real-presence][church fathers]]. Additionally, several Protestant founders such as [[https://www.detroitcatholic.com/voices/luther-s-defense-of-the-real-presence-in-the-eucharist][Martin Luther]], John Calvin, and others upheld the teaching of the Real Presence of Christ in the Eucharist.
+#+attr_html: :width 640px
+[[./img/holy-eucharist-992x480_jpg_1200x.webp.jpeg]]
+
+
+Tthe belief that Jesus Christ is truly present in the elements of the
+Eucharist. This concept also is referred to the /Real Presence/ of Christ in the
+Eucharist, and the specific version of the Real Presence taught by the Catholic
+church involves /transubstantiation/.
+
+Transubstantiation means that what looks like bread is God. At some point, it
+was made as bread. It has all the outward appearances (technically, called the
+/accidents/) of bread, and in its essence or /substance/, it is bread. However,
+at the words of consecration ("This is my body" or "This is the cup of my
+blood"), bread and wine are changed in substance from bread and wine to the very
+flesh and blood of God.
+
+For apostolic Christians, this means that being in the presence of the Eucharist
+is a very holy occasion, since it is the very presence of Jesus Christ, the
+living God. This makes such occasions every bit as holy as the encounter Moses
+had with the burning bush:
+#+begin_quote
+1 Now Moses was tending the flock of Jethro his father-in-law, the priest of
+Midian. And he led the flock to the back of the desert, and came to Horeb, the
+mountain of God. 2 And the Angel of the Lord appeared to him in a flame of fire
+from the midst of a bush. So he looked, and behold, the bush was burning with
+fire, but the bush was not consumed. 3 Then Moses said, “I will now turn aside
+and see this great sight, why the bush does not burn.” 
+
+4 So when the Lord saw that he turned aside to look, God called to him from the
+midst of the bush and said, “Moses, Moses!” 
+
+And he said, “Here I am.”
+
+5 Then He said, “Do not draw near this place. Take your sandals off your feet,
+for the place where you stand is holy ground.” 6 Moreover He said, “I am the God
+of your father—the God of Abraham, the God of Isaac, and the God of Jacob.” And
+Moses hid his face, for he was afraid to look upon God.
+
+[[https://www.biblegateway.com/passage/?search=Exodus%203%3A1-5&version=NKJV][Exodus 3:1-5 (NKJV)]]
+#+end_quote
+
+** The Mass as an Intimate Dance with God
+
+Because of the Real Presence of Jesus in the Eucharist, the Mass provides a real
+and intimate way for us to have contact with our Lord. I like to think of it as
+an intimate dance with the Divine, or perhaps as a call and response between a
+Divne lover, and me, His beloved.
+
+The Mass can be divided roughly into two parts: the liturgy of the Word, and the
+liturgy of the Eucharist. We can think of the liturgy of the Word as God's
+divine call to us, and the liturgy of the Eucharist as our human response to
+God's call.
+
+The liturgy of the Word  contains the introductory rites and readings of
+Scripture. It culminates with a reading from the Gospel, for which we stand in
+honor of Jesus, acknowledging His presence (non-Eucharistic) in the reading of
+the Gospels (the New Testament books of Matthew, Mark, Luke, and John). The 
+ligurgy of the Word then typically concludes 
+with a homily, in which the priest helps us connect the readings with our
+present lives and draws on how we may apply the Word of God personally
+today. Depending on the day of the week or the liturgical calendar, there may be
+a profession of the Nicene creed. This completes the divine call in the Liturgy
+of the Word.
+
+#+begin_info
+*The Word of God*
+
+The *word of God* is typically interpreted in two ways: (1) as either Scriptures
+(writings) or a spoken word, or (2) as Jesus Christ Himself.
+
+Christians consider the Scriptures to be the divinely-inspired Word of God in written form. Here, when
+you see /Word/, think /revelation/ of God. The fullest revelation of God is
+Jesus Christ, God in human form. See [[https://www.biblegateway.com/passage/?search=John%201%3A1-18&version=RSVCE][John 1:1-18]] and [[https://www.biblegateway.com/passage/?search=Hebrews%201%3A1-3&version=NIV][Hebrews 1:1-3]].
+
+Interestingly, Hebrews 4:12 is sometimes mistakenly interpreted as a reference
+to the Bible. A close reading of [[https://www.biblegateway.com/passage/?search=Hebrews%204%3A12-13&version=RSVCE][Hebrews 4:12-13]] reveals that Jesus is the subject
+here, not a collection of writings:
+#+begin_quote
+12 For the word of God is living and active, sharper than any two-edged sword,
+piercing to the division of soul and spirit, of joints and marrow, and
+discerning the thoughts and intentions of the heart. 13 And before him no
+creature is hidden, but all are open and laid bare to the eyes of him with whom
+we have to do. 
+#+end_quote
+In verse 12, the English "word" is λόγος (/logos/) in the Greek, and this is
+these same λόγος as in [[https://www.biblegateway.com/passage/?search=John%201%3A1&version=RSVCE][John 1:1]], which is none other than Jesus Christ, our
+Lord.  Additionally, verse 13 uses the pronoun /him/, referring back to the
+previous subject, the λόγος of God.
+#+end_info
+
+After the homily, we transition to the liturgy of the Eucharist. The climax of
+the liturgy of the Eucharist is when the priest consecrates the bread and wine,
+transforming it to the Body and Blood of Jesus Christ, followed by the personal
+reception of the Body and Blood by the Catholic faithful. When receiving the
+Eucharist, we are declaring with our actions that we believe in all the
+teachings of the Catholic Church, and we are offering ourselves to God, just as
+He offers Himself to us in the Eucharist. We highlight several
+parts of the liturgy of the Eucharist::
+1. It may begin with a period of /intercession/, where the church prays together
+   for various needs.
+2. Then, there will be an offering of the people (an offering collection plate
+   or basket is passed around), and the bread and wine that will become the Body
+   and Blood of Jesus at the /Consecration/.  The bread and wine also are
+   regarded as /gifts/ from the faithful
+3. The priest then prepares the gifts to serve as the offering. He says prayers
+   for himself and the people and the church.
+4. Finally, when the altar is prepared, the priest invites us to pray with him
+   for what will become a sacrifice of Christ's Body and Blood in Eucharistic
+   form to God. We stand and respond in prayer, finally concluding with "Holy,
+   Holy, Holy, is the Lord God almighty. Heaven and earth are full of Your
+   glory. Hosana in the highest. Hosana in the highest." Then, we kneel as the
+   priest undrtakes the holiest part of the Mass, the Consecration of the gifts.
+5. The Consecration begins with prayers by the priest. He shows the bread to the
+   faithful and recites teh words of Jesus, bowing. WHen says, "This is my
+   Body," we believe that the Holy Spirit works through the priest to
+   transubstantiate the bread: it is no longer bread, but God Himself, in His
+   fullness--Body, Blood, Soul, and Divinity. The consecration of the bread is
+   followed by the priest elevating the Body of Christ.
+
+   Similarly, the priest consecrates the wine with the words of Jesus, "... this
+   is the chalice of my blood ...", followed by an elevation.
+6. Next, we pray the Lord's prayer, inviting God to be Lord of our lives with
+   the words, "...Thy kingdom come, Thy will be done..."
+7. Following this, the Catholic faithful are invited to receive the Body and
+   Blood of Christ. This is the most intimate interaction we can have with God
+   in this present life, and far more intimate than any act of intimacy we can
+   perform with another human.
+
+   Non-Catholics and Catholics not properly prepared to receive the Eucharist
+   also may approach, but they should not receive. Catholics and 
+   non-Catholics alike can indicate their intention *not to receive* by crossing
+   their arms in front of their chest. The priest or Eucharistic minister will
+   then give a blessing. I recommend non-Catholics and unprepared Catholics
+   still approach the priest or Eucharistic minister, since this allows a better
+   flow of people. The faithful return to their pews and kneel reverently in
+   prayer of thanksgiving for the great and intimate gift of Christ's Body that
+   He himself gives us.
+8. The priest will then cleanse the sacred vessels, give closing prayers and a
+   blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."
+
+** The Mass as Two-fold a Sacrifice
+The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
+two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
+behalf of the Church. The other sacrifice is that of the lay faithful, who
+present their bodies to God as a living offering, in accordance with [[https://www.biblegateway.com/passage/?search=Romans%2012%3A1-2&version=NKJV][Romans
+12:1-2]].
+
+* The Eucharist
+The *Real Presence of Christ in the Eucharist*, often abbreviated to the /Real
+Presence/, is the teaching or belief that Jesus Christ is truly present in the
+elements of Communion. This is to be contrasted with a more symbolist view,
+which was first espoused by Ulrich Zwingli in the first Zurich disputation
+(January 1523). Today, many more evangelical Protestant denominations hold to
+the Zwinglian symbolist view. However, the Real Presence has been the view
+upheld by Church fathers since the writing of the Gospels, the early decades of
+the Church, and down through the centuries. It is so prevalent that all
+apostolic Christian churches--those churches established prior to the Protestant
+Reformation, such as the Armenians, the Copts, the Chaldeans, the Greek
+Orthodox, Ethiopean Orthodox, etc.--all uphold the Real Presence in a corporeal
+sense. Additionally, Martin Luther himself upheld the Real Presence in debate
+against Zwingli's symbolist position. John Calvin and John Wesley are other
+notable Protestant leaders and founders who believed in and taught a form of the
+Real Presence, though they espoused a more spiritual version of the Real
+Presence. Zwingli's symbolist view emerged as a significant unorthodox
+theological novelty after the Real Presence dominated Chistian thought and 
+teaching for the first 16 centuries of Christianity. In the symbolist view, the
+Real Presence is rejected, and communion is simply a rememberance of Christ's
+passion.
+
+#+begin_info
+*The Real Presence and Transubstantiation*
+
+#+html: <details>
+#+html: <summary>More information ...</summary>
+
+The Real Presence refers to the teaching that Christ is truly present in the
+elements of Communion of which we as Christians partake. The Catholic teaching
+is a /corporeal/ real presence, since the Catholic Church teaches that the
+Eucharist is Body and Blood of Jesus Christ. In particular, the Catholic
+teaching is called *transubstantiation*. This means that the /substance/ or
+/essence/ of the elements of communion--that is, what they _are_--has been
+changed from the substance of bread and wine to the substance of God Himself in
+the Second Person of the Trinity, Jesus Christ. The bread and wine are gone, and
+all that is present is Jesus Christ Himself, even though the Eucharist retains the
+/accidents/ of bread and wine. /Accidents/ are those properties that can be
+physically experienced, measured, or observed. Thus according to the doctrine of
+transubstantiation, we can never tell from appearances or even intense study
+that the Eucharist is anything other than Bread and Wine; however, because of
+the testimony of Jesus Christ Himself, we receive by faith that the Eucharist is
+actually Christ. Additionally, the Eucharist is not a part of Christ (not a
+finger or a piece of skin or a portion of liver); rather it is /all/ of Christ
+in a non-extensible way. By non-extensible, we mean that if we receive two
+Eucharistic hosts, we do not receive twice as much of Jesus.
+
+Within Christianity, a broad range of views pertaining to the Real Presence
+persist. Here is a brief listing of some various non-Catholic views:
+1. Eastern Orthodoxy. Eastern Orthodox churches share a similar belief in the
+   real presence of Christ in the Eucharist, but they do not use the term
+   "transubstantiation" and do not explicitly define the manner of the change. 
+2. Lutheranism. Lutherans believe in the consubstantiation, where Christ's body
+   and blood are present "in, with, and under" the bread and wine.
+3. Anglicanism. Anglicans have a wide range of views, from a spiritual presence
+   to a corporeal presence (similar to Catholicism), with some emphasizing the
+   real presence as a mystery.
+4. Reformed/Calvinistic Churches. Reformed Christians, including Presbyterian
+   and Reformed Baptist denominations, believe in a real, but spiritual presence
+   of Christ in the Eucharist.
+5. Methodism. Methodists generally hold a Reformed view, believing in a real,
+   spiritual presence of Christ in the Eucharist.
+6. Anabaptists, Plymouth Brethren, and some non-denominational Christian
+   churches. These groups tend to interpret the Eucharist as a symbolic
+   remembrance of Christ's sacrifice.
+
+#+html: </details>
+#+end_info
+
+
+** Scriptural Basis for the Real Presence
+Belief in the Real Presence comes from the teachings of Jesus Himself, with
+confirmation by St. Paul. Starting with Jesus, He teaches in [[https://www.biblegateway.com/passage/?search=John%206%3A22-69&version=ESV][John 6:22-69 (ESV)]]
+that He would give believers His flesh and blood to eat and drink. When this
+repulsed His audence, He admitted this was a hard saying. Jesus didn't say
+they misunderstood Him, nor did he indicate that He was being symbolic. In fact,
+many of His followers left Him over this. Jesus let them go and asked the Twelve
+Apostles if they, too, were going to leave Him.  He even used graphic Greek to say that His disciples should
+/chew on/ or /gnaw on/ His flesh. Later, at the Last Supper, this is what Jesus
+said to His disciples:
+#+begin_quote
+26 And as they were eating, Jesus took bread, blessed and broke it, and gave
+it to the disciples and said, “Take, eat; this is My body.” 
+
+27 Then He took the cup, and gave thanks, and gave it to them, saying, “Drink
+from it, all of you. 28 For this is My blood of the new covenant, which is
+shed for many for the remission of sins.
+
+(Matthew 26:26-28 NKJV)
+#+end_quote
+
+#+begin_info
+*Figurative, or Literal? Does it even matter?*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+Some protest that it's not clear whether Christ was being figurative or
+literal. It is common to suggest that where the Bible leaves room for
+interpretation, the doctrine in question doesn't matter, since it doesn't
+pertain to salvation.
+
+There are a few issues with this line of thinking.
+1. Christ does not appear to think this issue is insignificant. Jesus would be
+   rather uncaring if He allowed most of His disciples to leave Him over an
+   issue that didn't matter. He simply could have said, "Come on, guys. You
+   don't have to go. It doesn't really matter whether you think I was being
+   figurative or literal.  You're abandoning the very source of all life itself
+   over a small matter."
+2. There is no good mechanism for deciding which issues are central or essential
+   to the Christian faith if all you have is personal interpretations according
+   to /sola scriptura/. Some Christians think you have to be baptized to be
+   save, while others do not; some think drinking alcohol is a grave sin, and
+   others do not.
+
+Since Christ Himself appears to believe that it is important for His disciples
+to eat His flesh and drink His blood, it should be important to us to determine
+whether He is speaking figuratively or literally. Fortunately, /there is/ a way
+to do this.
+#+html: </details>
+#+end_info
+
+
+St. Paul's retelling of the Last Supper also says Jesus told His disciples to
+eat of His body:
+#+begin_quote
+23 For I received from the Lord that which I also delivered to you: that the
+Lord Jesus on the same night in which He was betrayed took bread; 24 and when He
+had given thanks, He broke it and said, “Take, eat; this is My body which is
+broken for you; do this in remembrance of Me.” 25 In the same manner He also
+took the cup after supper, saying, “This cup is the new covenant in My
+blood. This do, as often as you drink it, in remembrance of Me.” 
+
+26 For as often as you eat this bread and drink this cup, you proclaim the
+Lord’s death till He comes.
+
+(1 Corinthians 11:23-26 NKJV)
+#+end_quote
+
+#+begin_note
+*When Interpretations Conflict*
+
+#+html: <details>
+#+html: <summary>More information ...</summary>
+
+How can a matter be settled when interpretations conflict? A Catholic may read
+John 6 and say, "It is clear that this speaks fo the Real Presence in the
+Eucharist." On the other hand, a symbolist may say, "No, it isn't that
+clear. There is great reason to believe that Jesus is speaking figuratively."
+
+In this case, the dispute is a matter of conflicting interpretations. If
+Scripture alone is our ultimate infallible authority, as adherents to the /Sola
+Scriptura/ often assert, there is no resolution when two individuals have
+conflicting interpretations of the Scriptures. Each man is certain and correct,
+because that is what the Holy Spirit spoke to him through the Holy
+Scriptures. When interpretations are in direct contradiction, both cannot be
+true at the same time according to the logical principle of non-contradiction.
+
+Is there any force that can break the stalemate? If the two parties can suspend
+their belief in /Sola Scriptura/ momentarily, they may find that indeed, there
+are voices and authorities that can help arbitrate between interpretations: the
+early Church fathers! Their voices are particularly important because in many
+cases, they lived and wrote within living memory of Christ and His
+Apostles. Some of them were pupils of the Apostles and Gospel-writers
+themselves. Surely they can help us understand, for example, whether St. John
+was capturing Christ's Bread of Life Discourse (John 6) as a literal teaching or
+as a more figurative parable.
+
+An examplar of this is St. Ignatius of Antioch. He was a pupil of St. John, and
+his writings reflect a position well within one camp of the Real-vs-Symbolist
+debate to the exclusion of the other. Who better to help us understand whether
+St. John intended for us to take Christ's teaching figuratively or literally?
+St. Ignatius' testimony is discussed in the next section.
+
+#+html: </details>
+#+end_note
+
+** Testimony of the Church Fathers
+
+#+attr_html: :width 300px
+#+caption: Ignatius of Antioch is an important voice who helps us understand St. John's intent in writing John 6. Ignatius was a student of John himself. His view can clarify for us whether John meant for us to take John 6 in a literal way or a figurative way. Credit: [[https://www.orthodoxroad.com/voices-from-the-past/st-ignatius-of-antioch/][orthodoxroad.com]]
+[[https://www.orthodoxroad.com/wp-content/uploads/2013/12/Ignatius-of-Antioch.jpg]]
+
+The doctrine of the Real Presence also comes with some important historical
+evidence. Since John the Evangelist wrote John 6, one of John's students,
+Ignatius of Antioch writes clearly about his interpretation of John's work: he
+interpret's his teacher's writing in John 6 to be /literal/, not merely
+symbolic. Here is what Ignatius writes about the Real Presence:
+#+begin_quote
+But consider those who are of a different opinion with respect to the grace of
+Christ which has come unto us, how opposed they are to the will of God. They
+have no regard for love; no care for the widow, or the orphan, or the oppressed;
+of the bond, or of the free; of the hungry, or of the thirsty.
+
+They abstain from the Eucharist and from prayer, because they confess not the
+Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our
+sins, and which the Father, of His goodness, raised up again. Those, therefore,
+who speak against this gift of God, incur death in the midst of their disputes.
+
+(Ignatius of Antioch, [[https://www.newadvent.org/fathers/0109.htm][Epistle to the Smyrneans]], Chapters 6-7, 106 AD ([[https://www.newadvent.org/fathers/0109.htm][link]])
+#+end_quote
+Ignatius' view aligns with a literal understanding of the Bread of Life
+Discourse. It is natural to conclude that his view aligns with a literal reading
+of his mentor's Gospel because that is the view his mentor taught him to
+take. Notably, the epistle quoted above was written within 10 years of the death
+of his teacher, and within a few decades of the time when St. John wrote the
+/Revelation/.
+
+Another important early source is by Justin Martyr ([[https://www.newadvent.org/fathers/0126.htm][First Apology]], chapter
+66). Justin writes of the Eucharist:
+#+begin_quote
+And this food is called among us Εὐχαριστία [the Eucharist], of which no one is
+allowed to partake but the man who believes that the things which we teach are
+true, and who has been washed with the washing that is for the remission of
+sins, and unto regeneration, and who is so living as Christ has enjoined. For
+*not as common bread and common drink* do we receive these; but in like manner as
+Jesus Christ our Saviour, having been made flesh by the Word of God, had both
+flesh and blood for our salvation, so likewise have we been taught that the food
+which is blessed by the prayer of His word, and from which our blood and flesh
+by transmutation are nourished, *is the flesh and blood of that Jesus* who was
+made flesh.
+#+end_quote
+
+** TODO The Protestant Reformers and the Real Presence
+
+
+
+** Links
+
+1. In April 2025, Cliff and Stuart Knechtle had a discussion on the early Church
+   Fathers and an Ethiopean Orthodox Christian (Deacon Mihret Melaku) at Harvard
+   about the Real Presence of Christ in the Eucharist.
+   #+begin_export html
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/htZcvlfX7-U?si=Wl_S3muXwS4pjWHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   #+end_export
+2. Holy Thursday with Fr. Benedict Groeschel ([[https://soundcloud.com/ewtn-radio/holy-thursday-fr-benedict-groeschel][soundcloud.com]]). Fr. Groeschel
+   discusses Holy Thursday before Easter, as well as the doctrine of the Real
+   Presence of Christ in the Eucharist, as well as Einstein's interest in this
+   doctrine.

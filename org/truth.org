@@ -1,0 +1,78 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+
+* Truth
+It is helpful to begin with the concept of *truth*, because if there is no truth, then
+there is no point in discussion. We show first that *there must be truth*;
+and second, that *truth is absolute*. Along the way, we pick up an important
+tool, *the principle of non-contradiction*, which we can use to demonstrate that
+some ideas (or propositions) are invalid and must be rejected.
+** There _must_ be Truth
+
+An important starting point is truth. Truth must exist, and it must be
+absolute. If not, then why do we even spend time talking, discussing, and
+debating? Why not allow everyone to go off on their own and manifest his or her
+own reality as he or she sees fit? Clearly this is absurd.
+
+We can more rigorously conclude that /there must be truth/ if we start with the
+another antithetical proposition, which we call *proposition A*:
+#+begin_info
+*Proposition A* \\
+There is no truth.
+#+end_info
+The problem with proposition *A* arises when we ask, "Is *A* true?" If the
+response is *yes*, then a truth exists, and *A* becomes false. This is a
+contradiction, and it cannot possibly be valid according to the rules of logic,
+namely the principle of non-contradiction.
+
+*** The Principle of Non-contradiction
+The principle of non-contradiction is a law of logic:
+#+begin_info
+*The Principle of Non-Contradiction* \\
+A proposition cannot be both true and false at the same time in the same respect.
+#+end_info
+
+This is foundational to logical reasoning and coherent thought.
+
+The principle--sometimes called a *law*--of non-contradiction tells us that
+/there is no truth/ is invalid, and it must be rejected. If we reject /there is
+no truth/, then we are left with the principle that *there _must_ be truth*.
+
+This is comforting when we remember Jesus Christ claimed to be the Way, the Truth, and
+the Light. The truth is something foundational and concrete.
+
+
+** Truth is Absolute
+
+Let's try another statement, *proposition B*: /there is no absolute truth/. We can explore the
+validity of *B* in much the same way as we did for *A*. We can ask if *B* is
+absolutely true. If it is true--as so many who would invoke proposition *B* would
+like us to believe--, then *B* has negated itself, again becoming absurd and
+invalid. Now, not only can we conclude that *there must be truth*, but also that
+*truth is absolute*.
+
+** Conclusion
+
+In addition to having shown that there must be truth and truth must be absolute,
+we also have acquired the principle of non-contradiction. This is very
+important, because it allows us to identify and reject ideas which are invalid
+based on contradictions within the ideas themselves. I believe this is also a
+tool for theology: something cannot be both true and false at the same time in
+the realm of faith. Such a theological proposition would contradict itself, and
+it would be invalid.
+
+** Additional Resources
+
+*** More Information on the Principle of Non-Contradiction
+
+For more information on this topic, you may wish to watch or listen to the following:
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLl7TRF_l2w?si=LcYPcWhI_7TFe1u_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+#+begin_export html
+<iframe style="border-radius:12px" width="560" src="https://open.spotify.com/embed/episode/23kgVmvxZWK46CutGq3w5K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#+end_export

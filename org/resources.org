@@ -1,0 +1,140 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+* Resources
+
+Want to learn more?
+
+Free your mind and come along!
+
+#+attr_html: :width 640px
+#+caption: "You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes."
+[[./img/pill-choice.png]]
+
+#+begin_comment
+[[./img/red-pill.webp]]
+#+end_comment
+
+** How to Go Deeper
+
+If you feel God's prompting to explore Catholicism, or if you simply want to
+learn more, you have several options.
+1. Adults may enroll in the Order of Christian Initiation for Adults
+   (OCIA). Typically free of charge, this entails several months of classroom
+   instruction and, if you wish, it will culminate in the three sacraments of
+   Christian initiation: baptism, confirmation, and the Holy Eucharist. This is
+   focused on orienting an individual toward a lifelong journey of discipleship
+   and service to Christ.
+
+   Typically, OCIA courses commence in the fall (around August or September) and
+   conclude with batpisms, confirmations, and first communion around Easter.
+
+   Local to the Waco area are offerings by several Catholic parishes or centers:
+   1. [[https://baylorcatholic.org][St. Peter's Catholic Student Center]] at the edge of Baylor's campus caters
+      heavily to Baylor's students. Faculty, staff, and friends of the
+      university also participate at St. Peter's. The OCIA courses at
+      St. Peter's are called the [[https://baylorcatholic.org/catholicism-1][Basic Teachings]], and typically take place on Monday
+      nights. 
+   2. [[https://stlouiswaco.com][St. Louis Catholic Church]] is a family-friendly parish that also runs the
+      only Catholic school in Waco. St. Louis is a thriving parish, with over
+      1000 families represented. In 2024, St. Louis grew from about 1300
+      families to over 1900 families. You may [[https://stlouiswaco.com/rcia][sign up]] for the St. Louis OCIA
+      program.
+   3. [[https://stjosephwaco.com][St. Joseph Catholic Church]] is located close to the Baylor Campus. Less
+      student-centric and more family-oriented, St. Jospeh also offers [[https://stjosephwaco.com/ocia][OCIA]].
+
+   There are also several other parishes in the Waco area that offer OCIA.
+
+2. If you are so excited and so moved that you don't want to wait for OCIA
+   (you'll eventually have to take it, unless you are exceptionally prepared; an
+   interview with a priest may reveal that you are ready to be initiated right
+   away).
+
+   You can begin learning on your own. Fr. John Riccardo is a great catechist
+   and evangelist, and this [[https://www.youtube.com/playlist?list=PL2oBIjKcCFUI03M67Wk14mfqN4fTFVfkE][YouTube playlist]] has a full set of OCIA courses for
+   his parish. /Note: when these videos were created, OCIA was called the Rite
+   of Christian Initiation for Adults (RCIA)/.
+
+      
+** What is Stopping You from Becoming Catholic? (Called to Communion)
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=UHBUulMLByPVEyVs&amp;list=PL9CQlldupc5-V0O8pdxElKJMjJmC7Hfdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[[https://www.ewtn.com/radio/shows/called-to-communion][Called to Communion]] is an hour-long live call-in radio show with a [[https://youtube.com/playlist?list=PL9CQlldupc5-V0O8pdxElKJMjJmC7Hfdc&si=UHBUulMLByPVEyVs][YouTube
+livestream]]. Here, Dr. David Anders, a Presbyterian-turned-Catholic, answers
+hard-hitting questions, especially those from Protestants. The show airs at 1:00
+PM Central Time on weekdays. The show tagline is, "What is stopping you from
+becoming Catholic?" Dr. Anders was a student and friend to the late
+Dr. R.C. Sproul. Dr. Anders has a very broad and very deep knowledge of the
+Protestant Reformation and the early Church Fathers.
+
+Here's another fun excerpt of a show. Here, Giovanni, a transgender individual
+gives a testimonial about how is faith was bolstered by a talk with Dr. Anders.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/o5tlsmFo0ho?si=CrH0ULIaAvFxRCDQ&amp;start=2624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+** Catholic Radio
+
+Catholic (talk) radio offers very interesting and engaging content.
+
+*** RED-C Catholic Radio
+
+RED-C Catholic Radio ([[https://redcradio.org][website]]) is local to Waco, TX. They provide engaging
+call-in shows centered on the faith and modern culture.
+
+Listening options:
+1. Tune in on 98.3 FM in the Waco area.
+2. [[https://redcradio.org/kyar][Stream online]]
+3. Get the [[https://redcradio.org/app][RED-C app]] from the Apple [[https://apps.apple.com/us/app/red-c/id1286896131][AppStore]] or get it on [[https://play.google.com/store/apps/details?id=com.nobexinc.wls_9793065292.rc&hl=en_US][Google Play]]
+   
+*** EWTN Radio and TV
+EWTN offers solid Catholic teaching. You can [[https://www.ewtn.com/radio/listen-live][listen live]] or through their app
+([[https://apps.apple.com/us/app/ewtn/id569376490][Apple AppStore]] or [[https://play.google.com/store/apps/details?id=com.ewtn.truthandlife&hl=en_US][Google Play]]). EWTN was founded by a spitfire of a nun,
+Mother Angelica, one of my personal heroes. A remarkable woman, she passed away
+in 2015.
+
+*** Relevant Radio
+
+[[https://relevantradio.com][Relevant Radio]] is a another great radio station. You can [[https://relevantradio.com/listen/stream-relevant-radio][listen live]] or stream
+audio through the [[https://relevantradio.com/listen/get-the-app/][app]].
+
+** Catholic Answers
+
+[[https://www.catholic.com][Catholic Answers]] is an apologetics website. They have a two-hour, phone-in
+conversation each weekday called /Catholic Answers Live/ ([[https://www.youtube.com/@CA-Live][YouTube]]), and they
+field live phone calls on a broad range of topics. The host, Cy Kellet, takes
+phone calls, and various apologists and speakers answer according to their
+expertise. You can see the [[https://www.catholic.com/audio/cal][radio show schedule]], complete with a list of topics
+and guests, so you can call in on a particular day.
+
+Recurring guests include several apologists, including
+Protestants-turned-Catholic, such as Tim Staples (former Assemblies of God
+minister) and Jimmy Akin. Others include Dr. Karlo Broussard and Trent Horn.
+
+Here is a sample episode by Dr. Karlo Broussard, entitled /What Catholic Doctrine
+Troubles You Most?/
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/lnYNW34iuJk?si=uKV1c9ANRjLFZpTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+** The Coming Home Network
+
+The [[https://chnetwork.org/converts/][Coming Home Network]] was established to help non-Catholic Christians, clergy
+and laity, discover the truth and beauty of Catholicism and to make the journey
+home to the Catholic Church. This site has numerous [[https://chnetwork.org/converts/][conversion stories]] ([[https://chnetwork.org/category/all-stories/][full
+archive)]] of people from various backgrounds who converted to Catholicisim. A
+number of Evangelical Protestants, pastors, Hindus, Jews, Muslims, and more.
+
+** The Patrick Madrid Show
+
+[[https://relevantradio.com/listen/our-shows/the-patrick-madrid-show/][The Patrick Madrid Show]] is an excellent live, call-in radio show, in which
+Patrick Madrid takes phone calls about modern culture and Catholicism. Patrick
+is one of the earliest Catholic apologists. This excellent radio-only show runs
+from 8:00 AM Central to 11:00 AM Central. Dialog is lively and witty.
+
+** The Catholicism Series (Bishop Robert Barron)
+
+[[https://catholicismseries.com/watch][Catholicism]] is a beautiful introduction to Christianity and Catholicism by
+Bishop Rober Barron. You can stream it for free! There also is a YouTube
+[[https://www.youtube.com/watch?v=Jw2x3ep0ttw&list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY][playlist]].

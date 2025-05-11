@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+* Pro-Life
+
+Catholics are pro-life because God is pro-life. Divine revelation tells us that
+the /imago dei/ (image of God) is stamped on every human being. This means that
+each person has infinite dignity. Furthermore, we believe that the shedding of
+innocent blood is /always/ wrong. There is no more innocent person than a baby,
+especially a baby in the womb who has not done any wrong. Therefore, babies in
+the womb are the most innocent among us, and they are the most vulnerable. To
+kill these defenseless people is always wrong.
+
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/RMjJBrN1Rlw?si=sq5uzniIoBcgb-qN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+This video interview features Jennifer Christie is a rape survivor who chose
+life for her son.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/5d6KCx2qSFw?si=MrMjN6uwD-rwf4g_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

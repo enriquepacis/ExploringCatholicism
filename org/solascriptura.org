@@ -1,0 +1,457 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+* /Sola Scriptura/
+
+** Authority: Bible, Church, or Both?
+
+I was quite happy to be an Evangelical Christian, and I certainly believed that
+the Bible was the only infallible authority I needed. After all, it was through
+the Scriptures prayer, and the testimony of a friend that I had my first
+powerful encounter with God. What more did I need?
+
+My travels had me in different Christian denominations. My start was in the
+Assemblies of God, where I learned the basics of Who God is, and of His great
+love for us. Then, I transitioned to Calvary Chapel, where I heard amazing
+expository teaching with beautiful application of both Old Testament and New
+Testament scriptures. In my military time and during engineering graduate
+school, I also tried an Evangelical Presbyterian church, a few non-denominationa
+churches, a Southern Baptist Church, a Missionary Church, and an Evangelical
+Free church.
+
+At a Presbyterian church, I remember sitting in a Sunday school class, in which
+a young woman asked the pastor, "Pastor, I have a question I don't know how to
+handle. It came from a Catholic friend, who asked, 'If the Catholic Church gave
+us the Bible, why shouldn't the Catholic Church be able to interpret the
+Bible?'"
+
+I do not recall the pastor's example. It was not nearly as memorable or as
+cogent as the young woman's question. I let the question go, and I didn't think
+about it for about 4-5 years.
+
+As time went on, I thought about this on occasion. I remember concluding to
+myself that the ability to define Scriptures is greater than the ability to
+interpret it. For example, if you don't like an undeniable interpretation of a
+certain passage, why cannonize it as Scripture in the first place?
+
+Later, I learned that the process by which the Bible developed. It is not as
+clear-cut as many would like it to be. This process highlights the need for an
+additional authority aside from the Bible to even have a Bible. Since the Bible
+doesn't define itself, to recognize a certain set of scriptures as /the Bible/
+requrires an additional authority. Additionally, from Christian antiquity to the
+modern age, different Christian traditions follow different set of books as
+their sacred scriptures: there is no uniform agreement about what is the
+Bible. Any Christian who says "I have the true, infallible Bible in my hand, and
+the others are incorrect," must explain how they know this is the correct Bible,
+and how they are infallibly sure. They will no doubt fall back on some authority
+that says this is the correct Bible, not that one. Furthermore, if that
+authority has infallibly identified the correct Bible, then we have an
+infallible authority /apart from/ the Bible. Thus, the Bible cannot be the only
+infallible authority for Christians.
+
+** The Canon of Scripture and the Necessity of Authority
+
+*** Introduction
+
+The doctrine of /sola scriptura/ is often understood as the belief that the
+Bible is the only infallible authority for Christian faith and
+practice. However, this position faces a significant challenge: in order to know
+what constitutes the Bible, an external authority is required to delineate the
+contents of Scripture. The Bible itself does not provide its own table of
+contents. This means that, before one can appeal to the Bible as the sole
+infallible authority, one must first rely on an authority to define what "the
+Bible" actually is. 
+
+*** The Role of Authority in Defining Scripture: A Challenge to Sola Scriptura
+
+The doctrine of /sola scriptura/ is often understood as the belief that the
+Bible is the only infallible authority for Christian faith and
+practice. However, this position is problematic because it presumes that the
+Bible is self-defining—yet, the Bible does not contain its own *table of
+contents*. Instead, the contents of Scripture were determined by an external
+authority. The historical development of the Christian canon demonstrates that
+the Church played a necessary and authoritative role in recognizing and defining
+Scripture.
+
+If we require another infallible authority to know what Scriptures are included
+in the Bible, then the Bible cannot be the sole infallible authority for
+Christian life and worship.
+
+**** The Development of the Christian Scriptures
+
+The Bible as we know it today did not appear as a single, bound volume in the
+early Church. Instead, the books of both the **Old Testament** and **New
+Testament** were compiled over time, with different traditions preserving
+different sets of books. The process of recognizing and defining Scripture was a
+**complex, authoritative decision** rather than an automatic or universally
+agreed-upon process. 
+
+- The **Old Testament** consists of writings compiled over centuries, with
+  different groups accepting different books. 
+- The **New Testament** was written in the first century, but disputes over
+  which books were authoritative continued for centuries. 
+- Church councils (such as **Rome AD 382, Hippo AD 393, Carthage AD 397**)
+  played a key role in affirming the New Testament canon. 
+- The Protestant Reformation in the 16th century led to a rejection of certain
+  Old Testament books previously accepted by Christians. 
+
+The very fact that **Christians today accept different canons** highlights the need for an external authority to determine which books belong in Scripture.
+
+**** Different Canons in Use Today
+
+Various Christian traditions use different versions of the Bible. The table
+below illustrates these differences: 
+
+#+BEGIN_TABLE
+| Tradition          | Old Testament Canon                                                                     | New Testament | Canon Established                                                |
+|--------------------+-----------------------------------------------------------------------------------------+---------------+------------------------------------------------------------------|
+| Jewish (Tanakh)    | 24 books (same content as Protestant 39 books)                                          | N/A           | c. 3rd–2nd century BC (Torah, Prophets), c. AD 90–200 (Writings) |
+| Protestant         | 39 books (Masoretic Text), excludes Deuterocanonicals                                   | 27 books      | 16th century (Reformation)                                       |
+| Catholic           | 46 books (Septuagint tradition, including Deuterocanonicals)                            | 27 books      | c. AD 382 (Council of Rome, reaffirmed in later councils)        |
+| Greek Orthodox     | 49 books (Septuagint, including additional books like 1 Esdras, Psalm 151, 3 Maccabees) | 27 books      | c. AD 692 (Quinisext Council, based on earlier traditions)       |
+| Russian Orthodox   | 50 books (Greek Orthodox canon + 2 Esdras in some traditions)                           | 27 books      | c. AD 692 (Quinisext Council, later Russian tradition)           |
+| Ethiopian Orthodox | 81 books (Septuagint + Enoch, Jubilees, Meqabyan, others)                               | 27 books      | c. 4th century AD (Aksumite Church tradition)                    |
+#+END_TABLE
+
+As this table shows, different Christian traditions have differing **Old
+Testament canons**. If *sola scriptura* were true, how would a believer
+determine which canon to follow without **appealing to an external authority**? 
+
+**** The Deuterocanonical Books and the Authority of the Church
+
+The **Deuterocanonical books** serve as a key example of this issue. These books
+were part of the **Septuagint (LXX)**, the Greek Old Testament widely used by
+early Christians, but they were later rejected by Protestant Reformers. They are
+accepted as Scripture by Catholics and Orthodox Christians, but not by most
+Protestants. 
+
+Here is a list of these books:
+
+#+BEGIN_TABLE
+| Book                      | Included in        | Notes                                                                           |
+|---------------------------+--------------------+---------------------------------------------------------------------------------|
+| *Tobit*                   | Catholic, Orthodox | Narrative about piety and divine intervention                                   |
+| *Judith*                  | Catholic, Orthodox | Story of a Jewish heroine defeating an enemy general                            |
+| *Wisdom (of Solomon)*     | Catholic, Orthodox | Philosophical and theological reflections on wisdom                             |
+| *Sirach (Ecclesiasticus)* | Catholic, Orthodox | Wisdom literature, similar to Proverbs                                          |
+| *Baruch*                  | Catholic, Orthodox | Includes a letter attributed to Jeremiah                                        |
+| *1 Maccabees*             | Catholic, Orthodox | History of the Jewish revolt against Hellenistic rulers                         |
+| *2 Maccabees*             | Catholic, Orthodox | Theological and historical account of Jewish martyrdom and resurrection beliefs |
+| *Additions to Daniel*     | Catholic, Orthodox | Includes *The Prayer of Azariah*, *Susanna*, and *Bel and the Dragon*           |
+| *Additions to Esther*     | Catholic, Orthodox | Expands on the Hebrew version of Esther with more prayers and details           |
+#+END_TABLE
+
+Many Protestant arguments claim that the Church merely "recognized" which books
+were inspired, rather than defining them. However, this **does not solve the
+problem of authority**: 
+- The act of *recognition* itself requires **a group or council** to make
+  authoritative judgments. 
+- Recognition relies on *criteria* such as **apostolic authorship**, yet these
+  criteria were **set by an authority**—not by Scripture itself. 
+- The **different canons in use today** prove that the identification of inspired Scripture was not self-evident, but required a **teaching authority**.
+
+If a believer chooses a particular **canon of Scripture**, they are necessarily
+submitting to **the authority that defined that canon**. If they claim their
+canon is **infallibly correct**, then they implicitly grant **infallibility** to
+the authority that established that canon. 
+
+**** Conclusion: The Limits of Sola Scriptura
+
+Given the historical development of the canon, the role of Church councils, and
+the differences between Christian Bibles today, *sola scriptura* as an absolute
+doctrine is untenable. The Bible is not a self-authenticating authority; its
+very contents were **established by an external authority**—the Church. 
+
+This means that:
+1. The **canon of Scripture itself** is an extra-biblical tradition.
+2. The process of **recognizing** Scripture requires an authority outside of
+   Scripture. 
+3. The differences in **Christian canons** today prove that an **authoritative
+   Church** is necessary to define Scripture. 
+
+Thus, the claim that "the Bible alone is the only infallible authority" is
+self-defeating. Without an infallible Church to define what belongs in the
+Bible, one cannot even know **which Bible** to follow. The **authority of the
+Church** is inescapable in the formation, recognition, and interpretation of
+Scripture. 
+
+** The Development of the Christian Scriptures - More Details
+
+*** The Old Testament Canon
+
+The Christian Old Testament originates from the Hebrew Scriptures, but its
+structure, order, and content vary among different Christian traditions. 
+
+**** Jewish Scriptures and Canonization
+
+- The Torah (Pentateuch) was likely compiled between the 10th and 5th centuries
+  BC.
+- The Septuagint (LXX), a Greek translation of the Hebrew Scriptures (3rd–1st
+  century BC), included books not found in the later Jewish Masoretic Text
+  (e.g., Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, additional
+  sections in Esther and Daniel).
+- Jewish canonization (c. AD 90–200) led to the rejection of these additional
+  books, favoring the Hebrew texts.
+
+**** Christian Adoption of the Old Testament
+
+- Early Christians largely used the Septuagint.
+- Some Church Fathers (e.g., Origen, Augustine) accepted the Deuterocanonical
+  books, while others (e.g., Jerome) preferred the Hebrew canon.
+- The Council of Trent (1546) reaffirmed the Catholic canon, including the
+  Deuterocanonical books, while Protestants rejected them.
+
+***** The Deuterocanonical Books
+
+The **Deuterocanonical books** are books included in the Old Testament by the
+Catholic, Eastern Orthodox, and some Oriental Orthodox churches but excluded
+from the Jewish **Tanakh** and most Protestant Bibles. These books are
+considered canonical by these churches but are referred to as **Apocrypha** by
+most Protestant traditions. 
+
+***** List of Deuterocanonical Books
+
+Here are the books classified as Deuterocanonical:
+
+#+BEGIN_TABLE
+| Book                      | Included in                | Notes |
+|---------------------------|---------------------------|------------------------------------------------|
+| *Tobit*                   | Catholic, Orthodox         | Narrative about piety and divine intervention |
+| *Judith*                  | Catholic, Orthodox         | Story of a Jewish heroine defeating an enemy general |
+| *Wisdom (of Solomon)*     | Catholic, Orthodox         | Philosophical and theological reflections on wisdom |
+| *Sirach (Ecclesiasticus)* | Catholic, Orthodox         | Wisdom literature, similar to Proverbs |
+| *Baruch*                  | Catholic, Orthodox         | Includes a letter attributed to Jeremiah |
+| *1 Maccabees*             | Catholic, Orthodox         | History of the Jewish revolt against Hellenistic rulers |
+| *2 Maccabees*             | Catholic, Orthodox         | Theological and historical account of Jewish martyrdom and resurrection beliefs |
+| *Additions to Daniel*     | Catholic, Orthodox         | Includes *The Prayer of Azariah*, *Susanna*, and *Bel and the Dragon* |
+| *Additions to Esther*     | Catholic, Orthodox         | Expands on the Hebrew version of Esther with more prayers and details |
+#+END_TABLE
+
+***** Additional Books in the Orthodox Canon
+
+Eastern Orthodox and Oriental Orthodox traditions accept additional books beyond the Catholic Deuterocanonical books:
+
+- *1 Esdras* (Greek Orthodox, Russian Orthodox) – Alternative version of Ezra
+- *3 Maccabees* (Greek Orthodox, Russian Orthodox) – A different historical account from 1 & 2 Maccabees
+- *Psalm 151* (Greek Orthodox, Russian Orthodox) – An additional psalm attributed to David
+- *2 Esdras (sometimes called 4 Esdras)* (Russian Orthodox in some traditions) – Apocalyptic and prophetic work
+- *Prayer of Manasseh* (Greek Orthodox, Russian Orthodox) – A penitential prayer of King Manasseh
+
+***** Unique to Ethiopian Orthodox Canon
+
+The Ethiopian Orthodox Church has the **widest** biblical canon, including all the above books plus additional writings such as:
+
+- *Enoch (1 Enoch)* – An ancient Jewish apocalyptic text, quoted in the New Testament (Jude 14-15)
+- *Jubilees* – Retelling of Genesis with additional details
+- *Meqabyan (1, 2, and 3 Maccabees in Ethiopian tradition)* – Different from the Greek Maccabees
+- *Testament of Abraham, Testament of Isaac, Testament of Jacob* – Additional patriarchal writings
+
+***** Why Are These Books Controversial?
+
+- **Jewish View**: The Hebrew Bible (**Tanakh**) does not include these
+  books. They were mostly written in **Greek**, not Hebrew, and were excluded
+  from the **Rabbinic canon** (finalized around AD 90–200).
+- **Protestant View**: The **Reformation** (16th century) removed the
+  Deuterocanonical books from the Old Testament, following the **Jewish canon**
+  rather than the **Septuagint (LXX)**, which was the Old Testament used by
+  early Christians. Martin Luther and later Reformers considered them useful but
+  not divinely inspired. 
+- **Catholic & Orthodox View**: The early Church used the **Septuagint (LXX)**,
+  a Greek translation of the Old Testament, which included these books. Church
+  councils (such as **Rome AD 382, Hippo AD 393, Carthage AD 397**) affirmed
+  their use. The **Council of Trent (AD 1546)** formally declared them
+  **canonical** for the Catholic Church in response to Protestant rejection. 
+
+
+*** The New Testament Canon
+
+**** Formation of the New Testament
+- Apostolic writings (AD 50–100) were gradually collected and recognized. 
+- By AD 150, the four Gospels, Acts, and Paul’s letters were widely accepted.
+- Athanasius' Festal Letter (AD 367) listed the 27 books of the New Testament.
+- The Councils of Hippo (AD 393) and Carthage (AD 397, 419) reaffirmed the
+  canon.
+- The Orthodox Church accepted a similar canon but took longer to formalize it.
+**** Middle Ages and Reformation
+- The canon remained stable in Catholic and Orthodox traditions.
+- The Protestant Reformation led to the rejection of the Deuterocanonical books.
+
+*** Differences in Biblical Canons Today
+From Christian antiquity to the modern day, there has been no uniform agreement
+on what is the correct list of Scriptures. The following table higlights this
+fact:
+
+#+BEGIN_TABLE
+| Tradition           | Old Testament                                         | New Testament | Canon Established       |
+|--------------------|-----------------------------------------------------|--------------|-----------------------|
+| Jewish (Tanakh)    | 24 books (same content as Protestant 39 books)       | N/A          | c. 3rd–2nd century BC (Torah, Prophets), c. AD 90–200 (Writings) |
+| Protestant        | 39 books (Masoretic Text), rejects Deuterocanonicals  | 27 books     | 16th century (Reformation) |
+| Catholic         | 46 books (Septuagint + Deuterocanonicals)              | 27 books     | c. AD 382 (Council of Rome, reaffirmed in later councils) |
+| Greek Orthodox   | 49 books (adds 1 Esdras, Psalm 151, 3 Maccabees)       | 27 books     | c. AD 692 (Quinisext Council, based on earlier traditions) |
+| Russian Orthodox | 50 books (adds 2 Esdras in some traditions)            | 27 books     | c. AD 692 (Quinisext Council, later Russian tradition) |
+| Ethiopian Orthodox | 81 books (adds Enoch, Jubilees, Meqabyan, others)    | 27 books     | c. 4th century AD (Aksumite Church tradition) |
+#+END_TABLE
+
+This table gives us several interesting insights:
+1. The New Testament writers, writing within 50 AD - 100 AD, used and quoted
+   from the Septuagint, which includes the texts later rejected in the
+   development of the Tanakh (90 AD - 200 AD)
+
+*** The Problem for Sola Scriptura
+
+Given these historical realities, =sola scriptura= faces a serious problem: if
+the Bible is the only infallible authority, how does one determine what
+constitutes "the Bible" without appealing to an external authority? 
+
+**** 1. The Necessity of an External Authority
+
+Without the Church's authority, one would have no objective way to know which books belong in the canon.
+
+The early Church played a central role in collecting, preserving, and recognizing inspired writings.
+
+**** 2. The "Recognition" Argument Does Not Solve the Issue
+
+Some argue that the Church does not define Scripture but merely recognizes inspired writings.
+
+However, recognition itself is an act of authority: it either relies on a group (e.g., bishops, Jewish scholars) or on a test (e.g., apostolic authorship).
+
+If a test is used, then we depend on the authority of those who established that test.
+
+**** 3. The Existence of Differing Canons Highlights the Problem
+
+If the Bible were self-evident in its contents, there would be no dispute over which books belong.
+
+Yet, various Christian traditions hold different canons, meaning believers submit to an external authority in choosing the "correct" canon.
+
+**** 4. The Infallibility Problem
+
+If a believer holds that their canon is infallibly correct, then the authority that defined that canon must also be infallible.
+
+This contradicts the claim that the Bible alone is the only infallible authority.
+
+Conclusion
+
+The doctrine of =sola scriptura=, understood as the Bible being the sole infallible authority, is self-refuting. The very act of defining the Bible's contents requires an external authority. Since different Christian traditions accept different canons, the believer must ultimately submit to an authority beyond Scripture to determine what counts as Scripture in the first place. Thus, the role of the Church in establishing and identifying the Scriptures is indispensable, demonstrating that an authoritative, living tradition is necessary alongside the written Word of God.
+
+
+** The development of the Christian Scriptures                   :noexport:
+
+*** The New Testament
+The process of defining the *New Testament canon* was gradual and developed over
+the first few centuries of Christianity. It was shaped by apostolic tradition,
+theological debates, and the need for authoritative texts in the face of
+heresies. Here’s a historical overview:
+
+**** 1st Century: Apostolic Writings and Oral Tradition
+- The earliest Christians relied on **oral teachings** of Jesus and the apostles.
+- Paul’s **letters (epistles)** were among the first Christian writings (c. 50–65 AD) and were circulated among churches.
+- The **Gospels** (Matthew, Mark, Luke, and John) were written between **c. 60–100 AD**, recording Jesus’ life, teachings, death, and resurrection.
+- Other writings, like Acts, Revelation, and the Catholic Epistles (e.g., 1 Peter, James), were also composed.
+
+**** 2nd Century: Use in Worship & Early Lists
+- Different Christian communities used different collections of texts in their **liturgies** and teaching.
+- Heresies like **Marcionism** (which rejected the Old Testament and only accepted parts of Luke and Paul’s letters) forced the Church to define an authoritative canon.
+- The **Muratorian Fragment** (c. 170 AD) is the earliest known list of New Testament books, closely resembling today’s canon but excluding some (e.g., Hebrews, James) and including others (e.g., Shepherd of Hermas).
+- Church Fathers like **Irenaeus of Lyons** (c. 180 AD) affirmed the four Gospels as authoritative.
+
+**** 3rd Century: Growing Consensus & Use in Theology
+- Theologians like **Origen of Alexandria** (c. 200–250 AD) discussed which books were universally accepted (**homologoumena**) and which were disputed (**antilegomena**).
+- By this time, most churches agreed on the core books (the four Gospels, Acts, Paul’s letters), though some debated Hebrews, James, 2 Peter, 2–3 John, Jude, and Revelation.
+
+**** 4th Century: Official Canonization
+- **Diocletian’s persecution (303 AD)** led to the destruction of Christian books, prompting a clearer distinction between canonical and non-canonical texts.
+- **Eusebius of Caesarea (c. 325 AD)** categorized books into “accepted,” “disputed,” and “rejected” in his *Church History*.
+- **Athanasius’ Easter Letter (367 AD)** was the first document to list all **27 books** of the New Testament as we have them today.
+- **Councils of Hippo (393 AD) and Carthage (397 & 419 AD)**, under St. Augustine’s influence, affirmed this canon for the Western Church.
+- **Pope Innocent I (405 AD)** confirmed this list in a letter to the Bishop of Toulouse.
+
+**** 5th Century and Beyond: Universal Acceptance
+- By the late 5th century, the **27-book canon** was broadly accepted in both the Eastern and Western Churches.
+- The canon was reaffirmed in later councils, such as the **Council of Trent (1546 AD)** in response to the Protestant Reformation.
+
+**** Conclusion
+The New Testament canon emerged through a **process of discernment**, guided by apostolic authority, widespread usage in the Church, and theological necessity. While there were debates, the Church ultimately recognized the 27 books that best preserved **apostolic teaching, doctrinal consistency, and liturgical use**.
+
+
+** The Doctrine of /Sola Scriptura/                               :noexport:
+The /sola scriptura/ dogma is a challenging topic to discuss. Many Protestant
+denominations hold to some form of /sola scriptura/, and indeed, there are many
+varied forms of it. Still other denominations hold to /prima scriptura/.
+
+/Sola scriptura/ is difficult to discuss because there are many different ways
+in which its supporters understand it. Literally, /sola scriptura/ means "by
+the scriptures alone," or "from the scriptures alone." Here, /sola/ is the
+[[https://classics.osu.edu/Undergraduate-Studies/Latin-Program/Grammar/Cases/ablative-case-latin][ablative case]] of /solus/, meaning that something is derived from the Scriptures.
+
+
+*** Martin Luther's Conception of /Sola Scriptura/
+
+[[https://www.ncregister.com/blog/dave-armstrong-how-martin-luther-originated-sola-scriptura][How Martin Luther Invented Sola Scriptura]], National Catholic Register.
+
+Chapter 1, paragraph VI of [[https://www.freepresbyterian.org/wcf-1/][the Westminster Confession of Faith (1646)]] reads:
+#+begin_quote
+The whole counsel of God concerning all things necessary for His own glory,
+man’s salvation, faith and life, is either expressly set down in Scripture, or
+by good and necessary consequence may be deduced from Scripture: unto which
+nothing at any time is to be added, whether by new revelations of the Spirit, or
+traditions of men.
+#+end_quote
+
+
+** History of the Scriptures                                      :noexport:
+
+*** The Council of Rome (A.D. 382)
+
+*** The Council of Hippo (A.D. 393)
+ 
+*** The Council of Carthage (A.D. 397)
+
+*** Pope Innocent I (A.D. 405)
+
+*** The Council of Carthage (A.D. 419)
+
+*** Council of Florence
+
+*** Council of Trent 
+
+
+** Links
+
+*** General Pointer to Called to Communion                       :noexport:
+This is an attempt to 
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed_5G3n58Eo?si=hnj7Rdm_wblk5pAk&amp;start=101" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+*** Does Everything Have to be in the Bible for us to Believe it?
+
+
+
+*** The Scriptures and the Role of the Early Church
+
+Jimmy Akin discusses Wesley Huff's presentation on the Old Testament.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YOjaOgtQ0U?si=o8icGEFKjT-Y4B6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ivr0uTZeTLM?si=EjDJbPEjFklMZ-Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+Dr. John Bergsma, a former Dutch Calvinist pastor, discuss when he came to
+recognize that /sola scriptura/ was impossible. 
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hhCTVosTWOk?si=Emf8L2HkG7n9RFXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+
+Dr. David Anders discusses the historical context of the Protestant
+Reformation. Luther's reformation was an outgrowth of prior movements in the
+Catholic Church. Lutheran ideas landed in the laity in a way that was different
+from the way he intended.
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_bWIfP6ERE?si=AqXgWPzaIKR32JPb&amp;start=1235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export

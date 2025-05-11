@@ -1,0 +1,578 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+
+* Objections
+
+Here, we discuss some objections raised by various groups about Catholicism.
+
+** The Catholic Church Teaches Idolatry
+
+Protestants may feel that the Catholic Church observes and practices idolatry
+through either veneration or or prayers to Mary, the angels, and the saints.
+
+There really are two very serious questions here:
+1. Is prayer to beings other than God idolatry?
+2. Is the respect shown by Catholics to beings other than God idolatry?
+
+Let's discuss these each in turn.
+
+*** Prayer to Beings Other than God
+
+To understand this, we must first understand what prayer is. One perspective
+non-Catholics may have is that prayer is communication with God, either
+silently, or mentally. Therefore, if someone prays to a being other than God,
+the supplicant is in a way deifying that non-divine being.
+
+If that is what Catholics mean by praying to a non-divine being, then, I, too, 
+would object, declare it idolatrous, and I would agree that it should be
+avoided. However, this is not what Catholics mean in praying to Mary, other
+saints, and angels. 
+
+The English word "pray" comes from the Latin /[[https://en.wiktionary.org/wiki/precor][precor]]/, which means to beseech,
+beg, pray, entreat, supplicate, or request. This term is /broader/ than the
+modern English use of "pray." In praying to Mary, other saints, and the angles,
+Catholics are asking these individuals to pray for us, in the same way that we
+ask another living human being to pray for us. Our prayer to non-divine entities
+does not deify them, but simply makes a request of them. What request is that?
+Their intercession.
+
+#+begin_info
+*Modern and Old English Usage of "Pray"*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+
+In older English, the term was more widely used to denote a request. For example, in [[https://www.litcharts.com/shakescleare/shakespeare-translations/romeo-and-juliet/act-4-scene-3#:~:text=But%2C%20gentle%20Nurse%2C%20I%20pray,cross%20and%20full%20of%20sin.][Act 4, Scene 3]] of
+Shakespeare's /Romeo and Juliet/, Juliet asks her nurse to leave her alone:
+#+begin_quote
+Ay, those attires are best. But, gentle Nurse,
+I pray thee, leave me to myself tonight,
+For I have need of many orisons
+To move the heavens to smile upon my state,
+Which, well thou know’st, is cross and full of sin.
+#+end_quote
+Although Juliet uses the word "pray," she is in no way deifying her nurse, nor
+committing idolatry.
+
+"Pray" also is [[https://www.lsd.law/define/pray][used in courtrooms]] with this more archaic sense as a formal,
+legal request.
+#+html: </details>
+#+end_info
+
+
+#+begin_comment
+Here is one video from [[https://youtu.be/m0QZ-QpOWto?si=-xEi5iDSUt6V1YQf&t=513][Ligonier Ministries]].
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/m0QZ-QpOWto?si=pbmn89Pm-B9kqgHW&amp;start=514" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_comment
+
+The next natural question is whether it is valid to make requests for
+intercession of holy, deceased individuals in heaven. Some say that there is no
+scriptural precedent for this, so it should not be practiced.
+
+*** Veneration of Mary and the Saints
+
+Catholics hold St. Mary, the other saints, and the angels in high regard. Is
+this veneration idolatrous?
+
+To understand this, we must understand what idolatry is and how Catholics relate
+to these non-divine beings.
+
+Idolatry may be defined as worship of another being aside from God. More
+practically, it can be understood as the love of a material or created good more
+than we love God. There are many material goods we make into idols, but the
+often reduce to one of four things: power, pleasure, honor, or wealth. We will
+deal here mostly with the worship of beings other than God, though enslavement
+to other idols is a concern and separate topic initself.
+
+The Catholic understanding of God is that God defines in a category by
+Himself. He is infinite, immaterial, and eternal. He is without cause, and we
+say God is being itself. There is no existence apart from God. Since God is
+immaterial, He has no physical body and is not constrained by the material
+universe, and so no image can be made of Him. God is being itself, and, within
+Christian revelation, God is three Persons who share in the Divine nature: God
+the Father, God the Son, and God the Holy Spirit. Yet, the eternal God has made an
+image of Himself for us: Jesus Christ, in which this Divine Person has united a
+human nature to His Divine nature in a mysterious way. He fully shares in
+Divinity and its eternal nature, and He fully shares in a human nature. It is
+possilbe to say that Jesus Christ is eternal in His divine nature, although His
+human nature had a beginning and thus is not eternal.
+
+#+begin_note
+*What is God?*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+
+
+To learn what God is like, we can look to the universe. We can argue the
+following:
+1. Anything that has a beginning has a cause.
+2. The universe has a beginning.
+   There are two ways to support this:
+   1. Using evidence from science.
+   2. Using reason alone.
+      1. If the universe has no beginning, it would have endured for an infinite
+         amount of time to arrive at the present.
+      2. It is impossible to traverse an infinite period of time to arrive at the
+3. Thus, the universe has a cause.
+
+It turns out that the universe has plenty to tell us about its cause. The
+universe contains all matter, energy, space, and time--or else it wouldn't be
+the universe. Since the universe contains all matter, energy, space and time,
+its cause must be independent of each of these. In other words, the cause of the
+universe must be immaterial (independent of matter, energy, and space) as well
+as eternal (independent or outside of time). At this point, the cause of the
+universe begins to match the characteristic of the entity Christians and
+adherents of other faiths call /God/. And since this cause of the universe is
+outside of space and time, we can say that it is unchanging, for without time,
+there is no change.
+
+What we have learned about the cause of the universe appears to be lacking some
+features of what Christians call God. In particular, the universe does not
+immediately indicate that its cause has a personality. That is, we have not yet
+established that the cause of the universe is a /personal/ entity.
+
+Now, we may ask, what could cause the unchanging cause of the universe to create
+the universe? If the cause of the universe is unchanging, then nothing could
+make it create a universe. However, such an all-powerful entity /chose/
+to create out of its own free will. To posess a will and the faculty of choice
+could explain the creation of the universe. For the cause of the universe to
+have free will and choice implies personhood or personality within this
+immaterial and eternal cause.
+
+/God, is that You?/
+#+end_note
+
+#+begin_note
+*What is God?*
+
+#+html: <details>
+#+html: <summary>Read more (Really? Are you even Christian?) ...</summary>
+
+I declare it's true: God does not exist.
+
+To understand this, we must understand what /exist/ means. The word "exist"
+comes from Latin: /ex/ means "from, out, outside of," and "ist" comes from /sistere/,
+which means "to set up, to cause to stand." Thus, for something to /exist/
+conveys the sense that it arises from something else.
+
+While the universe is contingent upon its cause--and as Christians, we believe
+that cause to be God--God is not existent in the sense that His being arises
+from something else. Thus, I claim that *God does not exist*.
+
+Rather, the fullness of teaching about God is that *God is being itself*. This
+concept says that God is the fundamental source and essence of
+existence. Anything that exists does so by sharing in God's being. If God ceased
+to be, then everything that exists ceases to exist, also.
+
+This concept of God as being itself aligns with God's self-identification as "I
+AM" ([[https://www.biblegateway.com/passage/?search=Exodus%203%3A14&version=RSVCE][Exodus 3:14]]; and [[https://www.biblegateway.com/passage/?search=John%208%3A58-59&version=RSVCE][John 8:58-59]]). He is not from someone or something else;
+God simply /is/.
+
+#+html: <details>
+#+end_note
+
+Apart from God, there is no one who is eternal. The angels were created by God,
+and so they are in no way equal to God. Even Satan himself is a created being,
+and he exists because God wills his existence. Not even St. Mary herself
+partakes of the eternal and divine nature. St. Mary had a beginning, and so she
+is not eternal. Mary does not share in the divine nature.
+
+With a proper understanding of God's divine nature--to the extent that we can
+understand it-- and an understanding of the relationship between this divine
+nature and the human nature (or the angelic nature, for that matter), it becomes
+impossible to think of any created being as an entity on par with, much less
+greater than God. Thus, it becomes impossible to venerate a created being in any
+way that rivals our veneration and worship of God.
+
+In fact, Catholics do not worship anyone or anything apart from God. In
+Catholicism, /worship/ requires sacrifice, and the highest sacrifice is the very
+Body and Blood of Jesus Christ (the Eucharist). Thus, the Catholic Mass (or
+Orthodox Divine Liturgies) are the ultimate Sacrifice of God to God. Orthodox or
+apostolic Christians--including Catholics--offer the Mass to no one other than
+God. St. Mary is not worthy of the Sacrifice of the Mass. Thus, we worship God
+alone.
+
+In Catholic teaching, we give only God the fullest honor and worship. This is
+called latria, the supreme worship allowed to God alone. After God the Father,
+the Son, and the Holy Spirit, we allow ourselves to /reverence/ other created
+beings. Thing of this as honor, such as is due a king or a ruler or some other
+dignitary. Shuch honor is referred to as dulia, and this encapsulates reverence
+that we show to St. Mary, the angels, and the saints. In fact, Catholics
+recognize St. Mary as the pinnacle of the created order, and we give her not
+latria, but an extreme form of dulia, called hyperdulia.
+
+
+** TODO The Teachings and Traditions of the Catholic Church Cannot be Trusted
+
+The burden of proof is on him or her who claims this. They must show which false
+teachings were invented by the Catholic Church, and when.
+
+This is a problem for /sola scriptura/ Christians. If the teachings and the
+traditions of the Catholic Church are unreliable, then how can they be sure of
+the Bible? The list of books included in the Bible was established by
+tradition. Notably, the Canon 24 of the [[https://www.newadvent.org/fathers/3816.htm][Council of Carthage (419 AD)]] list the
+books of the Bible, stating that only these books are to be considered as
+Canonical Scripture, and that only these books are to be read in church. This
+list was preserved under the oral tradition of the Church: "besides the
+Canonical Scriptures nothing be read in church under the name of divine
+Scripture.
+#+begin_quote
+But the Canonical Scriptures are as follows: ... for these are the things which 
+we have received from our fathers to be read in church."
+#+end_quote
+
+
+** TODO The Catholic Church is Corrupt
+
+** TODO The Catholic Church has Changed Doctrines
+
+Some say that the way the Catholic Church has changed doctrines indicates that
+this is not the original church that Christ founded. They have changed--and in
+some cases--corrupted original doctrines.
+
+Some interesting examples that have been brought up to me include:
+1. *Confession*. The note below gives a brief history of Confession--also known as
+   the Sacrament of Reconcilliation--within the Catholic Church. The notable
+   changes in the practice of Confession is cited as a way in which the Catholic
+   Church has been unfaithful to the original teachings of the Scripture, and
+   therefore has invalidated Herself as the Church which Christ has founded.
+
+   #+begin_info
+   *A Brief History of Confession in Catholicism*
+
+   #+html: <details>
+   #+html: <summary>Read more ...</summary>
+
+   The practice of confession—also known as the Sacrament of Penance or
+   Reconciliation—has undergone several significant changes throughout the
+   history of the Catholic Church. Here's a broad historical overview:
+
+   - Early Church (1st–3rd centuries)
+     - *Public Confession*: Serious sins (apostasy, murder, adultery) were
+       confessed **publicly** before the Christian community.
+     - *Once-in-a-lifetime Penance*: Penance was *long and harsh*, often lasting
+       months or years, and usually allowed *only once* after Baptism.
+     - *Reconciliation*: After completing the penance, the sinner was formally
+       reconciled by the bishop, often during Holy Week.
+   - Post-Constantinian Era (4th–6th centuries)
+     - As Christianity gained legal status, **public penance** continued but
+       began to soften in practice.
+     - The *bishop* played a key role in reconciliation.
+     - *Private spiritual direction* emerged, but public confession remained
+       standard for grave sins.
+   - Celtic and Anglo-Saxon Influence (6th–9th centuries)
+     - Monastic practice in Ireland and Britain introduced *private
+       confession* to a priest or abbot.
+     - *Frequent confession** became more common.
+     - Penances were assigned using *penitential books* listing sins and
+       appropriate penances. 
+     - This model spread to continental Europe through missionaries.
+   - Medieval Period (9th–13th centuries)
+     - The *Fourth Lateran Council (1215)* mandated **annual confession** for all Catholics (the "Easter Duty").
+     - Confession became **private, auricular**, and often **anonymous**.
+     - The *seal of confession* (absolute secrecy) was firmly established.
+     - Emphasis on the *three acts of the penitent*:
+       - Contrition
+       - Confession
+       - Satisfaction
+   - Council of Trent & Counter-Reformation (1545–1563)
+     - Reaffirmed the necessity of *confession to a priest* for forgiveness of
+       mortal sins.
+     - Stressed **sacramental grace** and the priest’s role in *absolution*. 
+     - Promoted regular, devout confession as part of Catholic life.
+   - Modern Period (19th–20th centuries)
+     - Popes like *Pius X* encouraged *frequent confession* and *frequent Communion*.
+     - *Confessionals* became standard in churches for privacy.
+     - Catechesis began to emphasize a *personal relationship with God* and
+       *interior conversion*.
+   - Post-Vatican II Era (1960s–present)
+     - *Vatican II* highlighted the *communal and healing* aspects of the
+       sacrament.
+     - Introduced *three forms* of the *Rite of Penance*:
+       - Individual confession and absolution (ordinary form).
+       - Communal celebration with individual confession and absolution.
+       - General absolution in emergencies (e.g., war, disaster).
+       - *Decline in regular practice* observed in many areas, though
+         *renewals* occur seasonally and in youth movements. 
+   #+html: </details>
+
+   #+end_info
+       
+2. *The Ecclesial Structure*.
+
+   #+begin_info
+   *Scriptural Origins of Ecclesial Structure*
+
+   #+html: <details>
+   #+html: <summary>Read more ...</summary>
+    
+   The modern Catholic ecclesial structure—composed primarily of *bishops*,
+   *priests*, and *deacons*—has both Scriptural roots and historical
+   development. The New Testament lays the foundation for this threefold
+   ministry, which the Catholic Church understands as being instituted by Christ
+   and developed under the guidance of the Holy Spirit in the early Church. 
+
+   Below is a breakdown of Scriptural support for each of these offices:
+
+   - *Bishops* (Greek: ἐπίσκοπος – episkopos, "overseer")
+     - Scriptural references
+       - Acts 1:20 – Peter interprets Psalm 109:8 to establish a replacement for
+         Judas: “His office let another take.” The Greek word used is episkopē.
+       - Acts 20:28 – Paul tells the elders of Ephesus:
+         #+begin_quote
+         “Keep watch over yourselves and over all the flock, of which the Holy
+         Spirit has made you overseers (episkopoi), to shepherd the church of
+         God.” 
+         #+end_quote
+       - 1 Timothy 3:1–7 – Paul describes the qualities of a bishop/overseer
+         (episkopos):
+         #+begin_quote
+         “If anyone aspires to the office of bishop, he desires a noble task...”
+         #+end_quote
+     - *Early Church understanding*:
+       - The terms presbyter (elder) and episkopos (overseer) were used somewhat
+         interchangeably early on, but by the 2nd century (cf. St. Ignatius of
+         Antioch, still very early in the second century), a clearer distinction
+         was made between bishops and presbyters (priests).
+
+   - *Priests* (Greek: πρεσβύτερος – /presbyteros/, "elder")
+     - Scriptural References:
+       - Acts 14:23 – Paul and Barnabas appoint elders (presbyteroi) in each
+         church:
+         #+begin_quote
+         “And when they had appointed elders for them in every church...”
+         #+end_quote
+       - 1 Timothy 5:17 –
+         #+begin_quote
+         “Let the elders who rule well be considered worthy of double honor,
+         especially those who labor in preaching and teaching.”
+         #+end_quote
+       - James 5:14 –
+         #+begin_quote
+         “Is any among you sick? Let him call for the elders of the church, and
+         let them pray over him, anointing him with oil in the name of the
+         Lord.”
+         #+end_quote
+     - Note: The term /presbyteros/ evolved into the English word “priest”,
+       particularly as it passed through Latin (presbyter). In Catholic
+       theology, presbyters share in the bishop’s priesthood and are primarily
+       responsible for the sacraments and preaching in local communities.
+   - *Deacons* (Greek: διάκονος – diakonos, "servant" or "minister")
+     - Scriptural References:
+       - Acts 6:1–6 – Seven men (including Stephen and Philip) are appointed to
+         serve tables so the apostles can focus on prayer and the Word. While
+         not called "deacons" here, this is traditionally seen as the origin of
+         the diaconate.
+       - Philippians 1:1 – Paul addresses:
+         #+begin_quote
+         “To all the saints in Christ Jesus who are at Philippi, with the
+         bishops (episkopoi) and deacons (diakonoi).” 
+         #+end_quote
+       - 1 Timothy 3:8–13 – Paul gives qualifications for deacons, showing it as
+         a distinct and recognized office.
+
+   *Historical Continuity*
+
+   The Catholic Church sees this structure as apostolic in origin, with apostolic 
+   succession preserving the offices—especially the episcopate—from the time of
+   the apostles to today. The bishops are considered the successors to the
+   apostles; priests are their collaborators, and deacons continue the
+   service-oriented ministry first seen in Acts 6.
+   #+html: </details>     
+   #+end_info
+
+3. *A Celibate Priesthood*
+   One argument against the validity of the is suggests that the Catholic Church
+   mandates celibacy for its priesthood, and this is contrary to the Scriptural
+   allowances for church leaders to be married and have children. We can borrow
+   text stating this argument:
+   #+begin_quote
+   In 1 Timothy 3:1-13 and Titus 1:6-9, the Apostle Paul seems to assume that
+   elders, bishops, overseers, and deacons will be married. Notice the phrases
+   “the husband of one wife” (1 Timothy 3:2, 12; Titus 1:6), “he must manage his
+   own family well” (1 Timothy 3:4,12), and “his children obey him with proper
+   respect” (1 Timothy 3:4; Titus 1:6). On a related issue, please read our
+   article on whether these Scripture mean that a church leader must be married
+   and have children. While these Scriptures are not a requirement for church
+   leaders to be married, they most definitely present an allowance for church
+   leaders to be married. It is therefore anti-biblical for any church to
+   require celibacy of its leaders. 
+
+   Why, then, does the Roman Catholic Church (and a few other Christian
+   denominations) require celibacy of priests/church leaders? (/source:
+   [[https://www.gotquestions.org/celibacy-priests.html][gotquestions.org]]/)
+   #+end_quote
+
+   There are two fallacies in the above quote, which we may readily point out:
+   1. The Catholic Church actually allows does not require celibacy of all
+      priests. For example, priests within the [[https://en.wikipedia.org/wiki/Eastern_Catholic_Churches][Eastern Rite]] may be married,
+      which is similar to Orthodox or Oriental churches outside of the Catholic
+      Church. Think of a rite as something similar to a Protestant
+      denomination. A rite upholds the authority of the Pope as well as Catholic 
+      dogmas, but it may vary in terms of disciplines, such as whether priests
+      may be married, or which form of the Mass is used. The Latin Rite (also
+      known as the Roman Rite) is the most well-known rite in America, and
+      indeed, Canon 277 in [[https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib2-cann208-329_en.html#CHAPTER_III.][Book II, Title III, Chapter III]] of the Code of Canon
+      Law governing the Roman rite calls 
+      for celibacy among clerics: 
+      #+begin_quote
+      Clerics are obliged to observe perfect and perpetual continence for the
+      sake of the kingdom of heaven and therefore are bound to celibacy which is
+      a special gift of God by which sacred ministers can adhere more easily to
+      Christ with an undivided heart and are able to dedicate themselves more
+      freely to the service of God and humanity. 
+      #+end_quote
+      Even within the Roman Rite, there are exceptions. The Pastoral Provision
+      of 1980 by Pope St. John Paul II allows for former non-Catholic priests
+      who convert to Catholicism to become priests, even if previously married
+      with children.
+
+   2. There is no Scriptural prohibition preventing the Catholic Church from
+      exercising its authority requiring celibacy for its clerics in most
+      cases. Clerical celibacy mirors Christ's full dedication to the Church.
+
+   For more information, a more authoritative discussion may be found in the
+   article [[https://www.catholic.com/tract/celibacy-and-the-priesthood][Celibacy and the Priesthood]].
+#+begin_info
+
+*What Catholic Teachings and Practices Can Change Over Time?*
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+
+We find it helpful to borrow and insert an excerpt from David Currie's book,
+[[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Born Evangelical, Born Again Catholic]]. Here, Currie addresses the question of
+*changing doctrines* in the Catholic church. Currie helpfully distinguishes
+between types of doctrinal changes, and he categorizes Catholic teachings and
+practices into five categores, which we abbreviate as /Deposit/, /Dogma/,
+/Doctrine/, /Discipline/, and /Devotion/. I can do no better than to let Currie
+speak for himself here:
+#+begin_quote
+Change has occurred and will continue to occur. This was an important issue to
+me because I felt that no organization could be the true church if it
+contradicted itself on essential doctrines over time. I spent quite a bit of 
+time thinking this over. Here are my observations.
+
+Since change is a very general term, let us separate it into two parts. There is
+a change that expands on prior truths without negating them, which I will call
+“development”. This type of change “unpacks” meaning inherent in the original
+truth so that the truth can be understood better. It defines. The other type of
+change reverses that which has been accepted originally. I will call that type
+“contradiction”. Contradiction affirms one day that “A” is true, and the next
+insists that “non-A” is true.
+
+There is one other distinction we must make. In thinking through this issue for
+my own edification, I came to see that the information of the church could be
+divided into at least five categories: deposit, dogma, doctrine, discipline, and
+devotion. I devised these categories for my own thinking, so I suppose the
+alliteration proves that I once studied homiletics. These are not the categories
+of the church herself, but merely distinctions that helped me clarify the idea
+of change.
+
+*Deposit* is that body of truth originally given to the apostles. In time, some of
+it was written into Scripture, while some of it remained in its original form of
+oral tradition. Protecting this deposit is a major responsibility of the
+bishops. The church teaches that nothing can be added to or contradicted within
+the deposit. For example, Peter had no authority to make up a new story about
+Jesus healing someone. General revelation ended with the death of John, the last
+apostle. The goal regarding the deposit is simply to conserve it with no change
+whatsoever. As an evangelical, I was surprised at how seriously Catholics
+regarded this responsibility.
+
+*Dogma* is that body of truth that has been affirmed by the councils of the
+church and the Holy See of Rome. The further explanation, definition, and
+development of the concepts within the deposit, as well as the deposit itself,
+are contained within dogma. Once dogma is declared by the bishops, it can be
+further developed but never contradicted by future doctrine or dogma. I could
+find no case within Vatican II where earlier dogma was contradicted. Dogma is
+usually declared in Council or by the Pope to combat a particular problem. For
+example, the dogma regarding the divinity of Christ was not declared by counsel
+until teachers in the early church questioned that truth of the deposit. The
+deposit always contained the truths of Christ’s divinity, however. The Council
+of Nicaea certainly did not invent new truth about Christ’s nature as
+God-man. They merely clarified the truth already believed. So, dogma can be
+developed.
+
+*Doctrine* is the development of truth on the basis of the deposit and
+dogma. Doctrine can develop and even contradict itself over time because it is
+largely the thoughts of people. It has not been officially declared true or
+false by the church. This is the realm in which most theologians deal, on the
+cutting edge of the Church’s thinking. One Catholic theologian may totally
+contradict another equally Catholic theologian. They both can’t be right, yet
+the church is withholding her judgment on that particular issue. More thought,
+more wisdom, or more time may be needed before the church decides which
+formulation of that particular doctrine is fully consistent with the deposit and
+dogma. Doctrine pushes the envelope of the Church as far and is only slowly if
+ever, accepted as dogma.
+
+Otherwise good, careful evangelical scholars make the mistake of taking doctrine
+as the unchangeable teaching of the Church. When they see it changing over time,
+they draw the wrong conclusions. The reason is relatively simple. The ultimate
+authority in most evangelical churches of what is truly biblical rests with
+those men teaching at the seminary from which that church draws its pastors. If
+the pastor and board get into a theological tussle over some issue, it is not
+unusual for a seminary professor to be called in to moderate and to decide the
+truth in question. As a result, when these same evangelical scholars attempt to
+understand what is really going on inside the Catholic Church, they make the
+mistake of looking to their counterparts in the Catholic seminaries as the
+authorities on Catholic theology. 
+
+It seems that every evangelical pastor has at least one anti-Catholic book in
+his study. When I informed my pastor of my intentions, he lent me a book written
+by a professor at TEDS who is now at another institution. This truly fine
+scholar stumbled rather dramatically in his research because he made precisely
+the mistake of considering professors as the authorities. In the Catholic Church
+the professor is not the final arbiter of truth; the bishops and the Pope
+are. The church’s pronouncements are very accessible, but most evangelicals
+don’t ever read these documents, much less footnote the, in their discussions of
+what Catholics teach. You do not know what Catholics teach unless you go to the
+sources that they themselves accept as authoritative. 
+
+*Disciplines* are those rules that govern the everyday life of faithful
+Catholics. This area has seen the most change (contradiction) in our generation,
+and it is this very visible area that people usually point to when they accuse
+the church of having changed since Vatican II. For example, in the past,
+Catholics were required to fast on the Ember Days, 12 days each year. They are
+no longer required to do this.
+
+This is a bitter pill for evangelicals to swallow, but disciplines are supposed
+to be mandatory once in force, yet some of them may be changed over time. It
+would have been wrong for a Catholic to ignore the Ember Days fast in the
+1950s. Yet now it is no longer necessary to fast on the former Ember Days
+(except Good Friday) because this discipline has been rescinded. Why?  It has to
+do with obedience.
+
+As Christians, we are under the authority of the apostles’ successors, the
+bishops. They are responsible for making rules that will enhance the spiritual
+life of their flock. Although that goal never changes, the rules of discipline
+may. When the bishops decide an existing rule is no longer effective in helping
+people worship God, or when they determine that a new rule would be effective,
+it is a Catholics duty to obey them. This is certainly in line with the promise:
+“Whatever you bind on earth will be bound in heaven, and whatever you loose on
+earth will be loosed in heaven.” Disciplines by their very nature are going to
+be developed and contradicted over time — bound when the need arises and loosed
+when appropriate.
+
+*Devotions* are the most personal of these five categories. Devotions are those 
+activities by which an individual Christian may enhance his walk with God. The
+Catholic use of “devotion” is much broader than the evangelical use of the
+word. It means much more than Bible study and prayer. Devotions are never
+mandatory for a Catholic layman, although they may be approved and are highly
+recommended. History illustrates that devotions develop over time. One
+well-known example of a devotion is the Rosary. I remember being relieved to
+learn that a practicing Catholic could choose never to say the Rosary and still
+be a good Catholic. A priest friend helped me understand that Christ and his
+sacrificial death are at the very center of Catholic worship. The Rosary is only
+about eight centuries old. Most Catholics, however, wonder why anyone would
+choose not to speak with Mary. As a devotion, the Rosary is approved by the
+church, but it is never mandated. Devotions can develop. 
+#+end_quote
+
+This quote was copied from Kenny Burchard's blog of [[https://kennyburchard.com/5-ds-of-catholic-thinking/][January 21, 2019]], for which
+he cites pages 83-87 from [[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Currie's book]] (Ignatius Press, 1996)
+#+html: </details>
+#+end_info
