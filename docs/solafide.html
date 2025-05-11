@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-05-07 Wed 07:49 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Blair" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org9b88d34">1. Saved by Faith Alone?</a>
+<ul>
+<li><a href="#orgb7d0b35">1.1. Introduction</a></li>
+<li><a href="#org4ad1e64">1.2. Evidence For <i>Sola Fide</i></a></li>
+<li><a href="#org58c89d5">1.3. Evidence Against <i>Sola Fide</i></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9b88d34" class="outline-2">
+<h2 id="org9b88d34"><span class="section-number-2">1.</span> Saved by Faith Alone?</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgb7d0b35" class="outline-3">
+<h3 id="orgb7d0b35"><span class="section-number-3">1.1.</span> Introduction</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+A dogma central to Luther's Protestant reformation is summarized by the phrase
+<i>sola fide</i>, which is translated "by faith alone." This encapsulates the idea
+that man is saved or <i>justified</i> in God's sight by faith alone.
+</p>
+
+<p>
+Thus, it is important to ask the question: can man be saved by faith alone?
+</p>
+
+<p>
+If you wish, you may view a video I made on this very topic:
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBypIA26vTs?si=BejzbpaN9AkIwvbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+<div id="outline-container-org4ad1e64" class="outline-3">
+<h3 id="org4ad1e64"><span class="section-number-3">1.2.</span> Evidence For <i>Sola Fide</i></h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Many proponents of <i>sola fide</i> say that the Bible plainly states that man is
+saved by faith alone in Ephesians 2:8-10:
+</p>
+<blockquote>
+<p>
+For by grace you have been saved through faith, and this is not your own doing;
+it is the gift of God— not the result of works, so that no one may boast
+(<a href="https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-10&amp;version=NRSVCE">Ephesians 2:8-10, NRSVCE</a>)
+</p>
+</blockquote>
+<p>
+This verse <i>excludes</i> works as a means of salvation, leaving only grace and
+faith as causes of salvation. Thus, a <i>sola-fide</i> adherent will reason, no works
+done by a human can earn their salvation, and only faith can save.
+</p>
+
+<p>
+Furthermore, additional verses support the exclusion of works as a means of
+salvation:
+</p>
+<ol class="org-ol">
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Romans%203%3A20&amp;version=NRSVCE">Romans 3:20 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+For “no human being will be justified in his sight” by
+deeds prescribed by the law, for through the law comes the knowledge of sin.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Romans%203%3A27&amp;version=NRSVCE">Romans 3:27 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+Then what becomes of boasting? It is excluded. By what law? By that of works?
+No, but by the law of faith.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%202%3A16&amp;version=NRSVCE">Galatians 2:16 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+yet we know that a person is justified not by the works of the law but
+through faith in Jesus Christ. And we have come to believe in Christ
+Jesus, so that we might be justified by faith in Christ, and not by doing
+the works of the law, because no one will be justified by the works of the
+law.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%203%3A5&amp;version=NRSVCE">Galatians 3:5 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+Well then, does God supply you with the Spirit and work miracles among you by
+your doing the works of the law, or by your believing what you heard?
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%203%3A10%2D13&amp;version=NRSVCE">Galatians 3:11-13 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+For all who rely on the works of the law are under a curse; for it is
+written, “Cursed is everyone who does not observe and obey all the things
+written in the book of the law.” Now it is evident that no one is justified
+before God by the law; for “The one who is righteous will live by faith.”[a]
+12 But the law does not rest on faith; on the contrary, “Whoever does the
+works of the law will live by them.” 
+</p>
+</blockquote></li>
+</ol>
+
+<p>
+Because of verses such as these, proponents of <i>sola fide</i> support the dogma
+that man is justified not by works, but rather by faith alone. Works are
+insufficient in this view to <i>justify</i> humans&#x2013;that is, to qualify us for
+salvation and an afterlife in the loving presence of God.
+</p>
+
+<div class="info" id="org0df8b39">
+<p>
+<b>Eternal Security or the Perseverance of the Saints</b>
+</p>
+
+<details>
+<summary>Read more ...</summary>
+<p>
+<i>Sola Fide</i> also leads to another dogma called <b>eternal security</b> or <b>the
+perseverance of the saints</b>. Eternal security follows from <i>sola fide</i>, for since
+one's works cannot contrubte to salvation, they cannot imperil one's
+salvation. However, even in the Protestant world, there is poor agreement about
+the perseverance of the saints: Calvinists and Baptitsts tend toward the
+perseverance of the saints, but numerous Evangelical denominations follow the
+Arminian tradition, which teaches that a Christian may lose his or her
+salvation. From this, we can deduce that there is no Scripture that 
+irrevocably establishes eternal security, or the debate would be laid to rest. 
+</p>
+
+<p>
+Furthermore, several passages of Scripture suggest that one can fall
+away from salvation. At the very least, these Scriptures should indicate that
+eternal security is not such a secure doctrine. Notable Scripture passages
+include: 
+</p>
+<ol class="org-ol">
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Matthew%2013%3A1-23&amp;version=NIV">Matthew 13:1-23 (RSVCE)</a>: Here, Jesus gives the Parable of the Sower:
+</p>
+<blockquote>
+<p>
+3 Then he told them many things in parables, saying: “A farmer went out to
+sow his seed. 4 As he was scattering the seed, some fell along the path, and
+the birds came and ate it up. 5 Some fell on rocky places, where it did not
+have much soil. It sprang up quickly, because the soil was shallow. 6 But
+when the sun came up, the plants were scorched, and they withered because
+they had no root. 7 Other seed fell among thorns, which grew up and choked
+the plants. 8 Still other seed fell on good soil, where it produced a crop—a
+hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them
+hear.”
+</p>
+</blockquote>
+<p>
+This left his audience, including his disciples puzzled. Later, He explained
+it to His disciples:
+</p>
+<blockquote>
+<p>
+18 “Listen then to what the parable of the sower means: 19 When anyone hears
+the message about the kingdom and does not understand it, the evil one comes
+and snatches away what was sown in their heart. This is the seed sown along
+the path. 20 The seed falling on rocky ground refers to someone who hears the
+word and at once receives it with joy. 21 But since they have no root, they
+last only a short time. When trouble or persecution comes because of the
+word, they quickly fall away. 22 The seed falling among the thorns refers to
+someone who hears the word, but the worries of this life and the
+deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed
+falling on good soil refers to someone who hears the word and understands
+it. This is the one who produces a crop, yielding a hundred, sixty or thirty
+times what was sown.” 
+</p>
+</blockquote>
+
+<p>
+For clarity, we pair each class of seed with the type of human heart:
+</p>
+<ol class="org-ol">
+<li><p>
+Seed along the path illustrates people who do not grasp the
+message about the kingdom of God.
+</p>
+
+<p>
+<i>Parable text</i>:
+</p>
+<blockquote>
+<p>
+4 As he was scattering the seed, some fell along the path, and
+the birds came and ate it up.
+</p>
+</blockquote>
+<p>
+<i>Explanation</i>:
+</p>
+<blockquote>
+<p>
+19 When anyone hears the message about the kingdom and does not understand
+it, the evil one comes and snatches away what was sown in their
+heart. This is the seed sown along the path.
+</p>
+</blockquote></li>
+<li><p>
+Seed in rocky places illustrates people who receive the message, but do
+not persevere in it.
+</p>
+
+<p>
+<i>Parable text</i>:
+</p>
+<blockquote>
+<p>
+5 Some fell on rocky places, where it did not have much soil. It sprang up
+quickly, because the soil was shallow. 6 But when the sun came up, the
+plants were scorched, and they withered because they had no root. 
+</p>
+</blockquote>
+<p>
+<i>Explanation</i>:
+</p>
+<blockquote>
+<p>
+20 The seed falling on rocky ground refers to someone who hears the word
+and at once receives it with joy. 21 But since they have no root, they
+last only a short time. When trouble or persecution comes because of the
+word, they quickly fall away. 
+</p>
+</blockquote>
+<p>
+This raises some interesting questions:
+</p>
+<ol class="org-ol">
+<li>In the parable, "It sprang up quickly" is "someone who hears the word."
+Did the person experience the life of Christ and then fall away? The
+defender of eternal security would say they never were a believer in
+the first place, but is that a sound interpretation? The defensor of
+eternal security will say that it is sound, because it supports the
+desired narrative and fits in with the interpretive lense of eternal
+security. However, it appears that in contrast to the individual who
+simply did not understand the message, this person actually did, and
+this person bore evidence of the new life in Christ; and that this
+person failed to persevere.</li>
+<li>What does "fall away" mean? The eternal security ally would say that
+such a person only looked like a genuine beleiver, but really wasn't in
+the first place. But, how can one "fall away" if they were not first
+connected to Christ in the first place?</li>
+</ol>
+<p>
+The seed on rocky ground seems to represent individuals who fall away from
+their salvation due to external pressures (trouble or persecution). For
+simplicity, we may call this the <i>weak Christian</i>, since he cannot endure
+the trouble or persecution.
+</p></li>
+<li><p>
+Seed falling among thorns is paired with individuals who fail to persevere
+due to a temporal, worldly perspective obscuring their perspective on
+things eternal.
+</p>
+
+<p>
+<i>Parable text</i>:
+</p>
+<blockquote>
+<p>
+7 Other seed fell among thorns, which grew up and choked the plants.
+</p>
+</blockquote>
+<p>
+<i>Explanation</i>:
+</p>
+<blockquote>
+<p>
+22 The seed falling among the thorns refers to someone who hears the word,
+but the worries of this life and the deceitfulness of wealth choke the
+word, making it unfruitful.
+</p>
+</blockquote>
+<p>
+Like the weak Christian, this, worldly Christian exhibits the new life,
+but fails to persevere. This new life is choked out (it could not be
+choked out if it was not alive in the first place) because this new
+believer is distracted from things eternal by things of the world.
+</p></li>
+<li><p>
+Seed falling on good soil represents fruitful Christians.
+</p>
+
+<p>
+<i>Parable text</i>:
+</p>
+<blockquote>
+<p>
+8 Still other seed fell on good soil, where it produced a crop—a hundred,
+sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
+</p>
+</blockquote>
+<p>
+<i>Explanation</i>:
+</p>
+<blockquote>
+<p>
+23 But the seed falling on good soil refers to someone who hears the word
+and understands it. This is the one who produces a crop, yielding a
+hundred, sixty or thirty times what was sown.”
+</p>
+</blockquote>
+<p>
+The defender of eternal security may suggest that since the fruitful
+Christian is described as one who hears and understands the message, the
+weak Christian (group 2) and the worldly Christian (group 3) did not
+understand the message and were not truly Christian in the first
+place. However, since Christ spoke of this seed germinating and groups 2
+and 3 also hearing, they have more in common with the fruitful Christian
+(group 4) than group 1 (those who did not understand). It is more likely
+that groups 2 and 3 really were Christians, and they understood the
+message, but not to the same extent that the Christians of group 4
+did. The fruitful Christians understood that Christ is their very life,
+and they held on to the end; but groups 2 and 3 did not fully grasp this,
+and they were persuaed by difficult external circumstances or a misguided
+heart that to abandon Christ would be better than to endure.
+</p></li>
+</ol>
+
+<p>
+The defender of eternal security may interpret this to be a warning
+against fruitlessness rather than an indication about the loss of one's
+salvation. Nonetheless, this indicates an individual can fall away from
+Christ.
+</p>
+
+<p>
+The next passage raises the stakes and gives a firm warning against
+fruitlessness, indicating the possibility of dire consequences of
+fruitlessness because of a failure to abide in Christ.      
+</p></li>
+
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=John%2015%3A1-8&amp;version=RSVCE">John 15:1-8 (RSVCE)</a>:
+</p>
+<blockquote>
+<p>
+15 “I am the true vine, and my Father is the vinedresser. 2 Every branch of
+mine that bears no fruit, he takes away, and every branch that does bear
+fruit he prunes, that it may bear more fruit. 3 You are already made clean by
+the word which I have spoken to you. 4 <b>Abide in me, and I in you.</b> As the
+branch cannot bear fruit by itself, unless it abides in the vine, neither can
+you, unless you abide in me. 5 I am the vine, you are the branches. He who
+abides in me, and I in him, he it is that bears much fruit, for apart from me
+you can do nothing. 6 <b>If a man does not abide in me, he is cast forth as a
+branch and withers; and the branches are gathered, thrown into the fire and
+burned.</b> 7 If you abide in me, and my words abide in you, ask whatever you
+will, and it shall be done for you. 8 By this my Father is glorified, that
+you bear much fruit, and so prove to be my disciples.
+</p>
+</blockquote>
+<p>
+This passage is taken from St. John's narrative of the Last Supper, and
+Jesus' disciples were present. These were His inner circle, the Twelve
+Apostles. Jesus conditions the bearing of fruit with abiding in Him, and He
+commands the Twelve to abide in Him. Several interesting questions arise
+here:
+</p>
+<ol class="org-ol">
+<li>Why would Jesus command the Twelve to abide in Him if it were impossible
+for them to stop abiding in Him?</li>
+<li>Why does Christ warn about <i>not abiding</i> in Him if it were impossible to
+stop abiding in Him?</li>
+<li>Furthermore, why would Jesus warn about the consequences of not abiding in
+Him if it were impossible to stop abiding in Him?</li>
+<li>What are the consequences of failing to abide in Jesus?
+<ol class="org-ol">
+<li>What does it mean to wither away?</li>
+<li>How can a branch wither if it is not first a healthy part of the vine?</li>
+<li>What does it mean for a withered branch to be burned in fire?</li>
+</ol></li>
+</ol></li>
+
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Matthew%2024%3A3-13&amp;version=RSVCE">Matthew 24:3-13 (RSVCE)</a>
+</p>
+<blockquote>
+<p>
+3 As he sat on the Mount of Olives, the disciples came to him privately,
+saying, “Tell us, when will this be, and what will be the sign of your coming
+and of the close of the age?” 4 And Jesus answered them, “*Take heed that no
+one leads you astray*. 5 For  many will come in my name, saying, ‘I am the
+Christ,’ and they will lead many astray. 6 And you will hear of wars and
+rumors of wars; see that you are not  alarmed; for this must take place, but
+the end is not yet. 7 For nation will rise against nation, and kingdom
+against kingdom, and there will be famines and earthquakes in various places:
+8 all this is but the beginning of the sufferings.
+</p>
+
+<p>
+9 “Then they will deliver you up to tribulation, and put you to death; and
+you will be hated by all nations for my name’s sake. 10 And then <b>many will
+fall away</b>, and betray one another, and hate one another. 11 And many false
+prophets will arise and lead many astray. 12 And because wickedness is
+multiplied, most men’s love will grow cold. 13 But <b>he who endures to the end 
+will be saved</b>. 
+</p>
+</blockquote>
+
+<p>
+Some key questions arise here:
+</p>
+<ol class="org-ol">
+<li>Why would Jesus have warned His disciples of being led astray if that were
+not possible?</li>
+<li>Why would Christ have been warning about <span class="underline">falling away</span> if that were not
+possible?</li>
+<li>What does <i>falling away</i> mean? How can one <i>fall away</i> if they were never
+joined to Christ in the first place?</li>
+<li>Does verse 13 inicate that it is possible to fail to endure to the end?
+This does not say <i>he who is saved endures to the end</i> (i.e., that
+salvation determines endurace as in the Calvinist or Baptist
+undrstanding), but rather that endurace merits salvation.</li>
+</ol></li>
+
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&amp;version=RSVCE">Hebrews 6:4-7 (RSVCE)</a>. The writer describes individuals who have truly tasted
+the heavenly gift and partaken of the Holy Spirit, and then fall away.
+</p>
+<blockquote>
+<p>
+4 For it is impossible to restore again to repentance those <span class="underline">who have once
+been enlightened</span>, who <span class="underline">have tasted the heavenly gift</span>, and <b>have become
+partakers of the Holy Spirit</b>, 5 and have <span class="underline">tasted the goodness of the word of
+God and the powers of the age to come</span>, 6 if they then commit apostasy, since
+they crucify the Son of God on their own account and hold him up to
+contempt. 7 For land which has drunk the rain that often falls upon it, and
+brings forth vegetation useful to those for whose sake it is cultivated,
+receives a blessing from God. 
+</p>
+</blockquote>
+<p>
+This is a very interesting and powerful verse, for it speaks of those cannot
+be <span class="underline">restored</span> <b>after</b> having become <span class="underline">partakers of the Holy Spirit</span>, having
+<span class="underline">tasted of the goodness of God</span> and having come to <span class="underline">know the powers of the
+age to come</span>.
+</p>
+
+<p>
+Proponents of eternal security would attempt to argue that these individuals
+only <i>appeared</i> to be saved, but it was the case that they were never saved
+in the first place. Some have even suggested to me in dialog that these
+people were not enlightened by the Holy Spirit, despite the fact that the
+text says they were enlightened and partakers of the Holy Spirit before
+needing an (impossible) restoration. It would be pointless to talk of
+<i>restoration</i> if the person had not initially been in a state of grace.
+</p>
+
+<p>
+Some have responded to this verse by saying that it's complex, unclear, and can be
+interpreted in many ways. This response is not adequate, because it does not
+suggest an interpretation that supports eternal security, but only attempts
+to obscure a verse that reads in a simple way to cast <b>significant doubt</b>
+upon eternal security.
+</p></li>
+
+<li><a href="https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&amp;version=RSVCE">1 Peter 1:10-11 (RSVCE)</a>. Peter suggests that it is possible to fall away.</li>
+
+<li><a href="https://www.biblegateway.com/passage/?search=Galatians%205%3A4&amp;version=NIV">Galatians 5:4 (RSVCE)</a>. St. Paul says individuals may fall away from grace. It
+is impossible to fall from grace if one were not first <i>in grace</i>.</li>
+<li><p>
+Philippians 3:7-14 (RSVCE). St. Paul speaks of <span class="underline">not already having attained</span>
+his goal, and not already having become perfected. He wanrs us to keep
+striving, like he does, to attain the <span class="underline">resurrection from the dead</span>:
+</p>
+<blockquote>
+<p>
+7 But whatever gain I had, I counted as loss for the sake of Christ. 8 Indeed
+I count everything as loss because of the surpassing worth of knowing Christ
+Jesus my Lord. For his sake I have suffered the loss of all things, and count
+them as refuse, in order that I may gain Christ 9 and be found in him, not
+having a righteousness of my own, based on law, but that which is through
+faith in Christ, the righteousness from God that depends on faith; 10 that I
+may know him and the power of his resurrection, and may share his sufferings,
+becoming like him in his death, 11 that if possible I may attain the
+resurrection from the dead. 
+</p>
+
+<p>
+12 Not that I have already obtained this or am already perfect; but I press on
+to make it my own, because Christ Jesus has made me his own. 13 Brethren, I
+do not consider that I have made it my own; but one thing I do, forgetting what
+lies behind and straining forward to what lies ahead, 14 I press on toward the
+goal for the prize of the upward call of God in Christ Jesus. 15 Let those of us
+who are mature be thus minded; and if in anything you are otherwise minded, God
+will reveal that also to you. 
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&amp;version=RSVCE">1 John 5:16-17 (RSVCE)</a>. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
+his brother committing what is not a mortal sin, he will ask, and God will
+give him life for those whose sin is not mortal. There is sin which is
+mortal; I do not say that one is to pray for that. 17 All wrongdoing is sin,
+but there is sin which is not mortal." Protestant Bible translations tend to
+render "mortal" as "sin leading to death". The important question is, what
+does <i>mortal</i> mean? It is helpful to notice that the context of this verse is
+in a discussion where St. John equates eternal life with a relationship with
+the Son of God (see <a href="https://www.biblegateway.com/passage/?search=1%20John%205%3A11-13&amp;version=RSVCE">11-13</a>): to possess the Son of God is to have eternal life
+(see also <a href="https://www.biblegateway.com/passage/?search=John%2017%3A1-3&amp;version=RSVCE">John 17:1-3</a>, where eternal life is equated with <b>knowing Jesus and
+the Father Who sent Him</b>). What, then, is death? It the opposite of being in
+relationship with and posessing the Son of God and having eternal life: it is
+separation from the Son of God, and being bereft of eternal life. Thus,
+commiting mortal sin is the tearing away of oneself from union with God, and
+thus the loss of eternal life.
+</p>
+
+<p>
+Thus, it is <span class="underline">not</span> that life is given to us in an eternal (timeless) and
+irrevocable manner; rather, eternity is a quality of the life that is given
+to us, and this life is none other than Jesus. We still have the opportunity
+to fail to abide in that life, and by our mortal sin to reject this life,
+which is eternal. In other words, <i>eternal</i> does not describe the way in
+which the life is given; rather, it describes the life itself, which is
+Jesus, Who is eternal. Nowhere in the Scriptures nor the tradition which gave
+us the Scripture does it say that our relationship with Christ is unbreakable
+by our own high-handed disobedience. Rather, we are left with a significant
+corpus of Scripture and tradition that indicates that our relationship with
+Christ can be lost through mortal sin or apostasy.
+</p></li>
+</ol>
+
+<p>
+Catholic Answers has an excellent article: <a href="https://www.catholic.com/tract/mortal-sin#">What the Early Church Believed:
+Mortal Sin</a>. This provides important context, because in the case of the Didache,
+these authors wrote the Scriptures (in the case of the Didache), or played
+important roles in the establishing of the Canon of Scripture identified in the
+late 4th Century.
+</p>
+
+<p>
+Additional Scriptures that proponents of eternal security use as "proof texts"
+for this dogma include:
+</p>
+<ol class="org-ol">
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=John%2010%3A27-30&amp;version=RSVCE">John 10:27-30 (RSVCE)</a>. "27 My sheep hear my voice, and I know them, and they
+follow me; 28 and I give them eternal life, and they shall never perish, and
+no one shall snatch them out of my hand. 29 My Father, who has given them to
+me, is greater than all, and no one is able to snatch them out of the
+Father’s hand." Proponents of eternal security may argue that if one could
+lose his salvation, then that life is not eternal. Or, they may point to the
+statement that no one may be snatched from the saving hand of Christ or God
+the Father.
+</p>
+
+<p>
+While this passage clearly teaches that a person's salvation cannot be
+disrupted by a third party, it <span class="underline">does not</span> clearly refute the idea that a
+person could walk away from their own salvation, that is to willingly crawl
+out of the saving hand of God. This possibility is left open.
+</p>
+
+<p>
+Another interpretation is that the eternal life given is in fact not eternal
+if it can be lost. We have already dealt with this point above, where we
+discuss John's own understanding of eternal ife as relationship with Jesus,
+for Jesus Himself is our life. <i>Eternal life</i> does not necessarily mean that
+life is given eternally, but that the life (Jesus) which is given to us is
+eternal. Other Scriptures (discussed above) leave open the possibiltiy of
+severing our relationship with Christ through mortal sin or failing to bear
+fruit.
+</p></li>
+
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Hebrews%2010%3A14&amp;version=RSVCE">Hebrews 10:14 (RSVCE)</a>. "14 For by a single offering he has perfected for all
+time those who are sanctified."
+</p>
+
+<p>
+Proponents of eternal security suggest that this past-tense language of
+having perfected believing Christians once and for all, so that salvation is
+a "one and done" deal. Yet, when read in context, this passage is not about
+eternal security. Hebrews 10 compares the sacrifice of Christ to the animal
+sacrifices of the old covenant. The animal sacrifices had to be repeated on a
+yearly basis, and it could not actually absolve sins; Christ's sacrifice
+occured only once, and it is done and efficacious for saving Christians.
+</p>
+
+<p>
+Furthermore, St. Paul speaks of <i>not being perfected yet</i> in Philippians 3:
+</p>
+<blockquote>
+<p>
+8 Indeed I count everything as loss because of the surpassing worth of
+knowing Christ Jesus my Lord. For his sake I have suffered the loss of all
+things, and count them as refuse, in order that I may gain Christ 9 and be
+found in him, not having a righteousness of my own, based on law, but that
+which is through faith in Christ, the righteousness from God that depends on
+faith; 10 that I may know him and the power of his resurrection, and may
+share his sufferings, becoming like him in his death, 11 that <i>if possible I
+may attain the resurrection from the dead</i>.
+</p>
+
+<p>
+12 <span class="underline">Not that I have already obtained this or am already perfect</span>; but I press
+on to make it my own, because Christ Jesus has made me his own. 13
+Brethren, I do not consider that I have made it my own; but one thing I do,
+forgetting what lies behind and straining forward to what lies ahead, 14 I
+press on toward the goal for the prize of the upward call of God in Christ Jesus. 
+</p>
+</blockquote></li>
+</ol>
+
+<p>
+In summary, the challenges to eternal security are great. While some passages
+even suggest that salvation can be lost, no passage decisively says that a
+Christian cannot reject his salvation. Based on the lack of evidence for eternal
+security, it seems very difficult to defend the concept.
+</p>
+
+<p>
+At this point, as so many doctrinal discussions do, it comes down to
+interpretations. The Baptist/Calvinist interpretation is for eternal security;
+the Arminian interpretation is against eternal security. Under the dogma of
+<i>sola scriptura</i>, there is no resolution here, or it would have been resolved
+hundreds of years ago. Fortunately, Christ did not leave us with <i>sola
+scriptura</i> and only the Scriptures to detetermine our doctrine infallibly; He
+gave us a Church, and instructed us to hand down the faith through Her teaching
+(). This was the very Church that raised up disciples and martyrs, endured
+persecution, and after hundreds of years, identified the Scriptures as those
+writings which could be read in the liturgy. The Church has the testimony of the
+authors of scripture, as well as the testimony of those Christians to whom the
+Scriptures were written. Eternal security was not part of Christian teaching
+historically and only emerged within the context of the Protestant Reformation
+with the likes of John Calvin.
+</p>
+
+</details>
+
+</div>
+
+
+<div class="info" id="org4629b2e">
+<p>
+<b>The Origin of the Protestant Doctrine of Eternal Security</b>
+</p>
+
+<details>
+<summary>Read more ...</summary>
+<p>
+The dogma of <b>eternal security*—the belief that a person who is truly saved
+cannot lose their salvation—did not exist as a formalized doctrine in the
+earliest centuries of Christianity. It developed over time, with its clearest
+articulation emerging during the *Protestant Reformation</b>, particularly in
+<b>Calvinist theology</b> in the 16th century.
+</p>
+
+<p>
+<span class="underline">Historical Development</span>:
+</p>
+
+<p>
+<i>Early Christianity (1st–5th centuries)</i>:
+</p>
+<ul class="org-ul">
+<li>Early Church Fathers (e.g., Ignatius of Antioch, Origen, Tertullian,
+Augustine) generally believed that salvation could be lost through serious sin
+or apostasy.</li>
+<li>The Christian life was seen as a process requiring perseverance; passages like
+Hebrews 6:4–6 and Matthew 24:13 were interpreted to mean believers must remain
+faithful to the end.</li>
+</ul>
+<p>
+<i>Medieval Period (5th–15th centuries)</i>:
+</p>
+<ul class="org-ul">
+<li>The Western Church (later Roman Catholic) maintained that <b>grace can be
+lost</b> through mortal sin, but restored through repentance and the sacraments
+(especially confession).</li>
+<li>No concept resembling "once saved, always saved" was part of official doctrine.</li>
+</ul>
+
+<p>
+<i>Protestant Reformation (16th century)</i>:
+</p>
+<ul class="org-ul">
+<li><b>Martin Luther</b> taught justification by faith alone, but did not emphasize
+eternal security in the Calvinist sense.</li>
+<li><b>John Calvin</b> developed the doctrine of the *perseverance of the saints*—-a core
+part of his theology (TULIP). He taught that those whom God elects will
+inevitably persevere in faith and cannot fall away.
+<ul class="org-ul">
+<li>This is the clearest root of the modern doctrine of <b>eternal security</b>.</li>
+</ul></li>
+<li><b>Other Reformers</b> (like the Anabaptists and later Arminians) rejected this and
+emphasized the possibility of falling from grace.</li>
+</ul>
+
+<p>
+<i>Post-Reformation and Evangelical Movements</i>:
+</p>
+<ul class="org-ul">
+<li><b>Arminianism</b> (developed by Jacobus Arminius, early 17th century) opposed
+Calvinism and taught that believers could lose their salvation.</li>
+<li>In the 18th–19th centuries, some evangelical groups (especially Baptists and
+later dispensationalists) promoted <b>eternal security</b> as a central tenet.</li>
+<li>The <b>"once saved, always saved"</b> slogan is especially common in modern
+evangelical and fundamentalist circles, particularly among Southern Baptists.</li>
+</ul>
+
+<p>
+<i>Summary</i>:
+</p>
+<ul class="org-ul">
+<li>The <b>formal doctrine</b> of eternal security <b>arose during the Reformation</b> (16th
+century) and is especially associated with <b>John Calvin</b>.</li>
+<li>It was not held by the early Church or the medieval Church.</li>
+<li>It remains a <b>point of disagreement</b> between different Christian traditions
+(e.g., Calvinism vs. Arminianism, Protestantism vs. Catholicism/Orthodoxy).</li>
+</ul>
+</details>
+
+</div>
+
+<p>
+Proponents of <i>sola fide</i> also may make a distinction between justification and
+sanctification. Justification is a process by which a human is declared
+righteous and qualified for salvation, despite personal flaws and moral
+imperfection. Justification is believed by <i>sola-fide</i>-ists to be independent of
+works, but sanctification&#x2013;the process of becoming holy and Christ-like&#x2013;is not
+necessary for salvation.
+</p>
+
+<p>
+In view of the fact that salvation (justification) is by faith alone through
+grace alone, another belief is common among proponents of <i>sola fide</i>: that the
+Gospel (Good News of salvation) depends on faith, not works; and, anyone who
+trust in anything else for salvation apart from faith is condemned. This is
+directly supported by a verse from Paul the Apostle in the <i>Epistle to the
+Galatians</i>:
+</p>
+<blockquote>
+<p>
+You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus
+Christ was publicly exhibited as crucified! 2 The only thing I want to learn
+from you is this: Did you receive the Spirit by doing the works of the law or by
+believing what you heard? 3 Are you so foolish? Having started with the Spirit,
+are you now ending with the flesh? 4 Did you experience so much for nothing?—if
+it really was for nothing. 5 Well then, does God supply you with the Spirit
+and work miracles among you by your doing the works of the law, or by your
+believing what you heard? 
+</p>
+
+<p>
+Just as Abraham “believed God, and it was reckoned to him as righteousness,” 
+so, you see, those who believe are the descendants of Abraham. And the
+scripture, foreseeing that God would justify the Gentiles by faith, declared the
+gospel beforehand to Abraham, saying, “All the Gentiles shall be blessed in
+you.” For this reason, those who believe are blessed with Abraham who
+believed. 
+</p>
+
+<p>
+For all who rely on the works of the law are under a curse; for it is
+written, “Cursed is everyone who does not observe and obey all the things
+written in the book of the law.” Now it is evident that no one is justified
+before God by the law; for “The one who is righteous will live by faith.”[b] 12
+But the law does not rest on faith; oMn the contrary, “Whoever does the works of
+the law will live by them.” Christ redeemed us from the curse of the law
+by becoming a curse for us—for it is written, “Cursed is everyone who hangs on a
+tree”— in order that in Christ Jesus the blessing of Abraham might come to
+the Gentiles, so that we might receive the promise of the Spirit through faith.
+</p>
+
+<p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%203%3A1-14&amp;version=NRSVCE">Galatians 3:1-14 (NRSVCE)</a>
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org58c89d5" class="outline-3">
+<h3 id="org58c89d5"><span class="section-number-3">1.3.</span> Evidence Against <i>Sola Fide</i></h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+The first and most importnat an important piece of evidence against <i>sola fide</i>
+is found in the body of Scripture itself:
+</p>
+<blockquote>
+<p>
+You see that a person is <b>justified by works</b> and <b>not by faith alone</b>. <a href="https://www.biblegateway.com/passage/?search=James%202%3A24&amp;version=NRSVCE">James 2:24
+(NRSVCE)</a>
+</p>
+</blockquote>
+<p>
+Interestingly, this is the <b>only place</b> in <i>all of the Christian Scriptures</i> where
+the "faith alone" is used, and it clearly states that salvation is <b>not</b> by
+faith alone, but rather, <b>works play a role in justification</b>.
+</p>
+
+<p>
+At its very best, <i>sola fide</i> is not scriptural, but rather <b>antiscriptural</b>,
+that is, contrary to the Scriptures.
+</p>
+
+<p>
+The Gospel is <b>not</b> that man is saved by grace alone through faith alone.
+</p>
+
+<p>
+How can we balance James with the Scriptures mentioned above that indicate works
+do not save a person? The Catholic response is that the preponderance of the
+above works do not speak about <span class="underline">works in general</span> as being ineffectual, but
+rather the <b>works of the law</b> are ineffectual. What are the works of the law?
+These are <b>circumcision, animal sacrifices, etc</b>. It is these works of the law
+that are inneffectual for salvation, but good works done in <i>charity</i> are in fact
+meritorious for salvation.
+</p>
+
+<p>
+In fact, let us review the above passges and highlight the concept of the <b>works
+of the law</b> in them:
+</p>
+<ol class="org-ol">
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Romans%203%3A20&amp;version=NRSVCE">Romans 3:20 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+For “no human being will be justified in his sight” by deeds prescribed by
+the law, for through the law comes the knowledge of sin.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Romans%203%3A27&amp;version=NRSVCE">Romans 3:27 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+Then what becomes of boasting? It is excluded. By what law? By that of works?
+No, but by the law of faith.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%202%3A16&amp;version=NRSVCE">Galatians 2:16 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+yet we know that a person is justified not by the <span class="underline">works of the law</span> but
+through faith in Jesus Christ. And we have come to believe in Christ
+Jesus, so that we might be justified by faith in Christ, and not by doing
+the works of the law, because no one will be justified by the <span class="underline">works of the
+law</span>.
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%203%3A5&amp;version=NRSVCE">Galatians 3:5 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+Well then, does God supply you with the Spirit and work miracles among you by
+your doing the <span class="underline">works of the law</span>, or by your believing what you heard?
+</p>
+</blockquote></li>
+<li><p>
+<a href="https://www.biblegateway.com/passage/?search=Galatians%203%3A10%2D13&amp;version=NRSVCE">Galatians 3:11-13 (NRSVCE)</a>
+</p>
+<blockquote>
+<p>
+For all who rely on the <span class="underline">works of the law</span> are under a curse; for it is
+written, “Cursed is everyone who does not observe and obey all the things
+written in the book of the <span class="underline">law</span>.” Now it is evident that no one is justified
+before God by the <span class="underline">law</span>; for “The one who is righteous will live by faith.”[a]
+12 But the <span class="underline">law</span> does not rest on faith; on the contrary, “Whoever does the
+<span class="underline">works of the law</span> will live by them.” 
+</p>
+</blockquote></li>
+</ol>
+
+<p>
+Now, we can see the importance of works for salvation. We start with the words
+of Jesus, where he speaks of the judgement of the righteous unto eternal life,
+and the unrighteous to damnation, where righteousness is tied to a person's
+<i>works</i>: 
+</p>
+<blockquote>
+<p>
+31 “When the Son of Man comes in his glory, and all the angels with him, he will
+sit on his glorious throne. 32 All the nations will be gathered before him, and
+he will separate the people one from another as a shepherd separates the sheep
+from the goats. 33 He will put the sheep on his right and the goats on his left. 
+</p>
+
+<p>
+34 “Then the King will say to those on his right, ‘Come, you who are blessed by
+my Father; take your inheritance, the kingdom prepared for you since the
+creation of the world. 35 For I was hungry and you gave me something to eat, I
+was thirsty and you gave me something to drink, I was a stranger and you invited
+me in, 36 I needed clothes and you clothed me, I was sick and you looked after
+me, I was in prison and you came to visit me.’ 
+</p>
+
+<p>
+37 “Then the righteous will answer him, ‘Lord, when did we see you hungry and
+feed you, or thirsty and give you something to drink? 38 When did we see you a
+stranger and invite you in, or needing clothes and clothe you? 39 When did we
+see you sick or in prison and go to visit you?’ 
+</p>
+
+<p>
+40 “The King will reply, ‘Truly I tell you, whatever you did for one of the
+least of these brothers and sisters of mine, you did for me.’ 
+</p>
+
+<p>
+41 “Then he will say to those on his left, ‘Depart from me, you who are cursed,
+into the eternal fire prepared for the devil and his angels. 42 For I was hungry
+and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,
+43 I was a stranger and you did not invite me in, I needed clothes and you did
+not clothe me, I was sick and in prison and you did not look after me.’ 
+</p>
+
+<p>
+44 “They also will answer, ‘Lord, when did we see you hungry or thirsty or a
+stranger or needing clothes or sick or in prison, and did not help you?’
+</p>
+
+<p>
+45 “He will reply, ‘Truly I tell you, whatever you did not do for one of the
+least of these, you did not do for me.’
+</p>
+
+<p>
+46 “Then they will go away to eternal punishment, but the righteous to eternal
+life."
+</p>
+
+<p>
+(Matthew 15:31-46 NIV)
+</p>
+</blockquote>
+
+<p>
+St. Paul also indicates that a person must work toward salvation:
+</p>
+<blockquote>
+<p>
+"12 Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much
+more in my absence, work out your own salvation with fear and trembling; 13 for
+it is God who works in you both to will and to do for His good pleasure." 
+(Philippians 2:12-13 NIV).
+</p>
+</blockquote>
+
+<p>
+Additionally, John speaks of the judgment of all the dead:
+</p>
+<blockquote>
+<p>
+11 Then I saw a great white throne and him who was seated on it. The earth and
+the heavens fled from his presence, and there was no place for them. 12 And I
+saw the dead, great and small, standing before the throne, and books were
+opened. Another book was opened, which is the book of life. The dead were judged
+according to what they had done as recorded in the books. 13 The sea gave up the
+dead that were in it, and death and Hades gave up the dead that were in them,
+and each person was judged according to what they had done. 14 Then death and
+Hades were thrown into the lake of fire. The lake of fire is the second
+death. 15 Anyone whose name was not found written in the book of life was thrown
+into the lake of fire. (Revelation 20:11-15, NIV)
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Blair</p>
+<p class="date">Created: 2025-05-07 Wed 07:49</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

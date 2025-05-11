@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-04-20 Sun 10:06 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Blair" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org3d8f34c">1. The Mass: an Overview</a>
+<ul>
+<li><a href="#orgdd92c75">1.1. Introduction</a></li>
+<li><a href="#org30ba088">1.2. An Interpretive Lens: the Eucharist</a></li>
+<li><a href="#org9cc94b0">1.3. The Mass as an Intimate Dance with God</a></li>
+<li><a href="#org0e9d692">1.4. The Mass as Two-fold a Sacrifice</a></li>
+</ul>
+</li>
+<li><a href="#orgae4458c">2. The Real Presence of Christ in the Eucharist</a>
+<ul>
+<li><a href="#org35cb96f">2.1. Scriptural Basis for the Real Presence</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3d8f34c" class="outline-2">
+<h2 id="org3d8f34c"><span class="section-number-2">1.</span> The Mass: an Overview</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgdd92c75" class="outline-3">
+<h3 id="orgdd92c75"><span class="section-number-3">1.1.</span> Introduction</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+I cannot give a comprehensive overview of the Mass here, since many works have
+been written over two millenia about this. Instead, I will attempt to give my
+understanding of the Mass to provide an overview for beginners.
+</p>
+</div>
+</div>
+<div id="outline-container-org30ba088" class="outline-3">
+<h3 id="org30ba088"><span class="section-number-3">1.2.</span> An Interpretive Lens: the Eucharist</h3>
+<div class="outline-text-3" id="text-1-2">
+
+<div id="org2a332c4" class="figure">
+<p><img src="./img/holy-eucharist-992x480_jpg_1200x.webp.jpeg" alt="holy-eucharist-992x480_jpg_1200x.webp.jpeg" />
+</p>
+</div>
+
+<p>
+Understanding the Eucharist&#x2013;that is, the elements of Communion&#x2013;is perhaps the
+most important key to understanding the Catholic Mass and the Catholic
+worldview. Common among the orthodox Christians is that Jesus Christ is truly
+present in the elements of Communion, called the Eucharist in the Catholic
+Church. By <i>orthodox Christians</i>, we mean the Christian churches established
+throughout the centuries <i>prior</i> to the Protestant Reformation, such as the
+Armenians, the Copts, the Greek Orthodox, the Russian Orthodox, etc.
+</p>
+
+<p>
+Tthe belief that Jesus Christ is truly present in the elements of the
+Eucharist. This concept also is referred to the <i>Real Presence</i> of Christ in the
+Eucharist, and the specific version of the Real Presence taught by the Catholic
+church involves <i>transubstantiation</i>.
+</p>
+
+<p>
+Transubstantiation means that what looks like bread is God. At some point, it
+was made as bread. It has all the outward appearances (technically, called the
+<i>accidents</i>) of bread, and in its essence or <i>substance</i>, it is bread. However,
+at the words of consecration ("This is my body" or "This is the cup of my
+blood"), bread and wine are changed in substance from bread and wine to the very
+flesh and blood of God.
+</p>
+
+<p>
+For orthodox Christians, this means that being in the presence of the Eucharist
+is a very holy occasion, since it is the very presence of Jesus Christ, the
+living God. This makes such occasions every bit as holy as the encounter Moses
+had with the burning bush:
+</p>
+<blockquote>
+<p>
+1 Now Moses was tending the flock of Jethro his father-in-law, the priest of
+Midian. And he led the flock to the back of the desert, and came to Horeb, the
+mountain of God. 2 And the Angel of the Lord appeared to him in a flame of fire
+from the midst of a bush. So he looked, and behold, the bush was burning with
+fire, but the bush was not consumed. 3 Then Moses said, “I will now turn aside
+and see this great sight, why the bush does not burn.” 
+</p>
+
+<p>
+4 So when the Lord saw that he turned aside to look, God called to him from the
+midst of the bush and said, “Moses, Moses!” 
+</p>
+
+<p>
+And he said, “Here I am.”
+</p>
+
+<p>
+5 Then He said, “Do not draw near this place. Take your sandals off your feet,
+for the place where you stand is holy ground.” 6 Moreover He said, “I am the God
+of your father—the God of Abraham, the God of Isaac, and the God of Jacob.” And
+Moses hid his face, for he was afraid to look upon God.
+</p>
+
+<p>
+<a href="https://www.biblegateway.com/passage/?search=Exodus%203%3A1-5&amp;version=NKJV">Exodus 3:1-5 (NKJV)</a>
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org9cc94b0" class="outline-3">
+<h3 id="org9cc94b0"><span class="section-number-3">1.3.</span> The Mass as an Intimate Dance with God</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Because of the Real Presence of Jesus in the Eucharist, the Mass provides a real
+and intimate way for us to have contact with our Lord. I like to think of it as
+an intimate dance with the Divine, or perhaps as a call and response between a
+Divne lover, and me, His beloved.
+</p>
+
+<p>
+The Mass can be divided roughly into two parts: the liturgy of the Word, and the
+liturgy of the Eucharist. We can think of the liturgy of the Word as God's
+divine call to us, and the liturgy of the Eucharist as our human response to
+God's call.
+</p>
+
+<p>
+The liturgy of the Word  contains the introductory rites and readings of
+Scripture. It culminates with a reading from the Gospel, for which we stand in
+honor of Jesus, acknowledging His presence (non-Eucharistic) in the reading of
+the Gospels (the New Testament books of Matthew, Mark, Luke, and John). The 
+ligurgy of the Word then typically concludes 
+with a homily, in which the priest helps us connect the readings with our
+present lives and draws on how we may apply the Word of God personally
+today. Depending on the day of the week or the liturgical calendar, there may be
+a profession of the Nicene creed. This completes the divine call in the Liturgy
+of the Word.
+</p>
+
+<div class="note" id="orged927bc">
+<p>
+Christians consider the Scriptures to be the divinely-inspired Word of God in written form. Here, when
+you see <i>Word</i>, think <i>revelation</i> of God. The fullest revelation of God is Jesus Christ, God in human form. See <a href="https://www.biblegateway.com/passage/?search=Hebrews%201%3A1-3&amp;version=NIV">Hebrews 1:1-3</a>
+</p>
+
+</div>
+
+<p>
+After the homily, we transition to the liturgy of the Eucharist. The climax of
+the liturgy of the Eucharist is when the priest consecrates the bread and wine,
+transforming it to the Body and Blood of Jesus Christ, followed by the personal
+reception of the Body and Blood by the Catholic faithful. When receiving the
+Eucharist, we are declaring with our actions that we believe in all the
+teachings of the Catholic Church, and we are offering ourselves to God, just as
+He offers Himself to us in the Eucharist. We highlight several
+parts of the liturgy of the Eucharist::
+</p>
+<ol class="org-ol">
+<li>It may begin with a period of <i>intercession</i>, where the church prays together
+for various needs.</li>
+<li>Then, there will be an offering of the people (an offering collection plate
+or basket is passed around), and the bread and wine that will become the Body
+and Blood of Jesus at the <i>Consecration</i>.  The bread and wine also are
+regarded as <i>gifts</i> from the faithful</li>
+<li>The priest then prepares the gifts to serve as the offering. He says prayers
+for himself and the people and the church.</li>
+<li>Finally, when the altar is prepared, the priest invites us to pray with him
+for what will become a sacrifice of Christ's Body and Blood in Eucharistic
+form to God. We stand and respond in prayer, finally concluding with "Holy,
+Holy, Holy, is the Lord God almighty. Heaven and earth are full of Your
+glory. Hosana in the highest. Hosana in the highest." Then, we kneel as the
+priest undrtakes the holiest part of the Mass, the Consecration of the gifts.</li>
+<li><p>
+The Consecration begins with prayers by the priest. He shows the bread to the
+faithful and recites teh words of Jesus, bowing. WHen says, "This is my
+Body," we believe that the Holy Spirit works through the priest to
+transubstantiate the bread: it is no longer bread, but God Himself, in His
+fullness&#x2013;Body, Blood, Soul, and Divinity. The consecration of the bread is
+followed by the priest elevating the Body of Christ.
+</p>
+
+<p>
+Similarly, the priest consecrates the wine with the words of Jesus, "&#x2026; this
+is the chalice of my blood &#x2026;", followed by an elevation.
+</p></li>
+<li>Next, we pray the Lord's prayer, inviting God to be Lord of our lives with
+the words, "&#x2026;Thy kingdom come, Thy will be done&#x2026;"</li>
+<li><p>
+Following this, the Catholic faithful are invited to receive the Body and
+Blood of Christ. This is the most intimate interaction we can have with God
+in this present life, and far more intimate than any act of intimacy we can
+perform with another human.
+</p>
+
+<p>
+Non-Catholics and Catholics not properly prepared to receive the Eucharist
+also may approach, but they should not receive. Catholics and 
+non-Catholics alike can indicate their intention <b>not to receive</b> by crossing
+their arms in front of their chest. The priest or Eucharistic minister will
+then give a blessing. I recommend non-Catholics and unprepared Catholics
+still approach the priest or Eucharistic minister, since this allows a better
+flow of people. The faithful return to their pews and kneel reverently in
+prayer of thanksgiving for the great and intimate gift of Christ's Body that
+He himself gives us.
+</p></li>
+<li>The priest will then cleanse the sacred vessels, give closing prayers and a
+blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org0e9d692" class="outline-3">
+<h3 id="org0e9d692"><span class="section-number-3">1.4.</span> The Mass as Two-fold a Sacrifice</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
+two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
+behalf of the Church. The other sacrifice is that of the lay faithful, who
+present their bodies to God as a living offering, in accordance with <a href="https://www.biblegateway.com/passage/?search=Romans%2012%3A1-2&amp;version=NKJV">Romans
+12:1-2</a>.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgae4458c" class="outline-2">
+<h2 id="orgae4458c"><span class="section-number-2">2.</span> The Real Presence of Christ in the Eucharist</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org35cb96f" class="outline-3">
+<h3 id="org35cb96f"><span class="section-number-3">2.1.</span> Scriptural Basis for the Real Presence</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Belief in the Real Presence comes from the teachings of St. Paul and Jesus
+Himself. Starting with Jesus, we have Jesus saying in <a href="https://www.biblegateway.com/passage/?search=John%206%3A22-69&amp;version=ESV">John 6:22-69 (ESV)</a> that He
+would give believers His flesh and blood to eat and drink. When this repulsed His audence, they
+admitted this was a hard saying. Jesus didn't say they misunderstood Him, nor
+did he indicate that He was being symbolic. In fact, when many of His followers
+left Him over this, he did not say they misunderstood Him, but rather let them
+go and asked the twelve apostles if they, too, were going to leave Him. He even
+used graphic language using Greek that made it clear that they should <i>chew on</i>
+or <i>gnaw on</i> His flesh. Later, at the Last Supper, this is what Jesus said to
+His disciples:
+</p>
+<blockquote>
+<p>
+26 And as they were eating, Jesus took bread, blessed and broke it, and gave
+it to the disciples and said, “Take, eat; this is My body.” 
+</p>
+
+<p>
+27 Then He took the cup, and gave thanks, and gave it to them, saying, “Drink
+from it, all of you. 28 For this is My blood of the [d]new covenant, which is
+shed for many for the remission of sins.
+</p>
+
+<p>
+(Matthew 26:26-28 NKJV)
+</p>
+</blockquote>
+
+<p>
+St. Paul's retelling of the Last Supper also says Jesus told His disciples to
+eat of His body:
+</p>
+<blockquote>
+<p>
+23 For I received from the Lord that which I also delivered to you: that the
+Lord Jesus on the same night in which He was betrayed took bread; 24 and when He
+had given thanks, He broke it and said, “Take, eat; this is My body which is
+[e]broken for you; do this in remembrance of Me.” 25 In the same manner He also
+took the cup after supper, saying, “This cup is the new covenant in My
+blood. This do, as often as you drink it, in remembrance of Me.” 
+</p>
+
+<p>
+26 For as often as you eat this bread and drink this cup, you proclaim the
+Lord’s death till He comes.
+</p>
+
+<p>
+(1 Corinthians 11:23-26 NKJV)
+</p>
+</blockquote>
+
+<p>
+The doctrine of the Real Presence also comes with some important historical
+evidence. Since John the Evangelist wrote John 6, one of John's students,
+Ignatius of Antioch writes clearly about his interpretation of John's work: he
+interpret's his teacher's writing in John 6 to be <i>litera</i>, not merely
+symbolic. Here is what Ignatius writes about the Real Presence:
+</p>
+<blockquote>
+<p>
+But consider those who are of a different opinion with respect to the grace of
+Christ which has come unto us, how opposed they are to the will of God. They
+have no regard for love; no care for the widow, or the orphan, or the oppressed;
+of the bond, or of the free; of the hungry, or of the thirsty.
+</p>
+
+<p>
+They abstain from the Eucharist and from prayer, because they confess not the
+Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our
+sins, and which the Father, of His goodness, raised up again. Those, therefore,
+who speak against this gift of God, incur death in the midst of their disputes.
+</p>
+
+<p>
+(Ignatius of Antioch, <i>Letter to the Smyrneans</i>, Chapters 6-7, 110 AD (<a href="https://www.newadvent.org/fathers/0109.htm">link</a>)
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Blair</p>
+<p class="date">Created: 2025-04-20 Sun 10:06</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
