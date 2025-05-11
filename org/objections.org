@@ -302,91 +302,8 @@ Some interesting examples that have been brought up to me include:
    #+html: </details>
 
    #+end_info
-       
-2. *The Ecclesial Structure*.
-
-   #+begin_info
-   *Scriptural Origins of Ecclesial Structure*
-
-   #+html: <details>
-   #+html: <summary>Read more ...</summary>
-    
-   The modern Catholic ecclesial structure—composed primarily of *bishops*,
-   *priests*, and *deacons*—has both Scriptural roots and historical
-   development. The New Testament lays the foundation for this threefold
-   ministry, which the Catholic Church understands as being instituted by Christ
-   and developed under the guidance of the Holy Spirit in the early Church. 
-
-   Below is a breakdown of Scriptural support for each of these offices:
-
-   - *Bishops* (Greek: ἐπίσκοπος – episkopos, "overseer")
-     - Scriptural references
-       - Acts 1:20 – Peter interprets Psalm 109:8 to establish a replacement for
-         Judas: “His office let another take.” The Greek word used is episkopē.
-       - Acts 20:28 – Paul tells the elders of Ephesus:
-         #+begin_quote
-         “Keep watch over yourselves and over all the flock, of which the Holy
-         Spirit has made you overseers (episkopoi), to shepherd the church of
-         God.” 
-         #+end_quote
-       - 1 Timothy 3:1–7 – Paul describes the qualities of a bishop/overseer
-         (episkopos):
-         #+begin_quote
-         “If anyone aspires to the office of bishop, he desires a noble task...”
-         #+end_quote
-     - *Early Church understanding*:
-       - The terms presbyter (elder) and episkopos (overseer) were used somewhat
-         interchangeably early on, but by the 2nd century (cf. St. Ignatius of
-         Antioch, still very early in the second century), a clearer distinction
-         was made between bishops and presbyters (priests).
-
-   - *Priests* (Greek: πρεσβύτερος – /presbyteros/, "elder")
-     - Scriptural References:
-       - Acts 14:23 – Paul and Barnabas appoint elders (presbyteroi) in each
-         church:
-         #+begin_quote
-         “And when they had appointed elders for them in every church...”
-         #+end_quote
-       - 1 Timothy 5:17 –
-         #+begin_quote
-         “Let the elders who rule well be considered worthy of double honor,
-         especially those who labor in preaching and teaching.”
-         #+end_quote
-       - James 5:14 –
-         #+begin_quote
-         “Is any among you sick? Let him call for the elders of the church, and
-         let them pray over him, anointing him with oil in the name of the
-         Lord.”
-         #+end_quote
-     - Note: The term /presbyteros/ evolved into the English word “priest”,
-       particularly as it passed through Latin (presbyter). In Catholic
-       theology, presbyters share in the bishop’s priesthood and are primarily
-       responsible for the sacraments and preaching in local communities.
-   - *Deacons* (Greek: διάκονος – diakonos, "servant" or "minister")
-     - Scriptural References:
-       - Acts 6:1–6 – Seven men (including Stephen and Philip) are appointed to
-         serve tables so the apostles can focus on prayer and the Word. While
-         not called "deacons" here, this is traditionally seen as the origin of
-         the diaconate.
-       - Philippians 1:1 – Paul addresses:
-         #+begin_quote
-         “To all the saints in Christ Jesus who are at Philippi, with the
-         bishops (episkopoi) and deacons (diakonoi).” 
-         #+end_quote
-       - 1 Timothy 3:8–13 – Paul gives qualifications for deacons, showing it as
-         a distinct and recognized office.
-
-   *Historical Continuity*
-
-   The Catholic Church sees this structure as apostolic in origin, with apostolic 
-   succession preserving the offices—especially the episcopate—from the time of
-   the apostles to today. The bishops are considered the successors to the
-   apostles; priests are their collaborators, and deacons continue the
-   service-oriented ministry first seen in Acts 6.
-   #+html: </details>     
-   #+end_info
-
-3. *A Celibate Priesthood*
+   
+2. *A Celibate Priesthood*
    One argument against the validity of the is suggests that the Catholic Church
    mandates celibacy for its priesthood, and this is contrary to the Scriptural
    allowances for church leaders to be married and have children. We can borrow
@@ -575,4 +492,100 @@ church, but it is never mandated. Devotions can develop.
 This quote was copied from Kenny Burchard's blog of [[https://kennyburchard.com/5-ds-of-catholic-thinking/][January 21, 2019]], for which
 he cites pages 83-87 from [[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Currie's book]] (Ignatius Press, 1996)
 #+html: </details>
+#+end_info
+
+** The Catholic Church as is a Bloated, Unscriptural Bureaucracy
+
+Some critics of the Catholic Church claim that it is an organization that looks
+unlike the early church of the Bible. It is a behemoth of an organization with
+a structure not described in the Scriptures.
+
+This criticism suffers from many flaws:
+1. Underlying this claim is another claim: that all valid Christian practices
+   and beliefs must be explicitly found in the Bible. The great irony here is
+   that this claim does not pass its own test: it is found nowhere in the Bible
+   that a belief or practice must be found in the Bible.
+2. The seed of the present-day ecclesial structure *is* in fact found in the
+   Bible. See the discussion box below for more details.
+
+#+begin_info
+*Scriptural Origins of Ecclesial Structure*
+   
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+    
+The modern Catholic ecclesial structure—composed primarily of *bishops*,
+*priests*, and *deacons* —-has both Scriptural roots and historical
+development. The New Testament lays the foundation for this threefold
+ministry, which the Catholic Church understands as being instituted by Christ
+and developed under the guidance of the Holy Spirit in the early Church. 
+
+Below is a breakdown of Scriptural support for each of these offices:
+
+- *Bishops* (Greek: ἐπίσκοπος – episkopos, "overseer")
+  - Scriptural references
+    - Acts 1:20 – Peter interprets Psalm 109:8 to establish a replacement for
+      Judas: “His office let another take.” The Greek word used is episkopē.
+    - Acts 20:28 – Paul tells the elders of Ephesus:
+      #+begin_quote
+      “Keep watch over yourselves and over all the flock, of which the Holy
+      Spirit has made you overseers (episkopoi), to shepherd the church of
+      God.” 
+      #+end_quote
+    - 1 Timothy 3:1–7 – Paul describes the qualities of a bishop/overseer
+      (episkopos):
+      #+begin_quote
+      “If anyone aspires to the office of bishop, he desires a noble task...”
+      #+end_quote
+    - *Early Church understanding*:
+      - The terms presbyter (elder) and episkopos (overseer) were used somewhat
+        interchangeably early on, but by the 2nd century (cf. St. Ignatius of
+        Antioch, still very early in the second century), a clearer distinction
+        was made between bishops and presbyters (priests).
+
+- *Priests* (Greek: πρεσβύτερος – /presbyteros/, "elder")
+  - Scriptural References:
+    - Acts 14:23 – Paul and Barnabas appoint elders (presbyteroi) in each
+      church:
+      #+begin_quote
+      “And when they had appointed elders for them in every church...”
+      #+end_quote
+    - 1 Timothy 5:17 –
+      #+begin_quote
+      “Let the elders who rule well be considered worthy of double honor,
+      especially those who labor in preaching and teaching.”
+      #+end_quote
+    - James 5:14 –
+      #+begin_quote
+      “Is any among you sick? Let him call for the elders of the church, and
+      let them pray over him, anointing him with oil in the name of the
+      Lord.”
+      #+end_quote
+  - Note: The term /presbyteros/ evolved into the English word “priest”,
+    particularly as it passed through Latin (presbyter). In Catholic
+    theology, presbyters share in the bishop’s priesthood and are primarily
+    responsible for the sacraments and preaching in local communities.
+- *Deacons* (Greek: διάκονος – diakonos, "servant" or "minister")
+  - Scriptural References:
+    - Acts 6:1–6 – Seven men (including Stephen and Philip) are appointed to
+      serve tables so the apostles can focus on prayer and the Word. While
+      not called "deacons" here, this is traditionally seen as the origin of
+      the diaconate.
+    - Philippians 1:1 – Paul addresses:
+      #+begin_quote
+      “To all the saints in Christ Jesus who are at Philippi, with the
+      bishops (episkopoi) and deacons (diakonoi).” 
+      #+end_quote
+    - 1 Timothy 3:8–13 – Paul gives qualifications for deacons, showing it as
+      a distinct and recognized office.
+
+*Historical Continuity*
+
+The Catholic Church sees this structure as apostolic in origin, with apostolic 
+succession preserving the offices—especially the episcopate—from the time of
+the apostles to today. The bishops are considered the successors to the
+apostles; priests are their collaborators, and deacons continue the
+service-oriented ministry first seen in Acts 6.
+
+#+html: </details>     
 #+end_info
