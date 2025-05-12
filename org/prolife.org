@@ -26,4 +26,86 @@ being aborted. She now counsels other victims of sexual assault to choose life.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/RMjJBrN1Rlw?si=sq5uzniIoBcgb-qN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+** TODO To Save the Mother's Life
+
+#+begin_note
+*A Maternal Sacrifice*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+
+
+One heroic mother is St. Gianna Beretta Molla. She was diagnosed with a uterine
+tumor while pregnant with her fourth child. A [[https://www.catholicnewsagency.com/saint/gianna-beretta-molla-741][Catholic News Agency article]]
+reads,
+#+begin_quote
+The doctors gave her three choices: an abortion, which would save her life and
+allow her to have more children but take the life of her baby; a complete
+hysterectomy, which would save her life but prevent her from having more
+children and take her baby’s life; or removal of the fibroma only, which posed
+the risk of future complications but could save the life of her baby. 
+
+Gianna chose to have only the tumor removed. She was willing to lose her life
+for the sake of her baby’s. She knew that she may not make it through delivery,
+but she made it very clear that if a choice needed to be made between saving her
+own life or the child’s, the child needed to be saved. 
+
+Throughout her pregnancy, Gianna found strength in the Lord and asked him to
+take any pain away from the child. 
+
+On April 21, 1962 Gianna Emmanuel Molla was successfully delivered by Cesarean
+section. However, after complications arose with the tumor, Gianna passed away 7
+days later on April 28. 
+
+Gianna was beatified by Saint Pope John Paul II on April 24, 1994 and canonized
+as a saint on May 16, 2004. Her husband and children attended her canonization. 
+#+end_quote
+
+Other valiant, heroic, and saintly mothers have made similar choices. We covet
+their prayers!
+
+#+html: </details>
+#+end_note
+
+
+*** TODO Double-effect versus Utilitarianism
+
+The principle of double effect allows actions that cause harm as a side effect,
+provided the harm is not intended, and the overall action is morally
+permissible. "The ends justify the means" suggests that any means, even immoral
+ones, are justifiable if they lead to a desirable outcome. The key difference
+lies in the intention behind the harmful effect. The principle of double effect
+only permits harm if it's not intended, while "the ends justify the means"
+justifies any means, regardless of intent.
+
+- Principle of Double Effect
+  - Focus: This principle focuses on the intended and unintended consequences of
+    actions.
+  - Permissibility: It states that an action is permissible even if it causes a
+    harmful side effect, as long as the harmful effect is not intended.
+  - Conditions:
+    - For the principle to apply, the following conditions must be met:
+      - The act itself must be good or at least morally neutral.
+      - The intended good effect must not be achieved by means of the evil
+        effect. 
+      - The evil effect must not be intended, but merely foreseen.
+      - The evil effect must not be disproportionate to the good effect.
+- "The Ends Justify the Means":
+  - Focus: This phrase emphasizes the outcome or end goal of an action and
+    justifies the means used to achieve that goal.
+  - Justification: It suggests that any action, even morally wrong ones, can be
+    justified if they lead to a desirable outcome.
+  - Validity
+    - This phrase is often criticized because it can lead to a justification of
+      any means, regardless of their moral implications
+- Compare and Contrast
+  The core distinction lies in the importance of intention. The principle of
+  double effect considers the intention behind the action, emphasizing that harm
+  must be a side effect, not a means to the intended good. In contrast, "the
+  ends justify the means" disregards intention and focuses solely on the
+  outcome, potentially justifying actions that are inherently immoral. The
+  double effect principle is more nuanced and allows for morally permissible
+  actions that have unintended harmful side effects, while "the ends justify the
+  means" is a broader statement that can be used to justify any means,
+  regardless of their moral implications. 
 
