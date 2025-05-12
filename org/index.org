@@ -76,9 +76,10 @@
 
 #+RESULTS:
 #+begin_example
-/Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
+/Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/ExploringCatholicism/org
 index.html
 mass_overview.html
+prolife.html
 resources.html
 solafide.html
 solascriptura.html
