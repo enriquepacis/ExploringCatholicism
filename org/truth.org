@@ -82,6 +82,9 @@ Here is a clarifying video about how faith and reason work together.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/sfqgGRNr2ws?si=VUiZ3HY8WDWBBGkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+For an excellent discussion on faith and reason, you may wish to read the
+encyclical [[https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html][/Fides et Ratio/]] by Pope St. John Paul II.
+
 ** Conclusion
 
 In addition to having shown that there must be truth and truth must be absolute,
