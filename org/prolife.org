@@ -31,6 +31,11 @@ then gave Ryan for adoption.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/mBDE01m1ULU?si=n7GYUXb9oO4taZ3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Nancy Kelly conceived twins because of a sexual assault, but she chose life for
+her twins.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oOxI9Bzqxek?si=ab9uMs497Il_arWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The following video is a testimony of a woman who was saved by the law from
 being aborted. She now counsels other victims of sexual assault to choose life.
 
