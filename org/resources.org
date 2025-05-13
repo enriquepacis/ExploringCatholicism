@@ -167,3 +167,9 @@ Podcast: [[https://stanastasia.libsyn.com/what_is_god_s_will_for_my_life_][What 
 *** The Sacrament of Marriage
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/R03f0BZMicU?si=LWX8HYG0GqfbuSmO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** Joy and Freedom
+
+Bishop Robert Barron discusses an apparent paradox about true freedom and joy.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/XHmTcxYHzy8?si=T05CxQ7bm6tT450U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

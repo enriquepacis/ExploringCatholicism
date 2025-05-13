@@ -58,6 +58,30 @@ would like us to believe--, then *B* has negated itself, again becoming absurd
 and invalid. Now, not only can we conclude that *there must be truth*, but also that
 *truth is absolute*.
 
+** Faith and Reason
+
+Now that we know that *truth exists*, and reason can help us access truth, we
+might want to consider the relationship between faith and reason. By reason, we
+can uncover truth; and the scientific method is an extension of reason, built
+upon reason, as a tool by which we can uncover truths about the created
+universe. Also, we have noted that by reason, we can uncover truth about the
+cause of the univers because of what we know about the universe through
+observation.
+
+But, what about faith? Faith is receiving or believing the testimony of others
+about things we are not able to observe directly nor reason about directly. We
+use faith in the practical world on a regular basis. For example, we ask someone
+where to find a place or a thing; they tell us, and we follow their
+instructions. In the realm of faith in God, we receive revelation from God
+through the Church or the Scriptures. This is often information we cannot obtain
+through reason alone. For example, we could reason that God exists, but we could
+not obtain without revelation that God is one being in the Persons of Father and
+Son and Holy Spirit.
+
+Here is a clarifying video about how faith and reason work together.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/sfqgGRNr2ws?si=VUiZ3HY8WDWBBGkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ** Conclusion
 
 In addition to having shown that there must be truth and truth must be absolute,
