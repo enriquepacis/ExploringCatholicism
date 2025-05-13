@@ -176,6 +176,28 @@ parts of the liturgy of the Eucharist::
 8. The priest will then cleanse the sacred vessels, give closing prayers and a
    blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."
 
+*** Special Masses
+
+**** Holy Thursday: The Mass that doesn't End
+This Mass commemorates the Last Supper, the first Mass of all Masses, which was
+instituted by Christ Himself.
+
+This Mass deosn't end with the words, "Mass is ended. Go in peace." Instead, it
+ends in silence. Typically, the priest will consecrate extra Eucharist for use
+on Good Friday (the Solemn Liturgy of the Lord's Passion), a day when no Mass is
+held throughout the world. Instead of ending the Mass explicitly, the extra
+Eucharist is taken to an altar of repose in a solemn procession. There, Christ
+will be adored by the lay faithful, who will wait with Him. The idea here is to
+waith with Christ, much like His disciples did during His agony in the Garden of
+Gethsemane in the time leading up to His betrayal, but without falling asleep.
+
+It is a tradition for parishes to keep their altar of repose open until midnight.
+
+**** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
+
+**** TODO Holy Saturday: the Easter Vigil Mass
+
+
 ** The Mass as Two-fold a Sacrifice
 The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
 two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
