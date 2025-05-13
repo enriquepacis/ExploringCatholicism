@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a link to the an Ethics and Medics paper"
+  git commit -m "Adds information about Big Tech and Ireland"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main e13bf11] Adds a link to the USCCB abortion infographic
-:  5 files changed, 644 insertions(+), 569 deletions(-)
+: [main 20afc42] Adds a link to the an Ethics and Medics paper
+:  2 files changed, 5 insertions(+), 4 deletions(-)
 : Already up to date.
 
 ** Copy images
