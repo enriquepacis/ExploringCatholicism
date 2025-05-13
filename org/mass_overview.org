@@ -80,10 +80,10 @@ and intimate way for us to have contact with our Lord. I like to think of it as
 an intimate dance with the Divine, or perhaps as a call and response between a
 Divne lover, and me, His beloved.
 
-The Mass can be divided roughly into two parts: the liturgy of the Word, and the
-liturgy of the Eucharist. We can think of the liturgy of the Word as God's
-divine call to us, and the liturgy of the Eucharist as our human response to
-God's call.
+The Mass can be divided roughly into two parts: the Liturgy of the Word, and the
+Liturgy of the Eucharist. *We can think of the Liturgy of the Word as God's
+divine call to us, and the Liturgy of the Eucharist as our human response to
+God's call.*
 
 The liturgy of the Word  contains the introductory rites and readings of
 Scripture. It culminates with a reading from the Gospel, for which we stand in
@@ -99,6 +99,8 @@ of the Word.
 #+begin_info
 *The Word of God*
 
+#+html: <details>
+#+html: <summary>Read more ...</summary>
 The *word of God* is typically interpreted in two ways: (1) as either Scriptures
 (writings) or a spoken word, or (2) as Jesus Christ Himself.
 
@@ -120,6 +122,8 @@ In verse 12, the English "word" is λόγος (/logos/) in the Greek, and this i
 these same λόγος as in [[https://www.biblegateway.com/passage/?search=John%201%3A1&version=RSVCE][John 1:1]], which is none other than Jesus Christ, our
 Lord.  Additionally, verse 13 uses the pronoun /him/, referring back to the
 previous subject, the λόγος of God.
+
+#+html: </details>
 #+end_info
 
 After the homily, we transition to the liturgy of the Eucharist. The climax of

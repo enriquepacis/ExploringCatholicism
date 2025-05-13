@@ -15,7 +15,13 @@ kill these defenseless people is always wrong.
 
 ** TODO Exceptions for Rape and Incest
 
-This video interview features Jennifer Christie is a rape survivor who chose
+Some concerns arise over the mental health of a mother of a baby conceived
+through sexual assault. Proponents of a rape/incest exemption for abortion
+suggest that to bear and raise the child will be a constant reminder to the
+mother of her abuse. Nonetheless, assault survivors sometimes choose life for
+their babies, and they can and do find great healing. The inseparable bond
+between mother and baby in fact can bring great healing to a suvivor of sexual
+assault or abuse. This video interview features Jennifer Christie is a rape survivor who chose
 life for her son.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/5d6KCx2qSFw?si=MrMjN6uwD-rwf4g_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,10 +31,67 @@ being aborted. She now counsels other victims of sexual assault to choose life.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/RMjJBrN1Rlw?si=sq5uzniIoBcgb-qN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Abortion leads to other health concerns, both mental and physical. First,
+abortion always is traumatic. A mother is placed in an unnatural position--under
+emotional duress--of choosing between life and death for her baby. My own
+personal friends who work in the pro-life space have said that survivors of
+sexual abuse and assault who choose to kill their baby never get over it: they
+have killed their own baby, and it's a choice that cannot be undone.
+
+Health concerns also arise. Namely, there is a link between abortion and breast
+cancer. For example, a [[https://pubmed.ncbi.nlm.nih.gov/16526417/][review article]] by Kitchen, Rivedi, and Mokbel points to a
+link, and the abstract to their article reads:
+#+begin_quote
+The hormonal changes that take place in pregnancy cause breast tissue to
+proliferate and differentiate. Abortion interrupts this process and may leave
+the proliferated, undifferentiated breast tissue at higher risk of
+carcinogenesis. This review explains the supposed difference in effects of
+induced and spontaneous abortion upon the breast tissue and examines the
+literature for a link with breast cancer. Additional subcategories examined
+include parity, number of abortions, gestation, and maternal age at abortion. A
+comparison of retrospective and prospective studies is made and possible sources
+of bias are identified. There is no evidence to support a link between
+spontaneous abortion and breast cancer. Absence of a link with induced abortion
+is less clear, and further research should concentrate on investigating any
+relationship. 
+#+end_quote
+Nonetheless, the American Cancer Society (ACS) claims that
+[[https://www.cancer.org/cancer/risk-prevention/medical-treatments/abortion-and-breast-cancer-risk.html][there is no link between abortion and breast cancer]]. Could this be true, or
+could it be possible that abortion is so profitable that some stakeholders would
+seek to suppress information about the link between abortion and breast cancer
+and manipulate the narrative propagated by the US Government and the mainstream
+media?
+
+#+begin_info
+*Big Tech is Honest, Fair, and Balanced*
+
+#+html: <details>
+
+#+html: <summary>Read more ...</summary>
+In May 2018, Irish voters overwhelmingly approved a referendum to repeal the
+Eighth Amendment, which effectively banned abortion in Ireland except in cases
+where the mother's life was at risk. The amendment was introduced in 1983 and
+had been a significant point of contention for decades. The 2018 referendum
+passed with 66.4% of voters in favor, leading to the legalization of abortion
+during the first trimester of pregnancy.   
+
+But manipulation by big tech may have played a role here. Leading up to the
+referrendum vote in 2018, Google banned [[https://www.bbc.com/news/technology-44055077][Google banned abortion poll adds]] in
+Ireland. Proponents of the Eighth Ammendment claim that the ban favored
+pro-abortion groups and hurt
+
+But, Big Tech fair and balanced, right? They would never try to suppress
+information, nor manipulate the masses, nor influence a vote, right?
+... Right?!?
+
+#+html: <a href="https://imgflip.com/i/9tp42i"><img src="https://i.imgflip.com/9tp42i.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+
+#+html: </details>
+#+end_info
 
 ** TODO To Save the Mother's Life
 
-#+begin_note
+#+begin_info
 *A Maternal Sacrifice*
 
 #+html: <details>
@@ -65,7 +128,7 @@ Other valiant, heroic, and saintly mothers have made similar choices. We covet
 their prayers!
 
 #+html: </details>
-#+end_note
+#+end_info
 
 
 *** TODO Double-effect versus Utilitarianism
@@ -107,5 +170,46 @@ justifies any means, regardless of intent.
   double effect principle is more nuanced and allows for morally permissible
   actions that have unintended harmful side effects, while "the ends justify the
   means" is a broader statement that can be used to justify any means,
-  regardless of their moral implications. 
+  regardless of their moral implications.
+  
+** Birth Control, Abortion, and the Sexual Revolution
 
+The decadence and permissivity of today's sexually-permissive culture can be
+traced to the sexual revolution of the 1960s. The sexual revolution can be
+traced back to birth control and practices contrary to natural law.
+
+The Catholic Church uses natural law in addition to tradition and scripture to
+determine morality. Indeed, the morality of various sexual acts can be derived
+from natural law.
+
+Natural law is a body of unchanging moral principles regarded as a basis for all
+human conduct. When applied to the marital act, natural law looks to the
+function and design of the human body. The marital act is known to have a
+two-fold purpose: a *reproductive* function, in which the human race is
+propagated; and a *unitive* function, in which a husband and wife form and express
+an intimate bond that is ordered toward love for one another and children that
+come from this union.  Since these two functions are part of the marital act,
+any practice that seeks to subvert, suppress, or defeat one function is illicit
+and immoral according to natural law.
+
+For example, contraceptive acts that seek to suppress the reproductive aspect
+leave make the marital act all about pleasure. In this case, the partners tend
+to use one another for pleasure and seek to avoid the potential for parental
+responsibilities that come with the possibility of children conceived during the
+act. Additionally, other acts that cannot produce new life but involve sexual
+intimacy are illicit and immoral according to natural law, such as
+self-pleasure and same-sex intimate relations. 
+
+On the other hand, acts that focus on reproduction without spousal intimacy
+(think /in vitro/ fertalization, surrogate motherhood, etc.) also are immoral
+and illicit per natural law. In these cases, children are brought into the
+world apart from a natural and intimate relationship between a mother and
+father. Every child has a right to a mother and a father, and such artificial
+acts deprive the child of one or both of these rights.
+
+Notably, the 1968 papal encyclical [[https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html][/Humanae Vitae/]], Pope Paul VI predicted that
+the widespread use of contraception would lead to negative consequences,
+including a decline in moral standards, marital infidelity, and a loss of
+respect for women. For more information on this, see also:
+1. [[https://www.catholic.com/magazine/online-edition/the-three-prophecies-of-humanae-vitae][Catholic Answers]]
+2. [[https://digitalcommons.cedarville.edu/cgi/viewcontent.cgi?article=1020&context=cedar_ethics_online][Cedarville University, Center for Bioethics]]

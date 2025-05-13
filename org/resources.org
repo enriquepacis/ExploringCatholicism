@@ -138,3 +138,32 @@ from 8:00 AM Central to 11:00 AM Central. Dialog is lively and witty.
 [[https://catholicismseries.com/watch][Catholicism]] is a beautiful introduction to Christianity and Catholicism by
 Bishop Rober Barron. You can stream it for free! There also is a YouTube
 [[https://www.youtube.com/watch?v=Jw2x3ep0ttw&list=PLfHAaQBH7FelvkvlF_OExqvMXaHJ3HjTY][playlist]].
+
+** Miscellaneous Beautiful Teachings
+
+*** Theology of The Body
+
+Christopher West gives a very nice introductory talk on the Theology of The Body
+as a gift from Pope St. John Paul II to the world in terms of human
+dignity. This talk discusses how erotic love was designed by God to propel us
+toward God.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/f0mX8cyrCQY?si=pCiTCLj-KVS9KQFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jason Evert is another renowed evangelist of the Theology of the Body.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/jQq14ujm8wE?si=U5HAOCCkaWDS1QZV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** Knowing Christ
+
+**** Intimacy with Christ
+
+Podcast: [[https://stanastasia.libsyn.com/what_is_god_s_will_for_my_life_][What is God's Will for My Life?]] (Fr. John Riccardo, May 7, 2008)
+
+**** Knowing Christ through Prayer
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oRXPJ6CN9g4?si=RzWtXdiEZdx7LATT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** The Sacrament of Marriage
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/R03f0BZMicU?si=LWX8HYG0GqfbuSmO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

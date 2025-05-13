@@ -47,11 +47,15 @@ the Light. The truth is something foundational and concrete.
 
 ** Truth is Absolute
 
-Let's try another statement, *proposition B*: /there is no absolute truth/. We can explore the
-validity of *B* in much the same way as we did for *A*. We can ask if *B* is
-absolutely true. If it is true--as so many who would invoke proposition *B* would
-like us to believe--, then *B* has negated itself, again becoming absurd and
-invalid. Now, not only can we conclude that *there must be truth*, but also that
+Let's try another statement, *proposition B*:
+#+begin_info
+*Proposition A* \\
+there is no absolute truth.
+#+end_info
+We can explore the validity of *B* in much the same way as we did for *A*. We can ask if *B* is 
+absolutely true. If it is true--as so many who would invoke proposition *B*
+would like us to believe--, then *B* has negated itself, again becoming absurd
+and invalid. Now, not only can we conclude that *there must be truth*, but also that
 *truth is absolute*.
 
 ** Conclusion
