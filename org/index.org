@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a link to the USCCB abortion infographic"
+  git commit -m "Adds a link to the an Ethics and Medics paper"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main ede2dc5] Updates the index and supporting org docs
-:  3 files changed, 582 insertions(+), 579 deletions(-)
+: [main e13bf11] Adds a link to the USCCB abortion infographic
+:  5 files changed, 644 insertions(+), 569 deletions(-)
 : Already up to date.
 
 ** Copy images
