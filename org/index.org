@@ -52,8 +52,9 @@
   hostdir = Path(os.path.join( parent_dir, 'docs' ))
   hostimg_dir = Path( os.path.join( hostdir, 'img' ) )
 
-  
+
   hostdir.mkdir( exist_ok=True, parents=True )
+
   hostimg_dir.mkdir( exist_ok=True, parents=True )
 
 
@@ -96,6 +97,25 @@ holy-eucharist-992x480_jpg_1200x.webp.jpeg
 pill-choice.png
 red-pill.webp
 #+end_example
+
+#+begin_src zsh :results output
+  cp *.html ../docs/
+  cp img/* ../docs/img/
+
+  cd ..
+  git add docs/index.html
+  git add org/index.html
+  git add org/*.org
+
+  git commit -m "Adds a link to the USCCB abortion infographic"
+  git pull
+  git push
+#+end_src
+
+#+RESULTS:
+: [main ede2dc5] Updates the index and supporting org docs
+:  3 files changed, 582 insertions(+), 579 deletions(-)
+: Already up to date.
 
 ** Copy images
 

@@ -102,6 +102,19 @@ information, nor manipulate the masses, nor influence a vote, right?
 
 ** TODO To Save the Mother's Life
 
+It is a myth promoted by pro-abortionists that abortion may be required to save
+the life of the mother under rare circumstances. The US Conference of Catholic
+Bishops has published an infographic ([[https://www.usccb.org/resources/Women's%20Healt%20Infographic.pdf][pdf]]) to help combat such myths. This includes
+some facts:
+1. *Abortion does not save women’s lives*.
+   1. *Abortion* is the *direct* and *intentional* killing of a child in the womb.
+   2. *Abortion is never medically necessary*. It does not treat or solve any
+      pregnancy-related complication.
+2. Outlawing abortion will not affect treatment for miscarriage.
+3. Women can get the lifesaving treatments they need—without abortion.
+   
+Please see the [[https://www.usccb.org/resources/Women's%20Healt%20Infographic.pdf][infographic]] for more information.
+
 #+begin_info
 *A Maternal Sacrifice*
 
