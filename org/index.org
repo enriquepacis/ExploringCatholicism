@@ -52,6 +52,7 @@
   hostdir = Path(os.path.join( parent_dir, 'docs' ))
   hostimg_dir = Path( os.path.join( hostdir, 'img' ) )
 
+  
   hostdir.mkdir( exist_ok=True, parents=True )
   hostimg_dir.mkdir( exist_ok=True, parents=True )
 

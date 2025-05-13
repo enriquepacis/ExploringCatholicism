@@ -51,6 +51,37 @@ authority has infallibly identified the correct Bible, then we have an
 infallible authority /apart from/ the Bible. Thus, the Bible cannot be the only
 infallible authority for Christians.
 
+#+begin_info
+*Is there an Objectively Correct Way to Interpret Scripture?*
+
+#+html: <details>
+
+#+html: <summary>Read more...</summary>
+
+Under /sola scriptura/, when two individuals disagree on the interpretation of
+Scripture, there is no objective way to determine whose interpretation is
+correct. This is highlighted by the following exchange/discussion:
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/QR_cz8mVGnU?si=Js8uSPs6f_04-UkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Cliff Knechtle did not leave the questioner or the audience an objective way to
+determine who is right and who is wrong. It is up to each individual's
+interpretation, and each party to the dispute had better hope that he has
+listened correctly to the Holy Spirit. Additionally, by the principle of
+non-contradiction, we can know that in a dispute when proposed views are
+contradictory or mutally exclusive, both sides cannot be correct.
+
+This is a major weakness in /sola scriptura/ that can be addressed if not just
+Scripture alone, but also the other authorities--the magisterial (teaching)
+authority of the Church and Her Tradition--can be brought in to adjudicate.
+
+When we are no longer bound by /sola scriptura/, we have other authorities and
+other tools, which also include natural law, to guide us into all truth in an
+objective manner.
+
+#+html: </details>
+#+end_info
+
 ** The Canon of Scripture and the Necessity of Authority
 
 *** Introduction
