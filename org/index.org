@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Cleans up information about induction, deduction, and faith."
+  git commit -m "Cleans up discussion about double effect"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 04074a2] Adds information about Big Tech and Ireland
-:  4 files changed, 578 insertions(+), 570 deletions(-)
+: [main 9a9b6bb] Cleans up information about induction, deduction, and faith.
+:  4 files changed, 598 insertions(+), 598 deletions(-)
 : Already up to date.
 
 ** Copy images

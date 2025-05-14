@@ -189,15 +189,15 @@ justifies any means, regardless of intent.
     - This phrase is often criticized because it can lead to a justification of
       any means, regardless of their moral implications
 - Compare and Contrast
-  The core distinction lies in the importance of intention. The principle of
-  double effect considers the intention behind the action, emphasizing that harm
-  must be a side effect, not a means to the intended good. In contrast, "the
-  ends justify the means" disregards intention and focuses solely on the
-  outcome, potentially justifying actions that are inherently immoral. The
-  double effect principle is more nuanced and allows for morally permissible
-  actions that have unintended harmful side effects, while "the ends justify the
-  means" is a broader statement that can be used to justify any means,
-  regardless of their moral implications.
+  - The core distinction lies in the importance of intention.
+    - The principle of
+      double effect considers the intention behind the action, emphasizing that
+      harm must be a side effect, not a means to the intended good.
+    - In contrast, utilitarianism disregards intention and focuses solely on the 
+      outcome, potentially justifying actions that are inherently immoral.
+    - The double effect principle is more nuanced and allows for morally
+      permissible actions that have unintended harmful side effects, while utilitarianism
+      can be used to justify any means, regardless of their moral implications.
   
 ** Birth Control, Abortion, and the Sexual Revolution
 
