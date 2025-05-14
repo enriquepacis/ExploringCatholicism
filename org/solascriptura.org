@@ -479,10 +479,10 @@ recognize that /sola scriptura/ was impossible.
 #+end_export
 
 
-Dr. David Anders discusses the historical context of the Protestant
-Reformation. Luther's reformation was an outgrowth of prior movements in the
-Catholic Church. Lutheran ideas landed in the laity in a way that was different
-from the way he intended.
+Dr. David Anders, Reformed Protestant turned Catholic ([[https://chnetwork.org/story/a-protestant-historian-discovers-the-catholic-church-conversion-story-of-a-david-anders-ph-d/][testimony]]) discusses the
+historical context of the Protestant Reformation. Luther's reformation was an
+outgrowth of prior movements in the Catholic Church. Lutheran ideas landed in
+the laity in a way that was different from the way he intended.
 #+begin_export html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_bWIfP6ERE?si=AqXgWPzaIKR32JPb&amp;start=1235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
