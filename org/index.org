@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds information about Big Tech and Ireland"
+  git commit -m "Cleans up information about induction, deduction, and faith."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 20afc42] Adds a link to the an Ethics and Medics paper
-:  2 files changed, 5 insertions(+), 4 deletions(-)
+: [main 04074a2] Adds information about Big Tech and Ireland
+:  4 files changed, 578 insertions(+), 570 deletions(-)
 : Already up to date.
 
 ** Copy images
