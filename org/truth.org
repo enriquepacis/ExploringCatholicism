@@ -50,6 +50,19 @@ no truth/, then we are left with the principle that *there _must_ be truth*.
 This is comforting when we remember Jesus Christ claimed to be the Way, the Truth, and
 the Light. The truth is something foundational and concrete.
 
+#+begin_info
+*More on the Principle of Non-contradiction*
+
+#+html: <details>
+#+html: <summary>Learn more about this ...</summary>
+
+For more information on this topic, you may wish to watch or listen to the following:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/YLl7TRF_l2w?si=LcYPcWhI_7TFe1u_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: <iframe style="border-radius:12px" width="560" src="https://open.spotify.com/embed/episode/23kgVmvxZWK46CutGq3w5K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+#+html: </details>
+#+end_info
 
 ** Truth is Absolute
 :PROPERTIES:
@@ -268,15 +281,3 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    #+end_info
    
 
-** Additional Resources
-
-*** More Information on the Principle of Non-Contradiction
-
-For more information on this topic, you may wish to watch or listen to the following:
-#+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YLl7TRF_l2w?si=LcYPcWhI_7TFe1u_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-#+end_export
-
-#+begin_export html
-<iframe style="border-radius:12px" width="560" src="https://open.spotify.com/embed/episode/23kgVmvxZWK46CutGq3w5K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-#+end_export

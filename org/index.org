@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds some cross-references and a GOD-LOVES-YOU discussion."
+  git commit -m "Reorganizes the truth page"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 4e45f73] Adds some cross-references.
-:  5 files changed, 600 insertions(+), 583 deletions(-)
+: [main 2b2adb1] Adds some cross-references and a GOD-LOVES-YOU discussion.
+:  4 files changed, 874 insertions(+), 616 deletions(-)
 : Already up to date.
 
 ** Copy images
