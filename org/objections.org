@@ -100,81 +100,9 @@ human nature to His Divine nature in a mysterious way. He fully shares in
 Divinity and its eternal nature, and He fully shares in a human nature. It is
 possilbe to say that Jesus Christ is eternal in His divine nature, although His
 human nature had a beginning and thus is not eternal.
-
-#+begin_note
-*What is God?*
-
-#+html: <details>
-#+html: <summary>Read more ...</summary>
-
-
-To learn what God is like, we can look to the universe. We can argue the
-following:
-1. Anything that has a beginning has a cause.
-2. The universe has a beginning.
-   There are two ways to support this:
-   1. Using evidence from science.
-   2. Using reason alone.
-      1. If the universe has no beginning, it would have endured for an infinite
-         amount of time to arrive at the present.
-      2. It is impossible to traverse an infinite period of time to arrive at the
-3. Thus, the universe has a cause.
-
-It turns out that the universe has plenty to tell us about its cause. The
-universe contains all matter, energy, space, and time--or else it wouldn't be
-the universe. Since the universe contains all matter, energy, space and time,
-its cause must be independent of each of these. In other words, the cause of the
-universe must be immaterial (independent of matter, energy, and space) as well
-as eternal (independent or outside of time). At this point, the cause of the
-universe begins to match the characteristic of the entity Christians and
-adherents of other faiths call /God/. And since this cause of the universe is
-outside of space and time, we can say that it is unchanging, for without time,
-there is no change.
-
-What we have learned about the cause of the universe appears to be lacking some
-features of what Christians call God. In particular, the universe does not
-immediately indicate that its cause has a personality. That is, we have not yet
-established that the cause of the universe is a /personal/ entity.
-
-Now, we may ask, what could cause the unchanging cause of the universe to create
-the universe? If the cause of the universe is unchanging, then nothing could
-make it create a universe. However, such an all-powerful entity /chose/
-to create out of its own free will. To posess a will and the faculty of choice
-could explain the creation of the universe. For the cause of the universe to
-have free will and choice implies personhood or personality within this
-immaterial and eternal cause.
-
-/God, is that You?/
-#+end_note
-
-#+begin_note
-*God Does NOT Exist!*
-
-#+html: <details>
-#+html: <summary>Read more (Really? Are you even Christian?!?) ...</summary>
-
-I declare it's true: God does not exist.
-
-To understand this, we must understand what /exist/ means. The word "exist"
-comes from Latin: /ex/ means "from, out, outside of," and "ist" comes from /sistere/,
-which means "to set up, to cause to stand." Thus, for something to /exist/
-conveys the sense that it arises from something else.
-
-While the universe is contingent upon its cause--and as Christians, we believe
-that cause to be God--God is not existent in the sense that His being arises
-from something else. Thus, I claim that *God does not exist*.
-
-Rather, the fullness of teaching about God is that *God is being itself*. This
-concept says that God is the fundamental source and essence of
-existence. Anything that exists does so by sharing in God's being. If God ceased
-to be, then everything that exists ceases to exist, also.
-
-This concept of God as being itself aligns with God's self-identification as "I
-AM" ([[https://www.biblegateway.com/passage/?search=Exodus%203%3A14&version=RSVCE][Exodus 3:14]]; and [[https://www.biblegateway.com/passage/?search=John%208%3A58-59&version=RSVCE][John 8:58-59]]). He is not from someone or something else;
-God simply /is/.
-
-#+html: <details>
-#+end_note
+#+begin_comment
+/For more information about the divne nature, see [[#what-is-god][What is God?]]/
+#+end_comment
 
 Apart from God, there is no one who is eternal. The angels were created by God,
 and so they are in no way equal to God. Even Satan himself is a created being,

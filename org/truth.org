@@ -85,6 +85,100 @@ Here is a clarifying video about how faith and reason work together.
 For an excellent discussion on faith and reason, you may wish to read the
 encyclical [[https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html][/Fides et Ratio/]] by Pope St. John Paul II.
 
+
+** Applications of Truth
+:PROPERTIES:
+:CUSTOM_ID: truth-applied
+:END:
+
+Now that we know that truth exists and it is absolute, we are in a position to
+apply it. We can do so in a few ways. I will use it to argue the following:
+1. The universe tells us that there is a God. It doesn't necessarily tell us
+   directly that God is like the God of Christians, but it leads us to something
+   that fits the kind of being in which Christians believe to be God, along with
+   the faithful of other religions. To know more about this being, we would need
+   to spend more time discussing the revelation given to us by reason and
+   nature, or we need to add divine revelation.
+
+   #+begin_info
+   *What is God?*
+   #+html: <a id="what-is-god"><b>What is God?</b></a>
+
+   #+html: <details>
+   #+html: <summary>Read more ...</summary>
+
+
+   To learn what God is like, we can look to the universe. We can argue the
+   following:
+   1. Anything that has a beginning has a cause.
+   2. The universe has a beginning.
+      There are two ways to support this:
+      1. Using evidence from science.
+      2. Using reason alone.
+         1. If the universe has no beginning, it would have endured for an infinite
+            amount of time to arrive at the present.
+         2. It is impossible to traverse an infinite period of time to arrive at the
+   3. Thus, the universe has a cause.
+
+   It turns out that the universe has plenty to tell us about its cause. The
+   universe contains all matter, energy, space, and time--or else it wouldn't be 
+   the universe. Since the universe contains all matter, energy, space and time,
+   its cause must be independent of each of these. In other words, the cause of
+   the universe must be immaterial (independent of matter, energy, and space) as
+   well as eternal (independent or outside of time). At this point, the cause of
+   the universe begins to match the characteristic of the entity Christians and
+   adherents of other faiths call /God/. And since this cause of the universe is
+   outside of space and time, we can say that it is unchanging, for without time,
+   there is no change.
+
+   What we have learned about the cause of the universe appears to be lacking some
+   features of what Christians call God. In particular, the universe does not
+   immediately indicate that its cause has a personality. That is, we have not yet
+   established that the cause of the universe is a /personal/ entity.
+
+   Now, we may ask, what could cause the unchanging cause of the universe to create
+   the universe? If the cause of the universe is unchanging, then nothing could
+   make it create a universe. However, such an all-powerful entity /chose/
+   to create out of its own free will. To posess a will and the faculty of choice
+   could explain the creation of the universe. For the cause of the universe to
+   have free will and choice implies personhood or personality within this
+   immaterial and eternal cause.
+
+   /God, is that You?/
+   #+end_info
+
+   #+begin_info
+   *God Does NOT Exist!*
+
+   #+html: <details>
+   #+html: <summary>Read more (Really? Are you even Christian?!?) ...</summary>
+
+   I declare it's true: God does not exist.
+
+   To understand this, we must understand what /exist/ means. The word "exist"
+   comes from Latin: /ex/ means "from, out, outside of," and "ist" comes from /sistere/,
+   which means "to set up, to cause to stand." Thus, for something to /exist/
+   conveys the sense that it arises from something else.
+
+   While the universe is contingent upon its cause--and as Christians, we believe
+   that cause to be God--God is not existent in the sense that His being arises
+   from something else. Thus, I claim that *God does not exist*.
+
+   Rather, the fullness of teaching about God is that *God is being itself*. This
+   concept says that God is the fundamental source and essence of
+   existence. Anything that exists does so by sharing in God's being. If God ceased
+   to be, then everything that exists ceases to exist, also.
+
+   This concept of God as being itself aligns with God's self-identification as "I
+   AM" ([[https://www.biblegateway.com/passage/?search=Exodus%203%3A14&version=RSVCE][Exodus 3:14]]; and [[https://www.biblegateway.com/passage/?search=John%208%3A58-59&version=RSVCE][John 8:58-59]]). He is not from someone or something else;
+   God simply /is/.
+
+   #+html: <details>
+   #+end_info
+
+2. You are loved. This follows from the discussion from part 1.
+   
+
 ** Conclusion
 
 In addition to having shown that there must be truth and truth must be absolute,

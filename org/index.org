@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Cleans up discussion about double effect"
+  git commit -m "Attempts an HTML anchor."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 9a9b6bb] Cleans up information about induction, deduction, and faith.
-:  4 files changed, 598 insertions(+), 598 deletions(-)
+: [main e680cfb] Cleans up discussion about double effect
+:  3 files changed, 574 insertions(+), 574 deletions(-)
 : Already up to date.
 
 ** Copy images
