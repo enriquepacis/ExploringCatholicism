@@ -5,12 +5,18 @@
 
 
 * Truth
+:PROPERTIES:
+:CUSTOM_ID: truth
+:END:
 It is helpful to begin with the concept of *truth*, because if there is no truth, then
 there is no point in discussion. We show first that *there must be truth*;
 and second, that *truth is absolute*. Along the way, we pick up an important
 tool, *the principle of non-contradiction*, which we can use to demonstrate that
 some ideas (or propositions) are invalid and must be rejected.
 ** There _must_ be Truth
+:PROPERTIES:
+:CUSTOM_ID: there-must-be-truth
+:END:
 
 An important starting point is truth. Truth must exist, and it must be
 absolute. If not, then why do we even spend time talking, discussing, and
@@ -46,6 +52,9 @@ the Light. The truth is something foundational and concrete.
 
 
 ** Truth is Absolute
+:PROPERTIES:
+:CUSTOM_ID: truth-is-absolute
+:END:
 
 Let's try another statement, *proposition B*:
 #+begin_info
@@ -59,6 +68,9 @@ itself, again becoming absurd and invalid. Now, not only can we conclude that
 *there must be truth*, but also that *truth is absolute*.
 
 ** Faith and Reason
+:PROPERTIES:
+:CUSTOM_ID: faith-and-reason
+:END:
 
 Now that we know that *truth exists*, and reason can help us access truth, we
 might want to consider the relationship between faith and reason. By reason, we
@@ -85,6 +97,16 @@ Here is a clarifying video about how faith and reason work together.
 For an excellent discussion on faith and reason, you may wish to read the
 encyclical [[https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html][/Fides et Ratio/]] by Pope St. John Paul II.
 
+
+** Summary
+
+In addition to having shown that there must be truth and truth must be absolute,
+we also have acquired the principle of non-contradiction. This is very
+important, because it allows us to identify and reject ideas which are invalid
+based on contradictions within the ideas themselves. I believe this is also a
+tool for theology: something cannot be both true and false at the same time in
+the realm of faith. Such a theological proposition would contradict itself, and
+it would be invalid.
 
 ** Applications of Truth
 :PROPERTIES:
@@ -144,6 +166,8 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    immaterial and eternal cause.
 
    /God, is that You?/
+
+   #+html: </details>
    #+end_info
 
    #+begin_info
@@ -172,21 +196,77 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    AM" ([[https://www.biblegateway.com/passage/?search=Exodus%203%3A14&version=RSVCE][Exodus 3:14]]; and [[https://www.biblegateway.com/passage/?search=John%208%3A58-59&version=RSVCE][John 8:58-59]]). He is not from someone or something else;
    God simply /is/.
 
-   #+html: <details>
+   #+html: </details>
    #+end_info
 
-2. You are loved. This follows from the discussion from part 1.
+2. You are loved. With the help of some divine revelation and human philosophy,
+   follows from the discussion above about God's nature and God's will.
+
+   #+begin_info
+   #+html: <a id="god-loves-you"><b>You are Loved into Being</b></a>
+
+   #+html: <details>
+   #+html: <summary>Read about how your existence means God loves you ...</summary>
    
+   In the Catholic faith, we believe something profound and beautiful: your very
+   existence is no accident. The fact that you are alive—right here, right
+   now—is a sign that God not only created you, but continues to will your
+   existence at every moment. As St. Thomas Aquinas taught, creation isn’t just
+   something God did once, long ago. Rather, He holds you in being with every
+   breath you take. You exist because God loves you into existence. 
 
-** Conclusion
+   This is not merely poetic—it is the truth. God is Being itself (“I AM who
+   AM,” Exodus 3:14), and everything that exists shares in His being. But unlike
+   inanimate things, you are made in the image and likeness of God (Genesis
+   1:27). You are a person—capable of knowing, loving, and choosing Him in
+   return. That is not something arbitrary. It’s a calling, woven into your very
+   being. 
 
-In addition to having shown that there must be truth and truth must be absolute,
-we also have acquired the principle of non-contradiction. This is very
-important, because it allows us to identify and reject ideas which are invalid
-based on contradictions within the ideas themselves. I believe this is also a
-tool for theology: something cannot be both true and false at the same time in
-the realm of faith. Such a theological proposition would contradict itself, and
-it would be invalid.
+   And so even in the hardest moments—when life feels heavy, when suffering is
+   close, when God may even seem distant—the truth remains: if you are alive,
+   God is sustaining you. He has not withdrawn His love. In fact, it is often
+   precisely in suffering that He opens the door for you to draw closest to Him.
+
+   As the Catechism reminds us ([[https://www.usccb.org/sites/default/files/flipbooks/catechism/14/][CCC 27]]), “the desire for God is written in the
+   human heart,” and “God never ceases to draw man to himself.” Suffering
+   doesn’t cancel that call—it can deepen it. When we freely choose to trust Him
+   in our pain, when we choose to remain open to His presence rather than
+   closing in on despair, we are brought nearer to the Cross—and through it, to
+   the Resurrection. 
+
+   Jesus Himself did not avoid suffering. He entered it fully, out of love for
+   us. And now, in our own trials, we have the opportunity to unite ourselves to
+   Him—to know Him not only as Creator and Sustainer, but as the Crucified One
+   who is with us, and the Risen One who gives meaning to our pain. St. Paul
+   recognized that suffering has a way of uniting us to Christ and revealing His
+   love for us ([[https://www.biblegateway.com/passage/?search=Philippians%203%3A7-10&version=NRSVCE][Ephesians 3:7-11, NRSVCE]]):
+   #+begin_quote
+   7 Yet whatever gains I had, these I have come to regard as loss because of
+   Christ. 8 More than that, I regard everything as loss because of the
+   surpassing value of knowing Christ Jesus my Lord. For his sake I have
+   suffered the loss of all things, and I regard them as rubbish, in order that
+   I may gain Christ 9 and be found in him, not having a righteousness of my own
+   that comes from the law, but one that comes through faith in Christ, the
+   righteousness from God based on faith. 10 I want to *know Christ* and the
+   *power of his resurrection* and the *sharing of his sufferings* by becoming like
+   him in his death, 11 if somehow I may attain the resurrection from the dead.
+   #+end_quote
+
+   So, the fact that you are alive today means this: God is still offering you
+   His love, His grace, His very life. He is giving you the chance—moment by
+   moment—to choose Him, to seek Him, and to know Him more deeply. Even when the
+   path is dark, He walks it with you. 
+
+   You are here because God in His Love wills it. And God is not finished with
+   you.
+
+   Want to hear this from someone else? Listen to this sound byte from Fr. John
+   Riccardo:
+   #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/dmKuSXXXhII?si=SuskicFrMf4-S1DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+   #+html: </details>
+   #+end_info
+   
 
 ** Additional Resources
 

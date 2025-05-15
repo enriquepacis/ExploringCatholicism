@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds some cross-references."
+  git commit -m "Adds some cross-references and a GOD-LOVES-YOU discussion."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 4f68d54] Attempts an HTML anchor.
-:  5 files changed, 924 insertions(+), 856 deletions(-)
+: [main 4e45f73] Adds some cross-references.
+:  5 files changed, 600 insertions(+), 583 deletions(-)
 : Already up to date.
 
 ** Copy images
