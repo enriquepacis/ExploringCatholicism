@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Reorganizes the truth page"
+  git commit -m "Minor touch-ups on the truth page."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 2b2adb1] Adds some cross-references and a GOD-LOVES-YOU discussion.
-:  4 files changed, 874 insertions(+), 616 deletions(-)
+: [main 27999db] Reorganizes the truth page
+:  4 files changed, 584 insertions(+), 587 deletions(-)
 : Already up to date.
 
 ** Copy images

@@ -216,7 +216,7 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    follows from the discussion above about God's nature and God's will.
 
    #+begin_info
-   #+html: <a id="god-loves-you"><b>You are Loved into Being</b></a>
+   #+html: <a id="you-are-loved"><b>YOU are LOVED</b></a>
 
    #+html: <details>
    #+html: <summary>Read about how your existence means God loves you ...</summary>
@@ -261,7 +261,7 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    I may gain Christ 9 and be found in him, not having a righteousness of my own
    that comes from the law, but one that comes through faith in Christ, the
    righteousness from God based on faith. 10 I want to *know Christ* and the
-   *power of his resurrection* and the *sharing of his sufferings* by becoming like
+   *power of his resurrection* and *the sharing of his sufferings* by becoming like
    him in his death, 11 if somehow I may attain the resurrection from the dead.
    #+end_quote
 
@@ -270,8 +270,8 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    moment—to choose Him, to seek Him, and to know Him more deeply. Even when the
    path is dark, He walks it with you. 
 
-   You are here because God in His Love wills it. And God is not finished with
-   you.
+   *You are here because God, in His Love, /actively/ wills you to be here*. And
+   God is not finished with you yet.
 
    Want to hear this from someone else? Listen to this sound byte from Fr. John
    Riccardo:
