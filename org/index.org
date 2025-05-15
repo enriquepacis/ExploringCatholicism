@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Attempts an HTML anchor."
+  git commit -m "Adds some cross-references."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main e680cfb] Cleans up discussion about double effect
-:  3 files changed, 574 insertions(+), 574 deletions(-)
+: [main 4f68d54] Attempts an HTML anchor.
+:  5 files changed, 924 insertions(+), 856 deletions(-)
 : Already up to date.
 
 ** Copy images

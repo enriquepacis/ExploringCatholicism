@@ -100,9 +100,13 @@ human nature to His Divine nature in a mysterious way. He fully shares in
 Divinity and its eternal nature, and He fully shares in a human nature. It is
 possilbe to say that Jesus Christ is eternal in His divine nature, although His
 human nature had a beginning and thus is not eternal.
-#+begin_comment
-/For more information about the divne nature, see [[#what-is-god][What is God?]]/
-#+end_comment
+
+#+begin_info
+*More about God and His Nature*
+
+For more information about the divne nature, see the [[https://enriquepacis.github.io/ExploringCatholicism/#what-is-god][What is God?]] and  [[https://enriquepacis.github.io/ExploringCatholicism/#god-is-being][God does
+NOT exist!]] info boxes.
+#+end_info
 
 Apart from God, there is no one who is eternal. The angels were created by God,
 and so they are in no way equal to God. Even Satan himself is a created being,

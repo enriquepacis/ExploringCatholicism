@@ -101,7 +101,6 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    nature, or we need to add divine revelation.
 
    #+begin_info
-   *What is God?*
    #+html: <a id="what-is-god"><b>What is God?</b></a>
 
    #+html: <details>
@@ -148,8 +147,8 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    #+end_info
 
    #+begin_info
-   *God Does NOT Exist!*
-
+   #+html: <a id="god-is-being"><b>God does NOT exist!</b></a>
+   
    #+html: <details>
    #+html: <summary>Read more (Really? Are you even Christian?!?) ...</summary>
 
