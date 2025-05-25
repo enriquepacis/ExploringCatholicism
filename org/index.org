@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds Evangelical Catholic."
+  git commit -m "Fixes some typos in the Mass Overview"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main cff6518] Minor touch-ups on the truth page.
-:  4 files changed, 547 insertions(+), 547 deletions(-)
+: [main 24a203d] Adds Evangelical Catholic.
+:  4 files changed, 559 insertions(+), 541 deletions(-)
 : Already up to date.
 
 ** Copy images

@@ -25,23 +25,25 @@ understanding of the Mass to provide an overview for beginners.
 
 Understanding the Eucharist--that is, the elements of Communion--is perhaps the
 most important key to understanding the Catholic Mass and the Catholic
-worldview. Common among the apostolic Christians is that Jesus Christ is truly
-present in the elements of Communion, called the Eucharist in the Catholic
-Church. By /apostolic Christians/, we mean the Christian churches established
-throughout the centuries /prior/ to the Protestant Reformation, such as the
-Armenians, the Copts, the Greek Orthodox, the Russian Orthodox, etc.
+worldview. Common among the apostolic Christians is the belief that *Jesus
+Christ is truly present in the elements of Communion*, called *the Eucharist* in
+the Catholic Church. By /apostolic Christians/, we mean the Christian churches
+established throughout the centuries /prior/ to the Protestant Reformation, such
+as the Armenians, the Copts, the Syro-Malabar Christians, the Greek Orthodox,
+the Russian Orthodox, etc. 
 
 #+caption: Catholics and generally all ancient apostolic Christians sects founded prior to the Protestant Reformation accept the teaching that the Eucharist (the elements of Communion) truly are the flesh and blood of Christ. This teaching is derived from the teachings of Jesus ([[https://www.biblegateway.com/passage/?search=John%206%3A22-71&version=RSVCE][John 6:22-71 RSVCE]], the writings of St. Paul, the earliest believers--such as St. Ignatius of Antioch, a student of John the Evangelist ([[https://www.newadvent.org/fathers/0109.htm][Epistle to the Smyrnaeans]], ch. 6-7), and numerous [[https://www.churchfathers.org/the-real-presence][church fathers]]. Additionally, several Protestant founders such as [[https://www.detroitcatholic.com/voices/luther-s-defense-of-the-real-presence-in-the-eucharist][Martin Luther]], John Calvin, and others upheld the teaching of the Real Presence of Christ in the Eucharist.
 #+attr_html: :width 640px
 [[./img/holy-eucharist-992x480_jpg_1200x.webp.jpeg]]
 
 
-Tthe belief that Jesus Christ is truly present in the elements of the
-Eucharist. This concept also is referred to the /Real Presence/ of Christ in the
-Eucharist, and the specific version of the Real Presence taught by the Catholic
-church involves /transubstantiation/.
+The belief that Jesus Christ is truly present in the elements of the 
+Eucharist is referred to the /Real Presence/ of Christ in the Eucharist. Among
+churches that hold to the Real Presence, there are a subtle variety of vies. The
+specific version of the Real Presence taught by the Catholic  church involves
+/transubstantiation/.
 
-Transubstantiation means that what looks like bread is God. At some point, it
+Transubstantiation means that what *looks* like bread is God. Initially, it was
 was made as bread. It has all the outward appearances (technically, called the
 /accidents/) of bread, and in its essence or /substance/, it is bread. However,
 at the words of consecration ("This is my body" or "This is the cup of my
@@ -83,9 +85,19 @@ Divne lover, and me, His beloved.
 The Mass can be divided roughly into two parts: the Liturgy of the Word, and the
 Liturgy of the Eucharist. *We can think of the Liturgy of the Word as God's
 divine call to us, and the Liturgy of the Eucharist as our human response to
-God's call.*
+God's call.* In the Liturgy of the Word, we hear God's call to obey or respond
+in faith. In the Liturgy of the Eucharist, we offer the sacrifice of prayer and
+the very Body and Blood of Christ to God the Father on our behalf. This
+culminates in our reception of the Eucharist, in which we respond to God by
+receiving Him into our bodies in an act more intimate than even the marital act
+between husband and wife. In so doing, we must be properly disposed to receivng
+Christ. In this moment, Christ gives Himself fully and completely to us, and we
+give ourselves fully and compeletly to Christ, with a commitment to obey Him.
 
-The liturgy of the Word  contains the introductory rites and readings of
+We expand further on these two parts of the Mass.
+
+*** The Liturgy of the Word
+The Liturgy of the Word  contains the introductory rites and readings of
 Scripture. It culminates with a reading from the Gospel, for which we stand in
 honor of Jesus, acknowledging His presence (non-Eucharistic) in the reading of
 the Gospels (the New Testament books of Matthew, Mark, Luke, and John). The 
@@ -126,6 +138,7 @@ previous subject, the λόγος of God.
 #+html: </details>
 #+end_info
 
+*** The Liturgy of the Eucharist
 After the homily, we transition to the liturgy of the Eucharist. The climax of
 the liturgy of the Eucharist is when the priest consecrates the bread and wine,
 transforming it to the Body and Blood of Jesus Christ, followed by the personal
@@ -176,9 +189,9 @@ parts of the liturgy of the Eucharist::
 8. The priest will then cleanse the sacred vessels, give closing prayers and a
    blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."
 
-*** Special Masses
+** Special Masses and Liturgies
 
-**** Holy Thursday: The Mass that doesn't End
+*** Holy Thursday: The Mass that doesn't End
 This Mass commemorates the Last Supper, the first Mass of all Masses, which was
 instituted by Christ Himself.
 
@@ -193,10 +206,23 @@ Gethsemane in the time leading up to His betrayal, but without falling asleep.
 
 It is a tradition for parishes to keep their altar of repose open until midnight.
 
-**** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
+*** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
 
-**** TODO Holy Saturday: the Easter Vigil Mass
+This is not a Mass because the Eucharist is not consecrated on Good Friday
+around the world. Instead, consecrated hosts from the Holy Thursday Mass are
+distributed so that the faithful may receive Christ on this day. The Liturgy
+includes a long set of intercessions for the world, as well as a prayer called
+the Litany of the Saints. Additionally, there is a ceremony called the
+Veneration of the Cross, where the faithful and the clergy express their
+gratitude to Jesus by showing reverence to a crucifix as a sign of Christ's
+generous love for us. For a church with hundreds of attendees, this can be a
+lengthy protion of the Liturgy. The Ligurgy concludes after the faithful receive
+the Eucharist.
 
+*** TODO Holy Saturday: the Easter Vigil Mass
+
+The Easter Vigil Mass is the pinnacle of the liturgical year. It is the Mass of
+Masses. Even more than Good Friday was a somber reflection of Christ's 
 
 ** The Mass as Two-fold a Sacrifice
 The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is

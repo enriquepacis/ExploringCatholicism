@@ -4,6 +4,9 @@
 #+startup: overview indent
 
 * Pro-Life
+:PROPERTIES:
+:CUSTOM_ID: prolife
+:END:
 
 Catholics are pro-life because God is pro-life. Divine revelation tells us that
 the /imago dei/ (image of God) is stamped on every human being. This means that
@@ -14,6 +17,9 @@ the womb are the most innocent among us, and they are the most vulnerable. To
 kill these defenseless people is always wrong.
 
 ** TODO Exceptions for Rape and Incest
+:PROPERTIES:
+:CUSTOM_ID: prolife-rape-incest
+:END:
 
 Some concerns arise over the mental health of a mother of a baby conceived
 through sexual assault. Proponents of a rape/incest exemption for abortion
@@ -103,6 +109,9 @@ information, nor manipulate the masses, nor influence a vote, right?
 #+end_info
 
 ** TODO To Save the Mother's Life
+:PROPERTIES:
+:CUSTOM_ID: prolife-save-life
+:END:
 
 It is a myth promoted by pro-abortionists that abortion may be required to save
 the life of the mother under rare circumstances. The US Conference of Catholic
@@ -159,6 +168,9 @@ their prayers!
 
 
 *** TODO Double-effect versus Utilitarianism
+:PROPERTIES:
+:CUSTOM_ID: prolife-double-effect
+:END:
 
 The principle of double effect allows actions that cause harm as a side effect,
 provided the harm is not intended, and the overall action is morally
