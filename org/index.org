@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Fixes some typos in the Mass Overview"
+  git commit -m "Reorders content pertaining to Mass."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 24a203d] Adds Evangelical Catholic.
-:  4 files changed, 559 insertions(+), 541 deletions(-)
+: [main 8138594] Fixes some typos in the Mass Overview
+:  5 files changed, 740 insertions(+), 600 deletions(-)
 : Already up to date.
 
 ** Copy images
