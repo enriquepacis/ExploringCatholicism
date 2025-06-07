@@ -16,7 +16,9 @@ especially a baby in the womb who has not done any wrong. Therefore, babies in
 the womb are the most innocent among us, and they are the most vulnerable. To
 kill these defenseless people is always wrong.
 
-** TODO Exceptions for Rape and Incest
+** Are there Valid Arguments for Abortion?
+
+*** TODO Exceptions for Rape and Incest
 :PROPERTIES:
 :CUSTOM_ID: prolife-rape-incest
 :END:
@@ -108,7 +110,7 @@ information, nor manipulate the masses, nor influence a vote, right?
 #+html: </details>
 #+end_info
 
-** TODO To Save the Mother's Life
+*** TODO To Save the Mother's Life
 :PROPERTIES:
 :CUSTOM_ID: prolife-save-life
 :END:
@@ -167,7 +169,7 @@ their prayers!
 #+end_info
 
 
-*** TODO Double-effect versus Utilitarianism
+**** TODO Double-effect versus Utilitarianism
 :PROPERTIES:
 :CUSTOM_ID: prolife-double-effect
 :END:
@@ -211,7 +213,9 @@ justifies any means, regardless of intent.
       permissible actions that have unintended harmful side effects, while utilitarianism
       can be used to justify any means, regardless of their moral implications.
   
-** Birth Control, Abortion, and the Sexual Revolution
+** Competing Cultures: Live versus Death
+
+*** Birth Control, Abortion, and the Sexual Revolution
 
 The decadence and permissivity of today's sexually-permissive culture can be
 traced to the sexual revolution of the 1960s. The sexual revolution can be
@@ -252,3 +256,15 @@ including a decline in moral standards, marital infidelity, and a loss of
 respect for women. For more information on this, see also:
 1. [[https://www.catholic.com/magazine/online-edition/the-three-prophecies-of-humanae-vitae][Catholic Answers]]
 2. [[https://digitalcommons.cedarville.edu/cgi/viewcontent.cgi?article=1020&context=cedar_ethics_online][Cedarville University, Center for Bioethics]]
+   
+*** TODO Marriage and Family
+
+#+begin_info
+*Population Narratives: Overpopulation versus Implosion*
+
+#+html: <details>
+#+html: <summary>Learn more ...</summary>
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/WRQ_pcU-Bg0?si=2aeG_nLC41jQKxmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_info

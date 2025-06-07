@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Reorders content pertaining to Mass."
+  git commit -m "Adds a video on marriage and family."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 8138594] Fixes some typos in the Mass Overview
-:  5 files changed, 740 insertions(+), 600 deletions(-)
+: [main 0d583b6] Reorders content pertaining to Mass.
+:  4 files changed, 568 insertions(+), 568 deletions(-)
 : Already up to date.
 
 ** Copy images
