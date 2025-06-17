@@ -107,14 +107,14 @@ red-pill.webp
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video on marriage and family."
+  git commit -m "Adds a video on Catholic spiritual theology."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 0d583b6] Reorders content pertaining to Mass.
-:  4 files changed, 568 insertions(+), 568 deletions(-)
+: [main 5b780da] Adds a video on marriage and family.
+:  5 files changed, 661 insertions(+), 569 deletions(-)
 : Already up to date.
 
 ** Copy images

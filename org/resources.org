@@ -164,6 +164,14 @@ Podcast: [[https://stanastasia.libsyn.com/what_is_god_s_will_for_my_life_][What 
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oRXPJ6CN9g4?si=RzWtXdiEZdx7LATT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**** The Three-fold Way to Union with Christ: Spiritual Theology
+
+Dr. Anders discusses how we make progress toward holiness and spiritual union
+with God. The Church has well-defined methods for quitting sin and gaining
+intimacy with Christ.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/SLVeIkT7wA0?si=5-0Rq6ZBmhvTybHu&amp;start=1725" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *** The Sacrament of Marriage
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/R03f0BZMicU?si=LWX8HYG0GqfbuSmO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
