@@ -35,6 +35,28 @@
 #+RESULTS:
 : /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
 
+** GitHub Workflow
+
+#+begin_src zsh :results output
+  cp *.html ../docs/
+  cp img/* ../docs/img/
+
+  cd ..
+  git add docs/index.html
+  git add org/index.html
+  git add org/*.org
+
+  git commit -m "Adds a video on Israel."
+  git pull
+  git push
+#+end_src
+
+#+RESULTS:
+: [main 25a0b80] Adds a video on Catholic spiritual theology.
+:  4 files changed, 587 insertions(+), 557 deletions(-)
+: Already up to date.
+
+
 ** Copy HTML and Images
 
 #+begin_src python :results output
@@ -81,6 +103,7 @@
 /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/ExploringCatholicism/org
 index.html
 mass_overview.html
+objections.html
 prolife.html
 resources.html
 solafide.html
@@ -97,25 +120,6 @@ holy-eucharist-992x480_jpg_1200x.webp.jpeg
 pill-choice.png
 red-pill.webp
 #+end_example
-
-#+begin_src zsh :results output
-  cp *.html ../docs/
-  cp img/* ../docs/img/
-
-  cd ..
-  git add docs/index.html
-  git add org/index.html
-  git add org/*.org
-
-  git commit -m "Adds a video on Catholic spiritual theology."
-  git pull
-  git push
-#+end_src
-
-#+RESULTS:
-: [main 5b780da] Adds a video on marriage and family.
-:  5 files changed, 661 insertions(+), 569 deletions(-)
-: Already up to date.
 
 ** Copy images
 
