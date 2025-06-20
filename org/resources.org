@@ -126,6 +126,11 @@ home to the Catholic Church. This site has numerous [[https://chnetwork.org/conv
 archive)]] of people from various backgrounds who converted to Catholicisim. A
 number of Evangelical Protestants, pastors, Hindus, Jews, Muslims, and more.
 
+As an example, here is the story of Eddie Trask, who, like me, is a Catholic who
+lived as an Evangelical Protestant and then came back to Catholicism.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/YuxBg1ZCIoQ?si=3Zgp98krarK87N-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ** The Patrick Madrid Show
 
 [[https://relevantradio.com/listen/our-shows/the-patrick-madrid-show/][The Patrick Madrid Show]] is an excellent live, call-in radio show, in which

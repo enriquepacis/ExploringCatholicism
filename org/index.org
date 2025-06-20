@@ -46,14 +46,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video on Israel."
+  git commit -m "Adds the Eddie Trask testimony."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 25a0b80] Adds a video on Catholic spiritual theology.
-:  4 files changed, 587 insertions(+), 557 deletions(-)
+: [main a10b5aa] Adds a video on Israel.
+:  4 files changed, 657 insertions(+), 575 deletions(-)
 : Already up to date.
 
 
