@@ -3,7 +3,7 @@
 
 #+OPTIONS: author:nil date:nil
 
-#+title: Explore Catholicism
+#+title: Exploring Catholicism
 #+export_file_name: index.html
 #+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 #+startup: overview indent auto-fill-mode
@@ -24,6 +24,8 @@
 #+include: prolife.org
 
 #+include: resources.org
+
+#+include: devotional-notes.org
 
 * Code                                                             :noexport:
 
@@ -52,8 +54,8 @@
 #+end_src
 
 #+RESULTS:
-: [main a10b5aa] Adds a video on Israel.
-:  4 files changed, 657 insertions(+), 575 deletions(-)
+: [main bfe6cbb] Adds the Eddie Trask testimony.
+:  4 files changed, 584 insertions(+), 565 deletions(-)
 : Already up to date.
 
 

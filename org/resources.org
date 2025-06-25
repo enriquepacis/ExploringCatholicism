@@ -131,6 +131,10 @@ lived as an Evangelical Protestant and then came back to Catholicism.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/YuxBg1ZCIoQ?si=3Zgp98krarK87N-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Another example is a discussion between four converts to Catholicism from
+various backgrounds.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/0QdFFfQRSK0?si=hVJJs1T3YSSURdjN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ** The Patrick Madrid Show
 
 [[https://relevantradio.com/listen/our-shows/the-patrick-madrid-show/][The Patrick Madrid Show]] is an excellent live, call-in radio show, in which
@@ -208,6 +212,9 @@ Dr. Anders also highlights [[https://www.kairospalestine.ps][Kairos Palestine]],
 organization that advocates for the end to Israeli acts of opression and
 injustice committed against Palestinian Christians.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/DfyzF4eVcko?si=Cj0XeZs1hlIcXDlh&amp;start=1774" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dr. Taylor Masrhall comments on the Ted Cruz interview by Tucker Carlson.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/KaYYn9JzThQ?si=d_PvWsrhMISKOChQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Beautiful Books
 
