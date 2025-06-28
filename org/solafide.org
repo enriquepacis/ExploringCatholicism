@@ -289,8 +289,46 @@ include:
       This _does not_ say /he who is saved endures to the end/ (i.e., that
       salvation determines endurace as in the Calvinist or Baptist
       undrstanding), but rather that /endurace merits salvation/.
+4. [[https://www.biblegateway.com/passage/?search=Romans%205%3A9-10&version=ESV][Romans 5:9-10 (ESV)]]. I've chosen a Protestant translation here, so that we
+   can avoid any potential Catholic translation bias. It reads:
+   #+begin_quote
+   9 Since, therefore, we have now been justified by his blood, much more shall
+   we be saved by him from the wrath of God. 10 For if while we were enemies we
+   were reconciled to God by the death of his Son, much more, now that we are
+   reconciled, shall we be saved by his life.
+   #+end_quote
+   This provides some really interesting material. The Catholic and Protestant
+   can agree that that we are justified by Christ's blood, and that we are
+   reconciled by the death of God's son. Now, the defender of eternal security
+   and some Protestants will disagree. One will say that salvation is complete
+   at this point, but this text raises some problems: after reconciliation by
+   Christ's death, the passage indicates that there is still a /further/ or
+   /subsequent/ or /more complete/ salvation that is wrought by the life of
+   Christ.
 
-4. [[https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&version=RSVCE][Hebrews 6:4-7 (RSVCE)]]. The writer describes individuals who have truly tasted
+   In the view of /sola fide/ and eternal security, this passage is very
+   difficult to interpret. What additional salvation is required apart from that
+   brought by the blood of Christ? According to this view, Christ's death
+   completes human salvation, and there is nothing that can be added to
+   this. But, why, then, does this passage suggest that Christ's life saves us
+   /after/ reconcilliation with Christ by His death?
+
+   This is resolved in the Catholic view. Indeed, Christ's death (blood) has
+   reconciled us to God. Yet, we have free will and the capacity to turn away
+   from God before death. In order to persevere to the end of our lives, we need
+   supernatural help from God: this is sanctifying grace (the life of Christ),
+   which is given to us in the Sacraments. Partaking of the Sacraments with a
+   proper disposition (not in a state of willful and mortal sin) gives us
+   the power to live the Christian life, as well as the restoration to that life
+   if we should forsake it through mortal sin. When we approach the Sacraments
+   with the proper disposition--indeed, one of repentance from sin and
+   cooperation with His grace, not in pride and rebellion--we are transformed
+   and drawn near to God. Our will and cooperation with His grace builds us up
+   and brings us toward Him, breaking the power of sin in our lives and
+   conforming ourselves to the likeness of Christ. This is how the life of Christ
+   saves us, building on the reconcilliation we have with God through His death.
+
+5. [[https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&version=RSVCE][Hebrews 6:4-7 (RSVCE)]]. The writer describes individuals who have truly tasted
   the heavenly gift and partaken of the Holy Spirit, and then fall away.
   #+begin_quote
   4 For it is impossible to restore again to repentance those _who have once
@@ -321,11 +359,11 @@ include:
   to obscure a verse that reads in a simple way to cast *significant doubt*
   upon eternal security.
    
-5. [[https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&version=RSVCE][1 Peter 1:10-11 (RSVCE)]]. Peter suggests that it is possible to fall away.
+6. [[https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&version=RSVCE][1 Peter 1:10-11 (RSVCE)]]. Peter suggests that it is possible to fall away.
    
-6. [[https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=NIV][Galatians 5:4 (RSVCE)]]. St. Paul says individuals may fall away from grace. It
+7. [[https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=NIV][Galatians 5:4 (RSVCE)]]. St. Paul says individuals may fall away from grace. It
    is impossible to fall from grace if one were not first /in grace/.
-7. Philippians 3:7-14 (RSVCE). St. Paul speaks of _not already having attained_
+8. Philippians 3:7-14 (RSVCE). St. Paul speaks of _not already having attained_
    his goal, and not already having become perfected. He wanrs us to keep
    striving, like he does, to attain the _resurrection from the dead_:
    #+begin_quote
@@ -347,7 +385,7 @@ include:
    who are mature be thus minded; and if in anything you are otherwise minded, God
    will reveal that also to you. 
    #+end_quote
-8. [[https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&version=RSVCE][1 John 5:16-17 (RSVCE)]]. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
+9. [[https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&version=RSVCE][1 John 5:16-17 (RSVCE)]]. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
    his brother committing what is not a mortal sin, he will ask, and God will
    give him life for those whose sin is not mortal. There is sin which is
    mortal; I do not say that one is to pray for that. 17 All wrongdoing is sin,

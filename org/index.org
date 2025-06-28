@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds the Eddie Trask testimony."
+  git commit -m "Adds 'Why be Catholic?'"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main bfe6cbb] Adds the Eddie Trask testimony.
-:  4 files changed, 584 insertions(+), 565 deletions(-)
+: [main efc1fd3] Adds 'Why be Catholic?'
+:  3 files changed, 637 insertions(+), 610 deletions(-)
 : Already up to date.
 
 
