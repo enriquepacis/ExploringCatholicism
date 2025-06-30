@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds 'Why be Catholic?'"
+  git commit -m "Adds testimonies of Protestant converts to Catholicism."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main efc1fd3] Adds 'Why be Catholic?'
-:  3 files changed, 637 insertions(+), 610 deletions(-)
+: [main 160e4ee] Adds discussion on Romans 5:9-10.
+:  4 files changed, 744 insertions(+), 610 deletions(-)
 : Already up to date.
 
 
