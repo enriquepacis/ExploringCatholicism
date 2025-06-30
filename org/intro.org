@@ -198,3 +198,9 @@ Tim Staples was an Assemblies of God youth pastor who converted to
 Catholicism. Today, Tim is an apolotist for the [[https://www.catholic.com][Catholic Answers]].
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/MLsBVRn1U_0?si=mn0om6I_IaWHzUg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** Keith Nester
+
+Keith Nester was a Methodist minister who became Catholic.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oe7JGpsCcf0?si=vLE81FJy-aFvaIzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

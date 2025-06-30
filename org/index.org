@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds testimonies of Protestant converts to Catholicism."
+  git commit -m "Adds the Keith Nester testimony."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 160e4ee] Adds discussion on Romans 5:9-10.
-:  4 files changed, 744 insertions(+), 610 deletions(-)
+: [main 95e9b66] Adds testimonies of Protestant converts to Catholicism.
+:  4 files changed, 908 insertions(+), 605 deletions(-)
 : Already up to date.
 
 
