@@ -232,6 +232,14 @@ The Easter Vigil Mass is the pinnacle of the liturgical year. It is the Mass of
 Masses. Even more than Good Friday was a somber reflection of Christ's 
 
 * The Eucharist
+:properties:
+:custom_id: eucharist
+:end:
+
+#+attr_html: :width 640px
+#+caption: This rendition of the Last Supper is by Juan de Juanes.
+[[https://upload.wikimedia.org/wikipedia/commons/b/bc/Última_Cena_-_Juan_de_Juanes.jpg]]
+
 The *Real Presence of Christ in the Eucharist*, often abbreviated to the /Real
 Presence/, is the teaching or belief that Jesus Christ is truly present in the
 elements of Communion. This is to be contrasted with a more symbolist view,

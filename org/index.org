@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds the Keith Nester testimony."
+  git commit -m "Adds a linkable label for the Eucharist content."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 95e9b66] Adds testimonies of Protestant converts to Catholicism.
-:  4 files changed, 908 insertions(+), 605 deletions(-)
+: [main 84ef93b] Adds the Keith Nester testimony.
+:  4 files changed, 687 insertions(+), 659 deletions(-)
 : Already up to date.
 
 
