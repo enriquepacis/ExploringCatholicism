@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds an icon of the Twelve Apostles."
+  git commit -m "Adds an some image attributions."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main d7ad141] Adds a quote from the Didache.
-:  4 files changed, 779 insertions(+), 691 deletions(-)
+: [main 4d7afa2] Adds an icon of the Twelve Apostles.
+:  4 files changed, 725 insertions(+), 707 deletions(-)
 : Already up to date.
 
 

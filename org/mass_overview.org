@@ -276,7 +276,7 @@ Masses. Even more than Good Friday was a somber reflection of Christ's
 :end:
 
 #+attr_html: :width 640px
-#+caption: This rendition of the Last Supper is by Juan de Juanes.
+#+caption: The Last Supper is signifcant, because this was the first Mass, the first time Jesus offered His Body and Blood under the disguise of bread and wine. Of this event, St. Augustine writes, "He held Himself in His Hands." This rendition of the Last Supper is by Juan de Juanes. Source: [[https://en.m.wikipedia.org/wiki/File:Última_Cena_-_Juan_de_Juanes.jpg][Wikipedia]].
 [[https://upload.wikimedia.org/wikipedia/commons/b/bc/Última_Cena_-_Juan_de_Juanes.jpg]]
 
 The *Real Presence of Christ in the Eucharist*, often abbreviated to the /Real
@@ -467,7 +467,7 @@ Presence of Christ.
 *** The Twelve Apostles
 
 #+attr_html: :width 640px
-#+caption: An icon of the Twelve Apostles.
+#+caption: An icon of the Twelve Apostles. Source: [[https://www.ncregister.com/blog/where-are-the-12-apostles-now][National Catholic Register]].
 [[https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200827210856_5f480fd6c2bf74d8ccdfe187jpeg.webp]]
 
 The Twelve Apostles wrote the earliest known catechism for Christians, known as the
