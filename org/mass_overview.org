@@ -21,6 +21,45 @@ I cannot give a comprehensive overview of the Mass here, since many works have
 been written over two millenia about this. Instead, I will attempt to give my
 understanding of the Mass to provide an overview for beginners.
 
+#+begin_info
+*The Mass is Mind-blowing*
+
+#+html: <details>
+#+html: <summary>Read this to have your mind blown ...</summary>
+
+Central to the Mass is the Eucharist, which we believe is truly the Body, Blood,
+Soul, and Divinity of Jesus Christ. This reality makes present the Paschal
+mystery, which is an act of God that happened in our history and yet transcends
+time. This is discussed in paragraph [[https://www.catholiccrossreference.online/catechism/#!/search/1085][1085]] of the Catechism of the Catholic
+Church:
+#+begin_quote
+In the liturgy of the Church, it is principally his own Paschal mystery that
+Christ signifies and makes present. During his earthly life Jesus announced his
+Paschal mystery by his teaching and anticipated it by his actions. When his Hour
+comes, he lives out the unique event of history which does not pass away: Jesus
+dies, is buried, rises from the dead, and is seated at the right hand of the
+Father "once for all."8 His Paschal mystery is a real event that occurred in our
+history, but it is unique: all other historical events happen once, and then
+they pass away, swallowed up in the past. The Paschal mystery of Christ, by
+contrast, cannot remain only in the past, because by his death he destroyed
+death, and all that Christ is — all that he did and suffered for all men —
+participates in the divine eternity, and so transcends all times while being
+made present in them all. The event of the Cross and Resurrection abides and
+draws everything toward life. 
+#+end_quote
+
+What does this mean to me? It means that when I partake of the Eucharist, I am
+uniting myself with the eternal Christ in the present moment. I am not communing
+with Christ and just those people around me; rather, in Christ, I am communing with all
+Christians--past, present, future, near and far--who also have joined themselves
+to Jesus.
+
+The Mass is a cosmic event in which our Creator approaches us, gives Himself to
+us, and we approach Him. In receiving His Body and Blood, we also give ourselves
+to Him in an encounter that is more intimate than any act that spouses can perform.
+#+html: </details>
+#+end_info
+
 ** An Interpretive Lens: the Eucharist
 
 Understanding the Eucharist--that is, the elements of Communion--is perhaps the
@@ -312,13 +351,17 @@ persist. Here is a brief listing of some various non-Catholic views:
 ** Scriptural Basis for the Real Presence
 Belief in the Real Presence comes from the teachings of Jesus Himself, with
 confirmation by St. Paul. Starting with Jesus, He teaches in [[https://www.biblegateway.com/passage/?search=John%206%3A22-69&version=ESV][John 6:22-69 (ESV)]]
-that He would give believers His flesh and blood to eat and drink. When this
-repulsed His audence, He admitted this was a hard saying. Jesus didn't say
+that He would give believers His flesh and blood to eat and drink. This was an
+interactive dialogue, the Greek word Jesus used for "eat" shifts from /phago/
+(φάγω) to /trogo/ (τρώγω). Initially, Jesus uses /phago/, the common word for
+eating, but then switches to /trogo/, which means to "chew on" or "gnaw on."
+This emphasizes the literal nature of consuming his flesh and blood.
+
+When this repulsed His audence, He admitted this was a hard saying. Jesus didn't say
 they misunderstood Him, nor did he indicate that He was being symbolic. In fact,
 many of His followers left Him over this. Jesus let them go and asked the Twelve
-Apostles if they, too, were going to leave Him.  He even used graphic Greek to say that His disciples should
-/chew on/ or /gnaw on/ His flesh. Later, at the Last Supper, this is what Jesus
-said to His disciples:
+Apostles if they, too, were going to leave Him. Later, at the Last Supper, this
+is what Jesus said to His disciples:
 #+begin_quote
 26 And as they were eating, Jesus took bread, blessed and broke it, and gave
 it to the disciples and said, “Take, eat; this is My body.” 
@@ -356,7 +399,7 @@ There are a few issues with this line of thinking.
 Since Christ Himself appears to believe that it is important for His disciples
 to eat His flesh and drink His blood, it should be important to us to determine
 whether He is speaking figuratively or literally. Fortunately, /there is/ a way
-to do this.
+to do this. To learn more, see the box below, titled *When Interpretations Conflict*.
 #+html: </details>
 #+end_info
 
@@ -399,7 +442,7 @@ true at the same time according to the logical principle of non-contradiction.
 Is there any force that can break the stalemate? If the two parties can suspend
 their belief in /Sola Scriptura/ momentarily, they may find that indeed, there
 are voices and authorities that can help arbitrate between interpretations: the
-early Church fathers! Their voices are particularly important because in many
+early _Church fathers_! Their voices are particularly important because in many
 cases, they lived and wrote within living memory of Christ and His
 Apostles. Some of them were pupils of the Apostles and Gospel-writers
 themselves. Surely they can help us understand, for example, whether St. John
@@ -416,6 +459,8 @@ St. Ignatius' testimony is discussed in the next section.
 #+end_note
 
 ** Testimony of the Church Fathers
+
+*** St. Ignatius of Antioch
 
 #+attr_html: :width 300px
 #+caption: Ignatius of Antioch is an important voice who helps us understand St. John's intent in writing John 6. Ignatius was a student of John himself. His view can clarify for us whether John meant for us to take John 6 in a literal way or a figurative way. Credit: [[https://www.orthodoxroad.com/voices-from-the-past/st-ignatius-of-antioch/][orthodoxroad.com]]
@@ -445,6 +490,13 @@ of his mentor's Gospel because that is the view his mentor taught him to
 take. Notably, the epistle quoted above was written within 10 years of the death
 of his teacher, and within a few decades of the time when St. John wrote the
 /Revelation/.
+
+*** St. Justin Martyr
+
+#+name: fig:JustinMartyr
+#+attr_html: :width 480
+#+caption: St. Justyn Martyr (100-165 AD) is one of the earliest Christian writers. He was born within 1-2 decades after the death of John the Evangelist.
+[[https://www.christianitytoday.com/wp-content/uploads/2008/08/67238.jpg]]
 
 Another important early source is by Justin Martyr ([[https://www.newadvent.org/fathers/0126.htm][First Apology]], chapter
 66). Justin writes of the Eucharist:
@@ -485,6 +537,8 @@ true.
 
 ** Links
 
+*** Videos
+
 1. In April 2025, Cliff and Stuart Knechtle had a discussion on the early Church
    Fathers and an Ethiopean Orthodox Christian (Deacon Mihret Melaku) at Harvard
    about the Real Presence of Christ in the Eucharist.
@@ -495,3 +549,6 @@ true.
    discusses Holy Thursday before Easter, as well as the doctrine of the Real
    Presence of Christ in the Eucharist, as well as Einstein's interest in this
    doctrine.
+*** Catechism of the Catholic Church
+1. Read more about the [[https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving,_memorial,_presence.html][the Eucharist]] from the Catechism, which summarizes
+   centuries of theology and philosophy of the Eucharist.
