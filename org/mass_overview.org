@@ -516,7 +516,7 @@ of his teacher, and within a few decades of the time when St. John wrote the
 
 #+name: fig:JustinMartyr
 #+attr_html: :width 480px
-#+caption: St. Justyn Martyr (100-165 AD) is one of the earliest Christian writers. He was born within 1-2 decades after the death of John the Evangelist.
+#+caption: St. Justyn Martyr (100-165 AD) is one of the earliest Christian writers. He was born within 1-2 decades after the death of John the Evangelist. Image credit: [[https://www.christianitytoday.com/2008/08/justin-martyr/][Christianity Today]].
 [[https://www.christianitytoday.com/wp-content/uploads/2008/08/67238.jpg]]
 
 Another important early source is by Justin Martyr ([[https://www.newadvent.org/fathers/0126.htm][First Apology]], chapter
@@ -559,7 +559,42 @@ true.
 
 ** TODO The Protestant Reformers and the Real Presence
 
+** Eucharistic Adoration
 
+In Catholicism, we take the Real Presence and transubstantiation to its logical
+conclusion. If the consecrated Eucharist is the Body, Blood, Soul and Divinity
+of Christ, it is Christ Himself. If it is Christ Himself, then He is worthy of
+adoration and worship; additionally, it is our privilege to be in the presence
+of Christ Himself in the Sacrament of the altar. This is why we decorate our
+Tabernacles with gold: to create a dignified resting place for the uncreated
+Creator of the universe, Who gives Himself to us. The Eucharist is a symbol that
+actually effects what it symbolizes: the Presence of God with us. The Eucharist
+is a physical and visible symbol of the truth that our God has drawn near to
+us. While the Father and the Holy Spirit have no body, the eternal Son retains
+the same divine nature and He has united Himself to a truly human nature in Jesus
+Christ. The fact that we can even speak of Him having a Body and Blood is a
+consequence of this mysterious union, and the Eucharist makes present this
+mystery and this union to us. God has drawn near to us in the incarnation, and
+He continues to do so in the Eucharist.
+
+Because of this, consecrated Eucharist provides an intimate and holy devotional
+encountner for Christians. On occasions where it is possible, Christ in the Holy
+Sacrament of the Altar is placed on an instrument called a *monstrance* so that
+His Body is made visible in a dignified way. Faithful Christians are welcomed to
+be close to the Sacramental Presence of Christ.
+
+Personally, I find it very fruitful to spend time in prayer before the Blessed
+Sacrament (the Eucharist). It is a beautiful, tranquil, and intimate way to pray
+with Jesus. In adoration, I can pray various petitions, or I can simply gaze
+upon Christ and meditate on the mysteries of Who He is, and the divine love that
+led Him to draw near to us.
+
+The following video provides a brief introduction to Eucharistic adoration:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/55zIu7Uwsuw?si=dw5ticJ82RgGfei3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Gabriel Castillo gives his testimony of how Eucharistic adoration changed his
+life:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/x8awC9VyncM?si=ZsCpRkIqAc_8PQVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Links
 

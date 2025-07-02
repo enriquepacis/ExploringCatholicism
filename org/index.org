@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds an some image attributions."
+  git commit -m "Adds notes on Eucharistic adoration."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 4d7afa2] Adds an icon of the Twelve Apostles.
-:  4 files changed, 725 insertions(+), 707 deletions(-)
+: [main cb13ba0] Adds an some image attributions.
+:  4 files changed, 709 insertions(+), 709 deletions(-)
 : Already up to date.
 
 
