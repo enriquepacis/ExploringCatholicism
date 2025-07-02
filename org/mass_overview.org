@@ -466,6 +466,10 @@ Presence of Christ.
 
 *** The Twelve Apostles
 
+#+attr_html: :width 640px
+#+caption: An icon of the Twelve Apostles.
+[[https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200827210856_5f480fd6c2bf74d8ccdfe187jpeg.webp]]
+
 The Twelve Apostles wrote the earliest known catechism for Christians, known as the
 [[https://en.wikipedia.org/wiki/Didache][Didache]] (the [[https://www.newadvent.org/fathers/0714.htm][text]] is available online for free, and it's pretty short). Each
 chapter is roughly a paragraph. At the end of chapter 9, they tel us at the
