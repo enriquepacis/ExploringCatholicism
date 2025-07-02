@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a portraint of St. Justin Martyr as well as greek works."
+  git commit -m "Adds a paragraph break."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 3e448c6] Adds a linkable label for the Eucharist content.
-:  4 files changed, 693 insertions(+), 671 deletions(-)
+: [main d798384] Adds a portraint of St. Justin Martyr as well as greek works.
+:  4 files changed, 933 insertions(+), 684 deletions(-)
 : Already up to date.
 
 

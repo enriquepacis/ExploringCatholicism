@@ -283,7 +283,9 @@ The *Real Presence of Christ in the Eucharist*, often abbreviated to the /Real
 Presence/, is the teaching or belief that Jesus Christ is truly present in the
 elements of Communion. This is to be contrasted with a more symbolist view,
 which was first espoused by Ulrich Zwingli in the first Zurich disputation
-(January 1523). Today, many more evangelical Protestant denominations hold to
+(January 1523).
+
+Today, many more evangelical Protestant denominations hold to
 the Zwinglian symbolist view. However, the Real Presence has been the view
 upheld by Church fathers since the writing of the Gospels, the early decades of
 the Church, and down through the centuries. It is so prevalent that all
@@ -494,7 +496,7 @@ of his teacher, and within a few decades of the time when St. John wrote the
 *** St. Justin Martyr
 
 #+name: fig:JustinMartyr
-#+attr_html: :width 480
+#+attr_html: :width 480px
 #+caption: St. Justyn Martyr (100-165 AD) is one of the earliest Christian writers. He was born within 1-2 decades after the death of John the Evangelist.
 [[https://www.christianitytoday.com/wp-content/uploads/2008/08/67238.jpg]]
 
