@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds the Jimmy Akin sola fide video."
+  git commit -m "Adds a quote from the Didache."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 3fe62c7] Adds a paragraph break.
-:  4 files changed, 705 insertions(+), 695 deletions(-)
+: [main 1248d92] Adds the Jimmy Akin sola fide video.
+:  4 files changed, 726 insertions(+), 689 deletions(-)
 : Already up to date.
 
 

@@ -461,6 +461,21 @@ St. Ignatius' testimony is discussed in the next section.
 #+end_note
 
 ** Testimony of the Church Fathers
+After the Scriptures, we have the founders of the Church who uphold the Real
+Presence of Christ.
+
+*** The Twelve Apostles
+
+The Twelve Apostles wrote the earliest known catechism for Christians, known as the
+[[https://en.wikipedia.org/wiki/Didache][Didache]] (the [[https://www.newadvent.org/fathers/0714.htm][text]] is available online for free, and it's pretty short). Each
+chapter is roughly a paragraph. At the end of chapter 9, they tel us at the
+Eucharist is not ordinary bread, but rather it is sacred. This is found in the
+last sentence of chapter 9 of the [[https://www.newadvent.org/fathers/0714.htm][Didache]]:
+#+begin_quote
+But let no one eat or drink of your Thanksgiving (Eucharist), but they who have
+been baptized into the name of the Lord; for concerning this also the Lord has
+said, Give not that which is holy to the dogs.
+#+end_quote
 
 *** St. Ignatius of Antioch
 
@@ -514,6 +529,11 @@ which is blessed by the prayer of His word, and from which our blood and flesh
 by transmutation are nourished, *is the flesh and blood of that Jesus* who was
 made flesh.
 #+end_quote
+
+
+*** Even More Church Fathers
+1. See [[https://media.ascensionpress.com/2018/03/08/heres-the-early-church-fathers-upholding-transubstantiation-in-their-own-words/][Early Church Fathers Uphold Transubstantiation in Their Own Words]] for
+   more on the views of the early church and the Eucharist.
 
 ** Testimony of the Enemies of Christ
 
