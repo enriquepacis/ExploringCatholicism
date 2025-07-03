@@ -4,6 +4,9 @@
 #+startup: overview indent
 
 * /Sola Scriptura/
+:properties:
+:custom_id: solascriptura
+:end:
 
 ** Authority: Bible, Church, or Both?
 

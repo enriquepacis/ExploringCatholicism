@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a quote from St. Ignatius' Epistle to the Romans."
+  git commit -m "Adds a a container name to the sola scriptura page."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 527b7c8] Adds a video about Biblical self-interpretation.
-:  4 files changed, 743 insertions(+), 715 deletions(-)
+: [main 8dfe88d] Adds a quote from St. Ignatius' Epistle to the Romans.
+:  4 files changed, 769 insertions(+), 721 deletions(-)
 : Already up to date.
 
 
