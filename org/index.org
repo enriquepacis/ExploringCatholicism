@@ -48,14 +48,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds notes on Eucharistic adoration."
+  git commit -m "Adds the testimony of Matt Selby."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main cb13ba0] Adds an some image attributions.
-:  4 files changed, 709 insertions(+), 709 deletions(-)
+: [main 496a498] Adds notes on Eucharistic adoration.
+:  4 files changed, 844 insertions(+), 713 deletions(-)
 : Already up to date.
 
 

@@ -142,13 +142,11 @@ various flavors--high church, low church, evangelical, mainline, etc. After
 delving deeper into the Bible and into history, these believers found themselves
 becoming Catholics.
 
-*** Dr. Scott Hahn
+*** Jimmy Akin
 
-Dr. Hahn was a Presbyterian, and he converted to Catholicism during Protestant
-seminary. Dr. Hahn exudes joy, and his theology is deeply rooted in Scripture.
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/P-bz4kRtCQI?si=3te9EcvubMqFVU6i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Jimmy Akin went from Presbyterianism to Catholicism.
 
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/btYWd31QIy8?si=DqjZks7IHJ-Faupv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/4dEa1kNHLOU?si=z460gIEhIQAQhH30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *** Dr. David Anders
 
@@ -168,6 +166,18 @@ he reverted to Catholicism.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/ks-XF7-6vnQ?si=T2Ea0dn5gw_g-net" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*** Dr. Scott Hahn
+
+Dr. Hahn was a Presbyterian, and he converted to Catholicism during Protestant
+seminary. Dr. Hahn exudes joy, and his theology is deeply rooted in Scripture.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/P-bz4kRtCQI?si=3te9EcvubMqFVU6i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/btYWd31QIy8?si=DqjZks7IHJ-Faupv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** Dr. Taylor Marshall
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/Bsgd2BxZrus?si=umusbVX2buiiJ6fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *** Curtis Mitch
 
 Curtis started out as a Catholic, entered into a personal relationship with
@@ -178,20 +188,22 @@ I relate to this story /very/ much.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/DZopNrw8Kms?si=aiO9yXPK4NXbPG_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*** Dr. Taylor Marshall
+*** Keith Nester
 
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/Bsgd2BxZrus?si=umusbVX2buiiJ6fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Keith Nester was a Methodist minister who became Catholic.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oe7JGpsCcf0?si=vLE81FJy-aFvaIzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *** Candace Owens
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/vGcVqOaZ5xY?si=onDJ1kRM2s9LF_nP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*** Jimmy Akin
+*** Matt Selby
 
-Jimmy Akin went from Presbyterianism to Catholicism.
+Matt Selby was an Evangelical Free Christian who served as a missionary. He
+converted to Catholicism in 2014.
 
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/4dEa1kNHLOU?si=z460gIEhIQAQhH30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/wLA3TH5_2Z8?si=MTydojPulDMWY-zT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *** Tim Staples
 
 Tim Staples was an Assemblies of God youth pastor who converted to
@@ -199,8 +211,3 @@ Catholicism. Today, Tim is an apolotist for the [[https://www.catholic.com][Cath
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/MLsBVRn1U_0?si=mn0om6I_IaWHzUg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*** Keith Nester
-
-Keith Nester was a Methodist minister who became Catholic.
-
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/oe7JGpsCcf0?si=vLE81FJy-aFvaIzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
