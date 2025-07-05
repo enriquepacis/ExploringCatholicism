@@ -1,0 +1,173 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+
+* Saint Mary
+:properties:
+:custom_id: mary
+:end:
+Saint Mary is regarded by Catholics as the pinnacle of Creation. We give her the
+highest possible devotion without considering it worship. This is because while
+God--in the Three Persons of the Father, Son, and Holy Spirit--is the eternal,
+infinite, immaterial, and uncreated Creator. Mary, however dignified, is part of the Creator's creation:
+like the rest of creation, she has a beginning, and she is finite. However, she
+plays a unique role in the cosmic drama of salvation, for the immaterial,
+eternal, and unchanging Son received His temporal, material, and changing human
+body from Mary through the work of the Holy Spirit. By her obedience and
+subservience to God, she became a portal of the Divine. God has approached us
+indeed, and He has done so in Jesus Christ through Mary, His mother.
+
+Personally, I have a love and admire Mary for three principal reasons:
+1. She is an instigator of grace
+2. She is an intercessor
+3. She is an example
+
+** Mary as an Instigator of Grace
+
+#+attr_latex: :width 640px
+#+caption: The Annunciation is an important event in salvation history. St. Gabriel presented God's will to St. Mary, and she accepted this. This event marks the Incarnation of Christ, and it is celebrated in the Catholic Church nine months prior to Christmas, annually on March 25.
+[[https://www.wga.hu/detail/a/angelico/09/corridor/annunci.jpg]]
+
+Catholics look to St. Mary as an important instigator of grace; but, she is not
+the originator of grace. God, of course, is the source of all graces. However,
+St. Mary plays a special role in salvation history. First and foremost, St. Mary
+embraced God's will when it was presented to her by the archangel,
+St. Gabriel. In response to her /fiat/, she conceived by the Holy Spirit, and
+received the Son of God into her body, providing Christ with His body through her biology and the
+work of the Holy Spirit. Her cooperation with God's will thus enabled the
+Incarnation of Christ. Through St. Mary, the unchanging and eternal Son of God
+entered into time and space as Jesus Christ, the source of all graces together
+with God the Father and the Holy Spirit. Thus, since St. Mary is the portal of
+God the Son into His creation, and the Son brings us all graces, St. Mary has
+been called the "portal of grace" or the "gate of heaven."
+
+Nonetheless, it should be noted that St. Mary is not the ultimate cause of our
+graces. Rather, God, in His generosity created humanity and willed St. Mary to 
+exist. Furthermore, in His grace and generosity, He invited her to participate
+in His plan of salvation for mankind by accepting the role chosen for her. Her
+willing cooperation with God's will and invitation, then, led to Christ's life,
+death and resurrection.
+
+For St. Mary's supporting and enabling role in humanity's redemption through
+Christ, St. Mary is known as the *New Eve*. This is because her role is the
+antithesis of Eve's role in Adam's sin and the Fall. This is described in more
+detail below.
+
+#+begin_info
+*Mary as the New Eve*
+
+#+html: <details>
+#+html: <summary>Read more about this ...</summary>
+
+#+attr_html: :width 480px
+#+caption: Mary is the antithesis of Eve. Whereas Eve fell prey to Satan through disobedience, Mary triumphed over him by her great fiat in response to God's will: "Let it be done unto your servant as you have said." Eve's action led to Adam's sin, the fall of man, and spiritual death. Mary's obedience led to the incarnation of Christ, His holy life, death, and resurrection, purchasing for us redemption and eternal life. Source: [[https://www.churchpop.com/7-church-fathers-mary-new-eve/][churchpop.com]]
+[[https://www.churchpop.com/content/images/size/w1200/wordpress/2014/08/113.jpg]]
+
+The Scriptures explicitly call Jesus the Last Adam ([[https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A45-49&version=RSVCE][1 Cor. 15:45-49]],
+[[https://www.biblegateway.com/passage/?search=Romans%205%3A12-21&version=RSVCE][Rom. 5:12-21]]). Nonetheless, within 100 years of the writing of the last books of
+the Bible--indeed, before the notion of the Bible even existed--the early Church
+fathers recognized a stunning parallel between Eve and Mary. Let us tabulate
+some details for comparison and contrast:
+#+caption: A notable parallel is given in the Scriptures between Mary and Eve.
+|                     | *Eve*                                                                 | *Mary*                                                                                                   |
+|---------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------|
+| Spiritual encounter | A fallen angel tempts Eve to reject God's will. ([[https://www.biblegateway.com/passage/?search=Genesis%203%3A1-5&version=RSVCE][Gen. 3:1-5]])          | A holy angel presents God's will to Mary. ([[https://www.biblegateway.com/passage/?search=Luke%201%3A26-35&version=RSVCE][Luke 1:26-35]])                                                 |
+|---------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------|
+| Personal response   | Eve rejects God's will.  ([[https://www.biblegateway.com/passage/?search=Genesis%203%3A6&version=RSVCE][Gen. 3:6]])                                   | Mary accepts God's will ([[https://www.biblegateway.com/passage/?search=Luke%201%3A38&version=RSVCE][Luke 1:38]])                                                                      |
+|---------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------|
+| This leads to       | Adam's sin. ([[https://www.biblegateway.com/passage/?search=Genesis%203%3A6&version=RSVCE][Gen. 3:6]])                                                | The incarnation of Christ ([[https://www.biblegateway.com/passage/?search=Matthew%201%3A18&version=RSVCE][Matt. 1:18]]; [[https://www.biblegateway.com/passage/?search=Luke%201%3A35&version=RSVCE][Luke 1:35]]), His obedience to God, and His death and resurrection. |
+|---------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------|
+| This causes         | The Fall, subjugation to death, and eternal damnation. ([[https://www.biblegateway.com/passage/?search=Romans%205%3A12-21&version=RSVCE][Rom. 5:12-21]]) | The Redemption of man, and the gift of Eternal Life ([[https://www.biblegateway.com/passage/?search=Romans%205%3A12-21&version=RSVCE][Rom. 5:12-21]]).                                      |
+|---------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------|
+
+Mary is called the *New Eve* because her faithful obedience to God's will
+reversed the disobedience of Eve. Where Eve’s disobedience led to the Fall and
+death, Mary’s obedience opened the way for the Incarnation and the gift of
+eternal life through Jesus Christ, the New Adam (cf. Romans 5:12–21; 1
+Corinthians 15:22, 45). 
+
+Eve is seen as the "mother of all the living" (Genesis 3:20), but her action
+brought spiritual death into the world. Mary, through her "yes" to God at the
+Annunciation (Luke 1:38), becomes the spiritual mother of all the redeemed. 
+
+*Who first made this observation?*
+
+The typology of Mary as the New Eve appears very early in Christian theology:
+
+| *Church Father*        | *Date*        | *Contribution*                                                                                   |
+|------------------------+---------------+--------------------------------------------------------------------------------------------------|
+| *St. Justin Martyr*    | c. 155–165 AD | In *Dialogue with Trypho*, he compares Eve’s disobedience with Mary’s obedience.                 |
+| *St. Irenaeus of Lyon* | c. 180–190 AD | In *Against Heresies*, he develops the parallel more fully, calling Mary the cause of salvation. |
+
+#+BEGIN_QUOTE
+*"The knot of Eve's disobedience was loosed by the obedience of Mary."*  
+— *St. Irenaeus*, *Against Heresies* 3.22.4  
+#+END_QUOTE
+
+*When did this occur relative to the canon of Scripture?*
+
+The New Eve typology was articulated decades *before* the biblical canon was finalized:
+
+| *Event or Text*                          | *Approximate Date* |
+|------------------------------------------+--------------------|
+| Justin Martyr’s *Dialogue with Trypho*   | c. 155–165 AD      |
+| Irenaeus’ *Against Heresies*             | c. 180–190 AD      |
+| Muratorian Fragment (early canon list)   | c. 170–200 AD      |
+| Council of Hippo (affirmed canon)        | 393 AD             |
+| Council of Carthage                      | 397 AD             |
+
+So the New Eve theology *predates* the Church's formal listing of the biblical canon by over 200 years.
+
+*Would this concept have been known to the bishops who determined the canon?*
+
+Yes. The Eve–Mary typology was already *well established* in orthodox Christian
+teaching by the time the canon was finalized. Bishops and theologians at the
+Councils of Hippo and Carthage would likely have been familiar with:
+
+- The teachings of Justin Martyr and Irenaeus
+- The biblical typology between Eve and Mary (Genesis–Luke connection)
+- The importance of Mary’s obedience as part of salvation history
+
+This typology supported a *unified understanding* of Scripture and Tradition in
+the early Church.
+
+*The relationship between the Marian typology and the canon of the Scriptures* is
+important because it *undermines* the claim made by many that Catholic
+veneration of Mary is unscriptural. It is certainly *not* unscriptural or
+antiscriptural, since the councils of bishops who were identifying which books
+to call Scripture would have been aware of Marian typology, and they would never
+have called Scripture books that undermine this.
+
+*Parallels between Eve and Mary*
+
+#+CAPTION: Comparison of Eve and Mary in Christian Typology
+| *Aspect*               | *Eve (Old Eve)*                        | *Mary (New Eve)*                                 |
+|------------------------+----------------------------------------+--------------------------------------------------|
+| Title                  | Mother of all the living               | Mother of the Redeemer                           |
+| Relationship to Adam   | Spouse of Adam                         | Spouse of the Holy Spirit                        |
+| Relationship to Christ | Foreshadowing (by contrast)            | Mother of Christ, the New Adam                   |
+| Response to God        | Disobedience                           | Obedience                                        |
+| Result of Action       | Fall of humanity                       | Salvation through Christ                         |
+| Instrumental in...     | The entrance of sin and death          | The entrance of grace and life                   |
+| Spoken to by           | The serpent (Satan)                    | The angel Gabriel (God's messenger)              |
+| Famous words/action    | Took the fruit and ate it              | “Let it be done to me according to your word”    |
+| Outcome                | Brought curse                          | Brought blessing                                 |
+
+#+html: </details>
+#+end_info
+
+Additionally, the wedding at Cana gives us a second picture of St. Mary as an
+instigator of grace. She recognized the problematic situation, and she brought
+it to the attention of Jesus Christ, her Son. He expressed that it was not His
+will to resolve the situation at that time. Nonetheless, at her propmting and
+instruction to do whatever He tells them, the people involved approached
+Christ. He then acted, performing His first public miracle, commencing His
+ministry in a public way.
+
+
+** TODO St. Mary as an Intercessor
+
+** TODO St. Mary as an Example
+

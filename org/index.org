@@ -21,6 +21,8 @@
 
 #+include: objections.org
 
+#+include: mary.org
+
 #+include: prolife.org
 
 #+include: resources.org
@@ -48,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a a container name to the sola scriptura page."
+  git commit -m "Adds a page on St. Mary."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 8dfe88d] Adds a quote from St. Ignatius' Epistle to the Romans.
-:  4 files changed, 769 insertions(+), 721 deletions(-)
+: [main 323f21b] Adds a a container name to the sola scriptura page.
+:  4 files changed, 726 insertions(+), 723 deletions(-)
 : Already up to date.
 
 
