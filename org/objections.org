@@ -509,14 +509,12 @@ Below is a breakdown of Scriptural support for each of these offices:
       #+end_quote
     - 1 Timothy 3:8–13 – Paul gives qualifications for deacons, showing it as
       a distinct and recognized office.
-
-*Historical Continuity*
-
-The Catholic Church sees this structure as apostolic in origin, with apostolic 
-succession preserving the offices—especially the episcopate—from the time of
-the apostles to today. The bishops are considered the successors to the
-apostles; priests are their collaborators, and deacons continue the
-service-oriented ministry first seen in Acts 6.
-
-#+html: </details>     
 #+end_info
+
+** The Distinction Between Venial and Mortal Sin
+
+Carlo Broussard takes a call about the distinction between venial and mortal sin.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/JxT9sRdVngE?si=eprSIWKzyWl7sEmo&amp;start=2314" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Alan also asks a follow-on question about mortal sin:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/JxT9sRdVngE?si=MPrxOhu3btUEu16n&amp;start=4536" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

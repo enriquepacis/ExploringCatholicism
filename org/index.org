@@ -50,14 +50,15 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a page on St. Mary."
+  git commit -m "Adds videos on venial and mortal sin."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 323f21b] Adds a a container name to the sola scriptura page.
-:  4 files changed, 726 insertions(+), 723 deletions(-)
+: [main f2f4e6e] Adds a page on St. Mary.
+:  5 files changed, 1768 insertions(+), 814 deletions(-)
+:  create mode 100644 org/mary.org
 : Already up to date.
 
 
