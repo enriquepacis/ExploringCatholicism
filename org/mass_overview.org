@@ -61,11 +61,12 @@ perform.
 
 Eastern Orthodox Christians also believe their liturgy (public worship) to be a
 cosmic event where heaven meets earth and angels participate. This is because
-they, like Catholics believe that Christ is truly present in the consecrated
-bread and wine. What Catholics call the /Mass/, Orthodox Christians call the
-/Divine Liturgy/. In the video below, an Eastern Orthodox Christian describes
-the Divine Liturgy in much the same way we Catholics view the Mass. The Mass is
-full of mystery and Divine love.
+they--like Catholics, Coptics, Armenians, and many other Christians--believe
+that Christ is truly present in the consecrated bread and wine. What Catholics
+call the /Mass/, Orthodox Christians call the  /Divine Liturgy/. In the video
+below, an Eastern Orthodox Christian describes the Divine Liturgy in much the
+same way we Catholics view the Mass. The Mass is full of mystery and Divine
+love.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/f2uvXjjDjwQ?si=cLWx_sCDyLrEQY30&amp;start=109" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
