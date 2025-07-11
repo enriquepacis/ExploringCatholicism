@@ -50,15 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds videos on venial and mortal sin."
+  git commit -m "Adds videos on notes on the Mass/Divine Liturgy."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main f2f4e6e] Adds a page on St. Mary.
-:  5 files changed, 1768 insertions(+), 814 deletions(-)
-:  create mode 100644 org/mary.org
+: [main 3b44dfe] Adds videos on venial and mortal sin.
+:  4 files changed, 768 insertions(+), 767 deletions(-)
 : Already up to date.
 
 

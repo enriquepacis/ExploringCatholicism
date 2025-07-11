@@ -45,7 +45,7 @@ contrast, cannot remain only in the past, because by his death he destroyed
 death, and all that Christ is — all that he did and suffered for all men —
 participates in the divine eternity, and so transcends all times while being
 made present in them all. The event of the Cross and Resurrection abides and
-draws everything toward life. 
+draws everything toward life.
 #+end_quote
 
 What does this mean to me? It means that when I partake of the Eucharist, I am
@@ -56,7 +56,25 @@ to Jesus.
 
 The Mass is a cosmic event in which our Creator approaches us, gives Himself to
 us, and we approach Him. In receiving His Body and Blood, we also give ourselves
-to Him in an encounter that is more intimate than any act that spouses can perform.
+to Him in an encounter that is more intimate than any act that spouses can
+perform.
+
+Eastern Orthodox Christians also believe their liturgy (public worship) to be a
+cosmic event where heaven meets earth and angels participate. This is because
+they, like Catholics believe that Christ is truly present in the consecrated
+bread and wine. What Catholics call the /Mass/, Orthodox Christians call the
+/Divine Liturgy/. In the video below, an Eastern Orthodox Christian describes
+the Divine Liturgy in much the same way we Catholics view the Mass. The Mass is
+full of mystery and Divine love.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/f2uvXjjDjwQ?si=cLWx_sCDyLrEQY30&amp;start=109" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Like the Orthodox Christians, if we truly
+understood the Mass, we would approach it with great awe and wonder, recognizing
+it as a holy and intimate encounter with the Creator of the universe, our great
+Divine Lover, and the Source of our very lives. In the Mass, we come into
+contact with Him who is both our Origin and our Destination.
+
 #+html: </details>
 #+end_info
 
@@ -254,6 +272,10 @@ It is a tradition for parishes to keep their altar of repose open until midnight
 
 *** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
 
+#+attr_html: :width 480px
+#+caption: This is the [[https://en.wikipedia.org/wiki/Isenheim_Altarpiece][Altarpiece of Isenheim]].
+[[https://upload.wikimedia.org/wikipedia/commons/3/30/Isenheim_Altarpiece_—_FIRST_OPENING.jpg]]
+
 This is not a Mass because the Eucharist is not consecrated on Good Friday
 around the world. Instead, consecrated hosts from the Holy Thursday Mass are
 distributed so that the faithful may receive Christ on this day. The Liturgy
@@ -267,8 +289,18 @@ the Eucharist.
 
 *** TODO Holy Saturday: the Easter Vigil Mass
 
+#+attr_html: :width 360px
+#+caption: This is the /Resurrection of Christ/ by Paolo Veronese.
+[[https://upload.wikimedia.org/wikipedia/commons/a/a2/Paolo_Veronese_-_The_Resurrection_of_Christ_-_WGA24817.jpg]]
+
 The Easter Vigil Mass is the pinnacle of the liturgical year. It is the Mass of
-Masses. Even more than Good Friday was a somber reflection of Christ's 
+Masses. Even more than Good Friday was a somber reflection of Christ's, passion,
+the Easter Vigil is full of expectant desire of His Resurrection, and jubilant
+triumph over the historical fact of the matter. This is the first Mass since
+Holy Thursday, and the readings give a grand panoramic view of salvation
+history, starting with Creation and the Fall, up through the Resurrection and
+the present day.
+
 
 * The Eucharist
 :properties:
