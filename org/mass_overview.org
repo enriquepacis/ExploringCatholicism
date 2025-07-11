@@ -52,7 +52,7 @@ What does this mean to me? It means that when I partake of the Eucharist, I am
 uniting myself with the eternal Christ in the present moment. I am not communing
 with Christ and just those people around me; rather, in Christ, I am communing with all
 Christians--past, present, future, near and far--who also have joined themselves
-to Jesus.
+to Jesus. /The Mass transcends space and time./
 
 The Mass is a cosmic event in which our Creator approaches us, gives Himself to
 us, and we approach Him. In receiving His Body and Blood, we also give ourselves
@@ -254,9 +254,24 @@ behalf of the Church. The other sacrifice is that of the lay faithful, who
 present their bodies to God as a living offering, in accordance with [[https://www.biblegateway.com/passage/?search=Romans%2012%3A1-2&version=NKJV][Romans
 12:1-2]].
 
-** Special Masses and Liturgies
+** Special Seasons, Masses and Liturgies
 
-*** Holy Thursday: The Mass that doesn't End
+*** The Easter Triduum
+
+The Easter Triduum (Latin for "three days") is an incredibly immersive and
+engaging experience of Christ's death, burial, and resurrection. These three
+days commemorate the Paschal Mystery, a Divine and transcendent event that took
+place in human history and yet transcends time and space. This is the
+most intesive and elevated part of Catholic worship throughout the year. While
+Christmas is a grand celebration, Easter is even more so in sorrow, mourning,
+anticipation, triumph, and joy.
+
+**** Holy Thursday: The Mass that doesn't End
+
+#+attr_html: :width 640px
+#+caption: This is Leonardo Davinci's /The Last Supper/. Source: [[https://en.wikipedia.org/wiki/The_Last_Supper_%28Leonardo%29][wikipedia]].
+[[https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg]]
+
 This Mass commemorates the Last Supper, the first Mass of all Masses, which was
 instituted by Christ Himself.
 
@@ -271,7 +286,7 @@ Gethsemane in the time leading up to His betrayal, but without falling asleep.
 
 It is a tradition for parishes to keep their altar of repose open until midnight.
 
-*** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
+**** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
 
 #+attr_html: :width 480px
 #+caption: This is the [[https://en.wikipedia.org/wiki/Isenheim_Altarpiece][Altarpiece of Isenheim]].
@@ -288,7 +303,7 @@ generous love for us. For a church with hundreds of attendees, this can be a
 lengthy protion of the Liturgy. The Ligurgy concludes after the faithful receive
 the Eucharist.
 
-*** TODO Holy Saturday: the Easter Vigil Mass
+**** TODO Holy Saturday: the Easter Vigil Mass
 
 #+attr_html: :width 360px
 #+caption: This is the /Resurrection of Christ/ by Paolo Veronese.
@@ -300,8 +315,74 @@ the Easter Vigil is full of expectant desire of His Resurrection, and jubilant
 triumph over the historical fact of the matter. This is the first Mass since
 Holy Thursday, and the readings give a grand panoramic view of salvation
 history, starting with Creation and the Fall, up through the Resurrection and
-the present day.
+the present day. Themes of light and dark are used, starting with an Easter
+candle and the lighting of candles. The use of fire recalls God's deliverance of
+Israel through the Red Sea as a pillar of fire, as well as the fact that Christ
+is the very Light of Life. This Mass starts in darkness and in candle light, and
+then full lighting to reflect the transition from the Old Testament to the New
+Testament.
 
+#+begin_info
+
+*The (Very Beautiful) /Exultet/*
+
+#+html: <details>
+
+#+html: <summary>What is the /Exultet/?</summary>
+Personally, I love the chanting of the /Exultet/ (or Easter Proclamation), which
+is an ancient psalm about the power and triumph of Christ's Resurrection. Here
+are some of the [[https://www.usccb.org/prayer-worship/liturgical-year/easter/easter-proclamation-exsultet][lyrics]] from the /Exultet/ that always grip me:
+#+begin_quote
+This is the night,
+when once you led our forebears, Israel's children,
+from slavery in Egypt
+and made them pass dry-shod through the Red Sea.
+
+This is the night
+that with a pillar of fire
+banished the darkness of sin.
+
+This is the night
+that even now, throughout the world,
+sets Christian believers apart from worldly vices
+and from the gloom of sin,
+leading them to grace
+and joining them to his holy ones.
+
+This is the night,
+when Christ broke the prison-bars of death
+and rose victorious from the underworld.
+#+end_quote
+
+The /Exultet/ continues:
+#+begin_quote
+O truly blessed night,
+worthy alone to know the time and hour
+when Christ rose from the underworld!
+
+This is the night
+of which it is written:
+The night shall be as bright as day,
+dazzling is the night for me,
+and full of gladness.
+
+The sanctifying power of this night
+dispels wickedness, washes faults away,
+restores innocence to the fallen, and joy to mourners,
+drives out hatred, fosters concord, and brings down the mighty. 
+#+end_quote
+
+#+html: </details>
+#+end_info
+
+*** The Octave of Easter
+Easter is so grand and significant in Christian worship that a full octave
+(eight days starting on Easter Sunday) are allotted to observing its
+significance.
+
+*** Eastertide
+Even after the Octave of Easter draws to a close, we remain in the Easter
+Season, or Eastertide. This season of joy continues until the day of Pentecost.
 
 * The Eucharist
 :properties:
@@ -492,6 +573,11 @@ St. Ignatius' testimony is discussed in the next section.
 
 #+html: </details>
 #+end_note
+
+I leave you with a very scholarly and expert presentation on the Scriptural
+basis for understanding the Eucharist.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/6yXUz5awVLU?si=NOmahyDue9VXFtAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Testimony of the Church Fathers
 After the Scriptures, we have the founders of the Church who uphold the Real

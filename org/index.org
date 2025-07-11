@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Improves notes on the Mass."
+  git commit -m "Adds notes on the Exultet."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 3e37e06] Adds videos on notes on the Mass/Divine Liturgy.
-:  4 files changed, 882 insertions(+), 769 deletions(-)
+: [main ef971c0] Improves notes on the Mass.
+:  4 files changed, 767 insertions(+), 764 deletions(-)
 : Already up to date.
 
 
