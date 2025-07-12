@@ -6,6 +6,10 @@
 
 * Introduction
 
+#+attr_html: :width 600px
+#+caption: This is /The Calling of St. Matthew/ by Caravaggio (1599-1600 AD). Caravaggio depicts Levi, the tax collector, going about his business in the activity of his trade, which brought him great wealth through through extortion. Yet, Jesus generously invited Levi to follow Him. Caravaggio paints the moment when Levi recognizes that Our Lord's invitation first as personal and secondly as his own. Levi then had to choose between his fortune or a mysterious and unknown future with this itinerant rabi, Jesus. Would Levi follow his own vision, or that of Jesus? Would he puruse his own will, or God's? What did Levi choose? If he had chosen his own will, purposes, and glory, would we remember St. Matthew to this day? Indeed the painting is anachronistic: the clothing styles from around the 17th century depict a scene from the first century; however, this anachronism liberates the truth depicted here from reaching beyond the first century into the present day. Like Levi, Christ invites all of us at every moment to a deeper walk with Him, a greater surrender to His will, to a deeper conversion, a growing holiness, and into the glorious mystery of who He is. To what are you being called, and what will you choose? Source: [[https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew][Wikipedia]].
+[[https://upload.wikimedia.org/wikipedia/commons/5/59/Caravaggio_—_The_Calling_of_Saint_Matthew.jpg]]
+
 I am a former Evangelical Christian turned Catholic. I'm not sure
 there's any formal definition for this term, but I might like to
 take the label *Evangelical Catholic* for myself. Why? Because becoming Catholic
@@ -79,11 +83,20 @@ include:
    2. Mental prayer
 3. Well-developed methods for growing into the image of Christ
    1. The Spiritual Exercises by St. Ignatius
+      Spend some time separated from the world in a place of tranquility to
+      meditate on the life of Christ and prayerfully consider what God may be
+      calling you toward, and discern immediate next steps. Learn how to use
+      for the glory of God every aspect of your life and the circumstances God
+      has allowed to surround you. The Spiritual exercises were developed by
+      St. Ignatius of Antioch, regarded as a spiritual master of discernment.
    2. The practice of spiritual direction
    3. Mental Prayer
    4. Daily prayers and devotions bring Christ into our daily lives
       1. The Rosary
-      2. The Angelus
+      2. The Angelus.
+         Turn your heart toward God at several times during the day. Reflect on
+         St. Mary and her example of submitting to God's will, and the
+         fruitfulness that submission to God causes in our lives.
       3. The Morning Offering
       4. The /Suscipe/
       5. The Divine Office

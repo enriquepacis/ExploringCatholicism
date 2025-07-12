@@ -247,6 +247,17 @@ parts of the liturgy of the Eucharist::
 8. The priest will then cleanse the sacred vessels, give closing prayers and a
    blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."
 
+#+begin_info
+*What Happens When I Eat the Eucharist?*
+
+#+html: <details>
+
+#+html: <summary>Learn more ... </summary>
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/2taZcgcQ4JA?si=kYoeRfdt3D8nNyrT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_info
 ** The Mass as Two-fold a Sacrifice
 The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
 two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
@@ -286,7 +297,7 @@ Gethsemane in the time leading up to His betrayal, but without falling asleep.
 
 It is a tradition for parishes to keep their altar of repose open until midnight.
 
-**** TODO Good Friday: the Solemn Liturgy of the Lord's Passion
+**** Good Friday: the Solemn Liturgy of the Lord's Passion
 
 #+attr_html: :width 480px
 #+caption: This is the [[https://en.wikipedia.org/wiki/Isenheim_Altarpiece][Altarpiece of Isenheim]].
@@ -303,7 +314,7 @@ generous love for us. For a church with hundreds of attendees, this can be a
 lengthy protion of the Liturgy. The Ligurgy concludes after the faithful receive
 the Eucharist.
 
-**** TODO Holy Saturday: the Easter Vigil Mass
+**** Holy Saturday: the Easter Vigil Mass
 
 #+attr_html: :width 360px
 #+caption: This is the /Resurrection of Christ/ by Paolo Veronese.

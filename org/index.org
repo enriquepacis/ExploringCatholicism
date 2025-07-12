@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds notes on the Exultet."
+  git commit -m "Adds the calling of St. Matthew."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main ef971c0] Improves notes on the Mass.
-:  4 files changed, 767 insertions(+), 764 deletions(-)
+: [main 1a7aea5] Adds notes on the Exultet.
+:  4 files changed, 1127 insertions(+), 785 deletions(-)
 : Already up to date.
 
 
