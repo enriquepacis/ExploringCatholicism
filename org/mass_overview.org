@@ -254,7 +254,7 @@ parts of the liturgy of the Eucharist::
 
 #+html: <summary>Learn more ... </summary>
 
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/2taZcgcQ4JA?si=kYoeRfdt3D8nNyrT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+html: https://youtu.be/2taZcgcQ4JA?si=kYoeRfdt3D8nNyrT
 
 #+html: </details>
 #+end_info

@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds the calling of St. Matthew."
+  git commit -m "Adds some predestination videos."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 1a7aea5] Adds notes on the Exultet.
-:  4 files changed, 1127 insertions(+), 785 deletions(-)
+: [main 9ea9501] Adds the calling of St. Matthew.
+:  5 files changed, 876 insertions(+), 790 deletions(-)
 : Already up to date.
 
 

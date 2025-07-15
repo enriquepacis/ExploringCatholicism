@@ -605,6 +605,27 @@ the Gentiles, so that we might receive the promise of the Spirit through faith.
 #+end_quote
 
 
+#+begin_info
+
+*Predestination and Calvinism*
+
+#+html: <details>
+
+#+html: <summary>Read more ... </summary>
+
+It may be helpful to discuss more about doctrines of predestination and Calvinism.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/XLdDqTVyO0Q?si=T2BT_4ELQ0dSbIve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In the video above, Jimmy Akin references his article, [[https://www.ewtn.com/catholicism/library/tiptoe-through-tulip-1163][A Tiptoe Through TULIP]].
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/ItzKeAlyqsw?si=qGtMPiqgEmRw2PUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+
+#+end_info
+
+
 ** Evidence Against /Sola Fide/
 The first and most importnat an important piece of evidence against /sola fide/
 is found in the body of Scripture itself:

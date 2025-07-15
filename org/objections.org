@@ -518,3 +518,10 @@ Carlo Broussard takes a call about the distinction between venial and mortal sin
 
 Alan also asks a follow-on question about mortal sin:
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/JxT9sRdVngE?si=MPrxOhu3btUEu16n&amp;start=4536" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+** Miscellaneous
+
+Trent Horn addresses several critiques of Catholicism by John Macarthur.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/-X45ud92VsE?si=HtKAJlFH3JKY98Cu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
