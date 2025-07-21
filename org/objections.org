@@ -158,6 +158,45 @@ we have received from our fathers to be read in church."
 #+end_quote
 
 
+This is an interesting argument. It goes like this: the Catholic Church cannot
+be trusted because its teachings are corrupted in that they look very different
+from what we read in the Bible.
+
+The burden of proof is on the person who would say that the teachings of the
+Catholic Church are corrput. Which teachings are corrupt?
+
+The Catholic Church actually has the receipts. Here are some teachings often
+objected to by some Protestants that go way back to the beginning:
+1. The Real Presence of Christ in the Eucharist (the elements of Communion
+   really are the Body and Blood of Jesus). This teaching was recorded in
+   graphic detail in John 6 by John the Evangelist, and supported in the other
+   Gospels and in 1 Corinthians 11 by discussions of Christ affirming the Real
+   Presence. One of John's students, Ignatius of Antioch, wrote in affirmation
+   of the Real Presence before his death in 110 AD, within about two decades of
+   John the Evangelist's death and his authorship of the book of the
+   Revelation. Justin Martyr and numerous Church fathers affirmed the Real
+   Presence through the centuries, and even Martin Luther affirmed the Real
+   Presence. One of Martin Luther's contemporaries, Ulrich Zwingli, first
+   introduced a symbolist interpretation of Communion in about 1523. The Real
+   Presence has been the teaching in Christianity from the beginning, and a
+   symbolist interpretation is the historical and dogmatic novelty that is not
+   even held uniformly among Protestants.
+2. The veneration of Mary. The Church's great regard for Mary goes back to the
+   beginning. Luke 1:28 records a very unique angelic greeting to Mary. The
+   archangel Gabriel even tells her that she has found favor with God, and that
+   she is graced completely and enduringly. St. Justin Martyr (around 100-165
+   AD) recognizes Mary as the new Eve, and St. Iranaeus of Lyon further
+   developed this theme. Tertullian (155-240 AD) discussed Mary's perpetual
+   virginity. St. Athanasius (around 296-373 AD) called her noble and great with an unsurpassed
+   greatness.
+
+These doctrines were present at the start and our understanding of them
+developed hundreds of years before the Church first identified a closed set of
+books to be called the Bible.
+   
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ5-NEHMnmU?si=nHmUrz7aSLjstsYu&amp;start=2808" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ** TODO The Catholic Church is Corrupt
 
 ** TODO The Catholic Church has Changed Doctrines

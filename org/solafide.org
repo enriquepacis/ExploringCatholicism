@@ -106,6 +106,10 @@ away from salvation. At the very least, these Scriptures should indicate that
 eternal security is not such a secure doctrine. Notable Scripture passages
 include: 
 1. [[https://www.biblegateway.com/passage/?search=Matthew%2013%3A1-23&version=NIV][Matthew 13:1-23 (RSVCE)]]: Here, Jesus gives the Parable of the Sower:
+
+   #+html: <details>
+
+   #+html: <summary>Read more...</summary>   
    #+begin_quote
    3 Then he told them many things in parables, saying: “A farmer went out to
    sow his seed. 4 As he was scattering the seed, some fell along the path, and
@@ -238,6 +242,8 @@ include:
    fruitlessness, indicating dire consequences for fruitlessness because of a
    failure to abide in Christ.
 
+   #+html: </details>
+
 2. [[https://www.biblegateway.com/passage/?search=John%2015%3A1-8&version=RSVCE][John 15:1-8 (RSVCE)]]:
    #+begin_quote
    15 “I am the true vine, and my Father is the vinedresser. 2 Every branch of
@@ -338,8 +344,48 @@ include:
    and brings us toward Him, breaking the power of sin in our lives and
    conforming ourselves to the likeness of Christ. This is how the life of Christ
    saves us, building on the reconcilliation we have with God through His death.
+   
+5. [[https://www.biblegateway.com/passage/?search=Romans%2011&version=RSVCE][Romans 11 (RSVCE)]]. Paul describes the rebellion of Israel against God and
+   their rejection of Jesus Christ.
+   #+begin_quote
+   11:1 I ask, then, has God rejected his people? By no means! I myself am an
+   Israelite, a descendant of Abraham, a member of the tribe of Benjamin. ...
+   11 So I ask, have they stumbled so as to fall? By no means! But through their
+   trespass salvation has come to the Gentiles, so as to make Israel jealous. 12
+   Now if their trespass means riches for the world, and if their failure means
+   riches for the Gentiles, how much more will their full inclusion mean!
 
-5. [[https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&version=RSVCE][Hebrews 6:4-7 (RSVCE)]]. The writer describes individuals who have truly tasted
+   13 Now I am speaking to you Gentiles. Inasmuch then as I am an apostle to the
+   Gentiles, I magnify my ministry 14 in order to make my fellow Jews jealous,
+   and thus save some of them. 15 For if their rejection means the
+   reconciliation of the world, what will their acceptance mean but life from
+   the dead? 16 If the dough offered as first fruits is holy, so is the whole
+   lump; and if the root is holy, so are the branches.
+
+   17 But if some of the branches were broken off, and you, a wild olive shoot,
+   were grafted in their place to share the richness of the olive tree, 18 do
+   not boast over the branches. If you do boast, remember it is not you that
+   support the root, but the root that supports you. 19 You will say, “Branches
+   were broken off so that I might be grafted in.” 20 That is true. They were
+   broken off because of their unbelief, but you stand fast only through
+   faith. So do not become proud, but stand in awe. 21 *For if God did not spare
+   the natural branches, neither will he spare you.* 22 Note then the kindness
+   and the severity of God: severity toward those who have fallen, but *God’s
+   kindness to you, _provided you continue in his kindness; otherwise you too
+   will be cut off_.* 23 And even the others, if they do not persist in their
+   unbelief, will be grafted in, for God has the power to graft them in
+   again. 24 For if you have been cut from what is by nature a wild olive tree,
+   and grafted, contrary to nature, into a cultivated olive tree, how much more
+   will these natural branches be grafted back into their own olive tree. 
+   #+end_quote
+
+   Here, Paul promises and warns his readers, who are Gentile believers, that
+   they will be cut off from God if they do not continue in His kindness. This
+   follows from his discussion that God has even cut off the Jews, the
+   recipients of His old covenant, because of their disbelief and
+   disobedience. *The Christians, Paul says, are no more secure than the Jews.*
+
+6. [[https://www.biblegateway.com/passage/?search=Hebrews%206%3A4-7&version=RSVCE][Hebrews 6:4-7 (RSVCE)]]. The writer describes individuals who have truly tasted
   the heavenly gift and partaken of the Holy Spirit, and then fall away.
   #+begin_quote
   4 For it is impossible to restore again to repentance those _who have once
@@ -370,11 +416,11 @@ include:
   to obscure a verse that reads in a simple way to cast *significant doubt*
   upon eternal security.
    
-6. [[https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&version=RSVCE][1 Peter 1:10-11 (RSVCE)]]. Peter suggests that it is possible to fall away.
+7. [[https://www.biblegateway.com/passage/?search=2%20Peter%201%3A10-11&version=RSVCE][1 Peter 1:10-11 (RSVCE)]]. Peter says that it is possible to fall away.
    
-7. [[https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=NIV][Galatians 5:4 (RSVCE)]]. St. Paul says individuals may fall away from grace. It
+8. [[https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=NIV][Galatians 5:4 (RSVCE)]]. St. Paul says individuals may fall away from grace. It
    is impossible to fall from grace if one were not first /in grace/.
-8. Philippians 3:7-14 (RSVCE). St. Paul speaks of _not already having attained_
+9. Philippians 3:7-14 (RSVCE). St. Paul speaks of _not already having attained_
    his goal, and not already having become perfected. He wanrs us to keep
    striving, like he does, to attain the _resurrection from the dead_:
    #+begin_quote
@@ -396,33 +442,33 @@ include:
    who are mature be thus minded; and if in anything you are otherwise minded, God
    will reveal that also to you. 
    #+end_quote
-9. [[https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&version=RSVCE][1 John 5:16-17 (RSVCE)]]. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
-   his brother committing what is not a mortal sin, he will ask, and God will
-   give him life for those whose sin is not mortal. There is sin which is
-   mortal; I do not say that one is to pray for that. 17 All wrongdoing is sin,
-   but there is sin which is not mortal." Protestant Bible translations tend to
-   render "mortal" as "sin leading to death". The important question is, what
-   does /mortal/ mean? It is helpful to notice that the context of this verse is
-   in a discussion where St. John equates eternal life with a relationship with
-   the Son of God (see [[https://www.biblegateway.com/passage/?search=1%20John%205%3A11-13&version=RSVCE][11-13]]): to possess the Son of God is to have eternal life
-   (see also [[https://www.biblegateway.com/passage/?search=John%2017%3A1-3&version=RSVCE][John 17:1-3]], where eternal life is equated with *knowing Jesus and
-   the Father Who sent Him*). What, then, is death? It the opposite of being in
-   relationship with and posessing the Son of God and having eternal life: it is
-   separation from the Son of God, and being bereft of eternal life. Thus,
-   commiting mortal sin is the tearing away of oneself from union with God, and
-   thus the loss of eternal life.
+10. [[https://www.biblegateway.com/passage/?search=1%20John%205%3A16-17&version=RSVCE][1 John 5:16-17 (RSVCE)]]. In verses 16-17, St. John speaks of mortal sin: "16 If any one sees
+    his brother committing what is not a mortal sin, he will ask, and God will
+    give him life for those whose sin is not mortal. There is sin which is
+    mortal; I do not say that one is to pray for that. 17 All wrongdoing is sin,
+    but there is sin which is not mortal." Protestant Bible translations tend to
+    render "mortal" as "sin leading to death". The important question is, what
+    does /mortal/ mean? It is helpful to notice that the context of this verse is
+    in a discussion where St. John equates eternal life with a relationship with
+    the Son of God (see [[https://www.biblegateway.com/passage/?search=1%20John%205%3A11-13&version=RSVCE][11-13]]): to possess the Son of God is to have eternal life
+    (see also [[https://www.biblegateway.com/passage/?search=John%2017%3A1-3&version=RSVCE][John 17:1-3]], where eternal life is equated with *knowing Jesus and
+    the Father Who sent Him*). What, then, is death? It the opposite of being in
+    relationship with and posessing the Son of God and having eternal life: it is
+    separation from the Son of God, and being bereft of eternal life. Thus,
+    commiting mortal sin is the tearing away of oneself from union with God, and
+    thus the loss of eternal life.
 
-   Thus, it is _not_ that life is given to us in an eternal (timeless) and
-   irrevocable manner; rather, eternity is a quality of the life that is given
-   to us, and this life is none other than Jesus. We still have the opportunity
-   to fail to abide in that life, and by our mortal sin to reject this life,
-   which is eternal. In other words, /eternal/ does not describe the way in
-   which the life is given; rather, it describes the life itself, which is
-   Jesus, Who is eternal. Nowhere in the Scriptures nor the tradition which gave
-   us the Scripture does it say that our relationship with Christ is unbreakable
-   by our own high-handed disobedience. Rather, we are left with a significant
-   corpus of Scripture and tradition that indicates that our relationship with
-   Christ can be lost through mortal sin or apostasy.
+    Thus, it is _not_ that life is given to us in an eternal (timeless) and
+    irrevocable manner; rather, eternity is a quality of the life that is given
+    to us, and this life is none other than Jesus. We still have the opportunity
+    to fail to abide in that life, and by our mortal sin to reject this life,
+    which is eternal. In other words, /eternal/ does not describe the way in
+    which the life is given; rather, it describes the life itself, which is
+    Jesus, Who is eternal. Nowhere in the Scriptures nor the tradition which gave
+    us the Scripture does it say that our relationship with Christ is unbreakable
+    by our own high-handed disobedience. Rather, we are left with a significant
+    corpus of Scripture and tradition that indicates that our relationship with
+    Christ can be lost through mortal sin or apostasy.
 
 Catholic Answers has an excellent article: [[https://www.catholic.com/tract/mortal-sin#][What the Early Church Believed:
 Mortal Sin]]. This provides important context, because in the case of the Didache,
