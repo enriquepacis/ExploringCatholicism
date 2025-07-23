@@ -471,6 +471,17 @@ persist. Here is a brief listing of some various non-Catholic views:
    churches. These groups tend to interpret the Eucharist as a symbolic
    remembrance of Christ's sacrifice.
 
+#+html: <details>
+#+html: <summary><b>Watch:</b> <i>What did Calvin think about Communion?</i></summary>
+
+Dr. David Anders fields a question about whether Buzz Aldrin's communion on the
+moon contained the real presence of Christ. He also discusses Calvin's view and
+why it arose as compromize between the Lutheran view and the Zwinglian view.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=oe13GLc6_M9QGHHK&amp;start=1774" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+   
 #+html: </details>
 #+end_info
 
