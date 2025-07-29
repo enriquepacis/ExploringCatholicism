@@ -80,7 +80,30 @@ include:
       especially at the reception of the Eucharist, *Christ Gives Himself
       fully to me, and at the same moment, I offer myself--as
       fully as I know how--to Him*.
-   2. Mental prayer
+   2. Mental prayer.
+
+      Mental prayer is a gift that some non-Catholics also enjoy; however,
+      within Catholicism, mental prayer--though not entirely up to the
+      individual, but also dependent on sovereign action by God Himself--is a
+      beautiful, intimate, and powerful form of prayer. Because of this
+      dependence on God, we cannot always perform mental prayer at will;
+      however, we can by our will prepare ourselves for whatever mental divine
+      contact God wills to give us. It will require quieting the impulses of the
+      flesh and tuning out the voices of the world and the flesh. Thus, it
+      requires effort and openness to God and His ``still, small voice.'' This
+      is internal and comtemplative. The objective here is for the soul to be
+      ready for God to speak into our lives.
+
+      #+html: <details>
+      #+html:<summary>Learn more about Mental Prayer</summary>
+
+      Gabriel Costello uses writings of Doctors of the Church to give an
+      introduction to mental prayer.
+
+      #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/IVOn4oYCtmY?si=uYztmC_urfVUMMbV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+      #+html: </details>      
+
 3. Well-developed methods for growing into the image of Christ
    1. The Spiritual Exercises by St. Ignatius
       Spend some time separated from the world in a place of tranquility to
