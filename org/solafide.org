@@ -34,6 +34,26 @@ worthwhile, indeed.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/hazyiLJldak?si=AcFNDkFO4VHuGGYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+#+begin_info
+
+*Compare and Contrast: Luther's View vs Catholicism*
+
+#+html: <details>
+
+#+html: <summary>Watch more...</summary>
+
+Dr. David Anders gives a brief summary of the differences between the Protestant
+and Catholic views on /imputed/ righteousness versus /infused/ righteousness. He
+draws on Martin Luther's views on the topic.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/G_zYZHHRxPE?si=UbzKfm-W5jzquIpZ&amp;start=1060" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_info
+
+
+
 ** Evidence For /Sola Fide/
 Many proponents of /sola fide/ say that the Bible plainly states that man is
 saved by faith alone in Ephesians 2:8-10:
@@ -549,6 +569,12 @@ authors of scripture, as well as the testimony of those Christians to whom the
 Scriptures were written. Eternal security was not part of Christian teaching
 historically and only emerged within the context of the Protestant Reformation
 with the likes of John Calvin.
+
+#+html: <details>
+
+#+html: <summary>Video: Why 'Once Saved, Always Saved' is Not Biblical</summary>
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/EkX7La9eT5Y?si=OKBY_Pr34hCoRDyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
 #+end_info

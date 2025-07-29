@@ -50,7 +50,7 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video about Luther's view on the Eucharist."
+  git commit -m "Adds a comment about a video clip from Patrick Madrid; a Dr. Broussard video on eternal security."
   git pull
   git push
 #+end_src
