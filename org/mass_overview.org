@@ -79,6 +79,19 @@ contact with Him who is both our Origin and our Destination.
 #+html: </details>
 #+end_info
 
+#+begin_info
+*Practical Advice: Attire for Mass*
+
+#+html: <details>
+
+#+html: <summary>What should I wear (or <b>not</b> wear) to Mass?</summary>
+
+Fr. Sebastian Walshe discusses what *not* to wear to Mass, and more importantly, he explains why.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/CxNkUGDcvoI?si=Y09eoE9lPX7vDuv8&amp;start=2290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_info
 ** An Interpretive Lens: the Eucharist
 
 Understanding the Eucharist--that is, the elements of Communion--is perhaps the

@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video about mental prayer."
+  git commit -m "Adds a video on clothing for Mass."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main a622338] Adds a comment about a video clip from Patrick Madrid; a Dr. Broussard video on eternal security.
-:  5 files changed, 902 insertions(+), 793 deletions(-)
+: [main 6495647] Adds a video about mental prayer.
+:  4 files changed, 881 insertions(+), 800 deletions(-)
 : Already up to date.
 
 
