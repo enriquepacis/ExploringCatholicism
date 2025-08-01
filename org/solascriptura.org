@@ -59,7 +59,7 @@ authority has infallibly identified the correct Bible, then we have an
 infallible authority /apart from/ the Bible. Thus, the Bible cannot be the only
 infallible authority for Christians.
 
-#+begin_info
+#+begin_note
 *Is there an Objectively Correct Way to Interpret Scripture?*
 
 #+html: <details>
@@ -88,7 +88,7 @@ other tools, which also include natural law, to guide us into all truth in an
 objective manner.
 
 #+html: </details>
-#+end_info
+#+end_note
 
 ** The Canon of Scripture and the Necessity of Authority
 

@@ -35,7 +35,7 @@ worthwhile, indeed.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/hazyiLJldak?si=AcFNDkFO4VHuGGYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#+begin_info
+#+begin_note
 
 *Compare and Contrast: Luther's View vs Catholicism*
 
@@ -50,7 +50,7 @@ draws on Martin Luther's views on the topic.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/G_zYZHHRxPE?si=UbzKfm-W5jzquIpZ&amp;start=1060" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note
 
 
 
@@ -106,7 +106,7 @@ that man is justified not by works, but rather by faith alone. Works are
 insufficient in this view to /justify/ humans--that is, to qualify us for
 salvation and an afterlife in the loving presence of God.
 
-#+begin_info
+#+begin_note
 *Eternal Security or the Perseverance of the Saints*
 
 #+html: <details>
@@ -577,10 +577,10 @@ with the likes of John Calvin.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/EkX7La9eT5Y?si=OKBY_Pr34hCoRDyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note
 
 
-#+begin_info
+#+begin_note
 *The Origin of the Protestant Doctrine of Eternal Security*
 
 #+html: <details>
@@ -631,7 +631,7 @@ _Historical Development_:
 - It remains a *point of disagreement* between different Christian traditions
   (e.g., Calvinism vs. Arminianism, Protestantism vs. Catholicism/Orthodoxy). 
 #+html: </details>
-#+end_info
+#+end_note
 
 Proponents of /sola fide/ also may make a distinction between justification and
 sanctification. Justification is a process by which a human is declared
@@ -677,7 +677,7 @@ the Gentiles, so that we might receive the promise of the Spirit through faith.
 #+end_quote
 
 
-#+begin_info
+#+begin_note
 
 *Predestination and Calvinism*
 
@@ -695,7 +695,7 @@ In the video above, Jimmy Akin references his article, [[https://www.ewtn.com/ca
 
 #+html: </details>
 
-#+end_info
+#+end_note
 
 
 ** Evidence Against /Sola Fide/
@@ -822,7 +822,7 @@ death. 15 Anyone whose name was not found written in the book of life was thrown
 into the lake of fire. (Revelation 20:11-15, NIV)
 #+end_quote
 
-#+begin_info
+#+begin_note
 *Video: Trent Horn and Protestant Responses to James 2*
 
 #+html: <details>
@@ -831,4 +831,4 @@ into the lake of fire. (Revelation 20:11-15, NIV)
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/0LwEgFig00A?si=AtlvJnbWmn6-omVJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note

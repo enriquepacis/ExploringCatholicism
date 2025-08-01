@@ -57,7 +57,7 @@ Catholic Church has the correct position here, I became unsettled in the worldvi
 which had been taught to me in my Protestant upbringing. I was forced to learn
 more.
 
-#+begin_info
+#+begin_note
 *Why be Catholic?*
 #+html: <details>
 #+html: <summary>Read more ...</summary>
@@ -144,7 +144,7 @@ include:
       2. [[https://www.angelicwarfareconfraternity.org][The Angelic Warfare Confraternity]]
 
 #+html: </details>
-#+end_info
+#+end_note
       
 In the end, there is *only one reason to become Catholic*: /because the teachings
 of the Catholic Church are true/. If the teachings of the Catholic Church are

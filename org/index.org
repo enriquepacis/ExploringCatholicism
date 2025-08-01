@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 # -*- mode: org -*-
 
-#+OPTIONS: author:nil date:nil
+#+OPTIONS: author:nil date:nil num:nil
 
 #+title: Exploring Catholicism
 #+export_file_name: index.html
-#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+startup: overview indent auto-fill-mode
 
 
@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video on clothing for Mass."
+  git commit -m "Reformat to the readtheorg theme."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 6495647] Adds a video about mental prayer.
-:  4 files changed, 881 insertions(+), 800 deletions(-)
+: [main 2d297d4] Adds a video on clothing for Mass.
+:  4 files changed, 848 insertions(+), 797 deletions(-)
 : Already up to date.
 
 
@@ -159,3 +159,29 @@ red-pill.webp
 #+RESULTS:
 : /Users/enrique_blair/Library/CloudStorage/GoogleDrive-epblair@gmail.com/My Drive/learning/faith/catholicism-book-org/org
 : Copying completed.
+
+** Convert all Boxes to ~note~ boxes
+This supports compatibility with the ~readtheorg~ theme.
+
+#+begin_src python :results output
+  import os
+
+  def replace_in_org_files(root_dir, old_text="_note", new_text="_note"):
+      for dirpath, dirnames, filenames in os.walk(root_dir):
+          for filename in filenames:
+              if filename.endswith(".org"):
+                  filepath = os.path.join(dirpath, filename)
+                  with open(filepath, "r", encoding="utf-8") as file:
+                      content = file.read()
+                  if old_text in content:
+                      new_content = content.replace(old_text, new_text)
+                      with open(filepath, "w", encoding="utf-8") as file:
+                          file.write(new_content)
+                      print(f"Updated: {filepath}")
+
+  if __name__ == "__main__":
+      # Set the root directory to the current directory or modify as needed
+      root_directory = "."
+      replace_in_org_files(root_directory)
+
+#+end_src

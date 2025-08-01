@@ -25,10 +25,10 @@ own reality as he or she sees fit? Clearly this is absurd.
 
 We can more rigorously conclude that /there must be truth/ if we start with the
 another antithetical proposition, which we call *proposition A*:
-#+begin_info
+#+begin_note
 *Proposition A* \\
 There is no truth.
-#+end_info
+#+end_note
 The problem with proposition *A* arises when we ask, "Is *A* true?" If the
 response is *yes*, then a truth exists, and *A* becomes false. This is a
 contradiction, and it cannot possibly be valid according to the rules of logic,
@@ -36,10 +36,10 @@ namely the principle of non-contradiction.
 
 *** The Principle of Non-contradiction
 The principle of non-contradiction is a law of logic:
-#+begin_info
+#+begin_note
 *The Principle of Non-Contradiction* \\
 A proposition cannot be both true and false at the same time in the same respect.
-#+end_info
+#+end_note
 
 This is foundational to logical reasoning and coherent thought.
 
@@ -50,7 +50,7 @@ no truth/, then we are left with the principle that *there _must_ be truth*.
 This is comforting when we remember Jesus Christ claimed to be the Way, the Truth, and
 the Light. The truth is something foundational and concrete.
 
-#+begin_info
+#+begin_note
 *More on the Principle of Non-contradiction*
 
 #+html: <details>
@@ -62,7 +62,7 @@ For more information on this topic, you may wish to watch or listen to the follo
 #+html: <iframe style="border-radius:12px" width="560" src="https://open.spotify.com/embed/episode/23kgVmvxZWK46CutGq3w5K?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note
 
 ** Truth is Absolute
 :PROPERTIES:
@@ -70,10 +70,10 @@ For more information on this topic, you may wish to watch or listen to the follo
 :END:
 
 Let's try another statement, *proposition B*:
-#+begin_info
+#+begin_note
 *Proposition B* \\
 There is no absolute truth.
-#+end_info
+#+end_note
 We can explore the validity of *B* in much the same way as we did for *A*. We can ask if *B* is 
 /absolutely/ true. If the answer is yes (it is absolutely true)--as so many who
 would invoke proposition *B* would like us to believe--, then *B* has negated
@@ -135,7 +135,7 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    to spend more time discussing the revelation given to us by reason and
    nature, or we need to add divine revelation.
 
-   #+begin_info
+   #+begin_note
    #+html: <a id="what-is-god"><b>What is God?</b></a>
 
    #+html: <details>
@@ -181,9 +181,9 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    /God, is that You?/
 
    #+html: </details>
-   #+end_info
+   #+end_note
 
-   #+begin_info
+   #+begin_note
    #+html: <a id="god-is-being"><b>God does NOT exist!</b></a>
    
    #+html: <details>
@@ -210,12 +210,12 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    God simply /is/.
 
    #+html: </details>
-   #+end_info
+   #+end_note
 
 2. You are loved. With the help of some divine revelation and human philosophy,
    follows from the discussion above about God's nature and God's will.
 
-   #+begin_info
+   #+begin_note
    #+html: <a id="you-are-loved"><b>YOU are LOVED</b></a>
 
    #+html: <details>
@@ -278,6 +278,6 @@ apply it. We can do so in a few ways. I will use it to argue the following:
    #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/dmKuSXXXhII?si=SuskicFrMf4-S1DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
    #+html: </details>
-   #+end_info
+   #+end_note
    
 

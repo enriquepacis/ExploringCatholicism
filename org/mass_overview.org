@@ -21,7 +21,7 @@ I cannot give a comprehensive overview of the Mass here, since many works have
 been written over two millenia about this. Instead, I will attempt to give my
 understanding of the Mass to provide an overview for beginners.
 
-#+begin_info
+#+begin_note
 *The Mass is Mind-blowing*
 
 #+html: <details>
@@ -77,9 +77,9 @@ Divine Lover, and the Source of our very lives. In the Mass, we come into
 contact with Him who is both our Origin and our Destination.
 
 #+html: </details>
-#+end_info
+#+end_note
 
-#+begin_info
+#+begin_note
 *Practical Advice: Attire for Mass*
 
 #+html: <details>
@@ -91,7 +91,7 @@ Fr. Sebastian Walshe discusses what *not* to wear to Mass, and more importantly,
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/CxNkUGDcvoI?si=Y09eoE9lPX7vDuv8&amp;start=2290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note
 ** An Interpretive Lens: the Eucharist
 
 Understanding the Eucharist--that is, the elements of Communion--is perhaps the
@@ -179,7 +179,7 @@ today. Depending on the day of the week or the liturgical calendar, there may be
 a profession of the Nicene creed. This completes the divine call in the Liturgy
 of the Word.
 
-#+begin_info
+#+begin_note
 *The Word of God*
 
 #+html: <details>
@@ -207,7 +207,7 @@ Lord.  Additionally, verse 13 uses the pronoun /him/, referring back to the
 previous subject, the λόγος of God.
 
 #+html: </details>
-#+end_info
+#+end_note
 
 *** The Liturgy of the Eucharist
 After the homily, we transition to the liturgy of the Eucharist. The climax of
@@ -260,7 +260,7 @@ parts of the liturgy of the Eucharist::
 8. The priest will then cleanse the sacred vessels, give closing prayers and a
    blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."
 
-#+begin_info
+#+begin_note
 *What Happens When I Eat the Eucharist?*
 
 #+html: <details>
@@ -270,7 +270,7 @@ parts of the liturgy of the Eucharist::
 #+html: https://youtu.be/2taZcgcQ4JA?si=kYoeRfdt3D8nNyrT
 
 #+html: </details>
-#+end_info
+#+end_note
 ** The Mass as Two-fold a Sacrifice
 The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
 two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
@@ -346,13 +346,13 @@ is the very Light of Life. This Mass starts in darkness and in candle light, and
 then full lighting to reflect the transition from the Old Testament to the New
 Testament.
 
-#+begin_info
+#+begin_note
 
 *The (Very Beautiful) /Exultet/*
 
 #+html: <details>
 
-#+html: <summary>What is the /Exultet/?</summary>
+#+html: <summary>What is the <i>Exultet</i>?</summary>
 Personally, I love the chanting of the /Exultet/ (or Easter Proclamation), which
 is an ancient psalm about the power and triumph of Christ's Resurrection. Here
 are some of the [[https://www.usccb.org/prayer-worship/liturgical-year/easter/easter-proclamation-exsultet][lyrics]] from the /Exultet/ that always grip me:
@@ -397,7 +397,7 @@ drives out hatred, fosters concord, and brings down the mighty.
 #+end_quote
 
 #+html: </details>
-#+end_info
+#+end_note
 
 *** The Octave of Easter
 Easter is so grand and significant in Christian worship that a full octave
@@ -440,7 +440,7 @@ teaching for the first 16 centuries of Christianity. In the symbolist view, the
 Real Presence is rejected, and communion is simply a rememberance of Christ's
 passion.
 
-#+begin_info
+#+begin_note
 *The Real Presence and Transubstantiation*
 
 #+html: <details>
@@ -496,7 +496,7 @@ why it arose as compromize between the Lutheran view and the Zwinglian view.
 #+html: </details>
    
 #+html: </details>
-#+end_info
+#+end_note
 
 
 ** Scriptural Basis for the Real Presence
@@ -524,7 +524,7 @@ shed for many for the remission of sins.
 (Matthew 26:26-28 NKJV)
 #+end_quote
 
-#+begin_info
+#+begin_note
 *Figurative, or Literal? Does it even matter?*
 
 #+html: <details>
@@ -552,7 +552,7 @@ to eat His flesh and drink His blood, it should be important to us to determine
 whether He is speaking figuratively or literally. Fortunately, /there is/ a way
 to do this. To learn more, see the box below, titled *When Interpretations Conflict*.
 #+html: </details>
-#+end_info
+#+end_note
 
 
 St. Paul's retelling of the Last Supper also says Jesus told His disciples to

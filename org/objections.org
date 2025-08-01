@@ -44,7 +44,7 @@ ask another living human being to pray for us. Our prayer to non-divine entities
 does not deify them, but simply makes a request of them. What request is that?
 Their intercession.
 
-#+begin_info
+#+begin_note
 *Modern and Old English Usage of "Pray"*
 
 #+html: <details>
@@ -65,7 +65,7 @@ committing idolatry.
 "Pray" also is [[https://www.lsd.law/define/pray][used in courtrooms]] with this more archaic sense as a formal,
 legal request.
 #+html: </details>
-#+end_info
+#+end_note
 
 
 #+begin_comment
@@ -106,12 +106,12 @@ Divinity and its eternal nature, and He fully shares in a human nature. It is
 possilbe to say that Jesus Christ is eternal in His divine nature, although His
 human nature had a beginning and thus is not eternal.
 
-#+begin_info
+#+begin_note
 *More about God and His Nature*
 
 For more information about the divne nature, see the [[https://enriquepacis.github.io/ExploringCatholicism/#what-is-god][What is God?]] and  [[https://enriquepacis.github.io/ExploringCatholicism/#god-is-being][God does
 NOT exist!]] info boxes.
-#+end_info
+#+end_note
 
 Apart from God, there is no one who is eternal. The angels were created by God,
 and so they are in no way equal to God. Even Satan himself is a created being,
@@ -217,7 +217,7 @@ Some interesting examples that have been brought up to me include:
    Church has been unfaithful to the original teachings of the Scripture, and
    therefore has invalidated Herself as the Church which Christ has founded.
 
-   #+begin_info
+   #+begin_note
    *A Brief History of Confession in Catholicism*
 
    #+html: <details>
@@ -276,7 +276,7 @@ Some interesting examples that have been brought up to me include:
          *renewals* occur seasonally and in youth movements. 
    #+html: </details>
 
-   #+end_info
+   #+end_note
    
 2. *A Celibate Priesthood*
    One argument against the validity of the is suggests that the Catholic Church
@@ -330,7 +330,7 @@ Some interesting examples that have been brought up to me include:
 
    For more information, a more authoritative discussion may be found in the
    article [[https://www.catholic.com/tract/celibacy-and-the-priesthood][Celibacy and the Priesthood]].
-#+begin_info
+#+begin_note
 
 *What Catholic Teachings and Practices Can Change Over Time?*
 #+html: <details>
@@ -467,7 +467,7 @@ church, but it is never mandated. Devotions can develop.
 This quote was copied from Kenny Burchard's blog of [[https://kennyburchard.com/5-ds-of-catholic-thinking/][January 21, 2019]], for which
 he cites pages 83-87 from [[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Currie's book]] (Ignatius Press, 1996)
 #+html: </details>
-#+end_info
+#+end_note
 
 ** The Catholic Church as is a Bloated, Unscriptural Bureaucracy
 
@@ -483,7 +483,7 @@ This criticism suffers from many flaws:
 2. The seed of the present-day ecclesial structure *is* in fact found in the
    Bible. See the discussion box below for more details.
 
-#+begin_info
+#+begin_note
 *Scriptural Origins of Ecclesial Structure*
    
 #+html: <details>
@@ -553,7 +553,7 @@ Below is a breakdown of Scriptural support for each of these offices:
       #+end_quote
     - 1 Timothy 3:8–13 – Paul gives qualifications for deacons, showing it as
       a distinct and recognized office.
-#+end_info
+#+end_note
 
 
 ** I Can't Agree with Papal Infallibility

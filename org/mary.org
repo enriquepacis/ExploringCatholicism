@@ -55,7 +55,7 @@ Christ, St. Mary is known as the *New Eve*. This is because her role is the
 antithesis of Eve's role in Adam's sin and the Fall. This is described in more
 detail below.
 
-#+begin_info
+#+begin_note
 *Mary as the New Eve*
 
 #+html: <details>
@@ -156,7 +156,7 @@ have called Scripture books that undermine this.
 | Outcome                | Brought curse                          | Brought blessing                                 |
 
 #+html: </details>
-#+end_info
+#+end_note
 
 Additionally, the wedding at Cana gives us a second picture of St. Mary as an
 instigator of grace. She recognized the problematic situation, and she brought

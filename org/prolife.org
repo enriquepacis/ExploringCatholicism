@@ -81,7 +81,7 @@ seek to suppress information about the link between abortion and breast cancer
 and manipulate the narrative propagated by the US Government and the mainstream
 media?
 
-#+begin_info
+#+begin_note
 *Big Tech is Honest, Fair, and Balanced*
 
 #+html: <details>
@@ -108,7 +108,7 @@ information, nor manipulate the masses, nor influence a vote, right?
 #+html: <a href="https://imgflip.com/i/9tp42i"><img src="https://i.imgflip.com/9tp42i.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 #+html: </details>
-#+end_info
+#+end_note
 
 *** TODO To Save the Mother's Life
 :PROPERTIES:
@@ -129,7 +129,7 @@ some facts:
 Please see the [[https://www.usccb.org/resources/Women's%20Healt%20Infographic.pdf][infographic]] for more information. For still more information,
 read [[https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://philpapers.org/rec/DICMID&ved=2ahUKEwikm9XdoKGNAxXVHNAFHdkLOr0QFnoECBgQAQ&usg=AOvVaw2r5YXsHJycORYB_h2ZFDbJ][this report]].
 
-#+begin_info
+#+begin_note
 *A Maternal Sacrifice*
 
 #+html: <details>
@@ -166,7 +166,7 @@ Other valiant, heroic, and saintly mothers have made similar choices. We covet
 their prayers!
 
 #+html: </details>
-#+end_info
+#+end_note
 
 
 **** TODO Double-effect versus Utilitarianism
@@ -259,7 +259,7 @@ respect for women. For more information on this, see also:
    
 *** TODO Marriage and Family
 
-#+begin_info
+#+begin_note
 *Population Narratives: Overpopulation versus Implosion*
 
 #+html: <details>
@@ -267,4 +267,4 @@ respect for women. For more information on this, see also:
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/WRQ_pcU-Bg0?si=2aeG_nLC41jQKxmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
-#+end_info
+#+end_note
