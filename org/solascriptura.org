@@ -90,6 +90,20 @@ objective manner.
 #+html: </details>
 #+end_note
 
+#+begin_note
+*What are Tradition a the Magisterium?*
+
+#+html: <details> <summary>Learn more ...</summary>
+
+The Bible came from somewhere. It actually came from Tradition, and we might
+think of it as part of Tradition that got written down. The Catholic Church
+recognizes Tradition and Magisterial Authority as other infallible authorities
+in the life of a Christian, in addition to the Scriptures. But, what are
+Tradition and Magisterium?
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/iJO67UIdmxU?si=OrwaX7skvrmCjE-D&amp;start=1285" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+html: </details>
+#+end_note
 ** The Canon of Scripture and the Necessity of Authority
 
 *** Introduction

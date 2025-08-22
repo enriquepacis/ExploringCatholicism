@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Reformat to the readtheorg theme."
+  git commit -m "Adds a video on Tradition/Magisterium."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 2d297d4] Adds a video on clothing for Mass.
-:  4 files changed, 848 insertions(+), 797 deletions(-)
+: [main d6000e1] Reformat to the readtheorg theme.
+:  11 files changed, 1264 insertions(+), 1244 deletions(-)
 : Already up to date.
 
 
