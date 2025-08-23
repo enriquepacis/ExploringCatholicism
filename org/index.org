@@ -50,14 +50,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video on Tradition/Magisterium."
+  git commit -m "Adds Genesis themes"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main d6000e1] Reformat to the readtheorg theme.
-:  11 files changed, 1264 insertions(+), 1244 deletions(-)
+: [main 397fdd7] Adds a video on Tradition/Magisterium.
+:  4 files changed, 1105 insertions(+), 1051 deletions(-)
 : Already up to date.
 
 
