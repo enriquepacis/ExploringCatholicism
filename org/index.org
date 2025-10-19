@@ -29,6 +29,8 @@
 
 #+include: devotional-notes.org
 
+#+include: prayer.org
+
 * Code                                                             :noexport:
 
 #+begin_src bash
@@ -56,8 +58,8 @@
 #+end_src
 
 #+RESULTS:
-: [main 397fdd7] Adds a video on Tradition/Magisterium.
-:  4 files changed, 1105 insertions(+), 1051 deletions(-)
+: [main f938d51] Adds Genesis themes
+:  5 files changed, 1512 insertions(+), 1056 deletions(-)
 : Already up to date.
 
 
