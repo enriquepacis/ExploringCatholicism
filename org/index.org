@@ -29,7 +29,7 @@
 
 #+include: devotional-notes.org
 
-#+include: prayer.org
+#+include: rosary.org
 
 * Code                                                             :noexport:
 
@@ -52,14 +52,16 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds Genesis themes"
+  git commit -m "Adds a short form for the sciptural nativity mystery"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main f938d51] Adds Genesis themes
-:  5 files changed, 1512 insertions(+), 1056 deletions(-)
+: [main 4185cf7] Adds rosary discussion
+:  5 files changed, 4160 insertions(+), 1060 deletions(-)
+:  create mode 100644 org/prayer.org
+:  create mode 100644 org/rosary.org
 : Already up to date.
 
 
