@@ -130,7 +130,7 @@ the womb.
 NKJV
 #+end_quote
 
-**** Long Form
+**** Longer Form
 #+begin_quote
 And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. 2 This census first took place while Quirinius was governing Syria. 3 So all went to be registered, everyone to his own city.
 

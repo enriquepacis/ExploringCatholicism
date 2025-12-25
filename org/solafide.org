@@ -52,7 +52,10 @@ draws on Martin Luther's views on the topic.
 #+html: </details>
 #+end_note
 
+Finally, we include a link to a clip that discusses the relationship between
+grace, sacraments, and charity.
 
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/aGMekL7FJTE?si=aVzO3f5263TF-V80&amp;start=108" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Evidence For /Sola Fide/
 Many proponents of /sola fide/ say that the Bible plainly states that man is

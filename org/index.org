@@ -11,7 +11,7 @@
 
 #+include: intro.org
 
-#+include: truth.org 
+#+include: truth.org
 
 #+include: solascriptura.org
 
@@ -52,16 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a short form for the sciptural nativity mystery"
+  git commit -m "Adds the perpetual adoration finder"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 4185cf7] Adds rosary discussion
-:  5 files changed, 4160 insertions(+), 1060 deletions(-)
-:  create mode 100644 org/prayer.org
-:  create mode 100644 org/rosary.org
+: [main d983795] Adds a short form for the sciptural nativity mystery
+:  4 files changed, 1424 insertions(+), 1282 deletions(-)
 : Already up to date.
 
 

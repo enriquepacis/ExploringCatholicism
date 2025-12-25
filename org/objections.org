@@ -500,15 +500,15 @@ Below is a breakdown of Scriptural support for each of these offices:
 - *Bishops* (Greek: ἐπίσκοπος – episkopos, "overseer")
   - Scriptural references
     - Acts 1:20 – Peter interprets Psalm 109:8 to establish a replacement for
-      Judas: “His office let another take.” The Greek word used is episkopē.
+      Judas: “His office let another take.” The Greek word used is /episkopē/.
     - Acts 20:28 – Paul tells the elders of Ephesus:
       #+begin_quote
       “Keep watch over yourselves and over all the flock, of which the Holy
-      Spirit has made you overseers (episkopoi), to shepherd the church of
+      Spirit has made you overseers (/episkopoi/), to shepherd the church of
       God.” 
       #+end_quote
     - 1 Timothy 3:1–7 – Paul describes the qualities of a bishop/overseer
-      (episkopos):
+      (/episkopos/):
       #+begin_quote
       “If anyone aspires to the office of bishop, he desires a noble task...”
       #+end_quote
@@ -574,11 +574,13 @@ unchastity?
 
 Dr. David Anders says the Scriptures prohibit divorce and remarriage, and
 St. Paul recognizes the principle of annulment.
+
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=CWgNj0jJ5FzWZI16&amp;start=825" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** The Distinction Between Venial and Mortal Sin
 
 Carlo Broussard takes a call about the distinction between venial and mortal sin.
+
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/JxT9sRdVngE?si=eprSIWKzyWl7sEmo&amp;start=2314" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Alan also asks a follow-on question about mortal sin:

@@ -280,6 +280,17 @@ present their bodies to God as a living offering, in accordance with [[https://w
 
 ** Special Seasons, Masses and Liturgies
 
+*** Lent
+Lent is a season of preparation for the season of Easter. The point of lent is
+to grow closer to Jesus Christ, to look more like Him by the time we enter into
+the joyful season of Easter.
+
+Some devotional practices I love from Lent include the Stations of the Cross
+
+Some nice resources:
+1. Fr. John Riccardo teaches on how to prepare for Lent in Christ is the Answer
+   program [[https://christistheanswer.substack.com/p/christ-is-the-answer-march-5-2025-a73?utm_source=publication-search][program 754]]
+
 *** The Easter Triduum
 
 The Easter Triduum (Latin for "three days") is an incredibly immersive and
@@ -700,6 +711,16 @@ by transmutation are nourished, *is the flesh and blood of that Jesus* who was
 made flesh.
 #+end_quote
 
+This is an interesting quote to me for many reasons. Note that St. Justin uses
+/transmutation/, which indicates that the bread and wine change from one thing
+to another. This is not a far cry from the doctrine of [[https://en.wikipedia.org/wiki/Transubstantiation][transubstantiation]], in
+which the Catholic Church teaches in what manner the bread and wine change into
+the body and blood of Jesus Christ: in essence (what a thing is) only, but not
+in its accidents. Thus, /transmutation/ says that the bread and wine change into
+something else; and /transubstantiation/ affirms this, with the clarification
+that the consecrated species (the Body of Christ and His Precious Blood) retain
+the appearances of bread and wine, even though they are truly changed into
+Christ Himself.
 
 *** Even More Church Fathers
 1. See [[https://media.ascensionpress.com/2018/03/08/heres-the-early-church-fathers-upholding-transubstantiation-in-their-own-words/][Early Church Fathers Uphold Transubstantiation in Their Own Words]] for
@@ -761,6 +782,18 @@ The following video provides a brief introduction to Eucharistic adoration:
 Gabriel Castillo gives his testimony of how Eucharistic adoration changed his
 life:
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/x8awC9VyncM?si=ZsCpRkIqAc_8PQVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+begin_note
+*Find Adoration Near You*
+
+Many Catholic parishes provide access to Eucharistic Adoration. Some provide
+Eucharistic Adoration during certain hours of the day; others allow perpetual
+Eucharistic Adoration, which is a great gift. You can find out
+where and when from a few different resources.
+1. [[https://www.theeucharist.org/adoration.html][Find Adoration Near You (USA only)]]. This is an incomplete resource, but you
+   are invited to contribute information about adoration opportunities at
+   parishes near you.
+#+end_note
 
 ** Links
 
