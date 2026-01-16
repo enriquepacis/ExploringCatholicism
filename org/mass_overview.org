@@ -784,7 +784,7 @@ life:
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/x8awC9VyncM?si=ZsCpRkIqAc_8PQVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+begin_note
-*Find Adoration Near You*
+#+html: <details><summary><b>Find Adoration Near You</b></summary>
 
 Many Catholic parishes provide access to Eucharistic Adoration. Some provide
 Eucharistic Adoration during certain hours of the day; others allow perpetual
@@ -793,6 +793,8 @@ where and when from a few different resources.
 1. [[https://www.theeucharist.org/adoration.html][Find Adoration Near You (USA only)]]. This is an incomplete resource, but you
    are invited to contribute information about adoration opportunities at
    parishes near you.
+
+#+html: </details>
 #+end_note
 
 ** Links

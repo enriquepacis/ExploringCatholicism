@@ -562,6 +562,65 @@ Dr. Anders takes a call from Pete about papal infallibility and speaking /ex cat
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=EFHULnFkhIXZYeuz&amp;start=327" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*** TODO The Sale of Indulgences Proves that Papal Infallibility is False
+
+The argument here might be as follows:
+1. The Catholic church claims that the pope is infallible when teaching on faith
+   or morals. 
+2. Pope Leo X authorized the sale of indulgences, an immoral practice.
+3. Thus, Pope Leo X taught by his actions immorality.
+4. The doctrine of papal infallibility is false.
+
+To evaluate this argumet, we must first understand indulgences. To understand
+indulgences, we must first understand the Catholic view of sin and forgiveness.
+
+The Catholic Church states that sin has a double consequence. That is, sin
+merits *two punishments*:
+1. The *eternal punishment* for sin. As stated in paragraph 1472 of the
+   Catechism of the Catholic Church (CCC) ([[https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_two/article_4/x_indulgences.html][link]]),
+   #+begin_quote
+   Grave sin deprives us of communion with God and therefore makes us incapable
+   of eternal life, the privation of which is called the "eternal punishment" of
+   sin.
+   #+end_quote
+2. The *temporal punishment* for sin. CCC 1472 goes on to say:
+   #+begin_quote
+   On the other hand every sin, even venial,
+   entails an unhealthy attachment to creatures, which must be purified either
+   here on earth, or after death in the state called Purgatory. This
+   purification frees one from what is called the "temporal punishment" of sin.
+   #+end_quote
+
+   It bears clarifying that an /attachment/ is defined as a disordered or
+   unhealthy love for a good gift that God has given us (friends, family,
+   career, wealth, etc.). Attachments can become a form of idolatry, and they
+   can cloud our judgment for fear of losing the good gift God has given
+   us. Attachments can lead to sin.
+
+   CCC 1473 states:
+   #+begin_quote
+   The forgiveness of sin and restoration of communion with God entail the
+   remission of the eternal punishment of sin, but temporal punishment of sin
+   remains. While patiently bearing sufferings and trials of all kinds and, when
+   the day comes, serenely facing death, the Christian must strive to accept
+   this temporal punishment of sin as a grace. He should strive by works of
+   mercy and charity, as well as by prayer and the various practices of penance,
+   to put off completely the "old man" and to put on the "new man."
+   #+end_quote
+   That is, forgiveness of sin restores communion with God (removes the eternal
+   punishment in the case of mortal sins), but it doesn't fix the temporal
+   effects of sin.
+
+   A great example of this is when David committed adultery with
+   Bathseba. Eventually, David was forgiven by God, but God allowed temporal
+   effects play out in David's life: the child conceived in sin dide, and this
+   episode led to division in David's family, culminating in rebellion and civil
+   war. In respondinng to these temporal effects well, David began detaching
+   himself from his own interior inclination to lust. He never committed
+   adultery again.
+
+   
+     
 ** What About That Wierd Book of Tobias? Is that Even Real?
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=2XKRzLIa3GTQe6uC&amp;start=671" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

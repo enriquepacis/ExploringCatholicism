@@ -118,6 +118,23 @@ Troubles You Most?/
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/lnYNW34iuJk?si=uKV1c9ANRjLFZpTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+** Christ is the Answer
+
+- [[https://christistheanswer.substack.com/p/christ-is-the-answer-may-28-2024-7e2?utm_source=publication-search][Christ is the Answer – May 28, 2024 – God’s Will For My Life]]
+  - What does God want for me (you, us)?
+
+- [[https://open.substack.com/pub/christistheanswer/p/christ-is-the-answer-december-12-47d?utm_campaign=post-expanded-share&utm_medium=web][Christ is the Answer - December 12, 2025 - What's the Point #1 Marriage]]
+
+- [[https://christistheanswer.substack.com/p/christ-is-the-answer-march-5-2025-a73?utm_source=publication-search][Christ is the Answer – March 5, 2025 – RCIA For Catholics #9 – Lent]]
+  - Why we do Lent
+  - Ideas for Lenten resolutions
+  
+- [[https://christistheanswer.substack.com/p/christ-is-the-answer-april-1-2025-b15][Christ is the Answer – April 1, 2025 – 2013 Lenten Mission #4]]
+  This episode contains:
+  - The vocation story by Fr. Steve
+  - What's at stake? (Fr. John Riccardo)
+  - The testimony of Joe and Flo; knowing Jesus personally
+
 ** The Coming Home Network
 
 The [[https://chnetwork.org/converts/][Coming Home Network]] was established to help non-Catholic Christians, clergy
@@ -270,3 +287,13 @@ This book leaves me in awe of St. Augustine's insights.
 
 ***** /Catholicism: Christ and the Common Destiny of Man/ ([[https://www.amazon.com/Catholicism-Christ-Common-Destiny-Man/dp/0898702038/ref=sr_1_1?crid=1IEF5C4ZL1SN&dib=eyJ2IjoiMSJ9.4xxLl0t4wKH9RsatjXCUAX56z6JD7ORzPV9B87VHQ31VL-sDfaedSDcfyi-NVXLl-4L1C-hinPP94G963y_3e4W3AoeEk7OUmwo7bAlQ4JQOd6iKL6TTOXzXQ-yTUZZyitbElqIm26rxblNITFRq3Q.lWTiNaifAe0F8CWX5LXaUoJImdX8zasvJqeaKCIGv_g&dib_tag=se&keywords=the+common+destiny+of+man&qid=1747110841&s=books&sprefix=the+common+destiny+of+man%2Cstripbooks%2C112&sr=1-1][Amazon.com]])
 
+** Mother Angelica
+
+*** Mother Angelica Live Classics
+
+**** Romans 7 - The Inward Struggle - 1996.09.10
+
+Mother Angelica discusses our internal struggle as Christians in light of Paul's
+inward struggle as recorded in Romans 7.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/iJV6k9TkEgM?si=I-vp7fMk7jtylULV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
