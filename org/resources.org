@@ -304,13 +304,6 @@ In these hour-long episodes, Mother Angelica gives a Bible study or theological
 teaching. Toward the end, she receives phone calls answers questions, and gives
 memorable advice.
 
-**** Romans 7 - The Inward Struggle - 1996.09.10
-
-Mother Angelica discusses our internal struggle as Christians in light of Paul's
-inward struggle as recorded in Romans 7.
-
-#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/iJV6k9TkEgM?si=I-vp7fMk7jtylULV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **** Sorrow into Joy - 1993.11.09
 
 Mother Angelica discusses loving Jesus and experience joy even in difficulties
@@ -319,6 +312,13 @@ by surrendering to God's will.
 Mother says, "I promise to be good tonight ... tonight is Sweet Night."
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/NSOA9gO-9Jo?si=FnKuhHq4sufpc2eS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**** Romans 7 - The Inward Struggle - 1996.09.10
+
+Mother Angelica discusses our internal struggle as Christians in light of Paul's
+inward struggle as recorded in Romans 7.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/iJV6k9TkEgM?si=I-vp7fMk7jtylULV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *** Mother Angelica - Answering the Calling
 

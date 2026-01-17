@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds links/info about Mother Angelica."
+  git commit -m "Updates the links pertaining to Mother Angelica."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 554b653] Adds links to Christ is the Answer episodes.
-:  6 files changed, 1683 insertions(+), 1308 deletions(-)
+: [main 24ee542] Adds links/info about Mother Angelica.
+:  4 files changed, 1441 insertions(+), 1334 deletions(-)
 : Already up to date.
 
 
