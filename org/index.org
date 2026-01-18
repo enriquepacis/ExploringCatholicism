@@ -58,8 +58,8 @@
 #+end_src
 
 #+RESULTS:
-: [main 24ee542] Adds links/info about Mother Angelica.
-:  4 files changed, 1441 insertions(+), 1334 deletions(-)
+: [main 33220c3] Updates the links pertaining to Mother Angelica.
+:  2 files changed, 10 insertions(+), 10 deletions(-)
 : Already up to date.
 
 
