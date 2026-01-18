@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Updates the links pertaining to Mother Angelica."
+  git commit -m "Adds a Mother Angelica episode (Silence in the Heart) really"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 33220c3] Updates the links pertaining to Mother Angelica.
-:  2 files changed, 10 insertions(+), 10 deletions(-)
+: [main ad9c7ce] Adds a Mother Angelica episode (Silence in the Heart)
+:  4 files changed, 1513 insertions(+), 1359 deletions(-)
 : Already up to date.
 
 
