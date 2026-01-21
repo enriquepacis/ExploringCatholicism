@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Rearranges some content."
+  git commit -m "Adds a lent episode"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main b36aa0e] Adds a Mother Angelica episode (Silence in the Heart) really
-:  3 files changed, 1413 insertions(+), 1353 deletions(-)
+: [main 77fb47c] Rearranges some content.
+:  4 files changed, 1642 insertions(+), 1357 deletions(-)
 : Already up to date.
 
 
