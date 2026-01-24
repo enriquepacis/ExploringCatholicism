@@ -5,15 +5,24 @@
 
 
 * Objections
+:PROPERTIES:
+:CUSTOM_ID: objections
+:END:
 
 Here, we discuss some objections raised by various groups about Catholicism.
 ** The Catholic Church Teaches a False Gospel
+:PROPERTIES:
+:CUSTOM_ID: false-gospel
+:END:
 
 Dr. David Anders answers a question about what the Gospel is.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=CkrSLeSE2MkPuJks&amp;start=1217" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** The Catholic Church Teaches Idolatry
+:PROPERTIES:
+:CUSTOM_ID: idolatry
+:END:
 
 Protestants may feel that the Catholic Church observes and practices idolatry
 through either veneration or or prayers to Mary, the angels, and the saints.
@@ -189,7 +198,7 @@ objected to by some Protestants that go way back to the beginning:
 2. The veneration of Mary. The Church's great regard for Mary goes back to the
    beginning. Luke 1:28 records a very unique angelic greeting to Mary. The
    archangel Gabriel even tells her that she has found favor with God, and that
-   she is graced completely and enduringly. St. Justin Martyr (around 100-165
+   she is graced completely and enduringly. St. Justin Martyr (lived around 100-155
    AD) recognizes Mary as the new Eve, and St. Iranaeus of Lyon further
    developed this theme. Tertullian (155-240 AD) discussed Mary's perpetual
    virginity. St. Athanasius (around 296-373 AD) called her noble and great with an unsurpassed
