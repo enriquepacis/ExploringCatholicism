@@ -322,6 +322,12 @@ Phone calls pertain to:
   
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/NSOA9gO-9Jo?si=FnKuhHq4sufpc2eS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**** Enemies - 1994.02.01
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/MckZdHAAXPE?si=mi0_-BN0L19CnL68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Mother discusses how we should treat our enemies and how.
+
 **** Tolerance - 1994.05.10
 
 In this episode, Mother Angelica discusses tolerance and intolerance. Phone

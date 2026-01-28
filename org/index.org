@@ -58,8 +58,8 @@
 #+end_src
 
 #+RESULTS:
-: [main f8c4eb7] Adds a David Anders video
-:  4 files changed, 1387 insertions(+), 1365 deletions(-)
+: [main 30982c9] Adds some links to Objections subsections
+:  4 files changed, 1377 insertions(+), 1368 deletions(-)
 : Already up to date.
 
 

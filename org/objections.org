@@ -15,9 +15,16 @@ Here, we discuss some objections raised by various groups about Catholicism.
 :CUSTOM_ID: false-gospel
 :END:
 
-Dr. David Anders answers a question about what the Gospel is.
+Does the Gospel teach that individuals are saved by *grace alone*? Dr. David
+Anders answers a question about what the Gospel is.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=CkrSLeSE2MkPuJks&amp;start=1217" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dr. David Anders also gives a great discussion on /sola fide/, /sola scriptura/,
+and how the Church historically interpreted the passages that give rise to /sola
+fide/. See the first 12 minutes of this video from 2026.01.21:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/L5riR6l0NoA?si=Jx6xfNc7w_Di-li6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ** The Catholic Church Teaches Idolatry
 :PROPERTIES:

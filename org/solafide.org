@@ -26,7 +26,6 @@ Protestant groups.
 Dr. David Anders also gives a great discussion on /sola fide/, /sola scriptura/,
 and how the Church interpreted the passages that give rise to /sola fide/. See
 the first 12 minutes of this video from 2026.01.21:
-
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/L5riR6l0NoA?si=Jx6xfNc7w_Di-li6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Jimmy Akin provides one of the clearest and most comprehensive discussions on
@@ -767,7 +766,16 @@ of the law* in them:
    #+end_quote
    
 Now, we can see the importance of works for salvation. We start with the words
-of Jesus, where he speaks of the judgement of the righteous unto eternal life,
+of Jesus, where He speaks of _doing God's will_ as requisite for entering into
+heaven:
+#+begin_quote
+21 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven,
+but the one who does the will of my Father who is in heaven.
+
+(Matthew 7:21, ESV)
+#+end_quote
+
+Later, He speaks of the judgement of the righteous unto eternal life,
 and the unrighteous to damnation, where righteousness is tied to a person's
 /works/: 
 #+begin_quote
@@ -807,6 +815,19 @@ least of these, you did not do for me.’
 life."
 
 (Matthew 15:31-46 NIV)
+#+end_quote
+
+St. Paul describes justification by doing what the law requires:
+#+begin_quote
+13 For it is not the hearers of the law who are righteous before God, but the
+*doers of the law* who will be justified. 14 For when Gentiles, who do not have
+the law, by nature do what the law requires, they are a law to themselves, even
+though they do not have the law. 15 They show that the work of the law is
+written on their hearts, while their conscience also bears witness, and their
+conflicting thoughts accuse or even excuse them 16 on that day when, according
+to my gospel, God judges the secrets of men by Christ Jesus.
+
+(Romans 2:14-16, ESV)
 #+end_quote
 
 St. Paul also indicates that a person must work toward salvation:
