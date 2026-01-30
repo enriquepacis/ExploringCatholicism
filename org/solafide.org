@@ -5,6 +5,9 @@
 
 
 * Saved by Faith Alone?
+:properties:
+:custom_id: sola-fide
+:end:
 
 ** Introduction
 
@@ -707,6 +710,9 @@ In the video above, Jimmy Akin references his article, [[https://www.ewtn.com/ca
 
 
 ** Evidence Against /Sola Fide/
+:properties:
+:custom_id: non-sola-fide
+:end:
 The first and most importnat an important piece of evidence against /sola fide/
 is found in the body of Scripture itself:
 #+begin_quote
