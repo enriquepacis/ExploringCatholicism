@@ -41,6 +41,9 @@ There really are two very serious questions here:
 Let's discuss these each in turn.
 
 *** Prayer to Beings Other than God
+:PROPERTIES:
+:CUSTOM_ID: idolatry-prayer
+:END:
 
 To understand this, we must first understand what prayer is. One perspective
 non-Catholics may have is that prayer is communication with God, either
@@ -94,7 +97,20 @@ The next natural question is whether it is valid to make requests for
 intercession of holy, deceased individuals in heaven. Some say that there is no
 scriptural precedent for this, so it should not be practiced.
 
+*** The Intercession of the Saints is Biblical
+:PROPERTIES:
+:CUSTOM_ID: saints-intercession
+:END:
+Sam Shamoun discusses the intercession of the saints.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/ycyTnsfmzw8?si=LWp-3Yd-KtMTdxXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Sam Shamoun gives a /beautiful/ Bible study on the intercession of the saints.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/6N3U0YovqtI?si=EsghgfAXUGocabIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *** Veneration of Mary and the Saints
+:PROPERTIES:
+:CUSTOM_ID: saints-veneration
+:END:
 
 Catholics hold St. Mary, the other saints, and the angels in high regard. Is
 this veneration idolatrous?
