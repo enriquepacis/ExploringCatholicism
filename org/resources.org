@@ -344,6 +344,10 @@ calls focused on the following topics:
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/jNDmdYF0-QE?si=D8M_z_GJuilKX_XJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+**** /Anima Christi/ - 1995.03.01
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/1JZhi1iGJKo?si=3gb8i5_lGFT-ugTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **** Romans 7 - The Inward Struggle - 1996.09.10
 
 Mother Angelica discusses our internal struggle as Christians in light of Paul's
