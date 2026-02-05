@@ -58,8 +58,8 @@
 #+end_src
 
 #+RESULTS:
-: [main c0a2058] Adds a link to the doctrinal development note
-:  4 files changed, 1312 insertions(+), 1325 deletions(-)
+: [main 0a8c3bc] Adds discussion of the motherhood and queenship of Mary.
+:  4 files changed, 1687 insertions(+), 1312 deletions(-)
 : Already up to date.
 
 

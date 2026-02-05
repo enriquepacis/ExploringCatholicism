@@ -29,14 +29,22 @@ Personally, I have a love and admire Mary for three principal reasons:
 
 The Bible implicitly and explicitly tells us that Mary is the mother for all believers.
 
-*** Implicit Biblical Evidence
+*** TODO Implicit Biblical Evidence
+Implicit evidence of Mary's motherhood comes from the Gospel of John.
+
+In this Gospel, John calls himself "the disciple whom Jesus loved" (John
+20:2). It is said that this anonymous designation is to allow the reader to
+recognize himself or herself also as the disciple whom Jesus loved. Thus, when
+Jesus entrusted His mother to this disciple, He also entrusts her to us as a
+mother (John 19:26-27)
 
 *** Explicit Biblical Origins of St. Mary as Mother
 
 The explicit Scriptural revelation of Mary's motherhood comes from
-Revelation 12. Here, John the Revelator has a vision of a dragon, a woman
-crowned with twelve stars, and a Child, who was borne of the woman. Verse 5
-makes it clear that the Child is none other than Jesus Christ Himself:
+Revelation 12. Here, John, who also wrote the Gospel of John, has a vision of a
+dragon, a woman crowned with twelve stars, and a Child, who was borne of the
+woman. Verse 5 makes it clear that the Child is none other than Jesus Christ
+Himself:
 #+begin_quote
 5 She gave birth to a son, a male child, who “will rule all the nations with an
 iron scepter.” And her child was snatched up to God and to his throne.
