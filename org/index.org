@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a link to sola fide and non-sola-fide"
+  git commit -m "Adds some non-sola fide scriptures"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 472edc2] Adds Sam Shamoun videos on saints
-:  5 files changed, 1454 insertions(+), 1345 deletions(-)
+: [main 4c4fd64] Adds a link to a Mother Angelica video on the anima christi
+:  3 files changed, 1324 insertions(+), 1310 deletions(-)
 : Already up to date.
 
 

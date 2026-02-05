@@ -119,13 +119,20 @@ Troubles You Most?/
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/lnYNW34iuJk?si=uKV1c9ANRjLFZpTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Christ is the Answer
+:properties:
+:custom_id: christ-is-the-answer
+:end:
 
 - [[https://christistheanswer.substack.com/p/christ-is-the-answer-may-28-2024-7e2?utm_source=publication-search][Christ is the Answer – May 28, 2024 – God’s Will For My Life]]
   - What does God want for me (you, us)?
 
+- [[https://christistheanswer.substack.com/p/christ-is-the-answer-september-29-6ff?utm_source=publication-search][Christ is the Answer – September 29, 2025 – 2007 Mission #1 of 3 – All That I Have is Yours]]
+- Fr. John gives a beautiful explication of the Parable of the Prodigal Son
+    
 - [[https://open.substack.com/pub/christistheanswer/p/christ-is-the-answer-december-12-47d?utm_campaign=post-expanded-share&utm_medium=web][Christ is the Answer - December 12, 2025 - What's the Point #1 Marriage]]
 
 - [[https://christistheanswer.substack.com/p/christ-is-the-answer-march-5-2025-a73?utm_source=publication-search][Christ is the Answer – March 5, 2025 – RCIA For Catholics #9 – Lent]]
+  Program #822
   - Why we do Lent
   - Ideas for Lenten resolutions
   
