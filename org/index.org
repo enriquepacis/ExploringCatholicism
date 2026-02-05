@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds a video on the origin of the papacy."
+  git commit -m "Adds a link to the doctrinal development note"
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main bbc4c5c] Adds some non-sola fide scriptures
-:  5 files changed, 1435 insertions(+), 1317 deletions(-)
+: [main 95ad5cd] Adds a video on the origin of the papacy.
+:  4 files changed, 1342 insertions(+), 1309 deletions(-)
 : Already up to date.
 
 

@@ -363,8 +363,7 @@ Some interesting examples that have been brought up to me include:
    For more information, a more authoritative discussion may be found in the
    article [[https://www.catholic.com/tract/celibacy-and-the-priesthood][Celibacy and the Priesthood]].
 #+begin_note
-
-*What Catholic Teachings and Practices Can Change Over Time?*
+#+html: <a id="doctrinal-development"><b>What Catholic Teachings and Practices Can Change Over Time?</b></a>
 #+html: <details>
 #+html: <summary>Read more ...</summary>
 
