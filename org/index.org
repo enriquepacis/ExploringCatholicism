@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds discussion about being Christianity versus religion."
+  git commit -m "Adds a video by mother angelica on fallacies in modern culture."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main e522786] Adds implicit evidence of the motherhood of mary.
-:  4 files changed, 1376 insertions(+), 1342 deletions(-)
+: [main 2673c75] Adds a video by mother angelica on God's plan in every state of life.
+:  3 files changed, 1369 insertions(+), 1341 deletions(-)
 : Already up to date.
 
 
