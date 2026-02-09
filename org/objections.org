@@ -107,6 +107,8 @@ Sam Shamoun discusses the intercession of the saints.
 Sam Shamoun gives a /beautiful/ Bible study on the intercession of the saints.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/6N3U0YovqtI?si=EsghgfAXUGocabIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Sam Shamoun answers questions about prayers to Mary, the saints, and the rosary.
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/IQQeHs-BDuI?si=1ft1AWHfsBTxSHoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *** Veneration of Mary and the Saints
 :PROPERTIES:
 :CUSTOM_ID: saints-veneration
