@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds the Mary-Woman-Eve connection."
+  git commit -m "Corrects some grammar on the into page."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 717e34a] Adds a video by mother angelica on fallacies in modern culture.
-:  4 files changed, 1369 insertions(+), 1345 deletions(-)
+: [main 4c88fae] Adds a Sam Shamoun video on prayers to the saints/Mary.
+:  3 files changed, 1358 insertions(+), 1346 deletions(-)
 : Already up to date.
 
 
