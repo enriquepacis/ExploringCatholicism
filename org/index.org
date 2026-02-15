@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Corrects some grammar on the into page."
+  git commit -m "Adds two Sam Shamoun videos."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 4c88fae] Adds a Sam Shamoun video on prayers to the saints/Mary.
-:  3 files changed, 1358 insertions(+), 1346 deletions(-)
+: [main 6c7f4e6] Corrects some grammar on the into page.
+:  4 files changed, 1352 insertions(+), 1352 deletions(-)
 : Already up to date.
 
 
