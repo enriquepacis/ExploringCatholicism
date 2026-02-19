@@ -52,7 +52,7 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds two Sam Shamoun videos."
+  git commit -m "Adds David Anders videos."
   git pull
   git push
 #+end_src

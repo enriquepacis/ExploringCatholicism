@@ -100,6 +100,29 @@ in 2015.
 [[https://relevantradio.com][Relevant Radio]] is a another great radio station. You can [[https://relevantradio.com/listen/stream-relevant-radio][listen live]] or stream
 audio through the [[https://relevantradio.com/listen/get-the-app/][app]].
 
+** Called to Communion
+
+*** What is the Object of Evangelization?
+
+Dr. David Anders discusses Evangelization and how we can avoid being anxious about someone else's salvation.
+- What is the objective of Evangelization?
+- What about apologetics? People are drawn to arguments that confirm their prerational conceptions of what is true, beautiful, and good
+  - A dissatisfaction with their present state is generally what leads someone into dialogue with Catholicism
+  - People with highly analytical personalities are more inclined to reason about their faith and turn to Catholicism
+  - An intrinsically attractive demonstration of lived faith is required
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/f18pmmFYKqw?si=yjZrHwPWAeW1KdTE&amp;start=854" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dr. David Anders discusses being stuck between Protestantism and Catholicism
+because of his family. He was Presbyterian, but he didn't beleive their
+doctrines anymore. His wife didn't want him to become Catholic, so he stayed
+put, but he was spiritually miserable. In the follow-on question, he also
+discusses how the [[https://en.wikipedia.org/wiki/New_Perspective_on_Paul][New Perspectives on Paul]] helped him to convert to Catholicism.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/f18pmmFYKqw?si=zN9qmS72CZ41ptfG&amp;start=2100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  
+
 ** Catholic Answers
 
 [[https://www.catholic.com][Catholic Answers]] is an apologetics website. They have a two-hour, phone-in

@@ -3,21 +3,226 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2026-02-14 Sat 21:22 -->
+<!-- 2026-02-19 Thu 13:23 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Exploring Catholicism</title>
 <meta name="generator" content="Org Mode" />
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/code-copy.css"/>
-<link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/search.css"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/search.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/code-copy.js"></script>
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'JavaScript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<script type="text/javascript">
+(function () {
+var msg = "[Org export] Deprecated SETUPFILE: theme-readtheorg.setup. Update to: html-theme-readtheorg.setup";
+if (typeof console !== "undefined" && console.warn) console.warn(msg);
+
+function addBanner() {
+var d = document;
+if (!d || !d.body) return;
+if (d.getElementById("org-setupfile-deprecated-banner")) return;
+
+var div = d.createElement("div");
+div.id = "org-setupfile-deprecated-banner";
+div.setAttribute("style",
+"border:2px solid #d33; padding:0.8em; margin:0.8em 0; background:#fee; color:#600;" +
+"font-family:sans-serif; font-size:90%;"
+);
+div.innerHTML =
+"<strong>Deprecated:</strong> <code>theme-readtheorg.setup</code> has been renamed to " +
+"<code>html-theme-readtheorg.setup</code>. " +
+"Please update your Org file.";
+
+d.body.insertBefore(div, d.body.firstChild);
+}
+
+if (document.readyState === "loading") {
+document.addEventListener("DOMContentLoaded", addBanner);
+} else {
+addBanner();
+}
+})();
+</script>
 <script>
   window.MathJax = {
     tex: {
@@ -58,20 +263,20 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org72a1a3b">Introduction</a>
+<li><a href="#orgff87afb">Introduction</a>
 <ul>
-<li><a href="#org83ad97b">Do Protestants <i>Ever</i> Become Catholic?</a>
+<li><a href="#org136e76c">Do Protestants <i>Ever</i> Become Catholic?</a>
 <ul>
-<li><a href="#orgb467c71">Jimmy Akin</a></li>
-<li><a href="#org932bd5f">Dr. David Anders</a></li>
-<li><a href="#org56ab794">Dr. Francis Beckwith</a></li>
-<li><a href="#orgaecc956">Dr. Scott Hahn</a></li>
-<li><a href="#org4e54e95">Dr. Taylor Marshall</a></li>
-<li><a href="#orgb48890d">Curtis Mitch</a></li>
-<li><a href="#org3874616">Keith Nester</a></li>
-<li><a href="#orge11f317">Candace Owens</a></li>
-<li><a href="#org117ef23">Matt Selby</a></li>
-<li><a href="#orge5f765e">Tim Staples</a></li>
+<li><a href="#org5902840">Jimmy Akin</a></li>
+<li><a href="#org6be16c1">Dr. David Anders</a></li>
+<li><a href="#org6d126af">Dr. Francis Beckwith</a></li>
+<li><a href="#orga6be384">Dr. Scott Hahn</a></li>
+<li><a href="#orgb53cf77">Dr. Taylor Marshall</a></li>
+<li><a href="#org9765982">Curtis Mitch</a></li>
+<li><a href="#org9b510a3">Keith Nester</a></li>
+<li><a href="#org9118d47">Candace Owens</a></li>
+<li><a href="#orgc820b25">Matt Selby</a></li>
+<li><a href="#org895a049">Tim Staples</a></li>
 </ul>
 </li>
 </ul>
@@ -80,87 +285,87 @@
 <ul>
 <li><a href="#there-must-be-truth">There <span class="underline">must</span> be Truth</a>
 <ul>
-<li><a href="#org6e7c0e8">The Principle of Non-contradiction</a></li>
+<li><a href="#orgbe413c8">The Principle of Non-contradiction</a></li>
 </ul>
 </li>
 <li><a href="#truth-is-absolute">Truth is Absolute</a></li>
 <li><a href="#faith-and-reason">Faith and Reason</a></li>
-<li><a href="#org5571237">Summary</a></li>
+<li><a href="#org4b1e9a8">Summary</a></li>
 <li><a href="#truth-applied">Applications of Truth</a></li>
 </ul>
 </li>
 <li><a href="#solascriptura"><i>Sola Scriptura</i></a>
 <ul>
-<li><a href="#org490bbb5">Authority: Bible, Church, or Both?</a></li>
-<li><a href="#org90bf90d">The Canon of Scripture and the Necessity of Authority</a>
+<li><a href="#org566a57d">Authority: Bible, Church, or Both?</a></li>
+<li><a href="#org5e7387c">The Canon of Scripture and the Necessity of Authority</a>
 <ul>
-<li><a href="#orgc992ae3">Introduction</a></li>
-<li><a href="#orgd063727">The Role of Authority in Defining Scripture: A Challenge to Sola Scriptura</a></li>
+<li><a href="#org11cd73d">Introduction</a></li>
+<li><a href="#orgd166879">The Role of Authority in Defining Scripture: A Challenge to Sola Scriptura</a></li>
 </ul>
 </li>
-<li><a href="#orgd2a399b">The Development of the Christian Scriptures - More Details</a>
+<li><a href="#orge3b568d">The Development of the Christian Scriptures - More Details</a>
 <ul>
-<li><a href="#org44a40eb">The Old Testament Canon</a></li>
-<li><a href="#org2b19e80">The New Testament Canon</a></li>
-<li><a href="#orgaa3a227">Differences in Biblical Canons Today</a></li>
-<li><a href="#org1a97a7f">The Problem for Sola Scriptura</a></li>
+<li><a href="#org216ac2f">The Old Testament Canon</a></li>
+<li><a href="#orgdf7fbac">The New Testament Canon</a></li>
+<li><a href="#org6ee3072">Differences in Biblical Canons Today</a></li>
+<li><a href="#org64a5a4a">The Problem for Sola Scriptura</a></li>
 </ul>
 </li>
-<li><a href="#org892b44f">Links</a>
+<li><a href="#org7f1b55a">Links</a>
 <ul>
-<li><a href="#org41d8fb3">Does Everything Have to be in the Bible for us to Believe it?</a></li>
-<li><a href="#org53c8570">The Scriptures and the Role of the Early Church</a></li>
-<li><a href="#org4912181">Does the Bible Interpret Itself?</a></li>
+<li><a href="#org6377581">Does Everything Have to be in the Bible for us to Believe it?</a></li>
+<li><a href="#orge900b19">The Scriptures and the Role of the Early Church</a></li>
+<li><a href="#org6cd5fc0">Does the Bible Interpret Itself?</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li><a href="#sola-fide">Saved by Faith Alone?</a>
 <ul>
-<li><a href="#org4788a66">Introduction</a></li>
-<li><a href="#org23c37c4">Evidence For <i>Sola Fide</i></a></li>
+<li><a href="#org08b00a1">Introduction</a></li>
+<li><a href="#org5c470c1">Evidence For <i>Sola Fide</i></a></li>
 <li><a href="#non-sola-fide">Evidence Against <i>Sola Fide</i></a></li>
 </ul>
 </li>
-<li><a href="#org3cc667b">The Mass: an Overview</a>
+<li><a href="#orgdf7a976">The Mass: an Overview</a>
 <ul>
-<li><a href="#org8119ffd">Introduction</a></li>
-<li><a href="#orgc64d286">An Interpretive Lens: the Eucharist</a></li>
-<li><a href="#org5467e69">The Mass as an Intimate Dance with God</a>
+<li><a href="#org5ba973f">Introduction</a></li>
+<li><a href="#org3113af8">An Interpretive Lens: the Eucharist</a></li>
+<li><a href="#orgd2b089a">The Mass as an Intimate Dance with God</a>
 <ul>
-<li><a href="#org3e81ea0">The Liturgy of the Word</a></li>
-<li><a href="#orge5ef1b6">The Liturgy of the Eucharist</a></li>
+<li><a href="#orgeeb0f02">The Liturgy of the Word</a></li>
+<li><a href="#orgce1cdf9">The Liturgy of the Eucharist</a></li>
 </ul>
 </li>
-<li><a href="#orgf39c9f5">The Mass as Two-fold a Sacrifice</a></li>
-<li><a href="#org8c77bcf">Special Seasons, Masses and Liturgies</a>
+<li><a href="#orgd3cbd62">The Mass as Two-fold a Sacrifice</a></li>
+<li><a href="#orgc33a8cf">Special Seasons, Masses and Liturgies</a>
 <ul>
-<li><a href="#org32651be">Lent</a></li>
-<li><a href="#org968ce29">The Easter Triduum</a></li>
-<li><a href="#orgaed6eaa">The Octave of Easter</a></li>
-<li><a href="#orgbe29723">Eastertide</a></li>
+<li><a href="#org2492488">Lent</a></li>
+<li><a href="#org215729a">The Easter Triduum</a></li>
+<li><a href="#org8a9f60c">The Octave of Easter</a></li>
+<li><a href="#orge2d294c">Eastertide</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li><a href="#eucharist">The Eucharist</a>
 <ul>
-<li><a href="#org859e9c3">Scriptural Basis for the Real Presence</a></li>
-<li><a href="#org3f63540">Testimony of the Church Fathers</a>
+<li><a href="#orga0ebaa8">Scriptural Basis for the Real Presence</a></li>
+<li><a href="#org00fad13">Testimony of the Church Fathers</a>
 <ul>
-<li><a href="#org59b94ec">The Twelve Apostles</a></li>
-<li><a href="#orgb494dab">St. Ignatius of Antioch</a></li>
-<li><a href="#org7071783">St. Justin Martyr</a></li>
-<li><a href="#orgd46447e">Even More Church Fathers</a></li>
+<li><a href="#org7d2fa93">The Twelve Apostles</a></li>
+<li><a href="#orgc537378">St. Ignatius of Antioch</a></li>
+<li><a href="#orgcfde9e0">St. Justin Martyr</a></li>
+<li><a href="#orgadcb8b0">Even More Church Fathers</a></li>
 </ul>
 </li>
-<li><a href="#org6ad7d57">Testimony of the Enemies of Christ</a></li>
-<li><a href="#org37c15bd"><span class="todo TODO">TODO</span> The Protestant Reformers and the Real Presence</a></li>
-<li><a href="#orgcb54a15">Eucharistic Adoration</a></li>
-<li><a href="#orga680fa1">Links</a>
+<li><a href="#org83e7c88">Testimony of the Enemies of Christ</a></li>
+<li><a href="#orgb7155fd"><span class="todo TODO">TODO</span> The Protestant Reformers and the Real Presence</a></li>
+<li><a href="#orgc3103b4">Eucharistic Adoration</a></li>
+<li><a href="#org1ca970d">Links</a>
 <ul>
-<li><a href="#orge452bcb">Videos</a></li>
-<li><a href="#org2c9ad9a">Catechism of the Catholic Church</a></li>
+<li><a href="#orgf6c6276">Videos</a></li>
+<li><a href="#org5aedbc5">Catechism of the Catholic Church</a></li>
 </ul>
 </li>
 </ul>
@@ -175,146 +380,151 @@
 <li><a href="#saints-veneration">Veneration of Mary and the Saints</a></li>
 </ul>
 </li>
-<li><a href="#org5547c0b"><span class="todo TODO">TODO</span> The Teachings and Traditions of the Catholic Church Cannot be Trusted</a></li>
-<li><a href="#org21046e3"><span class="todo TODO">TODO</span> The Catholic Church is Corrupt</a></li>
-<li><a href="#orgf01afec"><span class="todo TODO">TODO</span> The Catholic Church has Changed Doctrines</a></li>
-<li><a href="#org6976f29">The Catholic Church as is a Bloated, Unscriptural Bureaucracy</a></li>
+<li><a href="#orgb225764"><span class="todo TODO">TODO</span> The Teachings and Traditions of the Catholic Church Cannot be Trusted</a></li>
+<li><a href="#org3d59ad9"><span class="todo TODO">TODO</span> The Catholic Church is Corrupt</a></li>
+<li><a href="#orga21d808"><span class="todo TODO">TODO</span> The Catholic Church has Changed Doctrines</a></li>
+<li><a href="#org11ed049">The Catholic Church as is a Bloated, Unscriptural Bureaucracy</a></li>
 <li><a href="#papal-origins">The Papacy is not Found in the Scriptures</a></li>
-<li><a href="#org24f56fc">I Can't Agree with Papal Infallibility</a>
+<li><a href="#org5149063">I Can't Agree with Papal Infallibility</a>
 <ul>
-<li><a href="#org458ce72"><span class="todo TODO">TODO</span> The Sale of Indulgences Proves that Papal Infallibility is False</a></li>
+<li><a href="#org931032f"><span class="todo TODO">TODO</span> The Sale of Indulgences Proves that Papal Infallibility is False</a></li>
 </ul>
 </li>
-<li><a href="#org99fcaae">What About That Wierd Book of Tobias? Is that Even Real?</a></li>
-<li><a href="#org7bf6e0a">I Disagree with the Catholic Rules about Divorce and Remarriage</a></li>
-<li><a href="#orgfdd7f82">The Distinction Between Venial and Mortal Sin</a></li>
-<li><a href="#org0faf259">I'm not Religous, I'm a Christian</a></li>
-<li><a href="#org9b2fcf2">Miscellaneous</a></li>
+<li><a href="#org86ce1e9">What About That Wierd Book of Tobias? Is that Even Real?</a></li>
+<li><a href="#orgbe20a89">I Disagree with the Catholic Rules about Divorce and Remarriage</a></li>
+<li><a href="#orgff4e90a">The Distinction Between Venial and Mortal Sin</a></li>
+<li><a href="#orgd0e32a7">I'm not Religous, I'm a Christian</a></li>
+<li><a href="#orgab2648e">Miscellaneous</a></li>
 </ul>
 </li>
 <li><a href="#mary">Saint Mary</a>
 <ul>
-<li><a href="#org317538f">Mary as Mother</a>
+<li><a href="#org96df003">Mary as Mother</a>
 <ul>
-<li><a href="#org94418b1"><span class="todo TODO">TODO</span> Implicit Biblical Evidence</a></li>
-<li><a href="#orgd3dc2a2">Explicit Biblical Origins of St. Mary as Mother</a></li>
+<li><a href="#org56ec94d"><span class="todo TODO">TODO</span> Implicit Biblical Evidence</a></li>
+<li><a href="#orgdaacd77">Explicit Biblical Origins of St. Mary as Mother</a></li>
 </ul>
 </li>
-<li><a href="#orge196bbd">Mary as an Instigator of Grace</a></li>
-<li><a href="#orgeb13818"><span class="todo TODO">TODO</span> St. Mary as an Intercessor</a></li>
-<li><a href="#orgf3d6bf1"><span class="todo TODO">TODO</span> St. Mary as an Example</a></li>
+<li><a href="#orge67f6ab">Mary as an Instigator of Grace</a></li>
+<li><a href="#orgb7c1663"><span class="todo TODO">TODO</span> St. Mary as an Intercessor</a></li>
+<li><a href="#orgbe9e15e"><span class="todo TODO">TODO</span> St. Mary as an Example</a></li>
 </ul>
 </li>
 <li><a href="#prolife">Pro-Life</a>
 <ul>
-<li><a href="#orgb2624e2">Are there Valid Arguments for Abortion?</a>
+<li><a href="#org9bc2889">Are there Valid Arguments for Abortion?</a>
 <ul>
 <li><a href="#prolife-rape-incest"><span class="todo TODO">TODO</span> Exceptions for Rape and Incest</a></li>
 <li><a href="#prolife-save-life"><span class="todo TODO">TODO</span> To Save the Mother's Life</a></li>
 </ul>
 </li>
-<li><a href="#org09376d9">Competing Cultures: Live versus Death</a>
+<li><a href="#orgdde7572">Competing Cultures: Live versus Death</a>
 <ul>
-<li><a href="#orgf12ca82">Birth Control, Abortion, and the Sexual Revolution</a></li>
-<li><a href="#org7d3c7c2"><span class="todo TODO">TODO</span> Marriage and Family</a></li>
+<li><a href="#orgfcfd714">Birth Control, Abortion, and the Sexual Revolution</a></li>
+<li><a href="#orgb9de78c"><span class="todo TODO">TODO</span> Marriage and Family</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org303c3c1">Resources</a>
+<li><a href="#org2661097">Resources</a>
 <ul>
-<li><a href="#orgc1fa458">How to Go Deeper</a></li>
-<li><a href="#org0523058">What is Stopping You from Becoming Catholic? (Called to Communion)</a></li>
-<li><a href="#org93eb7cd">Catholic Radio</a>
+<li><a href="#org52b37b5">How to Go Deeper</a></li>
+<li><a href="#org88da178">What is Stopping You from Becoming Catholic? (Called to Communion)</a></li>
+<li><a href="#org1b5655b">Catholic Radio</a>
 <ul>
-<li><a href="#org86061c8">RED-C Catholic Radio</a></li>
-<li><a href="#orgc1f7a15">EWTN Radio and TV</a></li>
-<li><a href="#org3f2702d">Relevant Radio</a></li>
+<li><a href="#orga7ffa98">RED-C Catholic Radio</a></li>
+<li><a href="#org3d47e39">EWTN Radio and TV</a></li>
+<li><a href="#org9040879">Relevant Radio</a></li>
 </ul>
 </li>
-<li><a href="#orgd193fbd">Catholic Answers</a></li>
+<li><a href="#orgdb93328">Called to Communion</a>
+<ul>
+<li><a href="#orgf4d1b64">What is the Object of Evangelization?</a></li>
+</ul>
+</li>
+<li><a href="#org6992a95">Catholic Answers</a></li>
 <li><a href="#christ-is-the-answer">Christ is the Answer</a></li>
-<li><a href="#org63d6f81">The Coming Home Network</a></li>
-<li><a href="#org2c8bb1c">The Patrick Madrid Show</a></li>
-<li><a href="#org5d16c0f">The Catholicism Series (Bishop Robert Barron)</a></li>
-<li><a href="#org543c34a">Miscellaneous Beautiful Teachings</a>
+<li><a href="#org12837c7">The Coming Home Network</a></li>
+<li><a href="#orga24cdf0">The Patrick Madrid Show</a></li>
+<li><a href="#org475b610">The Catholicism Series (Bishop Robert Barron)</a></li>
+<li><a href="#orgbe847be">Miscellaneous Beautiful Teachings</a>
 <ul>
-<li><a href="#org22ca0c2">Theology of The Body</a></li>
-<li><a href="#org63c013a">Knowing Christ</a></li>
-<li><a href="#orgda5b145">The Sacrament of Marriage</a></li>
-<li><a href="#orgfdbec2d">Joy and Freedom</a></li>
-<li><a href="#orga759180">End Times?</a></li>
+<li><a href="#org73822a7">Theology of The Body</a></li>
+<li><a href="#org216a78f">Knowing Christ</a></li>
+<li><a href="#orgf1b61e6">The Sacrament of Marriage</a></li>
+<li><a href="#orgb0c4f77">Joy and Freedom</a></li>
+<li><a href="#orgf0c4bd3">End Times?</a></li>
 </ul>
 </li>
-<li><a href="#org5700be2">Beautiful Books</a>
+<li><a href="#org9bd7eb7">Beautiful Books</a>
 <ul>
-<li><a href="#org4c7ee6a">Books I've Read</a></li>
-<li><a href="#org0a53f4e">Books I want to Read</a></li>
+<li><a href="#org0cd4817">Books I've Read</a></li>
+<li><a href="#org5f122c3">Books I want to Read</a></li>
 </ul>
 </li>
-<li><a href="#orgecac0ef">Mother Angelica</a>
+<li><a href="#org962fdb9">Mother Angelica</a>
 <ul>
-<li><a href="#org661afb9">Mother Angelica Live Classics</a></li>
-<li><a href="#org23e509c">Mother Angelica - Answering the Call</a></li>
+<li><a href="#orgf078cf8">Mother Angelica Live Classics</a></li>
+<li><a href="#org24bed20">Mother Angelica - Answering the Call</a></li>
 </ul>
 </li>
-<li><a href="#orgbe51049">Sam Shamoun</a>
+<li><a href="#org7e59893">Sam Shamoun</a>
 <ul>
-<li><a href="#orged9a2a1">Why Pray to the Saints?</a></li>
-<li><a href="#orga6a46c2"><i>Sola Scriptura</i></a></li>
+<li><a href="#orga402143">Why Pray to the Saints?</a></li>
+<li><a href="#org7a87cfb"><i>Sola Scriptura</i></a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org68c50b3">Devotionals</a>
+<li><a href="#orgfebc534">Devotionals</a>
 <ul>
-<li><a href="#org6e0f1d0">The Gospel According to John</a>
+<li><a href="#orgaed28c9">The Gospel According to John</a>
 <ul>
-<li><a href="#org0c3a09f">John 1 (2025.06.20)</a></li>
-<li><a href="#org599cb9f">John 2 (2025.06.21)</a></li>
-<li><a href="#orgc17784c">John 3 (2025.06.22)</a></li>
+<li><a href="#org88d93e8">John 1 (2025.06.20)</a></li>
+<li><a href="#orgc8b47a7">John 2 (2025.06.21)</a></li>
+<li><a href="#org869b91c">John 3 (2025.06.22)</a></li>
 </ul>
 </li>
-<li><a href="#orgb5f4fcf">Genesis</a></li>
+<li><a href="#orgfd74ae7">Genesis</a></li>
 </ul>
 </li>
-<li><a href="#orga90db3c">The Rosary</a>
+<li><a href="#org58a86a1">The Rosary</a>
 <ul>
-<li><a href="#org83a0996"><span class="todo TODO">TODO</span> Introduction</a></li>
-<li><a href="#orgfc2255d">The Joyful Mysteries</a>
+<li><a href="#org1af801e"><span class="todo TODO">TODO</span> Introduction</a></li>
+<li><a href="#org29011a8">The Joyful Mysteries</a>
 <ul>
-<li><a href="#orge9f4b04">The Annunciation of Gabriel to Mary (Luke 1:26-38)</a></li>
-<li><a href="#org9bbf358">The Visitation of Mary to Elizabeth (Luke 1:39-56)</a></li>
-<li><a href="#orgc3f2e03">The Nativity of Our Lord (Luke 2:1-21)</a></li>
-<li><a href="#org73c27a8">The Presentation of Our Lord (Luke 2:22-38)</a></li>
-<li><a href="#orgf89791e">The Finding of Our Lord in the Temple (Luke 2:41-52)</a></li>
+<li><a href="#orgc2cacb8">The Annunciation of Gabriel to Mary (Luke 1:26-38)</a></li>
+<li><a href="#org654d383">The Visitation of Mary to Elizabeth (Luke 1:39-56)</a></li>
+<li><a href="#orga77998b">The Nativity of Our Lord (Luke 2:1-21)</a></li>
+<li><a href="#orge9a8195">The Presentation of Our Lord (Luke 2:22-38)</a></li>
+<li><a href="#org2b8fa05">The Finding of Our Lord in the Temple (Luke 2:41-52)</a></li>
 </ul>
 </li>
-<li><a href="#orgb71e3c8">The Sorrowful Mysteries</a>
+<li><a href="#org63e0f5d">The Sorrowful Mysteries</a>
 <ul>
-<li><a href="#orgc1d9d1f">Our Lord Agonizes in the Garden (Matthew 26:36-56)</a></li>
-<li><a href="#org89f0e8f">Our Lord is Scourged at the Pillar (Matthew 27:26)</a></li>
-<li><a href="#org4ff7987">Our Lord is Crowned with Thorns (Matthew 27:27-31)</a></li>
-<li><a href="#orge5a45a9">Our Lord Carries the Cross to Calvary (Matthew 27:32)</a></li>
-<li><a href="#orge00c84c">Our Lord is Crucified (Matthew 27:33-56)</a></li>
+<li><a href="#org02d3105">Our Lord Agonizes in the Garden (Matthew 26:36-56)</a></li>
+<li><a href="#org61474ac">Our Lord is Scourged at the Pillar (Matthew 27:26)</a></li>
+<li><a href="#org8c542b2">Our Lord is Crowned with Thorns (Matthew 27:27-31)</a></li>
+<li><a href="#orgda5ba02">Our Lord Carries the Cross to Calvary (Matthew 27:32)</a></li>
+<li><a href="#orgbeb7e3a">Our Lord is Crucified (Matthew 27:33-56)</a></li>
 </ul>
 </li>
-<li><a href="#orged4a97a">The Luminous Mysteries</a>
+<li><a href="#org6be3239">The Luminous Mysteries</a>
 <ul>
-<li><a href="#orgdc6024f">Our Lord is Baptised in the Jordan River (Matthew 3:13-16)</a></li>
-<li><a href="#org022c0a9">Our Lord's First Public Miracle at the Wedding at Cana (John 2:1-11)</a></li>
-<li><a href="#orgd900e77">The Proclamation of the Kingdom of God (Mark 1:14-15)</a></li>
-<li><a href="#org64c856c">Our Lord is Transfigured (Matthew 17:1-8)</a></li>
-<li><a href="#orgd596bc7">Our Lord Institutes the Eucharist at the Last Supper (Matthew 26)</a></li>
+<li><a href="#org07b396a">Our Lord is Baptised in the Jordan River (Matthew 3:13-16)</a></li>
+<li><a href="#org318dfee">Our Lord's First Public Miracle at the Wedding at Cana (John 2:1-11)</a></li>
+<li><a href="#org429bb7e">The Proclamation of the Kingdom of God (Mark 1:14-15)</a></li>
+<li><a href="#orgfee86e6">Our Lord is Transfigured (Matthew 17:1-8)</a></li>
+<li><a href="#org3f3bd2c">Our Lord Institutes the Eucharist at the Last Supper (Matthew 26)</a></li>
 </ul>
 </li>
-<li><a href="#org521754d">The Glorious Mysteries</a>
+<li><a href="#orgdd38432">The Glorious Mysteries</a>
 <ul>
-<li><a href="#org7a5f1a3">The Glorious Resurrrection of Our Lord (John 20:1-29)</a></li>
-<li><a href="#orgbf7144d">The Ascension of Our Lord (Luke 24:36-53)</a></li>
-<li><a href="#orgdae2a37">The Descent of the Holy Spirit at Pentecost (Acts 2:1-41)</a></li>
-<li><a href="#org0661b23">The Assumption of Mary into Heaven</a></li>
-<li><a href="#orga7f0760">The Coronation of Mary as Queen of Heaven and Earth (Revelation 12)</a></li>
+<li><a href="#orgad907e2">The Glorious Resurrrection of Our Lord (John 20:1-29)</a></li>
+<li><a href="#org2494e8c">The Ascension of Our Lord (Luke 24:36-53)</a></li>
+<li><a href="#orgdde7c80">The Descent of the Holy Spirit at Pentecost (Acts 2:1-41)</a></li>
+<li><a href="#orgd5a64c7">The Assumption of Mary into Heaven</a></li>
+<li><a href="#org74de204">The Coronation of Mary as Queen of Heaven and Earth (Revelation 12)</a></li>
 </ul>
 </li>
 </ul>
@@ -322,11 +532,11 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org72a1a3b" class="outline-2">
-<h2 id="org72a1a3b">Introduction</h2>
-<div class="outline-text-2" id="text-org72a1a3b">
+<div id="outline-container-orgff87afb" class="outline-2">
+<h2 id="orgff87afb">Introduction</h2>
+<div class="outline-text-2" id="text-orgff87afb">
 
-<div id="orgaf77850" class="figure">
+<div id="org722bf43" class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg" alt="Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg" width="600px" />
 </p>
 <p><span class="figure-number">Figure 1: </span>This is <i>The Calling of St. Matthew</i> by Caravaggio (1599-1600 AD). Caravaggio depicts Levi, the tax collector, going about his business in the activity of his trade, which brought him great wealth through through extortion. Yet, Jesus generously invited Levi to follow Him. Caravaggio paints the moment when Levi recognizes that Our Lord's invitation first as personal and secondly as his own. Levi then had to choose between his fortune or a mysterious and unknown future with this itinerant rabi, Jesus. Would Levi follow his own vision, or that of Jesus? Would he puruse his own will, or God's? What did Levi choose? If he had chosen his own will, purposes, and glory, would we remember St. Matthew to this day? Indeed the painting is anachronistic: the clothing styles from around the 17th century depict a scene from the first century; however, this anachronism liberates the truth depicted here from reaching beyond the first century into the present day. Like Levi, Christ invites all of us at every moment to a deeper walk with Him, a greater surrender to His will, to a deeper conversion, a growing holiness, and into the glorious mystery of who He is. To what are you being called, and what will you choose? Source: <a href="https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew">Wikipedia</a>.</p>
@@ -389,7 +599,7 @@ which had been taught to me in my Protestant upbringing. I was forced to learn
 more.
 </p>
 
-<div class="note" id="orgf83083e">
+<div class="note" id="org16d2bac">
 <p>
 <b>Why be Catholic?</b>
 </p>
@@ -517,15 +727,15 @@ to it. I invite you to walk with me down this path.
 </p>
 
 
-<div id="orgbe7f463" class="figure">
+<div id="org8a1c01a" class="figure">
 <p><img src="./img/come-with-me.jpg" alt="come-with-me.jpg" />
 </p>
 <p><span class="figure-number">Figure 2: </span>Come with me if you want to live joyfully!</p>
 </div>
 </div>
-<div id="outline-container-org83ad97b" class="outline-3">
-<h3 id="org83ad97b">Do Protestants <i>Ever</i> Become Catholic?</h3>
-<div class="outline-text-3" id="text-org83ad97b">
+<div id="outline-container-org136e76c" class="outline-3">
+<h3 id="org136e76c">Do Protestants <i>Ever</i> Become Catholic?</h3>
+<div class="outline-text-3" id="text-org136e76c">
 <p>
 Yes. We are <i>legion</i>. Like me, many Protestants deeply in love with Jesus find
 themselves becoming Catholic.
@@ -538,9 +748,9 @@ delving deeper into the Bible and into history, these believers found themselves
 becoming Catholics.
 </p>
 </div>
-<div id="outline-container-orgb467c71" class="outline-4">
-<h4 id="orgb467c71">Jimmy Akin</h4>
-<div class="outline-text-4" id="text-orgb467c71">
+<div id="outline-container-org5902840" class="outline-4">
+<h4 id="org5902840">Jimmy Akin</h4>
+<div class="outline-text-4" id="text-org5902840">
 <p>
 Jimmy Akin went from Presbyterianism to Catholicism.
 </p>
@@ -548,9 +758,9 @@ Jimmy Akin went from Presbyterianism to Catholicism.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dEa1kNHLOU?si=z460gIEhIQAQhH30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org932bd5f" class="outline-4">
-<h4 id="org932bd5f">Dr. David Anders</h4>
-<div class="outline-text-4" id="text-org932bd5f">
+<div id="outline-container-org6be16c1" class="outline-4">
+<h4 id="org6be16c1">Dr. David Anders</h4>
+<div class="outline-text-4" id="text-org6be16c1">
 <p>
 Dr. David Anders is <i>extremely</i> knowledgeable about the history and theology of
 the Protestant Reformation, and he has an encyclopedic knowlege of Catholicism.
@@ -562,9 +772,9 @@ hosts a live weekday call-in radio/TV show named <i>Called to Communion</i>.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5NT32Y-Mrk?si=qbxcLUNaADjmekyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org56ab794" class="outline-4">
-<h4 id="org56ab794">Dr. Francis Beckwith</h4>
-<div class="outline-text-4" id="text-org56ab794">
+<div id="outline-container-org6d126af" class="outline-4">
+<h4 id="org6d126af">Dr. Francis Beckwith</h4>
+<div class="outline-text-4" id="text-org6d126af">
 <p>
 Dr. Frank Beckwith is a philosophy professor at Baylor. After a personal
 encounter with Jesus Christ, he spent decades in the Evangelical world. Later,
@@ -574,9 +784,9 @@ he reverted to Catholicism.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ks-XF7-6vnQ?si=T2Ea0dn5gw_g-net" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orgaecc956" class="outline-4">
-<h4 id="orgaecc956">Dr. Scott Hahn</h4>
-<div class="outline-text-4" id="text-orgaecc956">
+<div id="outline-container-orga6be384" class="outline-4">
+<h4 id="orga6be384">Dr. Scott Hahn</h4>
+<div class="outline-text-4" id="text-orga6be384">
 <p>
 Dr. Hahn was a Presbyterian, and he converted to Catholicism during Protestant
 seminary. Dr. Hahn exudes joy, and his theology is deeply rooted in Scripture.
@@ -586,15 +796,15 @@ seminary. Dr. Hahn exudes joy, and his theology is deeply rooted in Scripture.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btYWd31QIy8?si=DqjZks7IHJ-Faupv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org4e54e95" class="outline-4">
-<h4 id="org4e54e95">Dr. Taylor Marshall</h4>
-<div class="outline-text-4" id="text-org4e54e95">
+<div id="outline-container-orgb53cf77" class="outline-4">
+<h4 id="orgb53cf77">Dr. Taylor Marshall</h4>
+<div class="outline-text-4" id="text-orgb53cf77">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bsgd2BxZrus?si=umusbVX2buiiJ6fe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orgb48890d" class="outline-4">
-<h4 id="orgb48890d">Curtis Mitch</h4>
-<div class="outline-text-4" id="text-orgb48890d">
+<div id="outline-container-org9765982" class="outline-4">
+<h4 id="org9765982">Curtis Mitch</h4>
+<div class="outline-text-4" id="text-org9765982">
 <p>
 Curtis started out as a Catholic, entered into a personal relationship with
 Christ through Campus Crusade for Christ (called Cru these days), learned the
@@ -608,9 +818,9 @@ I relate to this story <i>very</i> much.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZopNrw8Kms?si=aiO9yXPK4NXbPG_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org3874616" class="outline-4">
-<h4 id="org3874616">Keith Nester</h4>
-<div class="outline-text-4" id="text-org3874616">
+<div id="outline-container-org9b510a3" class="outline-4">
+<h4 id="org9b510a3">Keith Nester</h4>
+<div class="outline-text-4" id="text-org9b510a3">
 <p>
 Keith Nester was a Methodist minister who became Catholic.
 </p>
@@ -618,15 +828,15 @@ Keith Nester was a Methodist minister who became Catholic.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oe7JGpsCcf0?si=vLE81FJy-aFvaIzl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orge11f317" class="outline-4">
-<h4 id="orge11f317">Candace Owens</h4>
-<div class="outline-text-4" id="text-orge11f317">
+<div id="outline-container-org9118d47" class="outline-4">
+<h4 id="org9118d47">Candace Owens</h4>
+<div class="outline-text-4" id="text-org9118d47">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vGcVqOaZ5xY?si=onDJ1kRM2s9LF_nP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org117ef23" class="outline-4">
-<h4 id="org117ef23">Matt Selby</h4>
-<div class="outline-text-4" id="text-org117ef23">
+<div id="outline-container-orgc820b25" class="outline-4">
+<h4 id="orgc820b25">Matt Selby</h4>
+<div class="outline-text-4" id="text-orgc820b25">
 <p>
 Matt Selby was an Evangelical Free Christian who served as a missionary. He
 converted to Catholicism in 2014.
@@ -635,9 +845,9 @@ converted to Catholicism in 2014.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wLA3TH5_2Z8?si=MTydojPulDMWY-zT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orge5f765e" class="outline-4">
-<h4 id="orge5f765e">Tim Staples</h4>
-<div class="outline-text-4" id="text-orge5f765e">
+<div id="outline-container-org895a049" class="outline-4">
+<h4 id="org895a049">Tim Staples</h4>
+<div class="outline-text-4" id="text-org895a049">
 <p>
 Tim Staples was an Assemblies of God youth pastor who converted to
 Catholicism. Today, Tim is an apolotist for the <a href="https://www.catholic.com">Catholic Answers</a>.
@@ -673,7 +883,7 @@ own reality as he or she sees fit? Clearly this is absurd.
 We can more rigorously conclude that <i>there must be truth</i> if we start with the
 another antithetical proposition, which we call <b>proposition A</b>:
 </p>
-<div class="note" id="org9a3ae93">
+<div class="note" id="org0e35e91">
 <p>
 <b>Proposition A</b> <br />
 There is no truth.
@@ -687,13 +897,13 @@ contradiction, and it cannot possibly be valid according to the rules of logic,
 namely the principle of non-contradiction.
 </p>
 </div>
-<div id="outline-container-org6e7c0e8" class="outline-4">
-<h4 id="org6e7c0e8">The Principle of Non-contradiction</h4>
-<div class="outline-text-4" id="text-org6e7c0e8">
+<div id="outline-container-orgbe413c8" class="outline-4">
+<h4 id="orgbe413c8">The Principle of Non-contradiction</h4>
+<div class="outline-text-4" id="text-orgbe413c8">
 <p>
 The principle of non-contradiction is a law of logic:
 </p>
-<div class="note" id="org0465d6f">
+<div class="note" id="org5ad8909">
 <p>
 <b>The Principle of Non-Contradiction</b> <br />
 A proposition cannot be both true and false at the same time in the same respect.
@@ -716,7 +926,7 @@ This is comforting when we remember Jesus Christ claimed to be the Way, the Trut
 the Light. The truth is something foundational and concrete.
 </p>
 
-<div class="note" id="org5a2f1b9">
+<div class="note" id="org6244e37">
 <p>
 <b>More on the Principle of Non-contradiction</b>
 </p>
@@ -743,7 +953,7 @@ For more information on this topic, you may wish to watch or listen to the follo
 <p>
 Let's try another statement, <b>proposition B</b>:
 </p>
-<div class="note" id="orgdfce9d9">
+<div class="note" id="org45a9bb5">
 <p>
 <b>Proposition B</b> <br />
 There is no absolute truth.
@@ -796,9 +1006,9 @@ encyclical <a href="https://www.vatican.va/content/john-paul-ii/en/encyclicals/d
 </p>
 </div>
 </div>
-<div id="outline-container-org5571237" class="outline-3">
-<h3 id="org5571237">Summary</h3>
-<div class="outline-text-3" id="text-org5571237">
+<div id="outline-container-org4b1e9a8" class="outline-3">
+<h3 id="org4b1e9a8">Summary</h3>
+<div class="outline-text-3" id="text-org4b1e9a8">
 <p>
 In addition to having shown that there must be truth and truth must be absolute,
 we also have acquired the principle of non-contradiction. This is very
@@ -827,7 +1037,7 @@ to spend more time discussing the revelation given to us by reason and
 nature, or we need to add divine revelation.
 </p>
 
-<div class="note" id="orgd03736f">
+<div class="note" id="org063f6b2">
 <a id="what-is-god"><b>What is God?</b></a>
 
 <details>
@@ -892,7 +1102,7 @@ immaterial and eternal cause.
 
 </div>
 
-<div class="note" id="org0cebc7a">
+<div class="note" id="orgd5a6b1f">
 <a id="god-is-being"><b>God does NOT exist!</b></a>
 
 <details>
@@ -937,7 +1147,7 @@ You are loved. With the help of some divine revelation and human philosophy,
 follows from the discussion above about God's nature and God's will.
 </p>
 
-<div class="note" id="org4e2c28e">
+<div class="note" id="orge030bd9">
 <a id="you-are-loved"><b>YOU are LOVED</b></a>
 
 <details>
@@ -1028,9 +1238,9 @@ Riccardo:
 <h2 id="solascriptura"><i>Sola Scriptura</i></h2>
 <div class="outline-text-2" id="text-solascriptura">
 </div>
-<div id="outline-container-org490bbb5" class="outline-3">
-<h3 id="org490bbb5">Authority: Bible, Church, or Both?</h3>
-<div class="outline-text-3" id="text-org490bbb5">
+<div id="outline-container-org566a57d" class="outline-3">
+<h3 id="org566a57d">Authority: Bible, Church, or Both?</h3>
+<div class="outline-text-3" id="text-org566a57d">
 <div class="org-center">
 <p>
 Patrick Madrid has a great discussion from Danny near the end of Hour 3 on July
@@ -1094,7 +1304,7 @@ infallible authority <i>apart from</i> the Bible. Thus, the Bible cannot be the 
 infallible authority for Christians.
 </p>
 
-<div class="note" id="orgb4979cd">
+<div class="note" id="orgfc88454">
 <p>
 <b>Is there an Objectively Correct Way to Interpret Scripture?</b>
 </p>
@@ -1136,7 +1346,7 @@ objective manner.
 
 </div>
 
-<div class="note" id="orgb68fbd4">
+<div class="note" id="orgc0f7299">
 <p>
 <b>What are Tradition a the Magisterium?</b>
 </p>
@@ -1156,13 +1366,13 @@ Tradition and Magisterium?
 </div>
 </div>
 </div>
-<div id="outline-container-org90bf90d" class="outline-3">
-<h3 id="org90bf90d">The Canon of Scripture and the Necessity of Authority</h3>
-<div class="outline-text-3" id="text-org90bf90d">
+<div id="outline-container-org5e7387c" class="outline-3">
+<h3 id="org5e7387c">The Canon of Scripture and the Necessity of Authority</h3>
+<div class="outline-text-3" id="text-org5e7387c">
 </div>
-<div id="outline-container-orgc992ae3" class="outline-4">
-<h4 id="orgc992ae3">Introduction</h4>
-<div class="outline-text-4" id="text-orgc992ae3">
+<div id="outline-container-org11cd73d" class="outline-4">
+<h4 id="org11cd73d">Introduction</h4>
+<div class="outline-text-4" id="text-org11cd73d">
 <p>
 The doctrine of <i>sola scriptura</i> is often understood as the belief that the
 Bible is the only infallible authority for Christian faith and
@@ -1175,9 +1385,9 @@ Bible" actually is.
 </p>
 </div>
 </div>
-<div id="outline-container-orgd063727" class="outline-4">
-<h4 id="orgd063727">The Role of Authority in Defining Scripture: A Challenge to Sola Scriptura</h4>
-<div class="outline-text-4" id="text-orgd063727">
+<div id="outline-container-orgd166879" class="outline-4">
+<h4 id="orgd166879">The Role of Authority in Defining Scripture: A Challenge to Sola Scriptura</h4>
+<div class="outline-text-4" id="text-orgd166879">
 <p>
 The doctrine of <i>sola scriptura</i> is often understood as the belief that the
 Bible is the only infallible authority for Christian faith and
@@ -1196,8 +1406,8 @@ Christian life and worship.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org618ff81"></a>The Development of the Christian Scriptures<br />
-<div class="outline-text-5" id="text-org618ff81">
+<li><a id="orga4b19a5"></a>The Development of the Christian Scriptures<br />
+<div class="outline-text-5" id="text-orga4b19a5">
 <p>
 The Bible as we know it today did not appear as a single, bound volume in the
 early Church. Instead, the books of both the <b><b>Old Testament</b></b> and <b><b>New
@@ -1223,14 +1433,14 @@ The very fact that <b><b>Christians today accept different canons</b></b> highli
 </p>
 </div>
 </li>
-<li><a id="org35e8d27"></a>Different Canons in Use Today<br />
-<div class="outline-text-5" id="text-org35e8d27">
+<li><a id="orgbef9683"></a>Different Canons in Use Today<br />
+<div class="outline-text-5" id="text-orgbef9683">
 <p>
 Various Christian traditions use different versions of the Bible. The table
 below illustrates these differences: 
 </p>
 
-<div class="TABLE" id="org4ed2dcc">
+<div class="TABLE" id="org6596cb9">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -1305,8 +1515,8 @@ determine which canon to follow without <b><b>appealing to an external authority
 </p>
 </div>
 </li>
-<li><a id="org56dc7d8"></a>The Deuterocanonical Books and the Authority of the Church<br />
-<div class="outline-text-5" id="text-org56dc7d8">
+<li><a id="org8f3a681"></a>The Deuterocanonical Books and the Authority of the Church<br />
+<div class="outline-text-5" id="text-org8f3a681">
 <p>
 The <b><b>Deuterocanonical books</b></b> serve as a key example of this issue. These books
 were part of the <b><b>Septuagint (LXX)</b></b>, the Greek Old Testament widely used by
@@ -1319,7 +1529,7 @@ Protestants.
 Here is a list of these books:
 </p>
 
-<div class="TABLE" id="orgc5e01f6">
+<div class="TABLE" id="orgaf46d61">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -1417,8 +1627,8 @@ the authority that established that canon.
 </p>
 </div>
 </li>
-<li><a id="org68cfe46"></a>Conclusion: The Limits of Sola Scriptura<br />
-<div class="outline-text-5" id="text-org68cfe46">
+<li><a id="org25a204a"></a>Conclusion: The Limits of Sola Scriptura<br />
+<div class="outline-text-5" id="text-org25a204a">
 <p>
 Given the historical development of the canon, the role of Church councils, and
 the differences between Christian Bibles today, <b>sola scriptura</b> as an absolute
@@ -1449,21 +1659,21 @@ Scripture.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd2a399b" class="outline-3">
-<h3 id="orgd2a399b">The Development of the Christian Scriptures - More Details</h3>
-<div class="outline-text-3" id="text-orgd2a399b">
+<div id="outline-container-orge3b568d" class="outline-3">
+<h3 id="orge3b568d">The Development of the Christian Scriptures - More Details</h3>
+<div class="outline-text-3" id="text-orge3b568d">
 </div>
-<div id="outline-container-org44a40eb" class="outline-4">
-<h4 id="org44a40eb">The Old Testament Canon</h4>
-<div class="outline-text-4" id="text-org44a40eb">
+<div id="outline-container-org216ac2f" class="outline-4">
+<h4 id="org216ac2f">The Old Testament Canon</h4>
+<div class="outline-text-4" id="text-org216ac2f">
 <p>
 The Christian Old Testament originates from the Hebrew Scriptures, but its
 structure, order, and content vary among different Christian traditions. 
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org82cda95"></a>Jewish Scriptures and Canonization<br />
-<div class="outline-text-5" id="text-org82cda95">
+<li><a id="org4828458"></a>Jewish Scriptures and Canonization<br />
+<div class="outline-text-5" id="text-org4828458">
 <ul class="org-ul">
 <li>The Torah (Pentateuch) was likely compiled between the 10th and 5th centuries
 BC.</li>
@@ -1476,8 +1686,8 @@ books, favoring the Hebrew texts.</li>
 </ul>
 </div>
 </li>
-<li><a id="org0a76557"></a>Christian Adoption of the Old Testament<br />
-<div class="outline-text-5" id="text-org0a76557">
+<li><a id="orge0d66a6"></a>Christian Adoption of the Old Testament<br />
+<div class="outline-text-5" id="text-orge0d66a6">
 <ul class="org-ul">
 <li>Early Christians largely used the Septuagint.</li>
 <li>Some Church Fathers (e.g., Origen, Augustine) accepted the Deuterocanonical
@@ -1487,8 +1697,8 @@ Deuterocanonical books, while Protestants rejected them.</li>
 </ul>
 </div>
 <ul class="org-ul">
-<li><a id="orga9ab367"></a>The Deuterocanonical Books<br />
-<div class="outline-text-6" id="text-orga9ab367">
+<li><a id="org2999f47"></a>The Deuterocanonical Books<br />
+<div class="outline-text-6" id="text-org2999f47">
 <p>
 The <b><b>Deuterocanonical books</b></b> are books included in the Old Testament by the
 Catholic, Eastern Orthodox, and some Oriental Orthodox churches but excluded
@@ -1498,13 +1708,13 @@ most Protestant traditions.
 </p>
 </div>
 </li>
-<li><a id="org1091ab6"></a>List of Deuterocanonical Books<br />
-<div class="outline-text-6" id="text-org1091ab6">
+<li><a id="org3706e88"></a>List of Deuterocanonical Books<br />
+<div class="outline-text-6" id="text-org3706e88">
 <p>
 Here are the books classified as Deuterocanonical:
 </p>
 
-<div class="TABLE" id="orge14091f">
+<div class="TABLE" id="org8cf7e63">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -1582,8 +1792,8 @@ Here are the books classified as Deuterocanonical:
 </div>
 </div>
 </li>
-<li><a id="org5ce85ad"></a>Additional Books in the Orthodox Canon<br />
-<div class="outline-text-6" id="text-org5ce85ad">
+<li><a id="org10809d0"></a>Additional Books in the Orthodox Canon<br />
+<div class="outline-text-6" id="text-org10809d0">
 <p>
 Eastern Orthodox and Oriental Orthodox traditions accept additional books beyond the Catholic Deuterocanonical books:
 </p>
@@ -1597,8 +1807,8 @@ Eastern Orthodox and Oriental Orthodox traditions accept additional books beyond
 </ul>
 </div>
 </li>
-<li><a id="org5cb7304"></a>Unique to Ethiopian Orthodox Canon<br />
-<div class="outline-text-6" id="text-org5cb7304">
+<li><a id="orga8e1baf"></a>Unique to Ethiopian Orthodox Canon<br />
+<div class="outline-text-6" id="text-orga8e1baf">
 <p>
 The Ethiopian Orthodox Church has the <b><b>widest</b></b> biblical canon, including all the above books plus additional writings such as:
 </p>
@@ -1611,8 +1821,8 @@ The Ethiopian Orthodox Church has the <b><b>widest</b></b> biblical canon, inclu
 </ul>
 </div>
 </li>
-<li><a id="org6c2200c"></a>Why Are These Books Controversial?<br />
-<div class="outline-text-6" id="text-org6c2200c">
+<li><a id="org45d4bd6"></a>Why Are These Books Controversial?<br />
+<div class="outline-text-6" id="text-org45d4bd6">
 <ul class="org-ul">
 <li><b><b>Jewish View</b></b>: The Hebrew Bible (<b><b>Tanakh</b></b>) does not include these
 books. They were mostly written in <b><b>Greek</b></b>, not Hebrew, and were excluded
@@ -1634,13 +1844,13 @@ their use. The <b><b>Council of Trent (AD 1546)</b></b> formally declared them
 </li>
 </ul>
 </div>
-<div id="outline-container-org2b19e80" class="outline-4">
-<h4 id="org2b19e80">The New Testament Canon</h4>
-<div class="outline-text-4" id="text-org2b19e80">
+<div id="outline-container-orgdf7fbac" class="outline-4">
+<h4 id="orgdf7fbac">The New Testament Canon</h4>
+<div class="outline-text-4" id="text-orgdf7fbac">
 </div>
 <ul class="org-ul">
-<li><a id="org99c7da1"></a>Formation of the New Testament<br />
-<div class="outline-text-5" id="text-org99c7da1">
+<li><a id="org5a9d90f"></a>Formation of the New Testament<br />
+<div class="outline-text-5" id="text-org5a9d90f">
 <ul class="org-ul">
 <li>Apostolic writings (AD 50–100) were gradually collected and recognized.</li>
 <li>By AD 150, the four Gospels, Acts, and Paul’s letters were widely accepted.</li>
@@ -1651,8 +1861,8 @@ canon.</li>
 </ul>
 </div>
 </li>
-<li><a id="org89521f8"></a>Middle Ages and Reformation<br />
-<div class="outline-text-5" id="text-org89521f8">
+<li><a id="org221fdc6"></a>Middle Ages and Reformation<br />
+<div class="outline-text-5" id="text-org221fdc6">
 <ul class="org-ul">
 <li>The canon remained stable in Catholic and Orthodox traditions.</li>
 <li>The Protestant Reformation led to the rejection of the Deuterocanonical books.</li>
@@ -1661,16 +1871,16 @@ canon.</li>
 </li>
 </ul>
 </div>
-<div id="outline-container-orgaa3a227" class="outline-4">
-<h4 id="orgaa3a227">Differences in Biblical Canons Today</h4>
-<div class="outline-text-4" id="text-orgaa3a227">
+<div id="outline-container-org6ee3072" class="outline-4">
+<h4 id="org6ee3072">Differences in Biblical Canons Today</h4>
+<div class="outline-text-4" id="text-org6ee3072">
 <p>
 From Christian antiquity to the modern day, there has been no uniform agreement
 on what is the correct list of Scriptures. The following table higlights this
 fact:
 </p>
 
-<div class="TABLE" id="org9bd1e35">
+<div class="TABLE" id="org458622d">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -1748,9 +1958,9 @@ development of the Tanakh (90 AD - 200 AD)</li>
 </ol>
 </div>
 </div>
-<div id="outline-container-org1a97a7f" class="outline-4">
-<h4 id="org1a97a7f">The Problem for Sola Scriptura</h4>
-<div class="outline-text-4" id="text-org1a97a7f">
+<div id="outline-container-org64a5a4a" class="outline-4">
+<h4 id="org64a5a4a">The Problem for Sola Scriptura</h4>
+<div class="outline-text-4" id="text-org64a5a4a">
 <p>
 Given these historical realities, <code>sola scriptura</code> faces a serious problem: if
 the Bible is the only infallible authority, how does one determine what
@@ -1758,8 +1968,8 @@ constitutes "the Bible" without appealing to an external authority?
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org0cb87d9"></a>1. The Necessity of an External Authority<br />
-<div class="outline-text-5" id="text-org0cb87d9">
+<li><a id="org57ec961"></a>1. The Necessity of an External Authority<br />
+<div class="outline-text-5" id="text-org57ec961">
 <p>
 Without the Church's authority, one would have no objective way to know which books belong in the canon.
 </p>
@@ -1769,8 +1979,8 @@ The early Church played a central role in collecting, preserving, and recognizin
 </p>
 </div>
 </li>
-<li><a id="org0f00afa"></a>2. The "Recognition" Argument Does Not Solve the Issue<br />
-<div class="outline-text-5" id="text-org0f00afa">
+<li><a id="org51f1a34"></a>2. The "Recognition" Argument Does Not Solve the Issue<br />
+<div class="outline-text-5" id="text-org51f1a34">
 <p>
 Some argue that the Church does not define Scripture but merely recognizes inspired writings.
 </p>
@@ -1784,8 +1994,8 @@ If a test is used, then we depend on the authority of those who established that
 </p>
 </div>
 </li>
-<li><a id="org82ac282"></a>3. The Existence of Differing Canons Highlights the Problem<br />
-<div class="outline-text-5" id="text-org82ac282">
+<li><a id="orgf0cb489"></a>3. The Existence of Differing Canons Highlights the Problem<br />
+<div class="outline-text-5" id="text-orgf0cb489">
 <p>
 If the Bible were self-evident in its contents, there would be no dispute over which books belong.
 </p>
@@ -1795,8 +2005,8 @@ Yet, various Christian traditions hold different canons, meaning believers submi
 </p>
 </div>
 </li>
-<li><a id="org3857f64"></a>4. The Infallibility Problem<br />
-<div class="outline-text-5" id="text-org3857f64">
+<li><a id="org460c9d8"></a>4. The Infallibility Problem<br />
+<div class="outline-text-5" id="text-org460c9d8">
 <p>
 If a believer holds that their canon is infallibly correct, then the authority that defined that canon must also be infallible.
 </p>
@@ -1817,19 +2027,19 @@ The doctrine of <code>sola scriptura</code>, understood as the Bible being the s
 </ul>
 </div>
 </div>
-<div id="outline-container-org892b44f" class="outline-3">
-<h3 id="org892b44f">Links</h3>
-<div class="outline-text-3" id="text-org892b44f">
+<div id="outline-container-org7f1b55a" class="outline-3">
+<h3 id="org7f1b55a">Links</h3>
+<div class="outline-text-3" id="text-org7f1b55a">
 </div>
-<div id="outline-container-org41d8fb3" class="outline-4">
-<h4 id="org41d8fb3">Does Everything Have to be in the Bible for us to Believe it?</h4>
+<div id="outline-container-org6377581" class="outline-4">
+<h4 id="org6377581">Does Everything Have to be in the Bible for us to Believe it?</h4>
 </div>
 
 
 
-<div id="outline-container-org53c8570" class="outline-4">
-<h4 id="org53c8570">The Scriptures and the Role of the Early Church</h4>
-<div class="outline-text-4" id="text-org53c8570">
+<div id="outline-container-orge900b19" class="outline-4">
+<h4 id="orge900b19">The Scriptures and the Role of the Early Church</h4>
+<div class="outline-text-4" id="text-orge900b19">
 <p>
 Jimmy Akin discusses Wesley Huff's presentation on the Old Testament.
 </p>
@@ -1854,9 +2064,9 @@ the laity in a way that was different from the way he intended.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_bWIfP6ERE?si=AqXgWPzaIKR32JPb&amp;start=1235" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org4912181" class="outline-4">
-<h4 id="org4912181">Does the Bible Interpret Itself?</h4>
-<div class="outline-text-4" id="text-org4912181">
+<div id="outline-container-org6cd5fc0" class="outline-4">
+<h4 id="org6cd5fc0">Does the Bible Interpret Itself?</h4>
+<div class="outline-text-4" id="text-org6cd5fc0">
 <p>
 Dr. Anders addresses a call about whether the Bible interprets itself.
 </p>
@@ -1870,9 +2080,9 @@ Dr. Anders addresses a call about whether the Bible interprets itself.
 <h2 id="sola-fide">Saved by Faith Alone?</h2>
 <div class="outline-text-2" id="text-sola-fide">
 </div>
-<div id="outline-container-org4788a66" class="outline-3">
-<h3 id="org4788a66">Introduction</h3>
-<div class="outline-text-3" id="text-org4788a66">
+<div id="outline-container-org08b00a1" class="outline-3">
+<h3 id="org08b00a1">Introduction</h3>
+<div class="outline-text-3" id="text-org08b00a1">
 <p>
 A dogma central to Luther's Protestant reformation is summarized by the phrase
 <i>sola fide</i>, which is translated "by faith alone." This encapsulates the idea
@@ -1917,7 +2127,7 @@ worthwhile, indeed.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hazyiLJldak?si=AcFNDkFO4VHuGGYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<div class="note" id="org1f2d2aa">
+<div class="note" id="org9c5171f">
 <p>
 
 </p>
@@ -1950,9 +2160,9 @@ grace, sacraments, and charity.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aGMekL7FJTE?si=aVzO3f5263TF-V80&amp;start=108" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org23c37c4" class="outline-3">
-<h3 id="org23c37c4">Evidence For <i>Sola Fide</i></h3>
-<div class="outline-text-3" id="text-org23c37c4">
+<div id="outline-container-org5c470c1" class="outline-3">
+<h3 id="org5c470c1">Evidence For <i>Sola Fide</i></h3>
+<div class="outline-text-3" id="text-org5c470c1">
 <p>
 Many proponents of <i>sola fide</i> say that the Bible plainly states that man is
 saved by faith alone in Ephesians 2:8-10:
@@ -2036,7 +2246,7 @@ insufficient in this view to <i>justify</i> humans&#x2013;that is, to qualify us
 salvation and an afterlife in the loving presence of God.
 </p>
 
-<div class="note" id="orga7982ea">
+<div class="note" id="orgf4dfdec">
 <p>
 <b>Eternal Security or the Perseverance of the Saints</b>
 </p>
@@ -2671,7 +2881,7 @@ with the likes of John Calvin.
 </div>
 
 
-<div class="note" id="org7269060">
+<div class="note" id="org6f255e8">
 <p>
 <b>The Origin of the Protestant Doctrine of Eternal Security</b>
 </p>
@@ -2809,7 +3019,7 @@ the Gentiles, so that we might receive the promise of the Spirit through faith.
 </blockquote>
 
 
-<div class="note" id="org471ee94">
+<div class="note" id="org51f9568">
 <p>
 
 </p>
@@ -3125,7 +3335,7 @@ stated in the Scriptures, and it says that "faith alone" is insufficient for
 salvation.</li>
 </ol>
 
-<div class="note" id="org9722c9e">
+<div class="note" id="org095c770">
 <p>
 <b>Video: Trent Horn and Protestant Responses to James 2</b>
 </p>
@@ -3141,20 +3351,20 @@ salvation.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org3cc667b" class="outline-2">
-<h2 id="org3cc667b">The Mass: an Overview</h2>
-<div class="outline-text-2" id="text-org3cc667b">
+<div id="outline-container-orgdf7a976" class="outline-2">
+<h2 id="orgdf7a976">The Mass: an Overview</h2>
+<div class="outline-text-2" id="text-orgdf7a976">
 </div>
-<div id="outline-container-org8119ffd" class="outline-3">
-<h3 id="org8119ffd">Introduction</h3>
-<div class="outline-text-3" id="text-org8119ffd">
+<div id="outline-container-org5ba973f" class="outline-3">
+<h3 id="org5ba973f">Introduction</h3>
+<div class="outline-text-3" id="text-org5ba973f">
 <p>
 I cannot give a comprehensive overview of the Mass here, since many works have
 been written over two millenia about this. Instead, I will attempt to give my
 understanding of the Mass to provide an overview for beginners.
 </p>
 
-<div class="note" id="org9648f2a">
+<div class="note" id="orgce0840b">
 <p>
 <b>The Mass is Mind-blowing</b>
 </p>
@@ -3227,7 +3437,7 @@ contact with Him who is both our Origin and our Destination.
 
 </div>
 
-<div class="note" id="orgce799c6">
+<div class="note" id="org60a27ea">
 <p>
 <b>Practical Advice: Attire for Mass</b>
 </p>
@@ -3247,9 +3457,9 @@ Fr. Sebastian Walshe discusses what <b>not</b> to wear to Mass, and more importa
 </div>
 </div>
 </div>
-<div id="outline-container-orgc64d286" class="outline-3">
-<h3 id="orgc64d286">An Interpretive Lens: the Eucharist</h3>
-<div class="outline-text-3" id="text-orgc64d286">
+<div id="outline-container-org3113af8" class="outline-3">
+<h3 id="org3113af8">An Interpretive Lens: the Eucharist</h3>
+<div class="outline-text-3" id="text-org3113af8">
 <p>
 Understanding the Eucharist&#x2013;that is, the elements of Communion&#x2013;is perhaps the
 most important key to understanding the Catholic Mass and the Catholic
@@ -3262,7 +3472,7 @@ the Russian Orthodox, etc.
 </p>
 
 
-<div id="org22bab03" class="figure">
+<div id="orgdc3ee49" class="figure">
 <p><img src="./img/holy-eucharist-992x480_jpg_1200x.webp.jpeg" alt="holy-eucharist-992x480_jpg_1200x.webp.jpeg" width="640px" />
 </p>
 <p><span class="figure-number">Figure 3: </span>Catholics and generally all ancient apostolic Christians sects founded prior to the Protestant Reformation accept the teaching that the Eucharist (the elements of Communion) truly are the flesh and blood of Christ. This teaching is derived from the teachings of Jesus (<a href="https://www.biblegateway.com/passage/?search=John%206%3A22-71&amp;version=RSVCE">John 6:22-71 RSVCE</a>, the writings of St. Paul, the earliest believers&#x2013;such as St. Ignatius of Antioch, a student of John the Evangelist (<a href="https://www.newadvent.org/fathers/0109.htm">Epistle to the Smyrnaeans</a>, ch. 6-7), and numerous <a href="https://www.churchfathers.org/the-real-presence">church fathers</a>. Additionally, several Protestant founders such as <a href="https://www.detroitcatholic.com/voices/luther-s-defense-of-the-real-presence-in-the-eucharist">Martin Luther</a>, John Calvin, and others upheld the teaching of the Real Presence of Christ in the Eucharist.</p>
@@ -3324,9 +3534,9 @@ Moses hid his face, for he was afraid to look upon God.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org5467e69" class="outline-3">
-<h3 id="org5467e69">The Mass as an Intimate Dance with God</h3>
-<div class="outline-text-3" id="text-org5467e69">
+<div id="outline-container-orgd2b089a" class="outline-3">
+<h3 id="orgd2b089a">The Mass as an Intimate Dance with God</h3>
+<div class="outline-text-3" id="text-orgd2b089a">
 <p>
 Because of the Real Presence of Jesus in the Eucharist, the Mass provides a real
 and intimate way for us to have contact with our Lord. I like to think of it as
@@ -3352,9 +3562,9 @@ give ourselves fully and compeletly to Christ, with a commitment to obey Him.
 We expand further on these two parts of the Mass.
 </p>
 </div>
-<div id="outline-container-org3e81ea0" class="outline-4">
-<h4 id="org3e81ea0">The Liturgy of the Word</h4>
-<div class="outline-text-4" id="text-org3e81ea0">
+<div id="outline-container-orgeeb0f02" class="outline-4">
+<h4 id="orgeeb0f02">The Liturgy of the Word</h4>
+<div class="outline-text-4" id="text-orgeeb0f02">
 <p>
 The Liturgy of the Word  contains the introductory rites and readings of
 Scripture. It culminates with a reading from the Gospel, for which we stand in
@@ -3368,7 +3578,7 @@ a profession of the Nicene creed. This completes the divine call in the Liturgy
 of the Word.
 </p>
 
-<div class="note" id="orga3f0c8a">
+<div class="note" id="org8ae487e">
 <p>
 <b>The Word of God</b>
 </p>
@@ -3412,9 +3622,9 @@ previous subject, the λόγος of God.
 </div>
 </div>
 </div>
-<div id="outline-container-orge5ef1b6" class="outline-4">
-<h4 id="orge5ef1b6">The Liturgy of the Eucharist</h4>
-<div class="outline-text-4" id="text-orge5ef1b6">
+<div id="outline-container-orgce1cdf9" class="outline-4">
+<h4 id="orgce1cdf9">The Liturgy of the Eucharist</h4>
+<div class="outline-text-4" id="text-orgce1cdf9">
 <p>
 After the homily, we transition to the liturgy of the Eucharist. The climax of
 the liturgy of the Eucharist is when the priest consecrates the bread and wine,
@@ -3477,7 +3687,7 @@ He himself gives us.
 blessing, and dismiss the Mass with the words, "Mass is ended. Go in peace."</li>
 </ol>
 
-<div class="note" id="org7e6dba1">
+<div class="note" id="org4a8d46e">
 <p>
 <b>What Happens When I Eat the Eucharist?</b>
 </p>
@@ -3494,9 +3704,9 @@ https://youtu.be/2taZcgcQ4JA?si=kYoeRfdt3D8nNyrT
 </div>
 </div>
 </div>
-<div id="outline-container-orgf39c9f5" class="outline-3">
-<h3 id="orgf39c9f5">The Mass as Two-fold a Sacrifice</h3>
-<div class="outline-text-3" id="text-orgf39c9f5">
+<div id="outline-container-orgd3cbd62" class="outline-3">
+<h3 id="orgd3cbd62">The Mass as Two-fold a Sacrifice</h3>
+<div class="outline-text-3" id="text-orgd3cbd62">
 <p>
 The Catholic teaching is that the Mass is a holy sacrifice. Actually, it is
 two-fold. One sacrifice is by the priest, who sacrifices the Body and Blood of Jesus to God the Father on
@@ -3506,13 +3716,13 @@ present their bodies to God as a living offering, in accordance with <a href="ht
 </p>
 </div>
 </div>
-<div id="outline-container-org8c77bcf" class="outline-3">
-<h3 id="org8c77bcf">Special Seasons, Masses and Liturgies</h3>
-<div class="outline-text-3" id="text-org8c77bcf">
+<div id="outline-container-orgc33a8cf" class="outline-3">
+<h3 id="orgc33a8cf">Special Seasons, Masses and Liturgies</h3>
+<div class="outline-text-3" id="text-orgc33a8cf">
 </div>
-<div id="outline-container-org32651be" class="outline-4">
-<h4 id="org32651be">Lent</h4>
-<div class="outline-text-4" id="text-org32651be">
+<div id="outline-container-org2492488" class="outline-4">
+<h4 id="org2492488">Lent</h4>
+<div class="outline-text-4" id="text-org2492488">
 <p>
 Lent is a season of preparation for the season of Easter. The point of lent is
 to grow closer to Jesus Christ, to look more like Him by the time we enter into
@@ -3532,9 +3742,9 @@ program <a href="https://christistheanswer.substack.com/p/christ-is-the-answer-m
 </ol>
 </div>
 </div>
-<div id="outline-container-org968ce29" class="outline-4">
-<h4 id="org968ce29">The Easter Triduum</h4>
-<div class="outline-text-4" id="text-org968ce29">
+<div id="outline-container-org215729a" class="outline-4">
+<h4 id="org215729a">The Easter Triduum</h4>
+<div class="outline-text-4" id="text-org215729a">
 <p>
 The Easter Triduum (Latin for "three days") is an incredibly immersive and
 engaging experience of Christ's death, burial, and resurrection. These three
@@ -3546,10 +3756,10 @@ anticipation, triumph, and joy.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org96ca6e9"></a>Holy Thursday: The Mass that doesn't End<br />
-<div class="outline-text-5" id="text-org96ca6e9">
+<li><a id="orga945985"></a>Holy Thursday: The Mass that doesn't End<br />
+<div class="outline-text-5" id="text-orga945985">
 
-<div id="orgb0a4bd9" class="figure">
+<div id="org75244e0" class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg" alt="The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg" width="640px" />
 </p>
 <p><span class="figure-number">Figure 4: </span>This is Leonardo Davinci's <i>The Last Supper</i>. Source: <a href="https://en.wikipedia.org/wiki/The_Last_Supper_%28Leonardo%29">wikipedia</a>.</p>
@@ -3576,10 +3786,10 @@ It is a tradition for parishes to keep their altar of repose open until midnight
 </p>
 </div>
 </li>
-<li><a id="org83f985b"></a>Good Friday: the Solemn Liturgy of the Lord's Passion<br />
-<div class="outline-text-5" id="text-org83f985b">
+<li><a id="orgfe0fc74"></a>Good Friday: the Solemn Liturgy of the Lord's Passion<br />
+<div class="outline-text-5" id="text-orgfe0fc74">
 
-<div id="orgc49f478" class="figure">
+<div id="orgfd30a54" class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Isenheim_Altarpiece_%E2%80%94_FIRST_OPENING.jpg" alt="Isenheim_Altarpiece_%E2%80%94_FIRST_OPENING.jpg" width="480px" />
 </p>
 <p><span class="figure-number">Figure 5: </span>This is the <a href="https://en.wikipedia.org/wiki/Isenheim_Altarpiece">Altarpiece of Isenheim</a>.</p>
@@ -3599,10 +3809,10 @@ the Eucharist.
 </p>
 </div>
 </li>
-<li><a id="org5a163ac"></a>Holy Saturday: the Easter Vigil Mass<br />
-<div class="outline-text-5" id="text-org5a163ac">
+<li><a id="org44f7093"></a>Holy Saturday: the Easter Vigil Mass<br />
+<div class="outline-text-5" id="text-org44f7093">
 
-<div id="orge0cba6f" class="figure">
+<div id="orgc39440b" class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Paolo_Veronese_-_The_Resurrection_of_Christ_-_WGA24817.jpg" alt="Paolo_Veronese_-_The_Resurrection_of_Christ_-_WGA24817.jpg" width="360px" />
 </p>
 <p><span class="figure-number">Figure 6: </span>This is the <i>Resurrection of Christ</i> by Paolo Veronese.</p>
@@ -3623,7 +3833,7 @@ then full lighting to reflect the transition from the Old Testament to the New
 Testament.
 </p>
 
-<div class="note" id="org017ad7b">
+<div class="note" id="org645095b">
 <p>
 
 </p>
@@ -3703,9 +3913,9 @@ drives out hatred, fosters concord, and brings down the mighty.
 </li>
 </ul>
 </div>
-<div id="outline-container-orgaed6eaa" class="outline-4">
-<h4 id="orgaed6eaa">The Octave of Easter</h4>
-<div class="outline-text-4" id="text-orgaed6eaa">
+<div id="outline-container-org8a9f60c" class="outline-4">
+<h4 id="org8a9f60c">The Octave of Easter</h4>
+<div class="outline-text-4" id="text-org8a9f60c">
 <p>
 Easter is so grand and significant in Christian worship that a full octave
 (eight days starting on Easter Sunday) are allotted to observing its
@@ -3713,9 +3923,9 @@ significance.
 </p>
 </div>
 </div>
-<div id="outline-container-orgbe29723" class="outline-4">
-<h4 id="orgbe29723">Eastertide</h4>
-<div class="outline-text-4" id="text-orgbe29723">
+<div id="outline-container-orge2d294c" class="outline-4">
+<h4 id="orge2d294c">Eastertide</h4>
+<div class="outline-text-4" id="text-orge2d294c">
 <p>
 Even after the Octave of Easter draws to a close, we remain in the Easter
 Season, or Eastertide. This season of joy continues until the day of Pentecost.
@@ -3728,7 +3938,7 @@ Season, or Eastertide. This season of joy continues until the day of Pentecost.
 <h2 id="eucharist">The Eucharist</h2>
 <div class="outline-text-2" id="text-eucharist">
 
-<div id="org9c04808" class="figure">
+<div id="org4981a75" class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg" alt="%C3%9Altima_Cena_-_Juan_de_Juanes.jpg" width="640px" />
 </p>
 <p><span class="figure-number">Figure 7: </span>The Last Supper is signifcant, because this was the first Mass, the first time Jesus offered His Body and Blood under the disguise of bread and wine. Of this event, St. Augustine writes, "He held Himself in His Hands." This rendition of the Last Supper is by Juan de Juanes. Source: <a href="https://en.m.wikipedia.org/wiki/File:%C3%9Altima_Cena_-_Juan_de_Juanes.jpg">Wikipedia</a>.</p>
@@ -3761,7 +3971,7 @@ Real Presence is rejected, and communion is simply a rememberance of Christ's
 passion.
 </p>
 
-<div class="note" id="org34f7fab">
+<div class="note" id="orgf850157">
 <p>
 <b>The Real Presence and Transubstantiation</b>
 </p>
@@ -3830,9 +4040,9 @@ why it arose as compromize between the Lutheran view and the Zwinglian view.
 
 </div>
 </div>
-<div id="outline-container-org859e9c3" class="outline-3">
-<h3 id="org859e9c3">Scriptural Basis for the Real Presence</h3>
-<div class="outline-text-3" id="text-org859e9c3">
+<div id="outline-container-orga0ebaa8" class="outline-3">
+<h3 id="orga0ebaa8">Scriptural Basis for the Real Presence</h3>
+<div class="outline-text-3" id="text-orga0ebaa8">
 <p>
 Belief in the Real Presence comes from the teachings of Jesus Himself, with
 confirmation by St. Paul. Starting with Jesus, He teaches in <a href="https://www.biblegateway.com/passage/?search=John%206%3A22-69&amp;version=ESV">John 6:22-69 (ESV)</a>
@@ -3867,7 +4077,7 @@ shed for many for the remission of sins.
 </p>
 </blockquote>
 
-<div class="note" id="org30f85db">
+<div class="note" id="org8a1f31c">
 <p>
 <b>Figurative, or Literal? Does it even matter?</b>
 </p>
@@ -3933,7 +4143,7 @@ Lord’s death till He comes.
 </p>
 </blockquote>
 
-<div class="note" id="org75adb57">
+<div class="note" id="org0459448">
 <p>
 <b>When Interpretations Conflict</b>
 </p>
@@ -3990,19 +4200,19 @@ basis for understanding the Eucharist.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6yXUz5awVLU?si=NOmahyDue9VXFtAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org3f63540" class="outline-3">
-<h3 id="org3f63540">Testimony of the Church Fathers</h3>
-<div class="outline-text-3" id="text-org3f63540">
+<div id="outline-container-org00fad13" class="outline-3">
+<h3 id="org00fad13">Testimony of the Church Fathers</h3>
+<div class="outline-text-3" id="text-org00fad13">
 <p>
 After the Scriptures, we have the founders of the Church who uphold the Real
 Presence of Christ.
 </p>
 </div>
-<div id="outline-container-org59b94ec" class="outline-4">
-<h4 id="org59b94ec">The Twelve Apostles</h4>
-<div class="outline-text-4" id="text-org59b94ec">
+<div id="outline-container-org7d2fa93" class="outline-4">
+<h4 id="org7d2fa93">The Twelve Apostles</h4>
+<div class="outline-text-4" id="text-org7d2fa93">
 
-<div id="org2b44d76" class="figure">
+<div id="orge1bea98" class="figure">
 <p><img src="https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200827210856_5f480fd6c2bf74d8ccdfe187jpeg.webp" alt="20200827210856_5f480fd6c2bf74d8ccdfe187jpeg.webp" width="640px" />
 </p>
 <p><span class="figure-number">Figure 8: </span>An icon of the Twelve Apostles. Source: <a href="https://www.ncregister.com/blog/where-are-the-12-apostles-now">National Catholic Register</a>.</p>
@@ -4024,11 +4234,11 @@ said, Give not that which is holy to the dogs.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgb494dab" class="outline-4">
-<h4 id="orgb494dab">St. Ignatius of Antioch</h4>
-<div class="outline-text-4" id="text-orgb494dab">
+<div id="outline-container-orgc537378" class="outline-4">
+<h4 id="orgc537378">St. Ignatius of Antioch</h4>
+<div class="outline-text-4" id="text-orgc537378">
 
-<div id="org388555b" class="figure">
+<div id="org2ddbd9c" class="figure">
 <p><img src="https://www.orthodoxroad.com/wp-content/uploads/2013/12/Ignatius-of-Antioch.jpg" alt="Ignatius-of-Antioch.jpg" width="300px" />
 </p>
 <p><span class="figure-number">Figure 9: </span>Ignatius of Antioch is an important voice who helps us understand St. John's intent in writing John 6. Ignatius was a student of John himself. His view can clarify for us whether John meant for us to take John 6 in a literal way or a figurative way. Credit: <a href="https://www.orthodoxroad.com/voices-from-the-past/st-ignatius-of-antioch/">orthodoxroad.com</a></p>
@@ -4088,11 +4298,11 @@ of his teacher, and within a few decades of the time when St. John wrote the
 </p>
 </div>
 </div>
-<div id="outline-container-org7071783" class="outline-4">
-<h4 id="org7071783">St. Justin Martyr</h4>
-<div class="outline-text-4" id="text-org7071783">
+<div id="outline-container-orgcfde9e0" class="outline-4">
+<h4 id="orgcfde9e0">St. Justin Martyr</h4>
+<div class="outline-text-4" id="text-orgcfde9e0">
 
-<div id="org8f40b2e" class="figure">
+<div id="org1a3d8d9" class="figure">
 <p><img src="https://www.christianitytoday.com/wp-content/uploads/2008/08/67238.jpg" alt="67238.jpg" width="480px" />
 </p>
 <p><span class="figure-number">Figure 10: </span>St. Justyn Martyr (100-165 AD) is one of the earliest Christian writers. He was born within 1-2 decades after the death of John the Evangelist. Image credit: <a href="https://www.christianitytoday.com/2008/08/justin-martyr/">Christianity Today</a>.</p>
@@ -4131,9 +4341,9 @@ Christ Himself.
 </p>
 </div>
 </div>
-<div id="outline-container-orgd46447e" class="outline-4">
-<h4 id="orgd46447e">Even More Church Fathers</h4>
-<div class="outline-text-4" id="text-orgd46447e">
+<div id="outline-container-orgadcb8b0" class="outline-4">
+<h4 id="orgadcb8b0">Even More Church Fathers</h4>
+<div class="outline-text-4" id="text-orgadcb8b0">
 <ol class="org-ol">
 <li>See <a href="https://media.ascensionpress.com/2018/03/08/heres-the-early-church-fathers-upholding-transubstantiation-in-their-own-words/">Early Church Fathers Uphold Transubstantiation in Their Own Words</a> for
 more on the views of the early church and the Eucharist.</li>
@@ -4141,9 +4351,9 @@ more on the views of the early church and the Eucharist.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org6ad7d57" class="outline-3">
-<h3 id="org6ad7d57">Testimony of the Enemies of Christ</h3>
-<div class="outline-text-3" id="text-org6ad7d57">
+<div id="outline-container-org83e7c88" class="outline-3">
+<h3 id="org83e7c88">Testimony of the Enemies of Christ</h3>
+<div class="outline-text-3" id="text-org83e7c88">
 <p>
 Satanists hate Christ, and they steal the consecrated Eucharist from Catholic
 Churches because they, too, believe in the Real Presence of Christ in the
@@ -4165,13 +4375,13 @@ true.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJXOFHk7yrk?si=OYRJdAlV_stygTTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org37c15bd" class="outline-3">
-<h3 id="org37c15bd"><span class="todo TODO">TODO</span> The Protestant Reformers and the Real Presence</h3>
+<div id="outline-container-orgb7155fd" class="outline-3">
+<h3 id="orgb7155fd"><span class="todo TODO">TODO</span> The Protestant Reformers and the Real Presence</h3>
 </div>
 
-<div id="outline-container-orgcb54a15" class="outline-3">
-<h3 id="orgcb54a15">Eucharistic Adoration</h3>
-<div class="outline-text-3" id="text-orgcb54a15">
+<div id="outline-container-orgc3103b4" class="outline-3">
+<h3 id="orgc3103b4">Eucharistic Adoration</h3>
+<div class="outline-text-3" id="text-orgc3103b4">
 <p>
 In Catholicism, we take the Real Presence and transubstantiation to its logical
 conclusion. If the consecrated Eucharist is the Body, Blood, Soul and Divinity
@@ -4217,7 +4427,7 @@ life:
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8awC9VyncM?si=ZsCpRkIqAc_8PQVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="note" id="org83fa501">
+<div class="note" id="orga2ecc5e">
 <details><summary><b>Find Adoration Near You</b></summary>
 
 <p>
@@ -4237,13 +4447,13 @@ parishes near you.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orga680fa1" class="outline-3">
-<h3 id="orga680fa1">Links</h3>
-<div class="outline-text-3" id="text-orga680fa1">
+<div id="outline-container-org1ca970d" class="outline-3">
+<h3 id="org1ca970d">Links</h3>
+<div class="outline-text-3" id="text-org1ca970d">
 </div>
-<div id="outline-container-orge452bcb" class="outline-4">
-<h4 id="orge452bcb">Videos</h4>
-<div class="outline-text-4" id="text-orge452bcb">
+<div id="outline-container-orgf6c6276" class="outline-4">
+<h4 id="orgf6c6276">Videos</h4>
+<div class="outline-text-4" id="text-orgf6c6276">
 <ol class="org-ol">
 <li><p>
 In April 2025, Cliff and Stuart Knechtle had a discussion on the early Church
@@ -4258,9 +4468,9 @@ doctrine.</li>
 </ol>
 </div>
 </div>
-<div id="outline-container-org2c9ad9a" class="outline-4">
-<h4 id="org2c9ad9a">Catechism of the Catholic Church</h4>
-<div class="outline-text-4" id="text-org2c9ad9a">
+<div id="outline-container-org5aedbc5" class="outline-4">
+<h4 id="org5aedbc5">Catechism of the Catholic Church</h4>
+<div class="outline-text-4" id="text-org5aedbc5">
 <ol class="org-ol">
 <li>Read more about the <a href="https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_3/v_the_sacramental_sacrifice_thanksgiving,_memorial,_presence.html">the Eucharist</a> from the Catechism, which summarizes
 centuries of theology and philosophy of the Eucharist.</li>
@@ -4341,7 +4551,7 @@ does not deify them, but simply makes a request of them. What request is that?
 Their intercession.
 </p>
 
-<div class="note" id="org53141a3">
+<div class="note" id="org7028347">
 <p>
 <b>Modern and Old English Usage of "Pray"</b>
 </p>
@@ -4439,7 +4649,7 @@ possilbe to say that Jesus Christ is eternal in His divine nature, although His
 human nature had a beginning and thus is not eternal.
 </p>
 
-<div class="note" id="org88a8d4c">
+<div class="note" id="org01d22f6">
 <p>
 <b>More about God and His Nature</b>
 </p>
@@ -4491,9 +4701,9 @@ latria, but an extreme form of dulia, called hyperdulia.
 </div>
 </div>
 </div>
-<div id="outline-container-org5547c0b" class="outline-3">
-<h3 id="org5547c0b"><span class="todo TODO">TODO</span> The Teachings and Traditions of the Catholic Church Cannot be Trusted</h3>
-<div class="outline-text-3" id="text-org5547c0b">
+<div id="outline-container-orgb225764" class="outline-3">
+<h3 id="orgb225764"><span class="todo TODO">TODO</span> The Teachings and Traditions of the Catholic Church Cannot be Trusted</h3>
+<div class="outline-text-3" id="text-orgb225764">
 <p>
 The burden of proof is on him or her who claims this. They must show which false
 teachings were invented by the Catholic Church, and when.
@@ -4567,13 +4777,13 @@ books to be called the Bible.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ5-NEHMnmU?si=nHmUrz7aSLjstsYu&amp;start=2808" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org21046e3" class="outline-3">
-<h3 id="org21046e3"><span class="todo TODO">TODO</span> The Catholic Church is Corrupt</h3>
+<div id="outline-container-org3d59ad9" class="outline-3">
+<h3 id="org3d59ad9"><span class="todo TODO">TODO</span> The Catholic Church is Corrupt</h3>
 </div>
 
-<div id="outline-container-orgf01afec" class="outline-3">
-<h3 id="orgf01afec"><span class="todo TODO">TODO</span> The Catholic Church has Changed Doctrines</h3>
-<div class="outline-text-3" id="text-orgf01afec">
+<div id="outline-container-orga21d808" class="outline-3">
+<h3 id="orga21d808"><span class="todo TODO">TODO</span> The Catholic Church has Changed Doctrines</h3>
+<div class="outline-text-3" id="text-orga21d808">
 <p>
 Some say that the way the Catholic Church has changed doctrines indicates that
 this is not the original church that Christ founded. They have changed&#x2013;and in
@@ -4592,7 +4802,7 @@ Church has been unfaithful to the original teachings of the Scripture, and
 therefore has invalidated Herself as the Church which Christ has founded.
 </p>
 
-<div class="note" id="org74f7af8">
+<div class="note" id="org3d75e8f">
 <p>
 <b>A Brief History of Confession in Catholicism</b>
 </p>
@@ -4748,7 +4958,7 @@ For more information, a more authoritative discussion may be found in the
 article <a href="https://www.catholic.com/tract/celibacy-and-the-priesthood">Celibacy and the Priesthood</a>.
 </p></li>
 </ol>
-<div class="note" id="orge1d194e">
+<div class="note" id="org0d62dd6">
 <a id="doctrinal-development"><b>What Catholic Teachings and Practices Can Change Over Time?</b></a>
 <details>
 <summary>Read more ...</summary>
@@ -4916,9 +5126,9 @@ he cites pages 83-87 from <a href="https://www.amazon.com/Born-Fundamentalist-Ag
 </div>
 </div>
 </div>
-<div id="outline-container-org6976f29" class="outline-3">
-<h3 id="org6976f29">The Catholic Church as is a Bloated, Unscriptural Bureaucracy</h3>
-<div class="outline-text-3" id="text-org6976f29">
+<div id="outline-container-org11ed049" class="outline-3">
+<h3 id="org11ed049">The Catholic Church as is a Bloated, Unscriptural Bureaucracy</h3>
+<div class="outline-text-3" id="text-org11ed049">
 <p>
 Some critics of the Catholic Church claim that it is an organization that looks
 unlike the early church of the Bible. It is a behemoth of an organization with
@@ -4937,7 +5147,7 @@ that a belief or practice must be found in the Bible.</li>
 Bible. See the discussion box below for more details.</li>
 </ol>
 
-<div class="note" id="orga4a02b5">
+<div class="note" id="org7325319">
 <p>
 <b>Scriptural Origins of Ecclesial Structure</b>
 </p>
@@ -5067,18 +5277,18 @@ Dr. David Anders discusses the Biblical and Traditional origins of the Papacy.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4gtbMuZT8nM?si=zTfJRibX6GAgzfKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org24f56fc" class="outline-3">
-<h3 id="org24f56fc">I Can't Agree with Papal Infallibility</h3>
-<div class="outline-text-3" id="text-org24f56fc">
+<div id="outline-container-org5149063" class="outline-3">
+<h3 id="org5149063">I Can't Agree with Papal Infallibility</h3>
+<div class="outline-text-3" id="text-org5149063">
 <p>
 Dr. Anders takes a call from Pete about papal infallibility and speaking <i>ex cathedra</i>.
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=EFHULnFkhIXZYeuz&amp;start=327" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-<div id="outline-container-org458ce72" class="outline-4">
-<h4 id="org458ce72"><span class="todo TODO">TODO</span> The Sale of Indulgences Proves that Papal Infallibility is False</h4>
-<div class="outline-text-4" id="text-org458ce72">
+<div id="outline-container-org931032f" class="outline-4">
+<h4 id="org931032f"><span class="todo TODO">TODO</span> The Sale of Indulgences Proves that Papal Infallibility is False</h4>
+<div class="outline-text-4" id="text-org931032f">
 <p>
 The argument here might be as follows:
 </p>
@@ -5164,15 +5374,15 @@ adultery again.
 </div>
 </div>
 </div>
-<div id="outline-container-org99fcaae" class="outline-3">
-<h3 id="org99fcaae">What About That Wierd Book of Tobias? Is that Even Real?</h3>
-<div class="outline-text-3" id="text-org99fcaae">
+<div id="outline-container-org86ce1e9" class="outline-3">
+<h3 id="org86ce1e9">What About That Wierd Book of Tobias? Is that Even Real?</h3>
+<div class="outline-text-3" id="text-org86ce1e9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=2XKRzLIa3GTQe6uC&amp;start=671" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org7bf6e0a" class="outline-3">
-<h3 id="org7bf6e0a">I Disagree with the Catholic Rules about Divorce and Remarriage</h3>
-<div class="outline-text-3" id="text-org7bf6e0a">
+<div id="outline-container-orgbe20a89" class="outline-3">
+<h3 id="orgbe20a89">I Disagree with the Catholic Rules about Divorce and Remarriage</h3>
+<div class="outline-text-3" id="text-orgbe20a89">
 <p>
 Dr. David Anders fields a question about the Catholic regulations on divorce and
 remarriage. Does Jesus allow for divorce and remarriage in the case of
@@ -5187,9 +5397,9 @@ St. Paul recognizes the principle of annulment.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzZxBXXtNzc?si=CWgNj0jJ5FzWZI16&amp;start=825" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orgfdd7f82" class="outline-3">
-<h3 id="orgfdd7f82">The Distinction Between Venial and Mortal Sin</h3>
-<div class="outline-text-3" id="text-orgfdd7f82">
+<div id="outline-container-orgff4e90a" class="outline-3">
+<h3 id="orgff4e90a">The Distinction Between Venial and Mortal Sin</h3>
+<div class="outline-text-3" id="text-orgff4e90a">
 <p>
 Carlo Broussard takes a call about the distinction between venial and mortal sin.
 </p>
@@ -5202,9 +5412,9 @@ Alan also asks a follow-on question about mortal sin:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JxT9sRdVngE?si=MPrxOhu3btUEu16n&amp;start=4536" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org0faf259" class="outline-3">
-<h3 id="org0faf259">I'm not Religous, I'm a Christian</h3>
-<div class="outline-text-3" id="text-org0faf259">
+<div id="outline-container-orgd0e32a7" class="outline-3">
+<h3 id="orgd0e32a7">I'm not Religous, I'm a Christian</h3>
+<div class="outline-text-3" id="text-orgd0e32a7">
 <p>
 This is to say I don't need the Cahtolic Church&#x2013;or any other church, for that
 matter.
@@ -5213,9 +5423,9 @@ matter.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ueFq_Yb6Vnk?si=lLdCyHKgEDMRHRzl&amp;start=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org9b2fcf2" class="outline-3">
-<h3 id="org9b2fcf2">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org9b2fcf2">
+<div id="outline-container-orgab2648e" class="outline-3">
+<h3 id="orgab2648e">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgab2648e">
 <p>
 Trent Horn addresses several critiques of Catholicism by John Macarthur.
 </p>
@@ -5250,16 +5460,16 @@ Personally, I have a love and admire Mary for three principal reasons:
 <li>She is an example</li>
 </ol>
 </div>
-<div id="outline-container-org317538f" class="outline-3">
-<h3 id="org317538f">Mary as Mother</h3>
-<div class="outline-text-3" id="text-org317538f">
+<div id="outline-container-org96df003" class="outline-3">
+<h3 id="org96df003">Mary as Mother</h3>
+<div class="outline-text-3" id="text-org96df003">
 <p>
 The Bible implicitly and explicitly tells us that Mary is the mother for all believers.
 </p>
 </div>
-<div id="outline-container-org94418b1" class="outline-4">
-<h4 id="org94418b1"><span class="todo TODO">TODO</span> Implicit Biblical Evidence</h4>
-<div class="outline-text-4" id="text-org94418b1">
+<div id="outline-container-org56ec94d" class="outline-4">
+<h4 id="org56ec94d"><span class="todo TODO">TODO</span> Implicit Biblical Evidence</h4>
+<div class="outline-text-4" id="text-org56ec94d">
 <p>
 Implicit evidence of Mary's motherhood comes from the Gospel of John.
 </p>
@@ -5273,9 +5483,9 @@ mother (John 19:26-27)
 </p>
 </div>
 </div>
-<div id="outline-container-orgd3dc2a2" class="outline-4">
-<h4 id="orgd3dc2a2">Explicit Biblical Origins of St. Mary as Mother</h4>
-<div class="outline-text-4" id="text-orgd3dc2a2">
+<div id="outline-container-orgdaacd77" class="outline-4">
+<h4 id="orgdaacd77">Explicit Biblical Origins of St. Mary as Mother</h4>
+<div class="outline-text-4" id="text-orgdaacd77">
 <p>
 The explicit Scriptural revelation of Mary's motherhood comes from
 Revelation 12. Here, John, who also wrote the Gospel of John, has a vision of a
@@ -5407,11 +5617,11 @@ of Heaven (and indeed, the King of the Universe), St. Mary is the Queen of Heave
 </div>
 </div>
 </div>
-<div id="outline-container-orge196bbd" class="outline-3">
-<h3 id="orge196bbd">Mary as an Instigator of Grace</h3>
-<div class="outline-text-3" id="text-orge196bbd">
+<div id="outline-container-orge67f6ab" class="outline-3">
+<h3 id="orge67f6ab">Mary as an Instigator of Grace</h3>
+<div class="outline-text-3" id="text-orge67f6ab">
 
-<div id="org537e6a3" class="figure">
+<div id="org01472d7" class="figure">
 <p><img src="https://www.wga.hu/detail/a/angelico/09/corridor/annunci.jpg" alt="annunci.jpg" />
 </p>
 <p><span class="figure-number">Figure 11: </span>The Annunciation is an important event in salvation history. St. Gabriel presented God's will to St. Mary, and she accepted this. This event marks the Incarnation of Christ, and it is celebrated in the Catholic Church nine months prior to Christmas, annually on March 25.</p>
@@ -5448,7 +5658,7 @@ antithesis of Eve's role in Adam's sin and the Fall. This is described in more
 detail below.
 </p>
 
-<div class="note" id="org306941d">
+<div class="note" id="orgbadee35">
 <p>
 <b>Mary as the New Eve</b>
 </p>
@@ -5457,7 +5667,7 @@ detail below.
 <summary>Read more about this ...</summary>
 
 
-<div id="org4745bbe" class="figure">
+<div id="org5976aae" class="figure">
 <p><img src="https://www.churchpop.com/content/images/size/w1200/wordpress/2014/08/113.jpg" alt="113.jpg" width="480px" />
 </p>
 <p><span class="figure-number">Figure 12: </span>Mary is the antithesis of Eve. Whereas Eve fell prey to Satan through disobedience, Mary triumphed over him by her great fiat in response to God's will: "Let it be done unto your servant as you have said." Eve's action led to Adam's sin, the fall of man, and spiritual death. Mary's obedience led to the incarnation of Christ, His holy life, death, and resurrection, purchasing for us redemption and eternal life. Source: <a href="https://www.churchpop.com/7-church-fathers-mary-new-eve/">churchpop.com</a></p>
@@ -5783,13 +5993,13 @@ ministry in a public way.
 </p>
 </div>
 </div>
-<div id="outline-container-orgeb13818" class="outline-3">
-<h3 id="orgeb13818"><span class="todo TODO">TODO</span> St. Mary as an Intercessor</h3>
+<div id="outline-container-orgb7c1663" class="outline-3">
+<h3 id="orgb7c1663"><span class="todo TODO">TODO</span> St. Mary as an Intercessor</h3>
 </div>
 
-<div id="outline-container-orgf3d6bf1" class="outline-3">
-<h3 id="orgf3d6bf1"><span class="todo TODO">TODO</span> St. Mary as an Example</h3>
-<div class="outline-text-3" id="text-orgf3d6bf1">
+<div id="outline-container-orgbe9e15e" class="outline-3">
+<h3 id="orgbe9e15e"><span class="todo TODO">TODO</span> St. Mary as an Example</h3>
+<div class="outline-text-3" id="text-orgbe9e15e">
 </div>
 </div>
 </div>
@@ -5806,9 +6016,9 @@ the womb are the most innocent among us, and they are the most vulnerable. To
 kill these defenseless people is always wrong.
 </p>
 </div>
-<div id="outline-container-orgb2624e2" class="outline-3">
-<h3 id="orgb2624e2">Are there Valid Arguments for Abortion?</h3>
-<div class="outline-text-3" id="text-orgb2624e2">
+<div id="outline-container-org9bc2889" class="outline-3">
+<h3 id="org9bc2889">Are there Valid Arguments for Abortion?</h3>
+<div class="outline-text-3" id="text-org9bc2889">
 </div>
 <div id="outline-container-prolife-rape-incest" class="outline-4">
 <h4 id="prolife-rape-incest"><span class="todo TODO">TODO</span> Exceptions for Rape and Incest</h4>
@@ -5887,7 +6097,7 @@ and manipulate the narrative propagated by the US Government and the mainstream
 media?
 </p>
 
-<div class="note" id="orga6e23ae">
+<div class="note" id="orga60ffbe">
 <p>
 <b>Big Tech is Honest, Fair, and Balanced</b>
 </p>
@@ -5951,7 +6161,7 @@ Please see the <a href="https://www.usccb.org/resources/Women's%20Healt%20Infogr
 read <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://philpapers.org/rec/DICMID&amp;ved=2ahUKEwikm9XdoKGNAxXVHNAFHdkLOr0QFnoECBgQAQ&amp;usg=AOvVaw2r5YXsHJycORYB_h2ZFDbJ">this report</a>.
 </p>
 
-<div class="note" id="orge583043">
+<div class="note" id="orgf28fb48">
 <p>
 <b>A Maternal Sacrifice</b>
 </p>
@@ -6071,13 +6281,13 @@ can be used to justify any means, regardless of their moral implications.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org09376d9" class="outline-3">
-<h3 id="org09376d9">Competing Cultures: Live versus Death</h3>
-<div class="outline-text-3" id="text-org09376d9">
+<div id="outline-container-orgdde7572" class="outline-3">
+<h3 id="orgdde7572">Competing Cultures: Live versus Death</h3>
+<div class="outline-text-3" id="text-orgdde7572">
 </div>
-<div id="outline-container-orgf12ca82" class="outline-4">
-<h4 id="orgf12ca82">Birth Control, Abortion, and the Sexual Revolution</h4>
-<div class="outline-text-4" id="text-orgf12ca82">
+<div id="outline-container-orgfcfd714" class="outline-4">
+<h4 id="orgfcfd714">Birth Control, Abortion, and the Sexual Revolution</h4>
+<div class="outline-text-4" id="text-orgfcfd714">
 <p>
 The decadence and permissivity of today's sexually-permissive culture can be
 traced to the sexual revolution of the 1960s. The sexual revolution can be
@@ -6133,10 +6343,10 @@ respect for women. For more information on this, see also:
 </ol>
 </div>
 </div>
-<div id="outline-container-org7d3c7c2" class="outline-4">
-<h4 id="org7d3c7c2"><span class="todo TODO">TODO</span> Marriage and Family</h4>
-<div class="outline-text-4" id="text-org7d3c7c2">
-<div class="note" id="org2e29bcc">
+<div id="outline-container-orgb9de78c" class="outline-4">
+<h4 id="orgb9de78c"><span class="todo TODO">TODO</span> Marriage and Family</h4>
+<div class="outline-text-4" id="text-orgb9de78c">
+<div class="note" id="org243fc7f">
 <p>
 <b>Population Narratives: Overpopulation versus Implosion</b>
 </p>
@@ -6152,9 +6362,9 @@ respect for women. For more information on this, see also:
 </div>
 </div>
 </div>
-<div id="outline-container-org303c3c1" class="outline-2">
-<h2 id="org303c3c1">Resources</h2>
-<div class="outline-text-2" id="text-org303c3c1">
+<div id="outline-container-org2661097" class="outline-2">
+<h2 id="org2661097">Resources</h2>
+<div class="outline-text-2" id="text-org2661097">
 <p>
 Want to learn more?
 </p>
@@ -6164,15 +6374,15 @@ Free your mind and come along!
 </p>
 
 
-<div id="org489ae3c" class="figure">
+<div id="org293fca7" class="figure">
 <p><img src="./img/pill-choice.png" alt="pill-choice.png" width="640px" />
 </p>
 <p><span class="figure-number">Figure 13: </span>"You take the blue pill, the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes."</p>
 </div>
 </div>
-<div id="outline-container-orgc1fa458" class="outline-3">
-<h3 id="orgc1fa458">How to Go Deeper</h3>
-<div class="outline-text-3" id="text-orgc1fa458">
+<div id="outline-container-org52b37b5" class="outline-3">
+<h3 id="org52b37b5">How to Go Deeper</h3>
+<div class="outline-text-3" id="text-org52b37b5">
 <p>
 If you feel God's prompting to explore Catholicism, or if you simply want to
 learn more, you have several options.
@@ -6230,9 +6440,9 @@ of Christian Initiation for Adults (RCIA)</i>.
 </ol>
 </div>
 </div>
-<div id="outline-container-org0523058" class="outline-3">
-<h3 id="org0523058">What is Stopping You from Becoming Catholic? (Called to Communion)</h3>
-<div class="outline-text-3" id="text-org0523058">
+<div id="outline-container-org88da178" class="outline-3">
+<h3 id="org88da178">What is Stopping You from Becoming Catholic? (Called to Communion)</h3>
+<div class="outline-text-3" id="text-org88da178">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=UHBUulMLByPVEyVs&amp;list=PL9CQlldupc5-V0O8pdxElKJMjJmC7Hfdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6253,16 +6463,16 @@ gives a testimonial about how is faith was bolstered by a talk with Dr. Anders.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5tlsmFo0ho?si=CrH0ULIaAvFxRCDQ&amp;start=2624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org93eb7cd" class="outline-3">
-<h3 id="org93eb7cd">Catholic Radio</h3>
-<div class="outline-text-3" id="text-org93eb7cd">
+<div id="outline-container-org1b5655b" class="outline-3">
+<h3 id="org1b5655b">Catholic Radio</h3>
+<div class="outline-text-3" id="text-org1b5655b">
 <p>
 Catholic (talk) radio offers very interesting and engaging content.
 </p>
 </div>
-<div id="outline-container-org86061c8" class="outline-4">
-<h4 id="org86061c8">RED-C Catholic Radio</h4>
-<div class="outline-text-4" id="text-org86061c8">
+<div id="outline-container-orga7ffa98" class="outline-4">
+<h4 id="orga7ffa98">RED-C Catholic Radio</h4>
+<div class="outline-text-4" id="text-orga7ffa98">
 <p>
 RED-C Catholic Radio (<a href="https://redcradio.org">website</a>) is local to Waco, TX. They provide engaging
 call-in shows centered on the faith and modern culture.
@@ -6278,9 +6488,9 @@ Listening options:
 </ol>
 </div>
 </div>
-<div id="outline-container-orgc1f7a15" class="outline-4">
-<h4 id="orgc1f7a15">EWTN Radio and TV</h4>
-<div class="outline-text-4" id="text-orgc1f7a15">
+<div id="outline-container-org3d47e39" class="outline-4">
+<h4 id="org3d47e39">EWTN Radio and TV</h4>
+<div class="outline-text-4" id="text-org3d47e39">
 <p>
 EWTN offers solid Catholic teaching. You can <a href="https://www.ewtn.com/radio/listen-live">listen live</a> or through their app
 (<a href="https://apps.apple.com/us/app/ewtn/id569376490">Apple AppStore</a> or <a href="https://play.google.com/store/apps/details?id=com.ewtn.truthandlife&amp;hl=en_US">Google Play</a>). EWTN was founded by a spitfire of a nun,
@@ -6289,9 +6499,9 @@ in 2015.
 </p>
 </div>
 </div>
-<div id="outline-container-org3f2702d" class="outline-4">
-<h4 id="org3f2702d">Relevant Radio</h4>
-<div class="outline-text-4" id="text-org3f2702d">
+<div id="outline-container-org9040879" class="outline-4">
+<h4 id="org9040879">Relevant Radio</h4>
+<div class="outline-text-4" id="text-org9040879">
 <p>
 <a href="https://relevantradio.com">Relevant Radio</a> is a another great radio station. You can <a href="https://relevantradio.com/listen/stream-relevant-radio">listen live</a> or stream
 audio through the <a href="https://relevantradio.com/listen/get-the-app/">app</a>.
@@ -6299,9 +6509,43 @@ audio through the <a href="https://relevantradio.com/listen/get-the-app/">app</a
 </div>
 </div>
 </div>
-<div id="outline-container-orgd193fbd" class="outline-3">
-<h3 id="orgd193fbd">Catholic Answers</h3>
-<div class="outline-text-3" id="text-orgd193fbd">
+<div id="outline-container-orgdb93328" class="outline-3">
+<h3 id="orgdb93328">Called to Communion</h3>
+<div class="outline-text-3" id="text-orgdb93328">
+</div>
+<div id="outline-container-orgf4d1b64" class="outline-4">
+<h4 id="orgf4d1b64">What is the Object of Evangelization?</h4>
+<div class="outline-text-4" id="text-orgf4d1b64">
+<p>
+Dr. David Anders discusses Evangelization and how we can avoid being anxious about someone else's salvation.
+</p>
+<ul class="org-ul">
+<li>What is the objective of Evangelization?</li>
+<li>What about apologetics? People are drawn to arguments that confirm their prerational conceptions of what is true, beautiful, and good
+<ul class="org-ul">
+<li>A dissatisfaction with their present state is generally what leads someone into dialogue with Catholicism</li>
+<li>People with highly analytical personalities are more inclined to reason about their faith and turn to Catholicism</li>
+<li>An intrinsically attractive demonstration of lived faith is required</li>
+</ul></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f18pmmFYKqw?si=yjZrHwPWAeW1KdTE&amp;start=854" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>
+Dr. David Anders discusses being stuck between Protestantism and Catholicism
+because of his family. He was Presbyterian, but he didn't beleive their
+doctrines anymore. His wife didn't want him to become Catholic, so he stayed
+put, but he was spiritually miserable. In the follow-on question, he also
+discusses how the <a href="https://en.wikipedia.org/wiki/New_Perspective_on_Paul">New Perspectives on Paul</a> helped him to convert to Catholicism.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f18pmmFYKqw?si=zN9qmS72CZ41ptfG&amp;start=2100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+<div id="outline-container-org6992a95" class="outline-3">
+<h3 id="org6992a95">Catholic Answers</h3>
+<div class="outline-text-3" id="text-org6992a95">
 <p>
 <a href="https://www.catholic.com">Catholic Answers</a> is an apologetics website. They have a two-hour, phone-in
 conversation each weekday called <i>Catholic Answers Live</i> (<a href="https://www.youtube.com/@CA-Live">YouTube</a>), and they
@@ -6358,9 +6602,9 @@ This episode contains:
 </ul>
 </div>
 </div>
-<div id="outline-container-org63d6f81" class="outline-3">
-<h3 id="org63d6f81">The Coming Home Network</h3>
-<div class="outline-text-3" id="text-org63d6f81">
+<div id="outline-container-org12837c7" class="outline-3">
+<h3 id="org12837c7">The Coming Home Network</h3>
+<div class="outline-text-3" id="text-org12837c7">
 <p>
 The <a href="https://chnetwork.org/converts/">Coming Home Network</a> was established to help non-Catholic Christians, clergy
 and laity, discover the truth and beauty of Catholicism and to make the journey
@@ -6384,9 +6628,9 @@ various backgrounds.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0QdFFfQRSK0?si=hVJJs1T3YSSURdjN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org2c8bb1c" class="outline-3">
-<h3 id="org2c8bb1c">The Patrick Madrid Show</h3>
-<div class="outline-text-3" id="text-org2c8bb1c">
+<div id="outline-container-orga24cdf0" class="outline-3">
+<h3 id="orga24cdf0">The Patrick Madrid Show</h3>
+<div class="outline-text-3" id="text-orga24cdf0">
 <p>
 <a href="https://relevantradio.com/listen/our-shows/the-patrick-madrid-show/">The Patrick Madrid Show</a> is an excellent live, call-in radio show, in which
 Patrick Madrid takes phone calls about modern culture and Catholicism. Patrick
@@ -6395,9 +6639,9 @@ from 8:00 AM Central to 11:00 AM Central. Dialog is lively and witty.
 </p>
 </div>
 </div>
-<div id="outline-container-org5d16c0f" class="outline-3">
-<h3 id="org5d16c0f">The Catholicism Series (Bishop Robert Barron)</h3>
-<div class="outline-text-3" id="text-org5d16c0f">
+<div id="outline-container-org475b610" class="outline-3">
+<h3 id="org475b610">The Catholicism Series (Bishop Robert Barron)</h3>
+<div class="outline-text-3" id="text-org475b610">
 <p>
 <a href="https://catholicismseries.com/watch">Catholicism</a> is a beautiful introduction to Christianity and Catholicism by
 Bishop Rober Barron. You can stream it for free! There also is a YouTube
@@ -6405,13 +6649,13 @@ Bishop Rober Barron. You can stream it for free! There also is a YouTube
 </p>
 </div>
 </div>
-<div id="outline-container-org543c34a" class="outline-3">
-<h3 id="org543c34a">Miscellaneous Beautiful Teachings</h3>
-<div class="outline-text-3" id="text-org543c34a">
+<div id="outline-container-orgbe847be" class="outline-3">
+<h3 id="orgbe847be">Miscellaneous Beautiful Teachings</h3>
+<div class="outline-text-3" id="text-orgbe847be">
 </div>
-<div id="outline-container-org22ca0c2" class="outline-4">
-<h4 id="org22ca0c2">Theology of The Body</h4>
-<div class="outline-text-4" id="text-org22ca0c2">
+<div id="outline-container-org73822a7" class="outline-4">
+<h4 id="org73822a7">Theology of The Body</h4>
+<div class="outline-text-4" id="text-org73822a7">
 <p>
 Christopher West gives a very nice introductory talk on the Theology of The Body
 as a gift from Pope St. John Paul II to the world in terms of human
@@ -6428,25 +6672,25 @@ Jason Evert is another renowed evangelist of the Theology of the Body.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQq14ujm8wE?si=U5HAOCCkaWDS1QZV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-org63c013a" class="outline-4">
-<h4 id="org63c013a">Knowing Christ</h4>
-<div class="outline-text-4" id="text-org63c013a">
+<div id="outline-container-org216a78f" class="outline-4">
+<h4 id="org216a78f">Knowing Christ</h4>
+<div class="outline-text-4" id="text-org216a78f">
 </div>
 <ul class="org-ul">
-<li><a id="org4b2543a"></a>Intimacy with Christ<br />
-<div class="outline-text-5" id="text-org4b2543a">
+<li><a id="org6ce92d6"></a>Intimacy with Christ<br />
+<div class="outline-text-5" id="text-org6ce92d6">
 <p>
 Podcast: <a href="https://stanastasia.libsyn.com/what_is_god_s_will_for_my_life_">What is God's Will for My Life?</a> (Fr. John Riccardo, May 7, 2008)
 </p>
 </div>
 </li>
-<li><a id="org9a607cf"></a>Knowing Christ through Prayer<br />
-<div class="outline-text-5" id="text-org9a607cf">
+<li><a id="org0d470e8"></a>Knowing Christ through Prayer<br />
+<div class="outline-text-5" id="text-org0d470e8">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRXPJ6CN9g4?si=RzWtXdiEZdx7LATT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="orge6b30cd"></a>The Three-fold Way to Union with Christ: Spiritual Theology<br />
-<div class="outline-text-5" id="text-orge6b30cd">
+<li><a id="orgfc4e3d0"></a>The Three-fold Way to Union with Christ: Spiritual Theology<br />
+<div class="outline-text-5" id="text-orgfc4e3d0">
 <p>
 Dr. Anders discusses how we make progress toward holiness and spiritual union
 with God. The Church has well-defined methods for quitting sin and gaining
@@ -6458,15 +6702,15 @@ intimacy with Christ.
 </li>
 </ul>
 </div>
-<div id="outline-container-orgda5b145" class="outline-4">
-<h4 id="orgda5b145">The Sacrament of Marriage</h4>
-<div class="outline-text-4" id="text-orgda5b145">
+<div id="outline-container-orgf1b61e6" class="outline-4">
+<h4 id="orgf1b61e6">The Sacrament of Marriage</h4>
+<div class="outline-text-4" id="text-orgf1b61e6">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R03f0BZMicU?si=LWX8HYG0GqfbuSmO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orgfdbec2d" class="outline-4">
-<h4 id="orgfdbec2d">Joy and Freedom</h4>
-<div class="outline-text-4" id="text-orgfdbec2d">
+<div id="outline-container-orgb0c4f77" class="outline-4">
+<h4 id="orgb0c4f77">Joy and Freedom</h4>
+<div class="outline-text-4" id="text-orgb0c4f77">
 <p>
 Bishop Robert Barron discusses an apparent paradox about true freedom and joy.
 </p>
@@ -6474,9 +6718,9 @@ Bishop Robert Barron discusses an apparent paradox about true freedom and joy.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHmTcxYHzy8?si=T05CxQ7bm6tT450U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orga759180" class="outline-4">
-<h4 id="orga759180">End Times?</h4>
-<div class="outline-text-4" id="text-orga759180">
+<div id="outline-container-orgf0c4bd3" class="outline-4">
+<h4 id="orgf0c4bd3">End Times?</h4>
+<div class="outline-text-4" id="text-orgf0c4bd3">
 </div>
 <ul class="org-ul">
 <li><a id="end-times-israel"></a>The Nation-state of Israel<br />
@@ -6507,13 +6751,13 @@ Dr. Taylor Masrhall comments on the Ted Cruz interview by Tucker Carlson.
 </ul>
 </div>
 </div>
-<div id="outline-container-org5700be2" class="outline-3">
-<h3 id="org5700be2">Beautiful Books</h3>
-<div class="outline-text-3" id="text-org5700be2">
+<div id="outline-container-org9bd7eb7" class="outline-3">
+<h3 id="org9bd7eb7">Beautiful Books</h3>
+<div class="outline-text-3" id="text-org9bd7eb7">
 </div>
-<div id="outline-container-org4c7ee6a" class="outline-4">
-<h4 id="org4c7ee6a">Books I've Read</h4>
-<div class="outline-text-4" id="text-org4c7ee6a">
+<div id="outline-container-org0cd4817" class="outline-4">
+<h4 id="org0cd4817">Books I've Read</h4>
+<div class="outline-text-4" id="text-org0cd4817">
 <p>
 I can only recommend books I've read. There is so much to read, so much to
 learn. Here, I list some books that have been very illuminating for me. First
@@ -6522,74 +6766,74 @@ piece of revelation from God. Aside from the Bible, however, I can list some tit
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org56c6b28"></a>St. Augustine of Hippo. <i>The Confessions</i> (autobiography)<br />
-<div class="outline-text-5" id="text-org56c6b28">
+<li><a id="org7a512f0"></a>St. Augustine of Hippo. <i>The Confessions</i> (autobiography)<br />
+<div class="outline-text-5" id="text-org7a512f0">
 <p>
 This book fans the flames of my love for Jesus.
 </p>
 </div>
 </li>
-<li><a id="orgdb8aca6"></a>St. Augustine of Hippo. <i>City of God</i><br />
-<div class="outline-text-5" id="text-orgdb8aca6">
+<li><a id="org606dba1"></a>St. Augustine of Hippo. <i>City of God</i><br />
+<div class="outline-text-5" id="text-org606dba1">
 <p>
 This book leaves me in awe of St. Augustine's insights.
 </p>
 </div>
 </li>
-<li><a id="org4df3b1d"></a>Mark Twain. <i>Joan of Arc</i> (<a href="https://www.amazon.com/Joan-Arc-Mark-Twain/dp/0898702682/ref=sr_1_1?crid=1QGPMF80XE9BN&amp;dib=eyJ2IjoiMSJ9.bEVTIU9xaOnh_8t9FwVRaQ6Q5moqqsfoq_-KrcNIL7J838KcAgWm0_gzyHEdEqYMhkSMCdzshtJuozWMoh5nSzYNL3r6eW8JYcXJmNxJd6Kl0cKpKS9gLqxHvWPduiaoxynfmAU3GcreDSQxYyW17urAeBmwMHfVlPFj2Vn5lidaECberi4S_yskgqozi3za4BtaESOpyJ7bYe5uAfkEvReMHE5xl7NcKUc_wk5kg3Y.FIFh0_shS-g8NhGX4QrSnLbCtRAYhoRUqxVp8bxT0_Y&amp;dib_tag=se&amp;keywords=mark+twain+joan+of+arc&amp;qid=1747110616&amp;s=books&amp;sprefix=mark+twain+joan%2Cstripbooks%2C126&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="org0f746b1"></a>Mark Twain. <i>Joan of Arc</i> (<a href="https://www.amazon.com/Joan-Arc-Mark-Twain/dp/0898702682/ref=sr_1_1?crid=1QGPMF80XE9BN&amp;dib=eyJ2IjoiMSJ9.bEVTIU9xaOnh_8t9FwVRaQ6Q5moqqsfoq_-KrcNIL7J838KcAgWm0_gzyHEdEqYMhkSMCdzshtJuozWMoh5nSzYNL3r6eW8JYcXJmNxJd6Kl0cKpKS9gLqxHvWPduiaoxynfmAU3GcreDSQxYyW17urAeBmwMHfVlPFj2Vn5lidaECberi4S_yskgqozi3za4BtaESOpyJ7bYe5uAfkEvReMHE5xl7NcKUc_wk5kg3Y.FIFh0_shS-g8NhGX4QrSnLbCtRAYhoRUqxVp8bxT0_Y&amp;dib_tag=se&amp;keywords=mark+twain+joan+of+arc&amp;qid=1747110616&amp;s=books&amp;sprefix=mark+twain+joan%2Cstripbooks%2C126&amp;sr=1-1">Amazon.com</a>)<br /></li>
 
-<li><a id="org936b8c5"></a>Raymond Arroyo. <i>Mother Angelica: Her Grand Silence &#x2026;</i> (<a href="https://www.amazon.com/Mother-Angelica-Silence-Living-Legacy/dp/0770437265/ref=sr_1_1?crid=2RXDP08QEULFS&amp;dib=eyJ2IjoiMSJ9.peA2WQuK-_C-W3I3X_WmCA.vbhApEIJ9IQEvNw7nST3e2nXbfEPRZ2vnf2LD7W2Mbs&amp;dib_tag=se&amp;keywords=Her+grand+silence+Angelica&amp;qid=1747111677&amp;s=books&amp;sprefix=her+grand+silence+angelica%2Cstripbooks%2C109&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="orgadc5983"></a>Raymond Arroyo. <i>Mother Angelica: Her Grand Silence &#x2026;</i> (<a href="https://www.amazon.com/Mother-Angelica-Silence-Living-Legacy/dp/0770437265/ref=sr_1_1?crid=2RXDP08QEULFS&amp;dib=eyJ2IjoiMSJ9.peA2WQuK-_C-W3I3X_WmCA.vbhApEIJ9IQEvNw7nST3e2nXbfEPRZ2vnf2LD7W2Mbs&amp;dib_tag=se&amp;keywords=Her+grand+silence+Angelica&amp;qid=1747111677&amp;s=books&amp;sprefix=her+grand+silence+angelica%2Cstripbooks%2C109&amp;sr=1-1">Amazon.com</a>)<br /></li>
 
-<li><a id="orge0c4086"></a>St. Therese of Lisieux. <i>The Story of a Soul</i> (autobiography, <a href="https://www.amazon.com/Story-Soul-Autobiography-Little-Classics/dp/0895551551?psc=1&amp;pd_rd_w=xKqeS&amp;content-id=amzn1.sym.ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_p=ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_r=PVARSGXBPFTHF7KMMX18&amp;pd_rd_wg=qVKrA&amp;pd_rd_r=5a2a47ca-359b-4cac-8ca1-8add49363427&amp;ref_=sspa_dk_detail_2&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=">Amazon.com</a>)<br /></li>
+<li><a id="orga2e0e30"></a>St. Therese of Lisieux. <i>The Story of a Soul</i> (autobiography, <a href="https://www.amazon.com/Story-Soul-Autobiography-Little-Classics/dp/0895551551?psc=1&amp;pd_rd_w=xKqeS&amp;content-id=amzn1.sym.ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_p=ea1d9533-fbb7-4608-bb6f-bfdceb6f6336&amp;pf_rd_r=PVARSGXBPFTHF7KMMX18&amp;pd_rd_wg=qVKrA&amp;pd_rd_r=5a2a47ca-359b-4cac-8ca1-8add49363427&amp;ref_=sspa_dk_detail_2&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=">Amazon.com</a>)<br /></li>
 
-<li><a id="orgd7c3fda"></a>Brant Pitre. <i>Jesus and the Jewish Roots of the Eucharist</i> (<a href="https://www.amazon.com/Jesus-Jewish-Roots-Eucharist-Unlocking/dp/0385531869/ref=sr_1_1?crid=GJVG48J1DI8A&amp;dib=eyJ2IjoiMSJ9.19W5J6lZaX_MY9DLrll9f3Z_hKhKBLCa2ofe15NkHEzRYTXFdZvIMgQGpTVCp-_b-yDm960Huy4Q5GI6uNUwAPdsjBQa--WIDE39SIvJmj3Vus6rhrzpGYF6WM3EBpVQhYiHepk4DMje7wm4-QrmR4YfecaXM53rLTxSfy9pRZPeM2uLvLjCJk6K-DQ33FoXfUhRV4yoj3Ok8uQBtBYs2ZeEMhEseNCEO293_XT-Wwo.d_E0gOQGNp7knT6bK3c4ZcADyx3w9lX7Y06bl2-DPG0&amp;dib_tag=se&amp;keywords=jesus+and+the+jewish+roots+of+the+eucharist&amp;qid=1747110245&amp;s=books&amp;sprefix=Jesus+and+the+Je%2Cstripbooks%2C136&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="orgb1055a7"></a>Brant Pitre. <i>Jesus and the Jewish Roots of the Eucharist</i> (<a href="https://www.amazon.com/Jesus-Jewish-Roots-Eucharist-Unlocking/dp/0385531869/ref=sr_1_1?crid=GJVG48J1DI8A&amp;dib=eyJ2IjoiMSJ9.19W5J6lZaX_MY9DLrll9f3Z_hKhKBLCa2ofe15NkHEzRYTXFdZvIMgQGpTVCp-_b-yDm960Huy4Q5GI6uNUwAPdsjBQa--WIDE39SIvJmj3Vus6rhrzpGYF6WM3EBpVQhYiHepk4DMje7wm4-QrmR4YfecaXM53rLTxSfy9pRZPeM2uLvLjCJk6K-DQ33FoXfUhRV4yoj3Ok8uQBtBYs2ZeEMhEseNCEO293_XT-Wwo.d_E0gOQGNp7knT6bK3c4ZcADyx3w9lX7Y06bl2-DPG0&amp;dib_tag=se&amp;keywords=jesus+and+the+jewish+roots+of+the+eucharist&amp;qid=1747110245&amp;s=books&amp;sprefix=Jesus+and+the+Je%2Cstripbooks%2C136&amp;sr=1-1">Amazon.com</a>)<br /></li>
 
-<li><a id="orgf768903"></a>Brant Pitre. <i>Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah</i> (<a href="https://www.amazon.com/Jesus-Jewish-Roots-Mary-Unveiling/dp/0525572732/ref=sr_1_1?crid=3W2Z5C34BHC93&amp;dib=eyJ2IjoiMSJ9.9V5vllLMmWfs5XvnAXWviWJXGX1PjA61JdfyKjsO7TbRYTXFdZvIMgQGpTVCp-_b-qMSi-OkqLfVO0oR847A8SIszEIIAlCZa1BsDrmx9CSTve-kj2e24JkvZJT7p-zUEpjuWfXg4D3O_8pwOoitG1u-6en-eJ_eP_BVY00_jRIFKRCWM1VzxR_qH_MzA8xjW526BLHNsaIh_ErbYMeCse1Ih1KkKRip9JQpGg5UwDo.tDSipk0Ollv5e7jLn2WY2JVzkFz1NFrzlajYjOyMvp0&amp;dib_tag=se&amp;keywords=jesus+and+the+jewish+roots+of+mary&amp;qid=1747110537&amp;s=books&amp;sprefix=Jesus+and+the+J%2Cstripbooks%2C152&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="org5e97e96"></a>Brant Pitre. <i>Jesus and the Jewish Roots of Mary: Unveiling the Mother of the Messiah</i> (<a href="https://www.amazon.com/Jesus-Jewish-Roots-Mary-Unveiling/dp/0525572732/ref=sr_1_1?crid=3W2Z5C34BHC93&amp;dib=eyJ2IjoiMSJ9.9V5vllLMmWfs5XvnAXWviWJXGX1PjA61JdfyKjsO7TbRYTXFdZvIMgQGpTVCp-_b-qMSi-OkqLfVO0oR847A8SIszEIIAlCZa1BsDrmx9CSTve-kj2e24JkvZJT7p-zUEpjuWfXg4D3O_8pwOoitG1u-6en-eJ_eP_BVY00_jRIFKRCWM1VzxR_qH_MzA8xjW526BLHNsaIh_ErbYMeCse1Ih1KkKRip9JQpGg5UwDo.tDSipk0Ollv5e7jLn2WY2JVzkFz1NFrzlajYjOyMvp0&amp;dib_tag=se&amp;keywords=jesus+and+the+jewish+roots+of+mary&amp;qid=1747110537&amp;s=books&amp;sprefix=Jesus+and+the+J%2Cstripbooks%2C152&amp;sr=1-1">Amazon.com</a>)<br /></li>
 
-<li><a id="org89e4048"></a>Frank Sheed. <i>Theology for Beginners</i>. (<a href="https://www.amazon.com/Theology-Beginners-Frank-Sheed/dp/1887593926/ref=sr_1_1?dib=eyJ2IjoiMSJ9.2cZQjeFqw0ALNF_xgLEORHWZPiCsxt7yrKpJk4yYr3-uI-ju5IONG509SLpkSQaVxgXbTgpnzrZq0tqtoBP7yW6itnRHZ1KwIoZU4MHY9JQ.W75rsMimfjPLu63BBLoDkc1ui7yVLQAeURoxpXXdjM0&amp;dib_tag=se&amp;keywords=frank+sheed+beginning+theology&amp;qid=1747110082&amp;sr=8-1">Amazon.com</a>)<br /></li>
+<li><a id="org188e6f7"></a>Frank Sheed. <i>Theology for Beginners</i>. (<a href="https://www.amazon.com/Theology-Beginners-Frank-Sheed/dp/1887593926/ref=sr_1_1?dib=eyJ2IjoiMSJ9.2cZQjeFqw0ALNF_xgLEORHWZPiCsxt7yrKpJk4yYr3-uI-ju5IONG509SLpkSQaVxgXbTgpnzrZq0tqtoBP7yW6itnRHZ1KwIoZU4MHY9JQ.W75rsMimfjPLu63BBLoDkc1ui7yVLQAeURoxpXXdjM0&amp;dib_tag=se&amp;keywords=frank+sheed+beginning+theology&amp;qid=1747110082&amp;sr=8-1">Amazon.com</a>)<br /></li>
 
-<li><a id="orgc315c07"></a>Fr. Jacques Philippe. <i>Searching for and Maintaining Peace: A Small Treatise on Peace of Heart</i> (<a href="https://www.amazon.com/dp/0818909064/?bestFormat=true&amp;k=searching%20for%20and%20maintaining%20peace%20by%20jaques%20phillipe&amp;ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_20&amp;crid=CMLXKR87LELO&amp;sprefix=Searching%20for%20and%20ma">Amazon.com</a>)<br /></li>
+<li><a id="org9d30bbd"></a>Fr. Jacques Philippe. <i>Searching for and Maintaining Peace: A Small Treatise on Peace of Heart</i> (<a href="https://www.amazon.com/dp/0818909064/?bestFormat=true&amp;k=searching%20for%20and%20maintaining%20peace%20by%20jaques%20phillipe&amp;ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_20&amp;crid=CMLXKR87LELO&amp;sprefix=Searching%20for%20and%20ma">Amazon.com</a>)<br /></li>
 
-<li><a id="org35336af"></a>Fr. Jacques Philippe. <i>Interior Freedom</i> (<a href="https://www.amazon.com/Interior-Freedom-Jacques-Philippe/dp/1594170525/ref=pd_bxgy_d_sccl_1/133-2711600-3042307?pd_rd_w=aVF3F&amp;content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_r=Y614F4H25W9ZC16CNVJ6&amp;pd_rd_wg=VIXoU&amp;pd_rd_r=ab42620e-caf9-4bd7-ab45-4f6248ab567c&amp;pd_rd_i=1594170525&amp;psc=1">Amazon.com</a>)<br /></li>
+<li><a id="org16dd89d"></a>Fr. Jacques Philippe. <i>Interior Freedom</i> (<a href="https://www.amazon.com/Interior-Freedom-Jacques-Philippe/dp/1594170525/ref=pd_bxgy_d_sccl_1/133-2711600-3042307?pd_rd_w=aVF3F&amp;content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_r=Y614F4H25W9ZC16CNVJ6&amp;pd_rd_wg=VIXoU&amp;pd_rd_r=ab42620e-caf9-4bd7-ab45-4f6248ab567c&amp;pd_rd_i=1594170525&amp;psc=1">Amazon.com</a>)<br /></li>
 
-<li><a id="orgd4d2302"></a>Walter J. Ciszek, S.J. and Daniel L. Flahterty, S.J. <i>He Leadeth Me: An Extraordinary Testament of Faith</i> (<a href="https://www.amazon.com/dp/0340185554/?bestFormat=true&amp;k=he%20leadeth%20me%20by%20father%20walter%20ciszek&amp;ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_13&amp;crid=25Y6EC1TXM0XH&amp;sprefix=He%20leadeth%20me">Amazon.com</a>)<br /></li>
+<li><a id="org0ba87c2"></a>Walter J. Ciszek, S.J. and Daniel L. Flahterty, S.J. <i>He Leadeth Me: An Extraordinary Testament of Faith</i> (<a href="https://www.amazon.com/dp/0340185554/?bestFormat=true&amp;k=he%20leadeth%20me%20by%20father%20walter%20ciszek&amp;ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_13&amp;crid=25Y6EC1TXM0XH&amp;sprefix=He%20leadeth%20me">Amazon.com</a>)<br /></li>
 
-<li><a id="orgc2e5a33"></a>Fr. Gregory Pine. <i>Prudence: Choose Confidently, Live Boldly</i> (<a href="https://www.amazon.com/Prudence-Choose-Confidently-Live-Boldly/dp/1681927322/ref=sr_1_1?crid=1QDTQ7Z8J6SA&amp;dib=eyJ2IjoiMSJ9.0H5DNW2lm4Isgbls76-nEBBsM8J1nO8mPa_boRC222Q.NBYiFq-XOjyMYWSZWZkYZEo8uGIdxmEaupPvNtOKXvo&amp;dib_tag=se&amp;keywords=Prudence+Fr.+Gregory&amp;qid=1747111601&amp;s=books&amp;sprefix=prudence+fr.+gregory+%2Cstripbooks%2C107&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="orgc1d1ebc"></a>Fr. Gregory Pine. <i>Prudence: Choose Confidently, Live Boldly</i> (<a href="https://www.amazon.com/Prudence-Choose-Confidently-Live-Boldly/dp/1681927322/ref=sr_1_1?crid=1QDTQ7Z8J6SA&amp;dib=eyJ2IjoiMSJ9.0H5DNW2lm4Isgbls76-nEBBsM8J1nO8mPa_boRC222Q.NBYiFq-XOjyMYWSZWZkYZEo8uGIdxmEaupPvNtOKXvo&amp;dib_tag=se&amp;keywords=Prudence+Fr.+Gregory&amp;qid=1747111601&amp;s=books&amp;sprefix=prudence+fr.+gregory+%2Cstripbooks%2C107&amp;sr=1-1">Amazon.com</a>)<br /></li>
 </ul>
 </div>
-<div id="outline-container-org0a53f4e" class="outline-4">
-<h4 id="org0a53f4e">Books I want to Read</h4>
-<div class="outline-text-4" id="text-org0a53f4e">
+<div id="outline-container-org5f122c3" class="outline-4">
+<h4 id="org5f122c3">Books I want to Read</h4>
+<div class="outline-text-4" id="text-org5f122c3">
 </div>
 <ul class="org-ul">
-<li><a id="org039d40d"></a>St. Augustine of Hippo<br />
+<li><a id="org138be8e"></a>St. Augustine of Hippo<br />
 <ul class="org-ul">
-<li><a id="org86c63be"></a><i>On Christian Doctrine</i> (<a href="https://www.amazon.com/Christian-Doctrine-St-Augustine/dp/1631740091/ref=sr_1_1?crid=OQSR1LLI8ONG&amp;dib=eyJ2IjoiMSJ9.7ZtbSjFDsbMpwCYmoz-rDoRHRm2o0dcSCotPsvdzgT0caIhv6LH0gNrFYLez-stGUSOqhdE7KS0fhHjclQOhKZpo0yF-q1KtFbCA1uRlzXWTFGK-uifp0gonnqclbqOfkNdTf4Qrg8ftEG7RvyjxhOBp0Bv-JjfbC4X8ffCS-I9GyY-_MvCxHHF05iU0hzoeVlyIzK7LKtE_dvhTwl5R0xA5dDiQg0PMwMjH47ATEoc.vUTnwVALszhWbWOGA7UuDzgyVxaXqx7N4g_SXFc4Izk&amp;dib_tag=se&amp;keywords=on+christian+doctrine+augustine&amp;qid=1747111157&amp;sprefix=on+Christian+d%2Caps%2C155&amp;sr=8-1">Amazon.com</a>)<br /></li>
+<li><a id="org4d0f5c3"></a><i>On Christian Doctrine</i> (<a href="https://www.amazon.com/Christian-Doctrine-St-Augustine/dp/1631740091/ref=sr_1_1?crid=OQSR1LLI8ONG&amp;dib=eyJ2IjoiMSJ9.7ZtbSjFDsbMpwCYmoz-rDoRHRm2o0dcSCotPsvdzgT0caIhv6LH0gNrFYLez-stGUSOqhdE7KS0fhHjclQOhKZpo0yF-q1KtFbCA1uRlzXWTFGK-uifp0gonnqclbqOfkNdTf4Qrg8ftEG7RvyjxhOBp0Bv-JjfbC4X8ffCS-I9GyY-_MvCxHHF05iU0hzoeVlyIzK7LKtE_dvhTwl5R0xA5dDiQg0PMwMjH47ATEoc.vUTnwVALszhWbWOGA7UuDzgyVxaXqx7N4g_SXFc4Izk&amp;dib_tag=se&amp;keywords=on+christian+doctrine+augustine&amp;qid=1747111157&amp;sprefix=on+Christian+d%2Caps%2C155&amp;sr=8-1">Amazon.com</a>)<br /></li>
 
-<li><a id="orgbf91880"></a><i>On the Trinity</i> (<a href="https://www.amazon.com/Trinity-St-Augustine-Hippo/dp/1479163635/ref=pd_bxgy_d_sccl_2/133-2711600-3042307?pd_rd_w=n6qZK&amp;content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_r=JWF7QMW52VEAK38FSC0A&amp;pd_rd_wg=dryb8&amp;pd_rd_r=b79a7da4-574a-4b7b-8739-1d41155f18ab&amp;pd_rd_i=1479163635&amp;psc=1">Amazon.com</a>)<br /></li>
+<li><a id="org53ec4c2"></a><i>On the Trinity</i> (<a href="https://www.amazon.com/Trinity-St-Augustine-Hippo/dp/1479163635/ref=pd_bxgy_d_sccl_2/133-2711600-3042307?pd_rd_w=n6qZK&amp;content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&amp;pf_rd_r=JWF7QMW52VEAK38FSC0A&amp;pd_rd_wg=dryb8&amp;pd_rd_r=b79a7da4-574a-4b7b-8739-1d41155f18ab&amp;pd_rd_i=1479163635&amp;psc=1">Amazon.com</a>)<br /></li>
 </ul>
 </li>
-<li><a id="org57cd419"></a>St. Thomas Aquinas.<br />
+<li><a id="org01e43c7"></a>St. Thomas Aquinas.<br />
 <ul class="org-ul">
-<li><a id="org3f64cea"></a><i>Catena Aurea</i> (<a href="https://www.amazon.com/Catena-Aurea-Volumes-Thomas-Aquinas/dp/1905574509">Amazon.com</a>)<br /></li>
+<li><a id="org1de9d00"></a><i>Catena Aurea</i> (<a href="https://www.amazon.com/Catena-Aurea-Volumes-Thomas-Aquinas/dp/1905574509">Amazon.com</a>)<br /></li>
 </ul>
 </li>
-<li><a id="orgea038b3"></a>Joseph Cardinal Ratzinger<br />
+<li><a id="org7df1c0b"></a>Joseph Cardinal Ratzinger<br />
 <ul class="org-ul">
-<li><a id="orgcfbe9fe"></a><i>God is Near Us: The Eucharist, the Heart of Life</i> (<a href="https://www.amazon.com/God-Near-Us-Eucharist-Heart/dp/0898709628/ref=sr_1_1?crid=1T9NO1WC7VVBQ&amp;dib=eyJ2IjoiMSJ9.I1CJ2Benh-8WXqFr8qSyyvKBcqjqV2Ps5T0fRgKHG_7GjHj071QN20LucGBJIEps.txRSZejABDmwqqdruyEpbg6LL7rHCNFHKgHnCJP42Ag&amp;dib_tag=se&amp;keywords=Jesus+is+near+Ratzinger&amp;qid=1747111358&amp;s=books&amp;sprefix=jesus+is+near+ratzinger%2Cstripbooks%2C91&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="org08ba467"></a><i>God is Near Us: The Eucharist, the Heart of Life</i> (<a href="https://www.amazon.com/God-Near-Us-Eucharist-Heart/dp/0898709628/ref=sr_1_1?crid=1T9NO1WC7VVBQ&amp;dib=eyJ2IjoiMSJ9.I1CJ2Benh-8WXqFr8qSyyvKBcqjqV2Ps5T0fRgKHG_7GjHj071QN20LucGBJIEps.txRSZejABDmwqqdruyEpbg6LL7rHCNFHKgHnCJP42Ag&amp;dib_tag=se&amp;keywords=Jesus+is+near+Ratzinger&amp;qid=1747111358&amp;s=books&amp;sprefix=jesus+is+near+ratzinger%2Cstripbooks%2C91&amp;sr=1-1">Amazon.com</a>)<br /></li>
 </ul>
 </li>
-<li><a id="org99fd465"></a>Fr. Henri de Lubac.<br />
+<li><a id="org2436d1d"></a>Fr. Henri de Lubac.<br />
 <ul class="org-ul">
-<li><a id="org94a1ffd"></a><i>Catholicism: Christ and the Common Destiny of Man</i> (<a href="https://www.amazon.com/Catholicism-Christ-Common-Destiny-Man/dp/0898702038/ref=sr_1_1?crid=1IEF5C4ZL1SN&amp;dib=eyJ2IjoiMSJ9.4xxLl0t4wKH9RsatjXCUAX56z6JD7ORzPV9B87VHQ31VL-sDfaedSDcfyi-NVXLl-4L1C-hinPP94G963y_3e4W3AoeEk7OUmwo7bAlQ4JQOd6iKL6TTOXzXQ-yTUZZyitbElqIm26rxblNITFRq3Q.lWTiNaifAe0F8CWX5LXaUoJImdX8zasvJqeaKCIGv_g&amp;dib_tag=se&amp;keywords=the+common+destiny+of+man&amp;qid=1747110841&amp;s=books&amp;sprefix=the+common+destiny+of+man%2Cstripbooks%2C112&amp;sr=1-1">Amazon.com</a>)<br /></li>
+<li><a id="org98b3f5f"></a><i>Catholicism: Christ and the Common Destiny of Man</i> (<a href="https://www.amazon.com/Catholicism-Christ-Common-Destiny-Man/dp/0898702038/ref=sr_1_1?crid=1IEF5C4ZL1SN&amp;dib=eyJ2IjoiMSJ9.4xxLl0t4wKH9RsatjXCUAX56z6JD7ORzPV9B87VHQ31VL-sDfaedSDcfyi-NVXLl-4L1C-hinPP94G963y_3e4W3AoeEk7OUmwo7bAlQ4JQOd6iKL6TTOXzXQ-yTUZZyitbElqIm26rxblNITFRq3Q.lWTiNaifAe0F8CWX5LXaUoJImdX8zasvJqeaKCIGv_g&amp;dib_tag=se&amp;keywords=the+common+destiny+of+man&amp;qid=1747110841&amp;s=books&amp;sprefix=the+common+destiny+of+man%2Cstripbooks%2C112&amp;sr=1-1">Amazon.com</a>)<br /></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgecac0ef" class="outline-3">
-<h3 id="orgecac0ef">Mother Angelica</h3>
-<div class="outline-text-3" id="text-orgecac0ef">
+<div id="outline-container-org962fdb9" class="outline-3">
+<h3 id="org962fdb9">Mother Angelica</h3>
+<div class="outline-text-3" id="text-org962fdb9">
 <p>
 Mother Angelica is known for founding the Eternal Word Television Network
 (EWTN, see <a href="https://www.ewtn.com">ewtn.com</a>), the largest religious media network in the world. Her
@@ -6601,9 +6845,9 @@ wanted her to do something, she would not allow anyone or anythihng to stand in
 her way.
 </p>
 </div>
-<div id="outline-container-org661afb9" class="outline-4">
-<h4 id="org661afb9">Mother Angelica Live Classics</h4>
-<div class="outline-text-4" id="text-org661afb9">
+<div id="outline-container-orgf078cf8" class="outline-4">
+<h4 id="orgf078cf8">Mother Angelica Live Classics</h4>
+<div class="outline-text-4" id="text-orgf078cf8">
 <p>
 In these hour-long episodes, Mother Angelica gives a Bible study or theological
 teaching. Toward the end, she receives phone calls answers questions, and gives
@@ -6611,8 +6855,8 @@ memorable advice.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="orga63dff2"></a>Sorrow into Joy - 1993.11.09<br />
-<div class="outline-text-5" id="text-orga63dff2">
+<li><a id="orgbd5aee2"></a>Sorrow into Joy - 1993.11.09<br />
+<div class="outline-text-5" id="text-orgbd5aee2">
 <p>
 Mother Angelica discusses loving Jesus and experience joy even in difficulties
 by surrendering to God's will.
@@ -6638,8 +6882,8 @@ Phone calls pertain to:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSOA9gO-9Jo?si=FnKuhHq4sufpc2eS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="org5985ce6"></a>Enemies - 1994.02.01<br />
-<div class="outline-text-5" id="text-org5985ce6">
+<li><a id="org3955475"></a>Enemies - 1994.02.01<br />
+<div class="outline-text-5" id="text-org3955475">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MckZdHAAXPE?si=mi0_-BN0L19CnL68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6647,8 +6891,8 @@ Mother discusses how we should treat our enemies and how.
 </p>
 </div>
 </li>
-<li><a id="orgc7ff4ee"></a>Tolerance - 1994.05.10<br />
-<div class="outline-text-5" id="text-orgc7ff4ee">
+<li><a id="org514e85b"></a>Tolerance - 1994.05.10<br />
+<div class="outline-text-5" id="text-org514e85b">
 <p>
 In this episode, Mother Angelica discusses tolerance and intolerance. Phone
 calls focused on the following topics:
@@ -6667,13 +6911,13 @@ sufferring with those who suffer.</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNDmdYF0-QE?si=D8M_z_GJuilKX_XJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="orgcbd6969"></a><i>Anima Christi</i> - 1995.03.01<br />
-<div class="outline-text-5" id="text-orgcbd6969">
+<li><a id="orgb825d4a"></a><i>Anima Christi</i> - 1995.03.01<br />
+<div class="outline-text-5" id="text-orgb825d4a">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1JZhi1iGJKo?si=3gb8i5_lGFT-ugTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="org1b6b8e0"></a>Romans 7 - The Inward Struggle - 1996.09.10<br />
-<div class="outline-text-5" id="text-org1b6b8e0">
+<li><a id="org5ac550a"></a>Romans 7 - The Inward Struggle - 1996.09.10<br />
+<div class="outline-text-5" id="text-org5ac550a">
 <p>
 Mother Angelica discusses our internal struggle as Christians in light of Paul's
 inward struggle as recorded in Romans 7.
@@ -6682,8 +6926,8 @@ inward struggle as recorded in Romans 7.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJV6k9TkEgM?si=I-vp7fMk7jtylULV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="org1ba3256"></a>Thoughts for All Times - 1996.12.03<br />
-<div class="outline-text-5" id="text-org1ba3256">
+<li><a id="org61429bc"></a>Thoughts for All Times - 1996.12.03<br />
+<div class="outline-text-5" id="text-org61429bc">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52F1hQd8Hog?si=E_EyH1dFmnS42Qb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6692,8 +6936,8 @@ modern society. She opens with femminism.
 </p>
 </div>
 </li>
-<li><a id="org818566c"></a>Will of God in Every Vocation - 1997.08.05<br />
-<div class="outline-text-5" id="text-org818566c">
+<li><a id="org84e3260"></a>Will of God in Every Vocation - 1997.08.05<br />
+<div class="outline-text-5" id="text-org84e3260">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vIQ1IiFLFE?si=CxHwDP2PM70MG96n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6701,8 +6945,8 @@ Mother Angelica discusses how we can serve God no matter our vocation in life.
 </p>
 </div>
 </li>
-<li><a id="orgbfba79f"></a>Silence of Heart and Mind - 1998.07.28<br />
-<div class="outline-text-5" id="text-orgbfba79f">
+<li><a id="orgc17e2ab"></a>Silence of Heart and Mind - 1998.07.28<br />
+<div class="outline-text-5" id="text-orgc17e2ab">
 <p>
 Mother Angelica discusses spending time with the Lord in prayer.
 </p>
@@ -6731,8 +6975,8 @@ love Jesus for Himself, not for what He gives us or because of His miracles.</li
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKSh1S5-PtI?si=69xpcAX11WN0VAD5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="org7a650fb"></a>Excuses - 1999.05.11<br />
-<div class="outline-text-5" id="text-org7a650fb">
+<li><a id="orgbcbbbe3"></a>Excuses - 1999.05.11<br />
+<div class="outline-text-5" id="text-orgbcbbbe3">
 <p>
 Mother Angelica talks about:
 </p>
@@ -6748,8 +6992,8 @@ suffering</li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqNGVdYsRGg?si=RywsN7RGPIfXaTh_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </li>
-<li><a id="orgbe8bf6f"></a>Bad Things Happen - 1996.05.28<br />
-<div class="outline-text-5" id="text-orgbe8bf6f">
+<li><a id="org0f72320"></a>Bad Things Happen - 1996.05.28<br />
+<div class="outline-text-5" id="text-org0f72320">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqlgwZF3EDs?si=K11ku3mzX-ggLMLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6857,8 +7101,8 @@ other than having offended my Father.</li>
 </ul>
 </div>
 </li>
-<li><a id="org2034d1e"></a>Ash Wednesday and Lent - 2000.03.07<br />
-<div class="outline-text-5" id="text-org2034d1e">
+<li><a id="orge87fc4b"></a>Ash Wednesday and Lent - 2000.03.07<br />
+<div class="outline-text-5" id="text-orge87fc4b">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GlVY1PHJGjk?si=NCKFwLeBQpW3v22z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
@@ -6868,9 +7112,9 @@ Mother discusses how to have an effective Lent.
 </li>
 </ul>
 </div>
-<div id="outline-container-org23e509c" class="outline-4">
-<h4 id="org23e509c">Mother Angelica - Answering the Call</h4>
-<div class="outline-text-4" id="text-org23e509c">
+<div id="outline-container-org24bed20" class="outline-4">
+<h4 id="org24bed20">Mother Angelica - Answering the Call</h4>
+<div class="outline-text-4" id="text-org24bed20">
 <p>
 This <a href="https://www.ewtn.com/radio/shows/mother-angelica-answering-the-call">radio program (audio only)</a> plays recordings of the beautiful advice and
 teachings Mother Angelica gave in response to live phone calls on her television
@@ -6879,13 +7123,13 @@ show. This radio program may be heard on <a href="https://www.ewtn.com/live/radi
 </div>
 </div>
 </div>
-<div id="outline-container-orgbe51049" class="outline-3">
-<h3 id="orgbe51049">Sam Shamoun</h3>
-<div class="outline-text-3" id="text-orgbe51049">
+<div id="outline-container-org7e59893" class="outline-3">
+<h3 id="org7e59893">Sam Shamoun</h3>
+<div class="outline-text-3" id="text-org7e59893">
 </div>
-<div id="outline-container-orged9a2a1" class="outline-4">
-<h4 id="orged9a2a1">Why Pray to the Saints?</h4>
-<div class="outline-text-4" id="text-orged9a2a1">
+<div id="outline-container-orga402143" class="outline-4">
+<h4 id="orga402143">Why Pray to the Saints?</h4>
+<div class="outline-text-4" id="text-orga402143">
 <p>
 Sam explains how the saints are aware of the requests made of them.
 </p>
@@ -6893,9 +7137,9 @@ Sam explains how the saints are aware of the requests made of them.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6N3U0YovqtI?si=zs06DYNJjojp3bcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-<div id="outline-container-orga6a46c2" class="outline-4">
-<h4 id="orga6a46c2"><i>Sola Scriptura</i></h4>
-<div class="outline-text-4" id="text-orga6a46c2">
+<div id="outline-container-org7a87cfb" class="outline-4">
+<h4 id="org7a87cfb"><i>Sola Scriptura</i></h4>
+<div class="outline-text-4" id="text-org7a87cfb">
 <p>
 Sam argues from the Scriptures that God appointed the Church as the pillar of
 truth (1 Timothy 3:15). But the Church of the first, second, third, fourth,
@@ -6908,31 +7152,31 @@ century.
 </div>
 </div>
 </div>
-<div id="outline-container-org68c50b3" class="outline-2">
-<h2 id="org68c50b3">Devotionals</h2>
-<div class="outline-text-2" id="text-org68c50b3">
+<div id="outline-container-orgfebc534" class="outline-2">
+<h2 id="orgfebc534">Devotionals</h2>
+<div class="outline-text-2" id="text-orgfebc534">
 <p>
 This includes devotional notes from daily readings and mediations.
 </p>
 </div>
-<div id="outline-container-org6e0f1d0" class="outline-3">
-<h3 id="org6e0f1d0">The Gospel According to John</h3>
-<div class="outline-text-3" id="text-org6e0f1d0">
+<div id="outline-container-orgaed28c9" class="outline-3">
+<h3 id="orgaed28c9">The Gospel According to John</h3>
+<div class="outline-text-3" id="text-orgaed28c9">
 <p>
 I have undertaken a reading of this Gospel with a beloved friend and brother in
 Christ. These are my notes from the reading.
 </p>
 </div>
-<div id="outline-container-org0c3a09f" class="outline-4">
-<h4 id="org0c3a09f">John 1 (2025.06.20)</h4>
-<div class="outline-text-4" id="text-org0c3a09f">
+<div id="outline-container-org88d93e8" class="outline-4">
+<h4 id="org88d93e8">John 1 (2025.06.20)</h4>
+<div class="outline-text-4" id="text-org88d93e8">
 <p>
 This is an intense chapter, so full and so rich. Major themes that strike me today:
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org2b81957"></a>God has drawn near to us<br />
-<div class="outline-text-5" id="text-org2b81957">
+<li><a id="orgcee381e"></a>God has drawn near to us<br />
+<div class="outline-text-5" id="text-orgcee381e">
 <p>
 This passage tells us how God, in His generosity, has drawn near to us. It tells
 us where He came from: from eternity past. He didn't have to create the
@@ -6966,15 +7210,15 @@ as we are told of Christ approaching John the Baptist.
 </p>
 </div>
 </li>
-<li><a id="orgb916376"></a>God draws men near to Himself<br />
-<div class="outline-text-5" id="text-orgb916376">
+<li><a id="org0f8b4f1"></a>God draws men near to Himself<br />
+<div class="outline-text-5" id="text-org0f8b4f1">
 <p>
 In verse 36, we begin to see Jesus draw men to know Him and to follow Him.
 </p>
 </div>
 </li>
-<li><a id="org932bd6a"></a>The Mystery of the Incarnation<br />
-<div class="outline-text-5" id="text-org932bd6a">
+<li><a id="org8dbc669"></a>The Mystery of the Incarnation<br />
+<div class="outline-text-5" id="text-org8dbc669">
 <p>
 In chapter 1, we see a great mystery: the Creator, the Word, the author of Life,
 is disguised, hidden, and unseen; yet, He is present in human form as an
@@ -6987,8 +7231,8 @@ are the Son of God! You are the King of Israel."
 </p>
 </div>
 </li>
-<li><a id="org0aea7d2"></a>The Baptism<br />
-<div class="outline-text-5" id="text-org0aea7d2">
+<li><a id="orgf87090a"></a>The Baptism<br />
+<div class="outline-text-5" id="text-orgf87090a">
 <p>
 Christ is Himself baptized by John the Baptist. We now have the testimony of
 John the Baptist for Jesus as being the Son of God; and we have the sign from
@@ -6998,9 +7242,9 @@ the Holy Spirit, signifying and confirming this.
 </li>
 </ul>
 </div>
-<div id="outline-container-org599cb9f" class="outline-4">
-<h4 id="org599cb9f">John 2 (2025.06.21)</h4>
-<div class="outline-text-4" id="text-org599cb9f">
+<div id="outline-container-orgc8b47a7" class="outline-4">
+<h4 id="orgc8b47a7">John 2 (2025.06.21)</h4>
+<div class="outline-text-4" id="text-orgc8b47a7">
 <p>
 This chapter opens with a marriage at Cana, where the mother of Jesus
 was. Interestingly, it states that "Jesus also was invited to the marriage, with
@@ -7057,18 +7301,18 @@ to us His death and resurrection.
 </p>
 </div>
 </div>
-<div id="outline-container-orgc17784c" class="outline-4">
-<h4 id="orgc17784c">John 3 (2025.06.22)</h4>
-<div class="outline-text-4" id="text-orgc17784c">
+<div id="outline-container-org869b91c" class="outline-4">
+<h4 id="org869b91c">John 3 (2025.06.22)</h4>
+<div class="outline-text-4" id="text-org869b91c">
 <p>
 Ths
 </p>
 </div>
 </div>
 </div>
-<div id="outline-container-orgb5f4fcf" class="outline-3">
-<h3 id="orgb5f4fcf">Genesis</h3>
-<div class="outline-text-3" id="text-orgb5f4fcf">
+<div id="outline-container-orgfd74ae7" class="outline-3">
+<h3 id="orgfd74ae7">Genesis</h3>
+<div class="outline-text-3" id="text-orgfd74ae7">
 <p>
 I list some major themes I identify as I read through Geneisis in the summer of 2025.
 </p>
@@ -7231,23 +7475,23 @@ Pharaoh, and he was given power and dominion over all of Egypt</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orga90db3c" class="outline-2">
-<h2 id="orga90db3c">The Rosary</h2>
-<div class="outline-text-2" id="text-orga90db3c">
+<div id="outline-container-org58a86a1" class="outline-2">
+<h2 id="org58a86a1">The Rosary</h2>
+<div class="outline-text-2" id="text-org58a86a1">
 </div>
-<div id="outline-container-org83a0996" class="outline-3">
-<h3 id="org83a0996"><span class="todo TODO">TODO</span> Introduction</h3>
+<div id="outline-container-org1af801e" class="outline-3">
+<h3 id="org1af801e"><span class="todo TODO">TODO</span> Introduction</h3>
 </div>
 
-<div id="outline-container-orgfc2255d" class="outline-3">
-<h3 id="orgfc2255d">The Joyful Mysteries</h3>
-<div class="outline-text-3" id="text-orgfc2255d">
+<div id="outline-container-org29011a8" class="outline-3">
+<h3 id="org29011a8">The Joyful Mysteries</h3>
+<div class="outline-text-3" id="text-org29011a8">
 </div>
-<div id="outline-container-orge9f4b04" class="outline-4">
-<h4 id="orge9f4b04">The Annunciation of Gabriel to Mary (Luke 1:26-38)</h4>
-<div class="outline-text-4" id="text-orge9f4b04">
+<div id="outline-container-orgc2cacb8" class="outline-4">
+<h4 id="orgc2cacb8">The Annunciation of Gabriel to Mary (Luke 1:26-38)</h4>
+<div class="outline-text-4" id="text-orgc2cacb8">
 
-<div id="orge35d2f0" class="figure">
+<div id="orgb3495e9" class="figure">
 <p><img src="https://eeparchy.com/wp-content/uploads/2021/03/Annunciation-Icon-St.-Josaphat.jpg" alt="Annunciation-Icon-St.-Josaphat.jpg" width="360px" />
 </p>
 <p><span class="figure-number">Figure 14: </span>Source: <a href="https://eeparchy.com/2022/03/18/icon-of-the-annunciation-of-the-most-holy-mother-of-god/">Ukranian Catholic Eparchy of Edmonton</a></p>
@@ -7296,9 +7540,9 @@ me according to your word.'' And the angel departed from her.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org9bbf358" class="outline-4">
-<h4 id="org9bbf358">The Visitation of Mary to Elizabeth (Luke 1:39-56)</h4>
-<div class="outline-text-4" id="text-org9bbf358">
+<div id="outline-container-org654d383" class="outline-4">
+<h4 id="org654d383">The Visitation of Mary to Elizabeth (Luke 1:39-56)</h4>
+<div class="outline-text-4" id="text-org654d383">
 <blockquote>
 <p>
 39 Now Mary arose in those days and went into the hill country with
@@ -7346,19 +7590,19 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgc3f2e03" class="outline-4">
-<h4 id="orgc3f2e03">The Nativity of Our Lord (Luke 2:1-21)</h4>
-<div class="outline-text-4" id="text-orgc3f2e03">
+<div id="outline-container-orga77998b" class="outline-4">
+<h4 id="orga77998b">The Nativity of Our Lord (Luke 2:1-21)</h4>
+<div class="outline-text-4" id="text-orga77998b">
 
-<div id="orgbe7fb5f" class="figure">
+<div id="orgcb25551" class="figure">
 <p><img src="./img/MEC+Nativity+Icon.jpg" alt="MEC+Nativity+Icon.jpg" />
 </p>
 <p><span class="figure-number">Figure 15: </span><a href="https://www.memorialboltonhill.org/blog/nativity-icon">source</a></p>
 </div>
 </div>
 <ul class="org-ul">
-<li><a id="orgf525ff9"></a>Short Form<br />
-<div class="outline-text-5" id="text-orgf525ff9">
+<li><a id="org3324c8f"></a>Short Form<br />
+<div class="outline-text-5" id="text-org3324c8f">
 <blockquote>
 <p>
 8 Now there were in the same country shepherds living out in the
@@ -7404,8 +7648,8 @@ NKJV
 </blockquote>
 </div>
 </li>
-<li><a id="org09d008f"></a>Longer Form<br />
-<div class="outline-text-5" id="text-org09d008f">
+<li><a id="org4d01f39"></a>Longer Form<br />
+<div class="outline-text-5" id="text-org4d01f39">
 <blockquote>
 <p>
 And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. 2 This census first took place while Quirinius was governing Syria. 3 So all went to be registered, everyone to his own city.
@@ -7456,11 +7700,11 @@ NKJV
 </li>
 </ul>
 </div>
-<div id="outline-container-org73c27a8" class="outline-4">
-<h4 id="org73c27a8">The Presentation of Our Lord (Luke 2:22-38)</h4>
-<div class="outline-text-4" id="text-org73c27a8">
+<div id="outline-container-orge9a8195" class="outline-4">
+<h4 id="orge9a8195">The Presentation of Our Lord (Luke 2:22-38)</h4>
+<div class="outline-text-4" id="text-orge9a8195">
 
-<div id="orgdaab0c7" class="figure">
+<div id="orged531e2" class="figure">
 <p><img src="https://iconreader.wordpress.com/wp-content/uploads/2013/02/intampinarea-domnului_greek.jpg" alt="intampinarea-domnului_greek.jpg" width="480px" />
 </p>
 <p><span class="figure-number">Figure 16: </span><a href="https://iconreader.wordpress.com/2013/02/17/presentation-of-christ-temple-and-church/">source</a></p>
@@ -7515,9 +7759,9 @@ those who looked for redemption in Jerusalem.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgf89791e" class="outline-4">
-<h4 id="orgf89791e">The Finding of Our Lord in the Temple (Luke 2:41-52)</h4>
-<div class="outline-text-4" id="text-orgf89791e">
+<div id="outline-container-org2b8fa05" class="outline-4">
+<h4 id="org2b8fa05">The Finding of Our Lord in the Temple (Luke 2:41-52)</h4>
+<div class="outline-text-4" id="text-org2b8fa05">
 <blockquote>
 <p>
 41 His parents went to Jerusalem every year at the Feast of the
@@ -7552,18 +7796,18 @@ God and men.
 </div>
 </div>
 </div>
-<div id="outline-container-orgb71e3c8" class="outline-3">
-<h3 id="orgb71e3c8">The Sorrowful Mysteries</h3>
-<div class="outline-text-3" id="text-orgb71e3c8">
+<div id="outline-container-org63e0f5d" class="outline-3">
+<h3 id="org63e0f5d">The Sorrowful Mysteries</h3>
+<div class="outline-text-3" id="text-org63e0f5d">
 <p>
 The Sorrowful Mysteries are recommended for meditation on Tuesday and Friday.
 </p>
 </div>
-<div id="outline-container-orgc1d9d1f" class="outline-4">
-<h4 id="orgc1d9d1f">Our Lord Agonizes in the Garden (Matthew 26:36-56)</h4>
-<div class="outline-text-4" id="text-orgc1d9d1f">
+<div id="outline-container-org02d3105" class="outline-4">
+<h4 id="org02d3105">Our Lord Agonizes in the Garden (Matthew 26:36-56)</h4>
+<div class="outline-text-4" id="text-org02d3105">
 
-<div id="orgc918f17" class="figure">
+<div id="org7617f9a" class="figure">
 <p><img src="./img/agonia-ist2010.png" alt="agonia-ist2010.png" />
 </p>
 <p><span class="figure-number">Figure 17: </span><a href="https://www.pravmir.com/icon-holy-thursday/">Natalya Mihailova</a></p>
@@ -7627,9 +7871,9 @@ Then all the disciples forsook Him and fled.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org89f0e8f" class="outline-4">
-<h4 id="org89f0e8f">Our Lord is Scourged at the Pillar (Matthew 27:26)</h4>
-<div class="outline-text-4" id="text-org89f0e8f">
+<div id="outline-container-org61474ac" class="outline-4">
+<h4 id="org61474ac">Our Lord is Scourged at the Pillar (Matthew 27:26)</h4>
+<div class="outline-text-4" id="text-org61474ac">
 <blockquote>
 <p>
 26 Then he released Barabbas to them; and when he had scourged Jesus,
@@ -7642,9 +7886,9 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org4ff7987" class="outline-4">
-<h4 id="org4ff7987">Our Lord is Crowned with Thorns (Matthew 27:27-31)</h4>
-<div class="outline-text-4" id="text-org4ff7987">
+<div id="outline-container-org8c542b2" class="outline-4">
+<h4 id="org8c542b2">Our Lord is Crowned with Thorns (Matthew 27:27-31)</h4>
+<div class="outline-text-4" id="text-org8c542b2">
 <blockquote>
 <p>
 27 Then the soldiers of the governor took Jesus into the Praetorium and gathered the whole garrison around Him. 28 And they stripped Him and put a scarlet robe on Him. 29 When they had twisted a crown of thorns, they put it on His head, and a reed in His right hand. And they bowed the knee before Him and mocked Him, saying, ``Hail, King of the Jews!'' 30 Then they spat on Him, and took the reed and struck Him on the head. 31 And when they had mocked Him, they took the robe off Him, put His own clothes on Him, and led Him away to be crucified.
@@ -7656,9 +7900,9 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orge5a45a9" class="outline-4">
-<h4 id="orge5a45a9">Our Lord Carries the Cross to Calvary (Matthew 27:32)</h4>
-<div class="outline-text-4" id="text-orge5a45a9">
+<div id="outline-container-orgda5ba02" class="outline-4">
+<h4 id="orgda5ba02">Our Lord Carries the Cross to Calvary (Matthew 27:32)</h4>
+<div class="outline-text-4" id="text-orgda5ba02">
 <blockquote>
 <p>
 32 Now as they came out, they found a man of Cyrene, Simon by
@@ -7671,9 +7915,9 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orge00c84c" class="outline-4">
-<h4 id="orge00c84c">Our Lord is Crucified (Matthew 27:33-56)</h4>
-<div class="outline-text-4" id="text-orge00c84c">
+<div id="outline-container-orgbeb7e3a" class="outline-4">
+<h4 id="orgbeb7e3a">Our Lord is Crucified (Matthew 27:33-56)</h4>
+<div class="outline-text-4" id="text-orgbeb7e3a">
 <p class="verse">
 33 And when they had come to a place called Golgotha, that is to say, Place of a Skull, 34 they gave Him sour wine mingled with gall to drink. But when He had tasted it, He would not drink.<br />
 <br />
@@ -7722,18 +7966,18 @@ NKJV<br />
 </div>
 </div>
 </div>
-<div id="outline-container-orged4a97a" class="outline-3">
-<h3 id="orged4a97a">The Luminous Mysteries</h3>
-<div class="outline-text-3" id="text-orged4a97a">
+<div id="outline-container-org6be3239" class="outline-3">
+<h3 id="org6be3239">The Luminous Mysteries</h3>
+<div class="outline-text-3" id="text-org6be3239">
 <p>
 The Luminous Mysteries are recommended for meditation on Thursday.
 </p>
 </div>
-<div id="outline-container-orgdc6024f" class="outline-4">
-<h4 id="orgdc6024f">Our Lord is Baptised in the Jordan River (Matthew 3:13-16)</h4>
-<div class="outline-text-4" id="text-orgdc6024f">
+<div id="outline-container-org07b396a" class="outline-4">
+<h4 id="org07b396a">Our Lord is Baptised in the Jordan River (Matthew 3:13-16)</h4>
+<div class="outline-text-4" id="text-org07b396a">
 
-<div id="orga02b533" class="figure">
+<div id="org469d5bf" class="figure">
 <p><img src="./img/theophany.jpg" alt="theophany.jpg" />
 </p>
 <p><span class="figure-number">Figure 18: </span>Source: <a href="https://www.patheos.com/blogs/billykangas/2010/01/reading-the-baptism-of-christ-icon.html">More information</a> on this theophany icon.</p>
@@ -7760,11 +8004,11 @@ NKJV<br />
 </p>
 </div>
 </div>
-<div id="outline-container-org022c0a9" class="outline-4">
-<h4 id="org022c0a9">Our Lord's First Public Miracle at the Wedding at Cana (John 2:1-11)</h4>
-<div class="outline-text-4" id="text-org022c0a9">
+<div id="outline-container-org318dfee" class="outline-4">
+<h4 id="org318dfee">Our Lord's First Public Miracle at the Wedding at Cana (John 2:1-11)</h4>
+<div class="outline-text-4" id="text-org318dfee">
 
-<div id="orgd0a0f17" class="figure">
+<div id="org8bc5bd3" class="figure">
 <p><img src="./img/wedding_cana.jpg" alt="wedding_cana.jpg" />
 </p>
 <p><span class="figure-number">Figure 19: </span>Source: <a href="https://www.etsy.com/no-en/listing/1117280850/the-wedding-at-cana-icon-orthodox-icon">More information</a> on this theophany icon.</p>
@@ -7799,9 +8043,9 @@ NKJV<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgd900e77" class="outline-4">
-<h4 id="orgd900e77">The Proclamation of the Kingdom of God (Mark 1:14-15)</h4>
-<div class="outline-text-4" id="text-orgd900e77">
+<div id="outline-container-org429bb7e" class="outline-4">
+<h4 id="org429bb7e">The Proclamation of the Kingdom of God (Mark 1:14-15)</h4>
+<div class="outline-text-4" id="text-org429bb7e">
 <blockquote>
 <p>
 14 Now after John was put in prison, Jesus came to Galilee, preaching
@@ -7816,9 +8060,9 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org64c856c" class="outline-4">
-<h4 id="org64c856c">Our Lord is Transfigured (Matthew 17:1-8)</h4>
-<div class="outline-text-4" id="text-org64c856c">
+<div id="outline-container-orgfee86e6" class="outline-4">
+<h4 id="orgfee86e6">Our Lord is Transfigured (Matthew 17:1-8)</h4>
+<div class="outline-text-4" id="text-orgfee86e6">
 <blockquote>
 <p>
 Now after six days Jesus took Peter, James, and John his brother, led
@@ -7842,9 +8086,9 @@ Jesus only.
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgd596bc7" class="outline-4">
-<h4 id="orgd596bc7">Our Lord Institutes the Eucharist at the Last Supper (Matthew 26)</h4>
-<div class="outline-text-4" id="text-orgd596bc7">
+<div id="outline-container-org3f3bd2c" class="outline-4">
+<h4 id="org3f3bd2c">Our Lord Institutes the Eucharist at the Last Supper (Matthew 26)</h4>
+<div class="outline-text-4" id="text-org3f3bd2c">
 <blockquote>
 <p>
 17 Now on the first day of the Feast of the Unleavened Bread the disciples came to Jesus, saying to Him, ``Where do You want us to prepare for You to eat the Passover?''
@@ -7905,19 +8149,19 @@ NKJV
 </div>
 </div>
 </div>
-<div id="outline-container-org521754d" class="outline-3">
-<h3 id="org521754d">The Glorious Mysteries</h3>
-<div class="outline-text-3" id="text-org521754d">
+<div id="outline-container-orgdd38432" class="outline-3">
+<h3 id="orgdd38432">The Glorious Mysteries</h3>
+<div class="outline-text-3" id="text-orgdd38432">
 <p>
 The Glorious Mysteries are recommended for mediation on Wednesday and
 Sunday.
 </p>
 </div>
-<div id="outline-container-org7a5f1a3" class="outline-4">
-<h4 id="org7a5f1a3">The Glorious Resurrrection of Our Lord (John 20:1-29)</h4>
-<div class="outline-text-4" id="text-org7a5f1a3">
+<div id="outline-container-orgad907e2" class="outline-4">
+<h4 id="orgad907e2">The Glorious Resurrrection of Our Lord (John 20:1-29)</h4>
+<div class="outline-text-4" id="text-orgad907e2">
 
-<div id="orgec804d7" class="figure">
+<div id="org4536093" class="figure">
 <p><img src="./img/resurrection2007.jpg" alt="resurrection2007.jpg" />
 </p>
 <p><span class="figure-number">Figure 20: </span>Source: <a href="https://www.orthodoxroad.com/christs-descent-into-hell-icon-explanation/">More information</a> on this ``harrowing of hell'' icon.</p>
@@ -8010,11 +8254,11 @@ NKJV<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgbf7144d" class="outline-4">
-<h4 id="orgbf7144d">The Ascension of Our Lord (Luke 24:36-53)</h4>
-<div class="outline-text-4" id="text-orgbf7144d">
+<div id="outline-container-org2494e8c" class="outline-4">
+<h4 id="org2494e8c">The Ascension of Our Lord (Luke 24:36-53)</h4>
+<div class="outline-text-4" id="text-org2494e8c">
 
-<div id="org3171328" class="figure">
+<div id="org0c0034a" class="figure">
 <p><img src="./img/ascension-icon.png" alt="ascension-icon.png" />
 </p>
 <p><span class="figure-number">Figure 21: </span>Source: <a href="https://www.hellenic-art.com/the-ascension-en.html">source</a> <a href="https://orthodoxwiki.org/Ascension_icon">More information</a> on this ``ascension'' icon.</p>
@@ -8071,9 +8315,9 @@ NKJV
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgdae2a37" class="outline-4">
-<h4 id="orgdae2a37">The Descent of the Holy Spirit at Pentecost (Acts 2:1-41)</h4>
-<div class="outline-text-4" id="text-orgdae2a37">
+<div id="outline-container-orgdde7c80" class="outline-4">
+<h4 id="orgdde7c80">The Descent of the Holy Spirit at Pentecost (Acts 2:1-41)</h4>
+<div class="outline-text-4" id="text-orgdde7c80">
 <blockquote>
 <p>
 When the Day of Pentecost had fully come, they were all with one
@@ -8196,13 +8440,13 @@ the Lord our God will call.''
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org0661b23" class="outline-4">
-<h4 id="org0661b23">The Assumption of Mary into Heaven</h4>
+<div id="outline-container-orgd5a64c7" class="outline-4">
+<h4 id="orgd5a64c7">The Assumption of Mary into Heaven</h4>
 </div>
 
-<div id="outline-container-orga7f0760" class="outline-4">
-<h4 id="orga7f0760">The Coronation of Mary as Queen of Heaven and Earth (Revelation 12)</h4>
-<div class="outline-text-4" id="text-orga7f0760">
+<div id="outline-container-org74de204" class="outline-4">
+<h4 id="org74de204">The Coronation of Mary as Queen of Heaven and Earth (Revelation 12)</h4>
+<div class="outline-text-4" id="text-org74de204">
 <p>
 The <i>New Advent</i> rosary sheet did not give a scripture reference for
 this, so I chose Revelation 12.
@@ -8274,7 +8518,7 @@ NKJV
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2026-02-14 Sat 21:22</p>
+<p class="date">Created: 2026-02-19 Thu 13:23</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
