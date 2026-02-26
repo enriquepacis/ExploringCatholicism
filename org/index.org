@@ -5,7 +5,7 @@
 
 #+title: Exploring Catholicism
 #+export_file_name: index.html
-#+setupfile: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+setupfile: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
 #+startup: overview indent auto-fill-mode
 
 
@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds David Anders videos."
+  git commit -m "Updates org theme path."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 6c7f4e6] Corrects some grammar on the into page.
-:  4 files changed, 1352 insertions(+), 1352 deletions(-)
+: [main 59cbc71] Adds David Anders videos.
+:  4 files changed, 1902 insertions(+), 1391 deletions(-)
 : Already up to date.
 
 
