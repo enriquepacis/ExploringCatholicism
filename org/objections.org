@@ -364,6 +364,7 @@ Some interesting examples that have been brought up to me include:
 
    For more information, a more authoritative discussion may be found in the
    article [[https://www.catholic.com/tract/celibacy-and-the-priesthood][Celibacy and the Priesthood]].
+
 #+begin_note
 #+html: <a id="doctrinal-development"><b>What Catholic Teachings and Practices Can Change Over Time?</b></a>
 #+html: <details>
@@ -373,7 +374,7 @@ We find it helpful to borrow and insert an excerpt from David Currie's book,
 [[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Born Evangelical, Born Again Catholic]]. Here, Currie addresses the question of
 *changing doctrines* in the Catholic church. Currie helpfully distinguishes
 between types of doctrinal changes, and he categorizes Catholic teachings and
-practices into five categores, which we abbreviate as /Deposit/, /Dogma/,
+practices into five categories, which we abbreviate as /Deposit/, /Dogma/,
 /Doctrine/, /Discipline/, and /Devotion/. I can do no better than to let Currie
 speak for himself here:
 #+begin_quote
@@ -501,6 +502,48 @@ This quote was copied from Kenny Burchard's blog of [[https://kennyburchard.com/
 he cites pages 83-87 from [[https://www.amazon.com/Born-Fundamentalist-Again-Catholic/dp/089870569X/ref=sr_1_1?crid=N6DKLQ0CZQTV&dib=eyJ2IjoiMSJ9.vDX3wDEgULuN8bgk8-pDtJaFRGshOT8g26SOSPOvjBmkArH1D-Zi_AyPp9cHH9EQ3rdoCrcPV7SljGS6TuNiVmGmHYm1EYaN29p4XFuCIXUtyyEa-etTcfCdPqFkQepI.mzbqSSA2JLUd9uzJquDieZCGhLfgkDJHtfTAryaPI8E&dib_tag=se&keywords=born+fundamentalist+born+again+catholic+by+david+currie&qid=1746584011&sprefix=David+Currie+Born%2Caps%2C153&sr=8-1][Currie's book]] (Ignatius Press, 1996)
 #+html: </details>
 #+end_note
+
+** The Catholic Church Creates Unnecessary Dogmas
+
+A friend of mine recently raised the following objection: "The Catholic Church
+dogmatizes things that are unnecessary for salvation, such as the Perpetual
+Virginity of Mary. This is not a dogma for the Orthodox Church." My friend did
+not appear to have any dispute with the doctrine itself, but rather that it was
+elevated to a dogma binding upon all Catholics, even though it is unnecessary
+for salvation. His conclusion is that it is better to be Orthodox than a
+Catholic for this reason.
+
+This prompted me to look into the Perpetual Virginity of Mary more closely, and
+it rases many questions. The first question is, *When was the Perpetual
+Virginity dogmatized, and why?*
+
+The dogma of Mary’s perpetual virginity (that she was a virgin before, during,
+and after the birth of Christ) was formally declared at the Second Council of
+Constantinople in 553 AD. While upheld by early Church Fathers, this council
+officially confirmed her title as /aeiparthenos/ or
+"ever-virgin". Interestingly, Second Council of Constantionople is the Fifth of
+The Seven Ecumenical Councils, which are considered infallible and normative for
+Orthodox doctrine. Convoked by Emperor Justinian I, it confirmed the teachings
+of previous councils, specifically addressing Christological issues. As an
+Ecumenical Council, its decisions are considered inspired by the Holy Spirit and
+binding upon the entire Church in terms of dogma. Although it did not issue new
+disciplinary canons (unlike the Third Council of Constantinople), its dogmatic
+decrees are absolutely foundational to Orthodox theology. Thus, while the term
+/Perpetual Virginity/ was not used in the Second Council of Constantinople, the
+title /Ever Virgin/ was, and this is essentially equivalent to the Perpetual
+Virginity.
+
+In the Lateran Council of 649, Pope Martin I formally defined the "threefold"
+nature of her virginity—/ante partum, in partu, and post partum/—meaning she
+remained a virgin before, during, and after the birth of Jesus. While the
+Lateran Council of 649 is not regarded by the Orthodox as one of the Seven
+Ecumenical Councils, this is a clarification and development of doctrine that is
+completely consistent with what was revealed and defined at the Second Council
+of Constantinople.
+
+Now we may turn to why 
+
+
 
 ** The Catholic Church as is a Bloated, Unscriptural Bureaucracy
 

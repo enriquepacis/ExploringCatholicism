@@ -52,14 +52,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Updates org theme path."
+  git commit -m "Adds some devotional readings from Office fo the Readings."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 59cbc71] Adds David Anders videos.
-:  4 files changed, 1902 insertions(+), 1391 deletions(-)
+: [main cd6483b] Updates org theme path.
+:  3 files changed, 1410 insertions(+), 1820 deletions(-)
 : Already up to date.
 
 
