@@ -526,3 +526,71 @@ fifth centuries, etc., did not teach like the Reformed Christians of the 16th
 century.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/njX3L5DXzJ0?si=rObYmnzN-prJd-ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+** Spiritual Theology
+:properties:
+:custom_id: spiritual-theology
+:end:
+
+We are saved by the blood of Jesus, and we are called to work out our salvtion
+with fear and trembling. This means that we must /work/ to become holy so that
+in heaven, where God's will is done perfectly, we can truly enjoy being in the
+fullness of His presence. Amazingly, we can achieve spritual purity in this
+life. If we don't, and we are still bound for heaven because we have died in a
+state of friendship with God (in sanctifying grace), we must then achieve
+perfect holiness in purgatory. We would much rather achieve conformity to the
+image of Christ and unity with Him in this life rather than in
+purgatory. Catholic *spiritual theology* describes the passage each person must
+make to reach unity with God with perfect submission to His will.
+
+Here is a very brief overvie to spritual theology by Dr. David Anders:
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/SLVeIkT7wA0?si=5-0Rq6ZBmhvTybHu&amp;start=1725" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+Catholic spiritual theology is the branch of theology that studies the interior
+life of grace—how a person grows in relationship with God. It focuses on prayer,
+virtues, the action of the Holy Spirit, and the stages of spiritual growth
+(often described as purification, illumination, and union). Classic figures like
+St. Teresa of Ávila and St. John of the Cross explored how the soul is
+transformed through contemplative prayer and divine love.
+
+
+*** What is Spritual Theology?
+Spiritual theology asks questions like:
+- How does grace change a person interiorly?
+- What forms of prayer lead to deeper union with God?
+- How do virtues and spiritual disciplines shape the soul?
+- What are the common experiences (consolation, dryness, etc.) in the spiritual life?
+Spritual theology is both *theoretical* and *practical*--not just describing the
+spiritual life, but also guiding people in living it.
+
+*** Spritual Theology versus Moral Theology
+
+Spritual theology is not to be confused with moral theology. The difference is
+subtle but important:
+- Moral theology focuses on what we should do—-it deals with right and wrong
+  actions, commandments, conscience, sin, and ethical decision-making.
+- Spiritual theology focuses on who we are becoming—it’s about transformation,
+  holiness, and intimacy with God.
+You could say:
+- Moral theology is about conduct (external actions and choices).
+- Spiritual theology is about growth (interior life and union with God).
+They overlap--virtuous living is essential to spiritual growth-—but they approach
+the Christian life from different angles.
+
+*** More information
+
+Fr. Chad Ripperger gives a talk introducing the Three Ages of the Interior Life:
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/YadOUyGnpc0?si=_6ymz-D_NyIgV-xa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**** Books
+
+Here are some readable books on spritual theology:
+1. Fr. Reginald Garrigou-Lagrange. [[https://a.co/d/09XtVpEb][The Three Ways of the Spiritual Life]].
+2. 2006. Dr. Ralph Martin. [[https://a.co/d/04DLHvoa][The Fulfillment of All Desire]].
+3. 1989. Fr. Thomas Dubay. [[https://a.co/d/05CzXEsp][Fire Within: St. Teresa of Avila, St. John of the Cross and the Gospel-On Prayer]].
+
+Here are some advanced books on spiritual theology:
+1. 1991. Fr. Reginald Garrigou-Lagrange. [[https://a.co/d/0jgnsDCX][The Three Ages of the Interior Life: Prelude to Eternal Life (set)]]

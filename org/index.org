@@ -29,6 +29,8 @@
 
 #+include: devotional-notes.org
 
+#+include: pilgrimage.org
+
 #+include: rosary.org
 
 * Code                                                             :noexport:
@@ -58,8 +60,8 @@
 #+end_src
 
 #+RESULTS:
-: [main cd6483b] Updates org theme path.
-:  3 files changed, 1410 insertions(+), 1820 deletions(-)
+: [main bf4c3d5] Adds some devotional readings from Office fo the Readings.
+:  5 files changed, 2026 insertions(+), 1392 deletions(-)
 : Already up to date.
 
 

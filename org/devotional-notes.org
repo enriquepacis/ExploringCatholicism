@@ -248,6 +248,9 @@ I list some major themes I identify as I read through Geneisis in the summer of 
 ** Office of the Readings
 
 *** St. Francis de Sales, Bishop: Devotion in Different Walks of Life
+:PROPERTIES:
+:CUSTOM_ID: devo-de-sales-devotion-in-various-stations
+:END:
 
 In Pars 1, cap 3 of /The Introduction to the Devout Life/, St. Francis de Sales
 explains that a person's devotional life must be commensurate with his or her
@@ -305,6 +308,9 @@ the life of perfection.
 #+end_quote
 
 *** St. Augustine: Christ is the Way, the Truth, and the Life
+:PROPERTIES:
+:CUSTOM_ID: devo-augustine-devotion-in-various-stations
+:END:
 
 Here, St. Augustine gives a beautiful teaching on how to follow Jesus. This is
 from a treatise on the Gospel of John, and I got the text from the Office of the

@@ -1,0 +1,112 @@
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
+
+#+startup: overview indent
+
+* Pilgrimage
+:PROPERTIES:
+:custom_id: pilgrimage
+:END:
+
+Pilgrimage is a journey to a sacred place made for spiritual purposes—usually
+prayer, repentance, thanksgiving, or seeking a deeper encounter with God. It’s
+not just religious tourism. The key idea is that the journey itself becomes an
+act of devotion.
+
+** Rome
+:PROPERTIES:
+:custom_id: pilgrimage-rome
+:END:
+
+
+For Catholics, Rome is a major place of pilgrimage.
+
+*** See the Pope
+:PROPERTIES:
+:custom_id: pilgrimage-papal-audience
+:END:
+There are two very public ways to see the Pope, if he is in Rome:
+1. On most Sundays at noon, during the /Angelus/ Blessing. This is so called
+   because it is a recitation of a noon-time prayer called the
+   /Angelus/. However, during the Easter Season, the /Angelus/ is replaced by
+   the /Regina Caeli/ prayer. The /Angelus/ or /Regina Ceoli/ typically take
+   place in St. Peter's Square. No ticket is required for this blessing, but I
+   recommend showing up around 10:00 AM (or earlier) if you want to be closer to
+   the front. You will have to clear security, and this can take some time.
+2. On some Wednesdays around 10:00 AM, during the Papal General Audience. This
+   happens throughout the year, except in July, when the Pope retires to Castel
+   Gandolfo for a summer retreat. General Audiences typically take place in
+   St. Peter's Square during warm months. In winter months, General Audiences
+   are held inside the Paul VI Audience Hall.
+
+   I've never been to an indoor General Audience. In St. Peter's Square, it pays
+   to be near one of the barriers, because it is likely that the Pope will drive
+   by. For a 10:00 AM audience, I recommend arriving around 7:00 AM so that you
+   can pass through security (it opens around 8:00 AM) and compete for a great
+   seat.
+
+   Tickets--while free--are required for a General Audience. For Americans,
+   tickets may be requested from the US Conference of Catholic Bishops. For more
+   information, visit their page on [[https://www.pnac.org/visitorsoffice/wednesday-audience/][Papal Audiences]] or go directly to their
+   online [[https://forms.office.com/Pages/ResponsePage.aspx?id=jJPqxjrlrEqp5TYAxC3uUvUoKbz6qptHm0Ed3dq-F5tUQkNIRk03OUc5QTRNVjA0VDZZWk9KSTVXOC4u][ticket request form]]. Tickets will be picked up the day before, from
+   3:00-5:00 PM at a site near the Trevi Fountain. There, you may receive an
+   orientation on your upcoming General Audience with the Pope, and you may also
+   go to confession to meet the requirements of the plenary indulgence.
+
+   Here is a video I got from a General Audience on May 28, 2025:
+   #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/SWWY4OlWW48?si=yRKw98RkBVxeaTwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In each of these settings, certain benefits are received:
+1. A plenary indulgence is granted to each pilgrim in attendance.
+2. A papal blessing is conferred on all the religious items for devotional use
+   brought into the square. This can include crucifixes, bracelets, rosaries,
+   prayer cards, icons, pictures/images, etc.
+
+*** The Scavi Tour - St. Peter's Tomb and the Necropolis
+:PROPERTIES:
+:custom_id: pilgrimage-scavi
+:END:
+If you've never been on the [[https://www.scavi.va/content/scavi/en/prenotazione.html][Scavi ("Excavation") Tour]], it is well worth
+it. You'll start on Vatican grounds (inside security ... make sure you go
+through early enough to clear and make your tour appointment), and you go
+underground with a small-group tour to the necropolis. You'll almost go back in
+time as you descend. You will see some very ancient Roman burial
+sites as well as the site where the bones of St. Peter are kept.
+
+To request tickets, allow yourself as much lead time as possible. Tours may fill
+up weeks or even months in advance, and only around 200 pilgrims enter each
+day. E-mail a request for tickets to ~scavi@fsp.va~, and include [[https://www.scavi.va/content/scavi/en/prenotazione.html][the required
+information]].
+
+When I requested tickets, I e-mailed them about 6-8 months in advance, and I was
+notified of my reservation about 2-3 months in advance. If you're working on a
+shorter timeline, no worries: try it and see if you can get in. You may want to
+specify an alternate language. For example, there may openings for a Polish or
+Spanish tour if you can't get an English tour.
+
+*** The Vatican Museums and the Sistine Chapel
+
+*** Visit the Four Major Basilicas
+
+**** St. Peter's Basilica
+
+**** St. Mary Major (Santa Maria Maggiore)
+
+**** St. John Lateran
+
+**** St. Paul's Basilica Outside the Walls
+
+
+*** Visit the Site of St. Paul's Martyrdom
+:PROPERTIES:
+:custom_id: pilgrimage-tre-fontane
+:END:
+
+[[https://en.wikipedia.org/wiki/Tre_Fontane_Abbey][Tre Fontaine Abbey]] has the Church of St. Paul of Three Fountains, where Paul was
+beheaded. Tradition states that his head bounced three times, and in each spot,
+a fountain arose.
+
+On the Abbey grounds is also the church of Santa Maria Scala Coeli. This is
+built over the relics of Zeno the Tribute and his 10,203 legionaries, who were
+martyred at the order of Diocletian. Additionally, tradition holds that St. Paul
+was imprisoned in a small cell in the crypt of this church.
