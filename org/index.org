@@ -54,14 +54,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds some devotional readings from Office fo the Readings."
+  git commit -m "Adds books to the notes on spritual theology."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main bf4c3d5] Adds some devotional readings from Office fo the Readings.
-:  5 files changed, 2026 insertions(+), 1392 deletions(-)
+: [main c71d498] Adds some notes on spritual theology.
+:  3 files changed, 1458 insertions(+), 1455 deletions(-)
 : Already up to date.
 
 

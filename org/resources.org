@@ -543,7 +543,8 @@ image of Christ and unity with Him in this life rather than in
 purgatory. Catholic *spiritual theology* describes the passage each person must
 make to reach unity with God with perfect submission to His will.
 
-Here is a very brief overvie to spritual theology by Dr. David Anders:
+Here is a very brief overview to spritual theology by Dr. David Anders. It is
+set in the context of a caller asking about how to grow in holiness:
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/SLVeIkT7wA0?si=GUValQrpqzHWER26&amp;start=1731" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -589,9 +590,16 @@ Fr. Chad Ripperger gives a talk introducing the Three Ages of the Interior Life:
 **** Books
 
 Here are some readable books on spritual theology:
-1. Fr. Reginald Garrigou-Lagrange. [[https://a.co/d/09XtVpEb][The Three Ways of the Spiritual Life]].
+1. Fr. Reginald Garrigou-Lagrange. [[https://a.co/d/09XtVpEb][The Three Ways of the Spiritual Life]]. This is
+   a great primer to the Three Ways. I read it when I was a new Catholic. It's
+   also given another name: "The Three Conversions of the Spiritual Life" ([[https://www.amazon.com/Three-Conversions-Ways-Spiritual-Life-ebook/dp/B00U6X7YO6/ref=sr_1_2?crid=2VGUGG2NY6O48&dib=eyJ2IjoiMSJ9.mUdKiW1XXsAgJI5tjEj9XDoz4EpMlf-wwHpqWCymEtAPYahS7k5X9ZSMZPVztxwxLmby3GVEEjNgfYH1ST5ytVUJuBb6hBSnUNj5jFAyI3c.xDXr7vTs2Bs1PJPPCwSG_Rp2Vbop58QSfRmMibpGWi8&dib_tag=se&keywords=Three+ways+garrigou-lagrange&qid=1776962425&sprefix=three+ways+garrigou-lagrange%2Caps%2C128&sr=8-2][Amazon]])
 2. 2006. Dr. Ralph Martin. [[https://a.co/d/04DLHvoa][The Fulfillment of All Desire]].
-3. 1989. Fr. Thomas Dubay. [[https://a.co/d/05CzXEsp][Fire Within: St. Teresa of Avila, St. John of the Cross and the Gospel-On Prayer]].
+3. Fr. Reginald Garrigou-Lagrange. [[https://www.amazon.com/Knowing-Love-God-Reginald-Garrigou-Lagrange/dp/1942759002/ref=sr_1_1?crid=2SVR65IMX1H1B&dib=eyJ2IjoiMSJ9.hrl8I9F8dydPlSTitVsCTOYTDtBGeqiJsKlBc5RERRYj4x2QviN1VmjJg7CVtqxrBCOqW5ifp6IxlfPKRSoVHA.bewNRYnCasYPiaPZsZWy5W-aYGJrl1rq9-jNASQwsqU&dib_tag=se&keywords=knowing+the+love+of+god+by+reginald+garrigou&nsdOptOutParam=true&qid=1776962197&sprefix=knowing+the+love+of+God%2Caps%2C152&sr=8-1][Knowing the Love of God]].
+4. 1989. Fr. Thomas Dubay. [[https://a.co/d/05CzXEsp][Fire Within: St. Teresa of Avila, St. John of the Cross and the Gospel-On Prayer]].
 
 Here are some advanced books on spiritual theology:
 1. 1991. Fr. Reginald Garrigou-Lagrange. [[https://a.co/d/0jgnsDCX][The Three Ages of the Interior Life: Prelude to Eternal Life (set)]]
+2. St. Teresa of Avila. Interior Castle. There are many publishers and printers,
+   so I'll let you find a version you like.
+3. St. John of the Cross. Dark Night of the Soul. Again, you find a version for
+   your liking and your price point.
