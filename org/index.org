@@ -60,8 +60,8 @@
 #+end_src
 
 #+RESULTS:
-: [main c71d498] Adds some notes on spritual theology.
-:  3 files changed, 1458 insertions(+), 1455 deletions(-)
+: [main 1bdaf40] Adds books to the notes on spritual theology.
+:  2 files changed, 1472 insertions(+), 1456 deletions(-)
 : Already up to date.
 
 
