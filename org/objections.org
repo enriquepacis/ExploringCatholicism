@@ -503,6 +503,17 @@ he cites pages 83-87 from [[https://www.amazon.com/Born-Fundamentalist-Again-Cat
 #+html: </details>
 #+end_note
 
+#+begin_note
+
+#+html: <a id="doctrinal-development"><b>Reversals in Church Doctrine?</b></a>
+If the Catholic Church has reversed her teachings on various doctrines, how can she be trusted?
+
+Obviously, the Catholic Church doesn't see herself as having reversed doctrines. Dr. Anders poses a larger question of interpretation.
+#+html: <details><summary>See the video ...</summary>
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/bdGUsf4aNPI?si=xRG2rePyZn3Zaorc&amp;start=3062" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+html: </details>
+#+end_note
+
 ** The Catholic Church Creates Unnecessary Dogmas
 
 A friend of mine recently raised the following objection: "The Catholic Church
@@ -739,6 +750,41 @@ This is to say I don't need the Cahtolic Church--or any other church, for that
 matter.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/ueFq_Yb6Vnk?si=lLdCyHKgEDMRHRzl&amp;start=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+** /Sola fide/ and Clarifies Existing Christian Though on Soteriology
+:CUSTOM_ID: objections-sola-fide-clarifies
+
+This is an interesting discussion that arose between myself and my
+colleagues. We work at a Christian university with roots in the Baptist General
+Convention of Texas. We are charged with preserving the Christian character of
+the university. Part of our charge is to hire only Christians. In our hiring
+discussions, belief in the doctrine of /sola scriptura/ is used as a litmus test
+for the property of Christianness in a faculty candidate. The line of thinking
+is something like this:
+1. The Christian Gospel is that man is saved by faith alone by grace alone (we
+   can summarize this using the Latin phrase /sola fide/, meaning "by faith
+   alone", which many Evangelical Protestants interpret as salvation by grace at
+   the exclusion of works.
+2. If a candidate does not adhere to the dogma of /sola fide/, he or she does
+   not believe in the true Christian Gospel, and so is not a true Christian.
+3. The conclusion is that a candidate who does not hold to /sola fide/ cannot be
+   hired because they do not meet the criterion of being a Christian.
+
+As a Catholic, I object to this line of reasoning
+   
+
+
+
+#+begin_note
+*Would St. Augustine be a Calvinist if he were alive today?*
+
+#+html: <details>
+#+html: <summary>Read more ...</summary>
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/S5-Lq6jzsNA?si=1zCkWbaMEbYP_B7p&amp;start=207" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+#+end_note
 
 ** Miscellaneous
 

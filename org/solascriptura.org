@@ -513,3 +513,7 @@ the laity in a way that was different from the way he intended.
 Dr. Anders addresses a call about whether the Bible interprets itself.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/eRDhh0dJOPs?si=m8YvGdlc0pVFvdJL&amp;start=999" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*** Catholic vs Protestant Interpretations of Scripture?
+
+#+html: https://www.youtube.com/live/QKMvX5g4bM0?si=x5SdAUVALWGAHX1p&t=2125

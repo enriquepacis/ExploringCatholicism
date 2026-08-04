@@ -5,7 +5,7 @@
 
 #+title: Exploring Catholicism
 #+export_file_name: index.html
-#+setupfile: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
+#+setupfile: https://fniessen.github.io/org-html-themes/org/setup/html-theme-readtheorg.setup
 #+startup: overview indent auto-fill-mode
 
 
@@ -54,7 +54,7 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds books to the notes on spritual theology."
+  git commit -m "Adds some videos by Dr. David anders about raising and evangelizing children."
   git pull
   git push
 #+end_src

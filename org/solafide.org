@@ -591,6 +591,17 @@ with the likes of John Calvin.
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/EkX7La9eT5Y?si=OKBY_Pr34hCoRDyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #+html: </details>
+
+#+html: <details>
+
+#+html: <summary>Video: Historical origins of 'Once Saved, Always Saved'</summary>
+
+/Once saved, always saved/ is a relatively new doctrine. Where did it come from?
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/nPNYO06Gcig?si=za0p_QgYlYSXzKVn&amp;start=1455" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+html: </details>
+
+
 #+end_note
 
 
