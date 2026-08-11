@@ -54,14 +54,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds some videos by Dr. David anders about raising and evangelizing children."
+  git commit -m "Adds some videos by Dr. David Anders (change in doctrines)."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main 1bdaf40] Adds books to the notes on spritual theology.
-:  2 files changed, 1472 insertions(+), 1456 deletions(-)
+: [main d4af6c1] Adds some videos by Dr. David Anders (change in doctrines).
+:  7 files changed, 1873 insertions(+), 1595 deletions(-)
 : Already up to date.
 
 

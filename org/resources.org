@@ -130,6 +130,12 @@ Dr. David Anders answers a question about how to raise the kids in the faith wit
 *** Calling Children Back to the Faith
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/nPNYO06Gcig?si=PsM9BSsaxU3SU4v7&amp;start=712" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*** What does it Mean to Have a Relationship with Jesus?
+
+Dr. David Anders discusses a largely Protestant/Evangelical conception of having a relationship with Jesus.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/NaWrEx4dTeA?si=XqjHVzI7ChQnGgzx&amp;start=465" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ** Catholic Answers
 
 [[https://www.catholic.com][Catholic Answers]] is an apologetics website. They have a two-hour, phone-in
