@@ -516,4 +516,4 @@ Dr. Anders addresses a call about whether the Bible interprets itself.
 
 *** Catholic vs Protestant Interpretations of Scripture?
 
-#+html: https://www.youtube.com/live/QKMvX5g4bM0?si=x5SdAUVALWGAHX1p&t=2125
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/QKMvX5g4bM0?si=54fNt-8AVTdJ-9iF&amp;start=2126" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

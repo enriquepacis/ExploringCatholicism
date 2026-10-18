@@ -54,14 +54,14 @@
   git add org/index.html
   git add org/*.org
 
-  git commit -m "Adds some videos by Dr. David Anders (change in doctrines)."
+  git commit -m "Updates/fixes a link to Called to Communion."
   git pull
   git push
 #+end_src
 
 #+RESULTS:
-: [main d4af6c1] Adds some videos by Dr. David Anders (change in doctrines).
-:  7 files changed, 1873 insertions(+), 1595 deletions(-)
+: [main dff1671] Adds a little text.
+:  3 files changed, 1511 insertions(+), 1489 deletions(-)
 : Already up to date.
 
 

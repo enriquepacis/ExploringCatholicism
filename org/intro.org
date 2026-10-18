@@ -194,6 +194,10 @@ hosts a live weekday call-in radio/TV show named /Called to Communion/.
 
 #+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/R5NT32Y-Mrk?si=qbxcLUNaADjmekyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Dr. David Anders gives a brief summary of what drove him to convert to Catholicism.
+
+#+html: <iframe width="560" height="315" src="https://www.youtube.com/embed/EpQQZ4FxZ_k?si=zcagvCfdTfXA-8o4&amp;start=312" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *** Dr. Francis Beckwith
 
 Dr. Frank Beckwith is a philosophy professor at Baylor. After a personal
